@@ -38,12 +38,496 @@ export const authors: AuthorRecord[] = [
     "hIndex": 12
   },
   {
-    "authorId": "idb0001-alramadan-khalid",
+    "authorId": "idb0001-alarifi-sulaiman",
+    "openAlexId": "A5023804988",
+    "openAlexIds": [
+      "A5023804988"
+    ],
+    "name": "Sulaiman Alarifi",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "salarifi@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 46,
+    "totalCitations": 740,
+    "hIndex": 15
+  },
+  {
+    "authorId": "idb0002-patil-shirish",
+    "openAlexId": "A5005252413",
+    "openAlexIds": [
+      "A5005252413"
+    ],
+    "name": "Shirish Patil",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "patil@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 343,
+    "totalCitations": 6959,
+    "hIndex": 39
+  },
+  {
+    "authorId": "idb0003-weijermars-ruud",
+    "openAlexId": "A5087151830",
+    "openAlexIds": [
+      "A5087151830"
+    ],
+    "name": "Ruud Weijermars",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "ruud.weijermars@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 271,
+    "totalCitations": 5255,
+    "hIndex": 34
+  },
+  {
+    "authorId": "idb0004-mahmoud-mohamed",
+    "openAlexId": "A5049649985",
+    "openAlexIds": [
+      "A5049649985"
+    ],
+    "name": "Mohamed Mahmoud",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "mmahmoud@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 980,
+    "totalCitations": 19194,
+    "hIndex": 63
+  },
+  {
+    "authorId": "idb0005-abdulazeez-abdulraheem",
+    "openAlexId": "A5053834729",
+    "openAlexIds": [
+      "A5053834729"
+    ],
+    "name": "Abdulraheem Abdulazeez",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "aazeez@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 358,
+    "totalCitations": 7517,
+    "hIndex": 45
+  },
+  {
+    "authorId": "idb0006-awotunde-abeeb",
+    "openAlexId": "A5079680487",
+    "openAlexIds": [
+      "A5079680487"
+    ],
+    "name": "Abeeb Awotunde",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "awotunde@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 77,
+    "totalCitations": 1117,
+    "hIndex": 16
+  },
+  {
+    "authorId": "idb0007-elkatatny-salaheldin",
+    "openAlexId": "A5046818830",
+    "openAlexIds": [
+      "A5046818830"
+    ],
+    "name": "Salaheldin Elkatatny",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "elkatatny@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 560,
+    "totalCitations": 10059,
+    "hIndex": 48
+  },
+  {
+    "authorId": "idb0008-al-shehri-dhafer",
+    "openAlexId": "A5024608621",
+    "openAlexIds": [
+      "A5024608621"
+    ],
+    "name": "Dhafer Al-Shehri",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "Alshehrida@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 206,
+    "totalCitations": 4547,
+    "hIndex": 34
+  },
+  {
+    "authorId": "idb0009-haq-bashirul",
+    "openAlexId": "A5063894925",
+    "openAlexIds": [
+      "A5063894925"
+    ],
+    "name": "Bashirul Haq",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "bhaq@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 80,
+    "totalCitations": 2399,
+    "hIndex": 22
+  },
+  {
+    "authorId": "idb0010-afnan-saad",
+    "openAlexId": "A5080526944",
+    "openAlexIds": [
+      "A5080526944"
+    ],
+    "name": "Saad Afnan",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "safnan@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 111,
+    "totalCitations": 2228,
+    "hIndex": 25
+  },
+  {
+    "authorId": "idb0011-al-jawad-murtada",
+    "openAlexId": "A5002974432",
+    "openAlexIds": [
+      "A5002974432"
+    ],
+    "name": "Murtada Al-Jawad",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "mjawad@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 177,
+    "totalCitations": 2598,
+    "hIndex": 25
+  },
+  {
+    "authorId": "idb0012-al-ramadan-mustafa",
+    "openAlexId": "A5062945879",
+    "openAlexIds": [
+      "A5062945879"
+    ],
+    "name": "Mustafa Al-Ramadan",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "malramadan@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 49,
+    "totalCitations": 670,
+    "hIndex": 15
+  },
+  {
+    "authorId": "idb0013-azad-madhar",
+    "openAlexId": "A5088043674",
+    "openAlexIds": [
+      "A5088043674"
+    ],
+    "name": "Madhar Azad",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "madhar.azad@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 44,
+    "totalCitations": 794,
+    "hIndex": 17
+  },
+  {
+    "authorId": "idb0014-khan-hassan",
+    "openAlexId": "A5046264836",
+    "openAlexIds": [
+      "A5046264836"
+    ],
+    "name": "Hassan Khan",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "hasan.khan@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 43,
+    "totalCitations": 332,
+    "hIndex": 9
+  },
+  {
+    "authorId": "idb0015-alajmei-shabeeb",
+    "openAlexId": "A5050065390",
+    "openAlexIds": [
+      "A5050065390"
+    ],
+    "name": "Shabeeb Alajmei",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "Alajmisn@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 36,
+    "totalCitations": 108,
+    "hIndex": 7
+  },
+  {
+    "authorId": "idb0016-al-shafloot-talal",
+    "openAlexId": "A5114504290",
+    "openAlexIds": [
+      "A5114504290"
+    ],
+    "name": "Talal Al-Shafloot",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "shafloot@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 3,
+    "totalCitations": 2,
+    "hIndex": 1
+  },
+  {
+    "authorId": "idb0017-alnuaim-sami",
+    "openAlexId": "A5004797591",
+    "openAlexIds": [
+      "A5004797591"
+    ],
+    "name": "Sami Alnuaim",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "salneaim@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 43,
+    "totalCitations": 275,
+    "hIndex": 9
+  },
+  {
+    "authorId": "idb0018-raza-arshad",
+    "openAlexId": "A5068231423",
+    "openAlexIds": [
+      "A5068231423"
+    ],
+    "name": "Arshad Raza",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "arshad.raza@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 151,
+    "totalCitations": 3373,
+    "hIndex": 31
+  },
+  {
+    "authorId": "idb0019-barri-assad",
+    "openAlexId": "A5113878758",
+    "openAlexIds": [
+      "A5113878758"
+    ],
+    "name": "Assad Barri",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "assadbarri@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 31,
+    "totalCitations": 485,
+    "hIndex": 13
+  },
+  {
+    "authorId": "idb0020-jamal-mohammad",
+    "openAlexId": "A5053681819",
+    "openAlexIds": [
+      "A5053681819"
+    ],
+    "name": "Mohammad Jamal",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "mohammad.jamal@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 25,
+    "totalCitations": 251,
+    "hIndex": 8
+  },
+  {
+    "authorId": "idb0021-basfer-salem",
+    "openAlexId": "A5010513143",
+    "openAlexIds": [
+      "A5010513143"
+    ],
+    "name": "Salem Basfer",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "Salem.basfar@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 31,
+    "totalCitations": 539,
+    "hIndex": 14
+  },
+  {
+    "authorId": "idb0022-mohammed-isah",
+    "openAlexId": "A5074832503",
+    "openAlexIds": [
+      "A5074832503"
+    ],
+    "name": "Isah Mohammed",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "isah.Mohammed@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 43,
+    "totalCitations": 642,
+    "hIndex": 13
+  },
+  {
+    "authorId": "idb0023-ahmed-abdulmalek",
+    "openAlexId": "A5100696085",
+    "openAlexIds": [
+      "A5100696085"
+    ],
+    "name": "Abdulmalek Ahmed",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "Abdulmalek.ahmed@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 54,
+    "totalCitations": 784,
+    "hIndex": 18
+  },
+  {
+    "authorId": "idb0024-desouky-mahmoud",
+    "openAlexId": "A5017097772",
+    "openAlexIds": [
+      "A5017097772"
+    ],
+    "name": "Mahmoud Desouky",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "Mahmoud.desouky@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 20,
+    "totalCitations": 298,
+    "hIndex": 8
+  },
+  {
+    "authorId": "idb0025-al-azani-khalid",
+    "openAlexId": "A5036112181",
+    "openAlexIds": [
+      "A5036112181"
+    ],
+    "name": "Khalid Al-Azani",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "khaled.azani@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 22,
+    "totalCitations": 409,
+    "hIndex": 10
+  },
+  {
+    "authorId": "idb0026-gowida-ahmed",
+    "openAlexId": "A5091022304",
+    "openAlexIds": [
+      "A5091022304"
+    ],
+    "name": "Ahmed Gowida",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "ahmed.gowida@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 42,
+    "totalCitations": 663,
+    "hIndex": 13
+  },
+  {
+    "authorId": "idb0027-al-dogail-ala",
+    "openAlexId": "A5058048471",
+    "openAlexIds": [
+      "A5058048471"
+    ],
+    "name": "Ala Al-Dogail",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "Ala.dogail@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 29,
+    "totalCitations": 158,
+    "hIndex": 6
+  },
+  {
+    "authorId": "idb0028-al-ramadan-khalid",
     "openAlexId": "A5085007251",
     "openAlexIds": [
-      "A5085007251",
-      "A5104094821",
-      "A5021382014"
+      "A5085007251"
     ],
     "name": "Khalid Al-Ramadan",
     "groupId": "",
@@ -51,140 +535,320 @@ export const authors: AuthorRecord[] = [
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "",
+    "email": "ramadank@kfupm.edu.sa",
     "orcid": "",
-    "totalPublications": 178,
-    "totalCitations": 2406,
+    "totalPublications": 148,
+    "totalCitations": 2233,
     "hIndex": 24
   },
   {
-    "authorId": "idb0002-collins-alan",
-    "openAlexId": "A5046466285",
+    "authorId": "idb0029-al-shuhail-abdullatif",
+    "openAlexId": "A5054922583",
     "openAlexIds": [
-      "A5046466285"
+      "A5054922583"
     ],
-    "name": "Alan Collins",
+    "name": "Abdullatif Al-Shuhail",
     "groupId": "",
     "groupName": "",
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "",
+    "email": "ashuhail@kfupm.edu.sa",
     "orcid": "",
-    "totalPublications": 407,
-    "totalCitations": 19133,
-    "hIndex": 69
-  },
-  {
-    "authorId": "idb0003-al-husseini-moujahed",
-    "openAlexId": "A5081811780",
-    "openAlexIds": [
-      "A5081811780"
-    ],
-    "name": "Moujahed Al-Husseini",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 60,
-    "totalCitations": 1955,
-    "hIndex": 22
-  },
-  {
-    "authorId": "idb0004-vecoli-marco",
-    "openAlexId": "A5039685767",
-    "openAlexIds": [
-      "A5039685767"
-    ],
-    "name": "Marco Vecoli",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 131,
-    "totalCitations": 3004,
-    "hIndex": 34
-  },
-  {
-    "authorId": "idb0005-el-ghali-mohamed",
-    "openAlexId": "A5044806143",
-    "openAlexIds": [
-      "A5044806143"
-    ],
-    "name": "Mohamed El-Ghali",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 91,
-    "totalCitations": 1335,
+    "totalPublications": 173,
+    "totalCitations": 1277,
     "hIndex": 21
   },
   {
-    "authorId": "idb0006-babalola-lamidi",
-    "openAlexId": "A5044235421",
+    "authorId": "idb0030-pedenchuk-nikolai",
+    "openAlexId": "A5050595596",
     "openAlexIds": [
-      "A5044235421"
+      "A5050595596"
     ],
-    "name": "Lamidi Babalola",
+    "name": "Nikolai Pedenchuk",
     "groupId": "",
     "groupName": "",
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "",
+    "email": "nikolai.pedenchuk@kfupm.edu.sa",
     "orcid": "",
-    "totalPublications": 75,
-    "totalCitations": 597,
+    "totalPublications": 84,
+    "totalCitations": 2874,
+    "hIndex": 23
+  },
+  {
+    "authorId": "idb0031-kaminski-michael",
+    "openAlexId": "A5035815399",
+    "openAlexIds": [
+      "A5035815399"
+    ],
+    "name": "Michael Kaminski",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "kaminski@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 439,
+    "totalCitations": 6659,
+    "hIndex": 41
+  },
+  {
+    "authorId": "idb0032-zoheir-basem",
+    "openAlexId": "A5056332242",
+    "openAlexIds": [
+      "A5056332242"
+    ],
+    "name": "Basem Zoheir",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "basem.elsafty@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 134,
+    "totalCitations": 3436,
+    "hIndex": 36
+  },
+  {
+    "authorId": "idb0033-whattam-scott",
+    "openAlexId": "A5011750653",
+    "openAlexIds": [
+      "A5011750653"
+    ],
+    "name": "Scott Whattam",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "scott.whattam@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 247,
+    "totalCitations": 3319,
+    "hIndex": 26
+  },
+  {
+    "authorId": "idb0034-tawabini-bassam",
+    "openAlexId": "A5074883327",
+    "openAlexIds": [
+      "A5074883327"
+    ],
+    "name": "Bassam Tawabini",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "bassamst@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 123,
+    "totalCitations": 1726,
+    "hIndex": 23
+  },
+  {
+    "authorId": "idb0035-baalousha-husam",
+    "openAlexId": "A5068126932",
+    "openAlexIds": [
+      "A5068126932"
+    ],
+    "name": "Husam Baalousha",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "husam.baalousha@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 66,
+    "totalCitations": 1151,
+    "hIndex": 19
+  },
+  {
+    "authorId": "idb0036-hanafy-sherif",
+    "openAlexId": "A5077467560",
+    "openAlexIds": [
+      "A5077467560"
+    ],
+    "name": "Sherif Hanafy",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "sherif.mahmoud@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 177,
+    "totalCitations": 1129,
+    "hIndex": 18
+  },
+  {
+    "authorId": "idb0037-kaka-ismail",
+    "openAlexId": "A5024607591",
+    "openAlexIds": [
+      "A5024607591"
+    ],
+    "name": "Ismail Kaka",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "skaka@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 95,
+    "totalCitations": 871,
+    "hIndex": 16
+  },
+  {
+    "authorId": "idb0038-alshuhail-abdullah",
+    "openAlexId": "A5111604304",
+    "openAlexIds": [
+      "A5111604304"
+    ],
+    "name": "Abdullah Alshuhail",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "shuhail@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 10,
+    "totalCitations": 50,
+    "hIndex": 5
+  },
+  {
+    "authorId": "idb0039-waheed-umair",
+    "openAlexId": "A5082388493",
+    "openAlexIds": [
+      "A5082388493"
+    ],
+    "name": "Umair Waheed",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "umair.waheed@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 181,
+    "totalCitations": 1902,
+    "hIndex": 23
+  },
+  {
+    "authorId": "idb0040-el-husseiny-ammar",
+    "openAlexId": "A5064720324",
+    "openAlexIds": [
+      "A5064720324"
+    ],
+    "name": "Ammar El-Husseiny",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "ammar.elhusseiny@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 129,
+    "totalCitations": 1351,
+    "hIndex": 18
+  },
+  {
+    "authorId": "idb0041-koeshidayatullah-ardiansyah",
+    "openAlexId": "A5059881838",
+    "openAlexIds": [
+      "A5059881838"
+    ],
+    "name": "Ardiansyah Koeshidayatullah",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "a.koeshidayatullah @kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 97,
+    "totalCitations": 1070,
+    "hIndex": 19
+  },
+  {
+    "authorId": "idb0042-mahfouz-israa",
+    "openAlexId": "A5079903196",
+    "openAlexIds": [
+      "A5079903196"
+    ],
+    "name": "Israa Mahfouz",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "israa.abumahfouz@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 66,
+    "totalCitations": 594,
     "hIndex": 13
   },
   {
-    "authorId": "idb0007-abouelresh-mohamed",
-    "openAlexId": "A5039010638",
+    "authorId": "idb0043-ayranci-korhan",
+    "openAlexId": "A5028675144",
     "openAlexIds": [
-      "A5039010638"
+      "A5028675144"
     ],
-    "name": "Mohamed Abouelresh",
+    "name": "Korhan Ayranci",
     "groupId": "",
     "groupName": "",
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "",
+    "email": "korhan.ayranci@kfupm.edu.sa",
     "orcid": "",
-    "totalPublications": 50,
-    "totalCitations": 974,
-    "hIndex": 14
+    "totalPublications": 56,
+    "totalCitations": 1008,
+    "hIndex": 16
   },
   {
-    "authorId": "idb0008-abdullatif-osman",
-    "openAlexId": "A5028390167",
+    "authorId": "idb0044-al-lehyani-ayman",
+    "openAlexId": "A5059100961",
     "openAlexIds": [
-      "A5028390167"
+      "A5059100961"
     ],
-    "name": "Osman Abdullatif",
+    "name": "Ayman Al-Lehyani",
     "groupId": "",
     "groupName": "",
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "",
+    "email": "allehyani@kfupm.edu.sa",
     "orcid": "",
-    "totalPublications": 151,
-    "totalCitations": 1139,
-    "hIndex": 17
+    "totalPublications": 7,
+    "totalCitations": 83,
+    "hIndex": 3
   },
   {
-    "authorId": "idb0009-osman-mutasim",
+    "authorId": "idb0045-edigbue-paul",
+    "openAlexId": "A5061327523",
+    "openAlexIds": [
+      "A5061327523"
+    ],
+    "name": "Paul Edigbue",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "paulirikefe.edigbue@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 18,
+    "totalCitations": 97,
+    "hIndex": 7
+  },
+  {
+    "authorId": "idb0046-osman-mutasim",
     "openAlexId": "A5035421092",
     "openAlexIds": [
       "A5035421092"
@@ -195,14 +859,806 @@ export const authors: AuthorRecord[] = [
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "",
+    "email": "mutasimsami@kfupm.edu.sa",
     "orcid": "",
     "totalPublications": 41,
     "totalCitations": 59,
     "hIndex": 4
   },
   {
-    "authorId": "idb0010-bello-abdulwahab",
+    "authorId": "idb0047-pilia-simone",
+    "openAlexId": "A5089149869",
+    "openAlexIds": [
+      "A5089149869"
+    ],
+    "name": "Simone Pilia",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "simone.pilia@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 110,
+    "totalCitations": 765,
+    "hIndex": 17
+  },
+  {
+    "authorId": "idb0048-radwan-omar",
+    "openAlexId": "A5047530160",
+    "openAlexIds": [
+      "A5047530160"
+    ],
+    "name": "Omar Radwan",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "omaratef.radwan@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 22,
+    "totalCitations": 95,
+    "hIndex": 6
+  },
+  {
+    "authorId": "idb0049-salih-moaz",
+    "openAlexId": "A5034460286",
+    "openAlexIds": [
+      "A5034460286"
+    ],
+    "name": "Moaz Salih",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "moaz.salih@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 23,
+    "totalCitations": 118,
+    "hIndex": 5
+  },
+  {
+    "authorId": "idb0050-basaleh-abdullah",
+    "openAlexId": "A5065157429",
+    "openAlexIds": [
+      "A5065157429"
+    ],
+    "name": "Abdullah Basaleh",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "abdullah.basaleh@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 15,
+    "totalCitations": 340,
+    "hIndex": 8
+  },
+  {
+    "authorId": "idb0051-hikmahtiar-syouma",
+    "openAlexId": "A5053676730",
+    "openAlexIds": [
+      "A5053676730"
+    ],
+    "name": "Syouma Hikmahtiar",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "syouma.santoso@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 28,
+    "totalCitations": 41,
+    "hIndex": 4
+  },
+  {
+    "authorId": "idb0052-saraih-nabil",
+    "openAlexId": "A5088388992",
+    "openAlexIds": [
+      "A5088388992"
+    ],
+    "name": "Nabil Saraih",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "nabil.saraih@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 14,
+    "totalCitations": 70,
+    "hIndex": 4
+  },
+  {
+    "authorId": "idb0053-solling-theis",
+    "openAlexId": "A5038432622",
+    "openAlexIds": [
+      "A5038432622"
+    ],
+    "name": "Theis Solling",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "theis.solling@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 267,
+    "totalCitations": 4641,
+    "hIndex": 33
+  },
+  {
+    "authorId": "idb0054-norrman-kion",
+    "openAlexId": "A5060497833",
+    "openAlexIds": [
+      "A5060497833"
+    ],
+    "name": "Kion Norrman",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "kion.norrman@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 160,
+    "totalCitations": 10648,
+    "hIndex": 38
+  },
+  {
+    "authorId": "idb0055-hussain-syed",
+    "openAlexId": "A5022552999",
+    "openAlexIds": [
+      "A5022552999"
+    ],
+    "name": "Syed Hussain",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "smshakil@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 152,
+    "totalCitations": 2605,
+    "hIndex": 31
+  },
+  {
+    "authorId": "idb0056-abdulhamid-mahmoud",
+    "openAlexId": "A5083774843",
+    "openAlexIds": [
+      "A5083774843"
+    ],
+    "name": "Mahmoud Abdulhamid",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "mahmoud.abdulhamid@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 73,
+    "totalCitations": 1613,
+    "hIndex": 23
+  },
+  {
+    "authorId": "idb0057-el-zohry-ahmed",
+    "openAlexId": "A5063047677",
+    "openAlexIds": [
+      "A5063047677"
+    ],
+    "name": "Ahmed El-Zohry",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "ahmed.elzohry@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 121,
+    "totalCitations": 4977,
+    "hIndex": 33
+  },
+  {
+    "authorId": "idb0058-bageri-bader",
+    "openAlexId": "A5025636051",
+    "openAlexIds": [
+      "A5025636051"
+    ],
+    "name": "Bader Bageri",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "badr.bageri@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 67,
+    "totalCitations": 1016,
+    "hIndex": 18
+  },
+  {
+    "authorId": "idb0059-kamal-muhammad",
+    "openAlexId": "A5084940954",
+    "openAlexIds": [
+      "A5084940954"
+    ],
+    "name": "Muhammad Kamal",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "shahzadmalik@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 435,
+    "totalCitations": 12929,
+    "hIndex": 50
+  },
+  {
+    "authorId": "idb0060-abdelgawad-khaled",
+    "openAlexId": "A5046127560",
+    "openAlexIds": [
+      "A5046127560"
+    ],
+    "name": "Khaled Abdelgawad",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "khaled.ibrahim@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 46,
+    "totalCitations": 745,
+    "hIndex": 17
+  },
+  {
+    "authorId": "idb0061-vijayalakshmi-sivabalan",
+    "openAlexId": "A5005897140",
+    "openAlexIds": [
+      "A5005897140"
+    ],
+    "name": "Sivabalan Vijayalakshmi",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "sivabalan.sakthivel@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 51,
+    "totalCitations": 1260,
+    "hIndex": 22
+  },
+  {
+    "authorId": "idb0062-murtaza-mobeen",
+    "openAlexId": "A5075168324",
+    "openAlexIds": [
+      "A5075168324"
+    ],
+    "name": "Mobeen Murtaza",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "mobeen@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 144,
+    "totalCitations": 2267,
+    "hIndex": 27
+  },
+  {
+    "authorId": "idb0063-mahboob-ahmad",
+    "openAlexId": "A5066251556",
+    "openAlexIds": [
+      "A5066251556"
+    ],
+    "name": "Ahmad Mahboob",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "ahmad.mahboob@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 30,
+    "totalCitations": 418,
+    "hIndex": 10
+  },
+  {
+    "authorId": "idb0064-adewunmi-ahmad",
+    "openAlexId": "A5056606328",
+    "openAlexIds": [
+      "A5056606328"
+    ],
+    "name": "Ahmad Adewunmi",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "ahmadade@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 43,
+    "totalCitations": 1368,
+    "hIndex": 19
+  },
+  {
+    "authorId": "idb0065-binabdi-ali",
+    "openAlexId": "A5009409541",
+    "openAlexIds": [
+      "A5009409541"
+    ],
+    "name": "Ali Binabdi",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "ali.binabdi@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 6,
+    "totalCitations": 10,
+    "hIndex": 2
+  },
+  {
+    "authorId": "idb0066-nazar-masooma",
+    "openAlexId": "A5102396283",
+    "openAlexIds": [
+      "A5102396283"
+    ],
+    "name": "Masooma Nazar",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "masooma.nazar@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 33,
+    "totalCitations": 382,
+    "hIndex": 11
+  },
+  {
+    "authorId": "idb0067-al-jaberi-jaber",
+    "openAlexId": "A5030821849",
+    "openAlexIds": [
+      "A5030821849"
+    ],
+    "name": "Jaber Al-Jaberi",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "jaber.aljaberi@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 41,
+    "totalCitations": 635,
+    "hIndex": 14
+  },
+  {
+    "authorId": "idb0068-scerbacova-alexandra",
+    "openAlexId": "A5090213272",
+    "openAlexIds": [
+      "A5090213272"
+    ],
+    "name": "Alexandra Scerbacova",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "alexandra.scerbacova@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 19,
+    "totalCitations": 108,
+    "hIndex": 6
+  },
+  {
+    "authorId": "idb0069-othman-amro",
+    "openAlexId": "A5008925632",
+    "openAlexIds": [
+      "A5008925632"
+    ],
+    "name": "Amro Othman",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "amro.othman@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 14,
+    "totalCitations": 109,
+    "hIndex": 7
+  },
+  {
+    "authorId": "idb0070-andersson-martin",
+    "openAlexId": "A5077671600",
+    "openAlexIds": [
+      "A5077671600"
+    ],
+    "name": "Martin Andersson",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "martin.andersson@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 383,
+    "totalCitations": 9139,
+    "hIndex": 43
+  },
+  {
+    "authorId": "idb0071-alonso-marroquin-fernando",
+    "openAlexId": "A5068641652",
+    "openAlexIds": [
+      "A5068641652"
+    ],
+    "name": "Fernando Alonso-Marroquin",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "fernando.marroquin@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 112,
+    "totalCitations": 2662,
+    "hIndex": 26
+  },
+  {
+    "authorId": "idb0072-abdel-azeim-safwat",
+    "openAlexId": "A5056134895",
+    "openAlexIds": [
+      "A5056134895"
+    ],
+    "name": "Safwat Abdel-Azeim",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "abdelazeim@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 101,
+    "totalCitations": 1952,
+    "hIndex": 26
+  },
+  {
+    "authorId": "idb0073-lardhi-shaikha",
+    "openAlexId": "A5066597466",
+    "openAlexIds": [
+      "A5066597466"
+    ],
+    "name": "Shaikha Lardhi",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "shaikhah.laradhi@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 18,
+    "totalCitations": 477,
+    "hIndex": 9
+  },
+  {
+    "authorId": "idb0074-beck-joakim",
+    "openAlexId": "A5004147906",
+    "openAlexIds": [
+      "A5004147906"
+    ],
+    "name": "Joakim Beck",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "joakim.beck@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 49,
+    "totalCitations": 732,
+    "hIndex": 13
+  },
+  {
+    "authorId": "idb0075-rezk-mohamed",
+    "openAlexId": "A5024668081",
+    "openAlexIds": [
+      "A5024668081"
+    ],
+    "name": "Mohamed Rezk",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "mohamed.rezk@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 34,
+    "totalCitations": 832,
+    "hIndex": 12
+  },
+  {
+    "authorId": "idb0076-al-otaibi-athaa",
+    "openAlexId": "A5080859432",
+    "openAlexIds": [
+      "A5080859432"
+    ],
+    "name": "Athaa Al-Otaibi",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "athaa.otaibi@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 3,
+    "totalCitations": 21,
+    "hIndex": 2
+  },
+  {
+    "authorId": "idb0077-adebayo-abdulrauf",
+    "openAlexId": "A5010595990",
+    "openAlexIds": [
+      "A5010595990"
+    ],
+    "name": "Abdulrauf Adebayo",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "abdulrauf@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 94,
+    "totalCitations": 1894,
+    "hIndex": 23
+  },
+  {
+    "authorId": "idb0078-al-yaseri-ahmed",
+    "openAlexId": "A5059738250",
+    "openAlexIds": [
+      "A5059738250"
+    ],
+    "name": "Ahmed Al-Yaseri",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "ahmed.yaseri@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 193,
+    "totalCitations": 7332,
+    "hIndex": 49
+  },
+  {
+    "authorId": "idb0079-mohamed-amjed",
+    "openAlexId": "A5075429508",
+    "openAlexIds": [
+      "A5075429508"
+    ],
+    "name": "Amjed Mohamed",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "amjed.mohammed@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 138,
+    "totalCitations": 1774,
+    "hIndex": 23
+  },
+  {
+    "authorId": "idb0080-abdrabalnabi-redha",
+    "openAlexId": "A5018001631",
+    "openAlexIds": [
+      "A5018001631"
+    ],
+    "name": "Redha Abdrabalnabi",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "ridhaa@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 32,
+    "totalCitations": 262,
+    "hIndex": 9
+  },
+  {
+    "authorId": "idb0081-al-dughaimi-saud",
+    "openAlexId": "A5024863050",
+    "openAlexIds": [
+      "A5024863050"
+    ],
+    "name": "Saud Al-Dughaimi",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "saudpmu@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 13,
+    "totalCitations": 30,
+    "hIndex": 4
+  },
+  {
+    "authorId": "idb0082-al-mukainah-hani",
+    "openAlexId": "A5024882078",
+    "openAlexIds": [
+      "A5024882078"
+    ],
+    "name": "Hani Al-Mukainah",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "almukainah@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 20,
+    "totalCitations": 499,
+    "hIndex": 10
+  },
+  {
+    "authorId": "idb0083-khan-sarmad",
+    "openAlexId": "A5000180362",
+    "openAlexIds": [
+      "A5000180362"
+    ],
+    "name": "Sarmad Khan",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "sarmad@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 14,
+    "totalCitations": 153,
+    "hIndex": 6
+  },
+  {
+    "authorId": "idb0084-babu-rahul",
+    "openAlexId": "A5019355087",
+    "openAlexIds": [
+      "A5019355087"
+    ],
+    "name": "Rahul Babu",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "rahul.babu@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 7,
+    "totalCitations": 86,
+    "hIndex": 5
+  },
+  {
+    "authorId": "idb0085-alzaki-taqi",
+    "openAlexId": "A5050472957",
+    "openAlexIds": [
+      "A5050472957"
+    ],
+    "name": "Taqi Alzaki",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "taqi.alzaki@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 10,
+    "totalCitations": 59,
+    "hIndex": 4
+  },
+  {
+    "authorId": "idb0086-suleymanov-vagif",
+    "openAlexId": "A5051727313",
+    "openAlexIds": [
+      "A5051727313"
+    ],
+    "name": "Vagif Suleymanov",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "vagif.suleymanov@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 14,
+    "totalCitations": 44,
+    "hIndex": 4
+  },
+  {
+    "authorId": "idb0087-fatah-ahmed",
+    "openAlexId": "A5087940859",
+    "openAlexIds": [
+      "A5087940859"
+    ],
+    "name": "Ahmed Fatah",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "ahmed.mohammed@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 38,
+    "totalCitations": 1397,
+    "hIndex": 20
+  },
+  {
+    "authorId": "idb0088-xu-liu",
+    "openAlexId": "A5022899503",
+    "openAlexIds": [
+      "A5022899503"
+    ],
+    "name": "Liu Xu",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "liu.xu@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 131,
+    "totalCitations": 1189,
+    "hIndex": 17
+  },
+  {
+    "authorId": "idb0089-kirmizakis-panagiotis",
+    "openAlexId": "A5019303345",
+    "openAlexIds": [
+      "A5019303345"
+    ],
+    "name": "Panagiotis Kirmizakis",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "p.kirmizakis.1@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 70,
+    "totalCitations": 449,
+    "hIndex": 11
+  },
+  {
+    "authorId": "idb0090-amao-abduljamiu",
+    "openAlexId": "A5027197211",
+    "openAlexIds": [
+      "A5027197211"
+    ],
+    "name": "Abduljamiu Amao",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "amao@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 150,
+    "totalCitations": 1245,
+    "hIndex": 21
+  },
+  {
+    "authorId": "idb0091-bello-abdulwahab",
     "openAlexId": "A5014657720",
     "openAlexIds": [
       "A5014657720"
@@ -213,14 +1669,32 @@ export const authors: AuthorRecord[] = [
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "",
+    "email": "abdulwahab.bello@kfupm.edu.sa",
     "orcid": "",
     "totalPublications": 64,
     "totalCitations": 577,
     "hIndex": 13
   },
   {
-    "authorId": "idb0011-salisu-anas",
+    "authorId": "idb0092-herlambang-adhipa",
+    "openAlexId": "A5051302005",
+    "openAlexIds": [
+      "A5051302005"
+    ],
+    "name": "Adhipa Herlambang",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "adhipa.herlambang@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 30,
+    "totalCitations": 60,
+    "hIndex": 5
+  },
+  {
+    "authorId": "idb0093-salisu-anas",
     "openAlexId": "A5072935704",
     "openAlexIds": [
       "A5072935704"
@@ -231,55 +1705,127 @@ export const authors: AuthorRecord[] = [
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "",
+    "email": "anas.salisu@kfupm.edu.sa",
     "orcid": "",
     "totalPublications": 18,
     "totalCitations": 132,
     "hIndex": 7
   },
   {
-    "authorId": "idb0012-alfataierge-ezzedeen",
-    "openAlexId": "A5052123503",
+    "authorId": "idb0094-goeting-sulia",
+    "openAlexId": "A5025816670",
     "openAlexIds": [
-      "A5052123503"
+      "A5025816670"
     ],
-    "name": "Ezzedeen Alfataierge",
+    "name": "Sulia Goeting",
     "groupId": "",
     "groupName": "",
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "fataireo@outlook.com",
+    "email": "sulia.salim@kfupm.edu.sa",
     "orcid": "",
-    "totalPublications": 27,
-    "totalCitations": 71,
-    "hIndex": 5
-  },
-  {
-    "authorId": "idb0013-kanfar-rayan",
-    "openAlexId": "A5071165005",
-    "openAlexIds": [
-      "A5071165005"
-    ],
-    "name": "Rayan Kanfar",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 8,
-    "totalCitations": 89,
+    "totalPublications": 15,
+    "totalCitations": 55,
     "hIndex": 4
   },
   {
-    "authorId": "idb0014-afifi-abdulkader",
-    "openAlexId": "A5074794653",
+    "authorId": "idb0095-anikiev-denis",
+    "openAlexId": "A5009590489",
     "openAlexIds": [
-      "A5074794653"
+      "A5009590489"
     ],
-    "name": "Abdulkader Afifi",
+    "name": "Denis Anikiev",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "denis.anikiev@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 67,
+    "totalCitations": 537,
+    "hIndex": 11
+  },
+  {
+    "authorId": "idb0096-alotibi-manal",
+    "openAlexId": "A5003879468",
+    "openAlexIds": [
+      "A5003879468"
+    ],
+    "name": "Manal Alotibi",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "manal.alotibi@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 9,
+    "totalCitations": 83,
+    "hIndex": 4
+  },
+  {
+    "authorId": "idb0097-abdullah-eassa",
+    "openAlexId": "A5016178719",
+    "openAlexIds": [
+      "A5016178719"
+    ],
+    "name": "Eassa Abdullah",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "aeassa@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 11,
+    "totalCitations": 22,
+    "hIndex": 3
+  },
+  {
+    "authorId": "idb0098-cline-jarvis",
+    "openAlexId": "A5006019310",
+    "openAlexIds": [
+      "A5006019310"
+    ],
+    "name": "Jarvis Cline",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "jarvis.cline@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 8,
+    "totalCitations": 11,
+    "hIndex": 3
+  },
+  {
+    "authorId": "idb0099-emad-muhammad",
+    "openAlexId": "A5051772086",
+    "openAlexIds": [
+      "A5051772086"
+    ],
+    "name": "Muhammad Emad",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "muhammadzaka.emad@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 69,
+    "totalCitations": 746,
+    "hIndex": 14
+  },
+  {
+    "authorId": "idb0100-tantardini-christian",
+    "openAlexId": "A5022893471",
+    "openAlexIds": [
+      "A5022893471"
+    ],
+    "name": "Christian Tantardini",
     "groupId": "",
     "groupName": "",
     "affiliate1": "",
@@ -287,48 +1833,12 @@ export const authors: AuthorRecord[] = [
     "affiliate3": "",
     "email": "",
     "orcid": "",
-    "totalPublications": 78,
-    "totalCitations": 1734,
-    "hIndex": 16
+    "totalPublications": 84,
+    "totalCitations": 899,
+    "hIndex": 15
   },
   {
-    "authorId": "idb0015-alouani-rabah",
-    "openAlexId": "A5051221143",
-    "openAlexIds": [
-      "A5051221143"
-    ],
-    "name": "Rabah Alouani",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 19,
-    "totalCitations": 193,
-    "hIndex": 7
-  },
-  {
-    "authorId": "idb0016-stephenson-michael",
-    "openAlexId": "A5040147688",
-    "openAlexIds": [
-      "A5040147688"
-    ],
-    "name": "Michael Stephenson",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 159,
-    "totalCitations": 2852,
-    "hIndex": 31
-  },
-  {
-    "authorId": "idb0017-benaafi-mohammed",
+    "authorId": "idb0101-benaafi-mohammed",
     "openAlexId": "A5034568196",
     "openAlexIds": [
       "A5034568196"
@@ -346,759 +1856,39 @@ export const authors: AuthorRecord[] = [
     "hIndex": 19
   },
   {
-    "authorId": "idb0018-al-khirbash-salah",
-    "openAlexId": "A5081695998",
+    "authorId": "idb0102-junaid-sameer",
+    "openAlexId": "A5016324576",
     "openAlexIds": [
-      "A5081695998"
+      "A5016324576"
     ],
-    "name": "Salah Al-Khirbash",
+    "name": "Sameer Junaid",
     "groupId": "",
     "groupName": "",
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "",
+    "email": "sameerij@kfupm.edu.sa",
     "orcid": "",
-    "totalPublications": 45,
-    "totalCitations": 935,
-    "hIndex": 16
+    "totalPublications": 2,
+    "totalCitations": 3,
+    "hIndex": 1
   },
   {
-    "authorId": "idb0019-hakimi-mohammed",
-    "openAlexId": "A5029716563",
+    "authorId": "idb0103-al-yousef-ali",
+    "openAlexId": "A5102730358",
     "openAlexIds": [
-      "A5029716563"
+      "A5102730358"
     ],
-    "name": "Mohammed Hakimi",
+    "name": "Ali Al-Yousef",
     "groupId": "",
     "groupName": "",
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "",
+    "email": "ali.yousef@kfupm.edu.sa",
     "orcid": "",
-    "totalPublications": 223,
-    "totalCitations": 4445,
-    "hIndex": 40
-  },
-  {
-    "authorId": "idb0020-al-laboun-abdulaziz",
-    "openAlexId": "A5061320565",
-    "openAlexIds": [
-      "A5061320565"
-    ],
-    "name": "Abdulaziz Al-Laboun",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 16,
-    "totalCitations": 267,
-    "hIndex": 8
-  },
-  {
-    "authorId": "idb0021-amao-abduljamiu",
-    "openAlexId": "A5027197211",
-    "openAlexIds": [
-      "A5027197211"
-    ],
-    "name": "Abduljamiu Amao",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 150,
-    "totalCitations": 1245,
-    "hIndex": 21
-  },
-  {
-    "authorId": "idb0022-al-shuhail-abdullatif",
-    "openAlexId": "A5054922583",
-    "openAlexIds": [
-      "A5054922583"
-    ],
-    "name": "Abdullatif Al-Shuhail",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 173,
-    "totalCitations": 1277,
-    "hIndex": 21
-  },
-  {
-    "authorId": "idb0023-al-lehyani-ayman",
-    "openAlexId": "A5059100961",
-    "openAlexIds": [
-      "A5059100961"
-    ],
-    "name": "Ayman Al-Lehyani",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 7,
-    "totalCitations": 83,
-    "hIndex": 3
-  },
-  {
-    "authorId": "idb0024-saraih-nabil",
-    "openAlexId": "A5088388992",
-    "openAlexIds": [
-      "A5088388992"
-    ],
-    "name": "Nabil Saraih",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 14,
-    "totalCitations": 70,
-    "hIndex": 4
-  },
-  {
-    "authorId": "idb0025-abdlmutalib-ammar",
-    "openAlexId": "A5006844997",
-    "openAlexIds": [
-      "A5006844997"
-    ],
-    "name": "Ammar Abdlmutalib",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 30,
-    "totalCitations": 123,
-    "hIndex": 7
-  },
-  {
-    "authorId": "idb0026-chan-septriandi",
-    "openAlexId": "A5080643603",
-    "openAlexIds": [
-      "A5080643603"
-    ],
-    "name": "Septriandi Chan",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 33,
-    "totalCitations": 470,
-    "hIndex": 9
-  },
-  {
-    "authorId": "idb0027-abu-mahfouz-israa",
-    "openAlexId": "A5079903196",
-    "openAlexIds": [
-      "A5079903196"
-    ],
-    "name": "Israa Abu-Mahfouz",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 66,
-    "totalCitations": 594,
-    "hIndex": 13
-  },
-  {
-    "authorId": "idb0028-salih-moaz",
-    "openAlexId": "A5034460286",
-    "openAlexIds": [
-      "A5034460286"
-    ],
-    "name": "Moaz Salih",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 23,
-    "totalCitations": 118,
-    "hIndex": 5
-  },
-  {
-    "authorId": "idb0029-malik-muhammad",
-    "openAlexId": "A5009697450",
-    "openAlexIds": [
-      "A5009697450"
-    ],
-    "name": "Muhammad Malik",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 21,
-    "totalCitations": 256,
-    "hIndex": 8
-  },
-  {
-    "authorId": "idb0030-kaminski-michael",
-    "openAlexId": "A5035815399",
-    "openAlexIds": [
-      "A5035815399"
-    ],
-    "name": "Michael Kaminski",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 439,
-    "totalCitations": 6659,
-    "hIndex": 41
-  },
-  {
-    "authorId": "idb0031-whattam-scott",
-    "openAlexId": "A5011750653",
-    "openAlexIds": [
-      "A5011750653"
-    ],
-    "name": "Scott Whattam",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 247,
-    "totalCitations": 3319,
-    "hIndex": 26
-  },
-  {
-    "authorId": "idb0032-michael-nikolaos",
-    "openAlexId": "A5002041459",
-    "openAlexIds": [
-      "A5002041459"
-    ],
-    "name": "Nikolaos Michael",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 12,
-    "totalCitations": 129,
-    "hIndex": 6
-  },
-  {
-    "authorId": "idb0033-zühlke-rainer",
-    "openAlexId": "A5086485606",
-    "openAlexIds": [
-      "A5086485606"
-    ],
-    "name": "Rainer Zühlke",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 47,
-    "totalCitations": 949,
-    "hIndex": 16
-  },
-  {
-    "authorId": "idb0034-lenindre-yves-michel",
-    "openAlexId": "A5054427253",
-    "openAlexIds": [
-      "A5054427253"
-    ],
-    "name": "Yves-Michel LeNindre",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 41,
-    "totalCitations": 961,
-    "hIndex": 16
-  },
-  {
-    "authorId": "idb0035-memesh-abdullah",
-    "openAlexId": "A5044930714",
-    "openAlexIds": [
-      "A5044930714"
-    ],
-    "name": "Abdullah Memesh",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 24,
-    "totalCitations": 403,
-    "hIndex": 10
-  },
-  {
-    "authorId": "idb0036-al-ajmi-hussain",
-    "openAlexId": "A5047482366",
-    "openAlexIds": [
-      "A5047482366"
-    ],
-    "name": "Hussain Al-Ajmi",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 14,
-    "totalCitations": 86,
-    "hIndex": 5
-  },
-  {
-    "authorId": "idb0037-al-duaiji-abdulaziz",
-    "openAlexId": "A5002859780",
-    "openAlexIds": [
-      "A5002859780"
-    ],
-    "name": "Abdulaziz Al-Duaiji",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 8,
-    "totalCitations": 62,
-    "hIndex": 2
-  },
-  {
-    "authorId": "idb0038-craigie-neil",
-    "openAlexId": "A5013083803",
-    "openAlexIds": [
-      "A5013083803"
-    ],
-    "name": "Neil Craigie",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 31,
-    "totalCitations": 235,
-    "hIndex": 8
-  },
-  {
-    "authorId": "idb0039-sadooni-fadhil",
-    "openAlexId": "A5070411489",
-    "openAlexIds": [
-      "A5070411489"
-    ],
-    "name": "Fadhil Sadooni",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 120,
-    "totalCitations": 1532,
-    "hIndex": 23
-  },
-  {
-    "authorId": "idb0040-al-kuwari-hamad",
-    "openAlexId": "A5079669280",
-    "openAlexIds": [
-      "A5079669280"
-    ],
-    "name": "Hamad Al-kuwari",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 44,
-    "totalCitations": 455,
-    "hIndex": 11
-  },
-  {
-    "authorId": "idb0041-alsuwaidi-mohammad",
-    "openAlexId": "A5018306569",
-    "openAlexIds": [
-      "A5018306569"
-    ],
-    "name": "Mohammad Alsuwaidi",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 43,
-    "totalCitations": 300,
-    "hIndex": 12
-  },
-  {
-    "authorId": "idb0042-al-kindi-mohammed",
-    "openAlexId": "A5007597150",
-    "openAlexIds": [
-      "A5007597150"
-    ],
-    "name": "Mohammed Al-Kindi",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 9,
-    "totalCitations": 23,
-    "hIndex": 3
-  },
-  {
-    "authorId": "idb0043-cantrell-dave",
-    "openAlexId": "A5039734802",
-    "openAlexIds": [
-      "A5039734802"
-    ],
-    "name": "Dave Cantrell",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 40,
-    "totalCitations": 1224,
-    "hIndex": 20
-  },
-  {
-    "authorId": "idb0044-alsharhan-abdulrahman",
-    "openAlexId": "A5010401681",
-    "openAlexIds": [
-      "A5010401681"
-    ],
-    "name": "Abdulrahman Alsharhan",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 168,
-    "totalCitations": 3661,
-    "hIndex": 34
-  },
-  {
-    "authorId": "idb0045-abed-abdulkader",
-    "openAlexId": "A5102809672",
-    "openAlexIds": [
-      "A5102809672"
-    ],
-    "name": "Abdulkader Abed",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 60,
-    "totalCitations": 1578,
-    "hIndex": 24
-  },
-  {
-    "authorId": "idb0046-melvin-john",
-    "openAlexId": "A5103799444",
-    "openAlexIds": [
-      "A5103799444"
-    ],
-    "name": "John Melvin",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 36,
-    "totalCitations": 700,
-    "hIndex": 13
-  },
-  {
-    "authorId": "idb0047-polo-camilo",
-    "openAlexId": "A5030587820",
-    "openAlexIds": [
-      "A5030587820"
-    ],
-    "name": "Camilo Polo",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 9,
-    "totalCitations": 178,
-    "hIndex": 5
-  },
-  {
-    "authorId": "idb0048-al-hussaini-abdulkarim",
-    "openAlexId": "A5080748045",
-    "openAlexIds": [
-      "A5080748045"
-    ],
-    "name": "Abdulkarim Al-Hussaini",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 14,
-    "totalCitations": 103,
-    "hIndex": 7
-  },
-  {
-    "authorId": "idb0049-koeshidayatullah-ardiansyah",
-    "openAlexId": "A5059881838",
-    "openAlexIds": [
-      "A5059881838"
-    ],
-    "name": "Ardiansyah Koeshidayatullah",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 97,
-    "totalCitations": 1070,
-    "hIndex": 19
-  },
-  {
-    "authorId": "idb0050-herlambang-adhipa",
-    "openAlexId": "A5051302005",
-    "openAlexIds": [
-      "A5051302005"
-    ],
-    "name": "Adhipa Herlambang",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 30,
-    "totalCitations": 60,
-    "hIndex": 5
-  },
-  {
-    "authorId": "idb0051-vaslet-denis",
-    "openAlexId": "A5038965329",
-    "openAlexIds": [
-      "A5038965329"
-    ],
-    "name": "Denis Vaslet",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 40,
-    "totalCitations": 1054,
-    "hIndex": 18
-  },
-  {
-    "authorId": "idb0052-Énay-raymond",
-    "openAlexId": "A5084630459",
-    "openAlexIds": [
-      "A5084630459"
-    ],
-    "name": "Raymond Énay",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 103,
-    "totalCitations": 1812,
-    "hIndex": 21
-  },
-  {
-    "authorId": "idb0053-manivit-jacques",
-    "openAlexId": "A5051867931",
-    "openAlexIds": [
-      "A5051867931"
-    ],
-    "name": "Jacques Manivit",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 8,
-    "totalCitations": 312,
-    "hIndex": 5
-  },
-  {
-    "authorId": "idb0054-johnson-peter",
-    "openAlexId": "A5103098706",
-    "openAlexIds": [
-      "A5103098706"
-    ],
-    "name": "Peter Johnson",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 81,
-    "totalCitations": 5866,
-    "hIndex": 33
-  },
-  {
-    "authorId": "idb0055-al-hajri-said",
-    "openAlexId": "A5054134454",
-    "openAlexIds": [
-      "A5054134454"
-    ],
-    "name": "Said Al-Hajri",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 34,
-    "totalCitations": 1109,
+    "totalPublications": 46,
+    "totalCitations": 646,
     "hIndex": 14
-  },
-  {
-    "authorId": "idb0056-droste-henk",
-    "openAlexId": "A5058646530",
-    "openAlexIds": [
-      "A5058646530"
-    ],
-    "name": "Henk Droste",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 45,
-    "totalCitations": 2105,
-    "hIndex": 17
-  },
-  {
-    "authorId": "idb0057-knaust-dirk",
-    "openAlexId": "A5013195813",
-    "openAlexIds": [
-      "A5013195813"
-    ],
-    "name": "Dirk Knaust",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 114,
-    "totalCitations": 2747,
-    "hIndex": 31
-  },
-  {
-    "authorId": "idb0058-al-masrahy-mohammed",
-    "openAlexId": "A5042665751",
-    "openAlexIds": [
-      "A5042665751"
-    ],
-    "name": "Mohammed Al-Masrahy",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "",
-    "orcid": "",
-    "totalPublications": 15,
-    "totalCitations": 250,
-    "hIndex": 5
-  },
-  {
-    "authorId": "idb0059-eltom-hassan",
-    "openAlexId": "A5040857714",
-    "openAlexIds": [
-      "A5040857714"
-    ],
-    "name": "Hassan Eltom",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "heltom@ku.edu",
-    "orcid": "",
-    "totalPublications": 84,
-    "totalCitations": 594,
-    "hIndex": 15
   }
 ];
