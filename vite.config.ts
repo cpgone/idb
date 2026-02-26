@@ -9,13 +9,13 @@ export default defineConfig(({ mode }) => ({
   // works correctly when served from a non-root
   // path or behind a reverse proxy.
   // For GitHub Pages, the project is served from /intdash/
-  base: mode === "development" ? "/" : "/idb3/",
+  base: mode === "development" ? "/" : "/idb/",
   server: {
-    host: "10.78.15.242",
+    host: "0.0.0.0",
     port: 8080,
   },
   preview: {
-    host: "10.78.15.118",
+    host: "0.0.0.0",
     port: 8081,
   },
   plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
