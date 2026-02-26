@@ -42,6 +42,13 @@ This folder contains runtime and UI configuration for the dashboard.
 - Main keys:
 - `default`: default preset ID.
 - `options`: preset definitions (`id`, `label`, `shortLabel`, `match`, `institutions`, `institutionGroups`).
+- Activation:
+  - `data/config/dashboardConfig.json` → `showInstitutionFilter` must be `true` (default).
+  - Default selection is taken from `mainPageDefaults.defaultInstitutionFilterId` (dashboard) and `defaultInstitutionFilterId` (publications); values must match an `id` here or `"all"`.
+- Matching behavior:
+  - `match: "any"`: passes if a work has at least one listed institution.
+  - `match: "all"`: passes only if a work has every listed institution.
+  - `institutionGroups`: array of string arrays; a work must satisfy at least one group (each group obeys the `match` rule), enabling OR-of-ANDs structures.
 
 ### `retracted-articles.json`
 - Purpose: Retracted/exclusion lists used by publication filtering.
