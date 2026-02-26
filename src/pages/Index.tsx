@@ -19,6 +19,7 @@ import { SiteShell } from "@/components/SiteShell";
 import { worksTable } from "@/data/worksTable.generated";
 import { workCitationTrendByWorkId } from "@/data/workCitationTrend.generated";
 import { filterWorks } from "@/lib/blacklist";
+import { dedupePreferDoiTitleYear } from "@/lib/utils";
 import dashboardConfigJson from "../../data/config/dashboardConfig.json";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/ui/dialog";
@@ -301,7 +302,7 @@ const Index = () => {
   const TOPICS_STEP = 10;
 
   const memberCount = authors.length;
-  const cleanWorks = useMemo(() => filterWorks(worksTable), []);
+  const cleanWorks = useMemo(() => dedupePreferDoiTitleYear(filterWorks(worksTable)), []);
   const hasTopicYearStats = topicYearStats.length > 0;
 
   const allYears = useMemo(() => {
@@ -326,6 +327,7 @@ const Index = () => {
   const [showCitations, setShowCitations] = useState(false);
   const [showInstitutions, setShowInstitutions] = useState(false);
   const [showCoAuthors, setShowCoAuthors] = useState(false);
+  const [expandedAuthors, setExpandedAuthors] = useState<Set<string>>(new Set());
   const [chartSeriesColors, setChartSeriesColors] = useState({
     topics: "#22c55e",
     institutions: "#0ea5e9",
@@ -1515,81 +1517,102 @@ const Index = () => {
                 </div>
               </div>
               <div className="grid grid-cols-1 gap-3">
-                {recentPublications.map((work) => (
-                  <Card key={work.workId} className="border-border/60">
-                    <CardContent className="p-3 space-y-2">
-                      <div className="flex items-start justify-between gap-3">
-                        <div className="space-y-1">
-                      <div className="text-[11px] text-muted-foreground flex flex-wrap items-center gap-1">
-                        <FileText className="h-3 w-3 text-primary" />
-                        <span>
-                          {work.publicationDate
-                            ? new Date(work.publicationDate).toLocaleString(undefined, {
-                                year: "numeric",
-                                month: "short",
-                                day: "numeric",
-                                hour: "2-digit",
-                                minute: "2-digit",
-                              })
-                            : work.year || "Year n/a"}
-                        </span>
-                        {work.venue ? (
-                          <>
-                            <span aria-hidden>{"\u2022"}</span>
-                            <span className="text-primary font-medium">{work.venue}</span>
-                          </>
-                        ) : null}
-                      </div>
-                          <h3 className="text-sm font-semibold text-primary leading-snug hover:underline">
-                            {(() => {
-                              const cleanedDoi = work.doi
-                                ? work.doi
-                                    .replace(/^https?:\/\/(www\.)?doi\.org\//i, "")
-                                    .replace(/^doi:/i, "")
-                                    .trim()
-                                : "";
-                              const href = cleanedDoi
-                                ? `https://doi.org/${cleanedDoi}`
-                                : work.workId
-                                  ? `https://openalex.org/${work.workId}`
-                                  : undefined;
-                              return (
-                                <a href={href} target="_blank" rel="noreferrer">
-                                  {renderWorkTitleHtml(work.title)}
-                                </a>
-                              );
-                            })()}
-                          </h3>
-                          {work.allAuthors?.length ? (() => {
-                            const names = work.allAuthors.filter(Boolean);
-                            const fullList = names.join(", ");
-                            return (
-                              <p
-                                className="text-xs text-muted-foreground mt-1"
-                                title={fullList}
-                              >
-                                <User className="mr-1 inline-block h-3 w-3 text-primary" />
-                                <span>{fullList || "Author n/a"}</span>
-                              </p>
-                            );
-                          })() : null}
-                        </div>
-                        <div className="text-right text-xs text-muted-foreground">
-                          <button
-                            type="button"
-                            className="inline-block text-right hover:underline"
-                            onClick={() => openCitingDialog(work)}
-                            title="Show citing publications"
-                          >
-                            <div className="font-semibold text-foreground">
-                              {(work.citations || 0).toLocaleString()}
+                {recentPublications.map((work, idx) => {
+                  const cardKey = work.workId || work.doi || `${work.title || "work"}-${idx}`;
+                  const allNames = (work.allAuthors || []).filter(Boolean);
+                  const isExpanded = expandedAuthors.has(cardKey);
+                  const MAX_VISIBLE_AUTHORS = 8;
+                  const hasOverflow = allNames.length > MAX_VISIBLE_AUTHORS;
+                  const remaining = hasOverflow ? allNames.length - MAX_VISIBLE_AUTHORS : 0;
+                  const visibleNames = isExpanded ? allNames : allNames.slice(0, MAX_VISIBLE_AUTHORS);
+
+                  const toggleAuthors = () => {
+                    setExpandedAuthors((prev) => {
+                      const next = new Set(prev);
+                      if (next.has(cardKey)) next.delete(cardKey);
+                      else next.add(cardKey);
+                      return next;
+                    });
+                  };
+
+                  return (
+                    <Card key={cardKey} className="border-border/60">
+                      <CardContent className="p-3 space-y-2">
+                        <div className="flex items-start justify-between gap-3">
+                          <div className="space-y-1">
+                            <div className="text-[11px] text-muted-foreground flex flex-wrap items-center gap-1">
+                              <FileText className="h-3 w-3 text-primary" />
+                              <span>
+                                {work.publicationDate
+                                  ? new Date(work.publicationDate).toLocaleString(undefined, {
+                                      year: "numeric",
+                                      month: "short",
+                                      day: "numeric",
+                                      hour: "2-digit",
+                                      minute: "2-digit",
+                                    })
+                                  : work.year || "Year n/a"}
+                              </span>
+                              {work.venue ? (
+                                <>
+                                  <span aria-hidden>{"\u2022"}</span>
+                                  <span className="text-primary font-medium">{work.venue}</span>
+                                </>
+                              ) : null}
                             </div>
-                          </button>
+                            <h3 className="text-sm font-semibold text-primary leading-snug hover:underline">
+                              {(() => {
+                                const cleanedDoi = work.doi
+                                  ? work.doi
+                                      .replace(/^https?:\/\/(www\.)?doi\.org\//i, "")
+                                      .replace(/^doi:/i, "")
+                                      .trim()
+                                  : "";
+                                const href = cleanedDoi
+                                  ? `https://doi.org/${cleanedDoi}`
+                                  : work.workId
+                                    ? `https://openalex.org/${work.workId}`
+                                    : undefined;
+                                return (
+                                  <a href={href} target="_blank" rel="noreferrer">
+                                    {renderWorkTitleHtml(work.title)}
+                                  </a>
+                                );
+                              })()}
+                            </h3>
+                            {visibleNames.length ? (
+                              <p className="text-xs text-muted-foreground mt-1">
+                                <User className="mr-1 inline-block h-3 w-3 text-primary" />
+                                <span>{visibleNames.join(", ") || "Author n/a"}</span>
+                                {hasOverflow ? (
+                                  <button
+                                    type="button"
+                                    className="ml-1 text-primary font-semibold hover:underline"
+                                    onClick={toggleAuthors}
+                                  >
+                                    {isExpanded ? "Show less" : `+${remaining} more`}
+                                  </button>
+                                ) : null}
+                              </p>
+                            ) : null}
+                          </div>
+                          <div className="text-right text-xs text-muted-foreground">
+                            <button
+                              type="button"
+                              className="inline-block text-right hover:underline"
+                              onClick={() => openCitingDialog(work)}
+                              title="Show citing publications"
+                            >
+                              <div className="font-semibold text-foreground">
+                                {(work.citations || 0).toLocaleString()}
+                              </div>
+                            </button>
+                          </div>
                         </div>
-                      </div>
-                    </CardContent>
-                  </Card>
-                ))}
+                      </CardContent>
+                    </Card>
+                  );
+                })}
               </div>
               <div className="flex flex-wrap items-center justify-center gap-2 pt-1">
                 {publicationPoolSize > INITIAL_PUBLICATIONS_LIMIT && (

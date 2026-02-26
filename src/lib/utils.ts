@@ -26,6 +26,27 @@ type WorkLike = {
   year?: number | null;
 };
 
+const normalizeDoi = (raw?: string | null) =>
+  (raw || "")
+    .trim()
+    .toLowerCase()
+    .replace(/^https?:\/\/(dx\.)?doi\.org\//, "")
+    .replace(/^doi:/, "")
+    .trim();
+
+const normalizeTitle = (raw?: string | null) => {
+  if (!raw) return "";
+  return raw
+    .trim()
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/\p{M}+/gu, "")
+    .replace(/[\u2010-\u2015]/g, "-")
+    .replace(/[^\w\s-]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+};
+
 /**
  * Build a stable key for a work so we can deduplicate rows that describe the
  * same OpenAlex record (for example, when multiple programs include it).
@@ -43,6 +64,50 @@ export const makeWorkKey = (work?: WorkLike) => {
   if (title || year) return `${title}|${year}`;
 
   return "";
+};
+
+/**
+ * Prefer records that have a DOI when the title+year match. Drops empty-DOI
+ * duplicates but preserves order otherwise.
+ */
+export const dedupePreferDoiTitleYear = <T extends WorkLike>(works: T[]) => {
+  const keyToIndex = new Map<string, number>();
+  const result: T[] = [];
+
+  works.forEach((work) => {
+    const doiKey = normalizeDoi(work.doi);
+    const titleKey = normalizeTitle(work.title);
+    const yearKey = typeof work.year === "number" ? String(work.year) : "";
+    const titleYearKey = titleKey && yearKey ? `ty:${titleKey}|${yearKey}` : "";
+
+    const lookupKeys = [doiKey && `doi:${doiKey}`, titleYearKey].filter(Boolean) as string[];
+    let existingIdx = -1;
+    for (const k of lookupKeys) {
+      const idx = keyToIndex.get(k);
+      if (idx != null) {
+        existingIdx = idx;
+        break;
+      }
+    }
+
+    if (existingIdx === -1) {
+      const idx = result.length;
+      result.push(work);
+      lookupKeys.forEach((k) => keyToIndex.set(k, idx));
+      return;
+    }
+
+    const current = result[existingIdx];
+    const currentHasDoi = normalizeDoi(current.doi).length > 0;
+    const candidateHasDoi = doiKey.length > 0;
+
+    if (candidateHasDoi && !currentHasDoi) {
+      result[existingIdx] = work;
+      lookupKeys.forEach((k) => keyToIndex.set(k, existingIdx));
+    }
+  });
+
+  return result;
 };
 
 /**

@@ -17,6 +17,7 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@
 import { SiteShell } from "@/components/SiteShell";
 import { worksTable } from "@/data/worksTable.generated";   // <- keep this one
 import { filterWorks } from "@/lib/blacklist";
+import { dedupePreferDoiTitleYear } from "@/lib/utils";
 import { toast } from "@/components/ui/use-toast";
 import { Input } from "@/components/ui/input";
 import { repairUtf8 } from "@/lib/textRepair";
@@ -348,7 +349,10 @@ const PublicationsPage = ({ mode = "publications" }: PublicationsPageProps) => {
     return buildExcludedNameSet(openAlexId, authorId);
   }, [authorFilter, authorIdFilter, matchedAuthor?.openAlexId, matchedAuthor?.authorId]);
 
-  const cleanWorks = useMemo(() => filterWorks(worksTable), []);
+const cleanWorks = useMemo(
+  () => dedupePreferDoiTitleYear(filterWorks(worksTable)),
+  [],
+);
 
   const allYears = useMemo(() => {
     const years = new Set<number>();

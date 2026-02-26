@@ -21,6 +21,59 @@ const workInstitutionsPath = path.join(ROOT, "data", "work_institutions.csv");
 const outPath = path.join(ROOT, "src", "data", "worksTable.generated.ts");
 const { repairUtf8 } = require("./lib/textRepair.cjs");
 
+const normalizeDoi = (raw) => {
+  if (!raw) return "";
+  return raw
+    .trim()
+    .toLowerCase()
+    .replace(/^https?:\/\/(dx\.)?doi\.org\//, "")
+    .replace(/^doi:/, "")
+    .trim();
+};
+
+const normalizeTitle = (raw) => {
+  if (!raw) return "";
+  return raw
+    .trim()
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/\p{M}+/gu, "")
+    .replace(/[\u2010-\u2015]/g, "-") // dash variants to hyphen
+    .replace(/[^\w\s-]/g, " ") // drop punctuation
+    .replace(/\s+/g, " ")
+    .trim();
+};
+
+const makeDedupeKey = (record) => {
+  const doiKey = normalizeDoi(record.doi);
+  if (doiKey) return `doi:${doiKey}`;
+
+  const titleKey = normalizeTitle(record.title);
+  const yearKey = Number.isFinite(record.year) ? String(record.year) : "";
+  if (titleKey && yearKey) return `title:${titleKey}|${yearKey}`;
+
+  if (titleKey) return `title:${titleKey}`;
+
+  const workId = (record.workId || "").trim().toLowerCase();
+  if (workId) return `workid:${workId}`;
+
+  return "";
+};
+
+const pickPreferredRecord = (current, candidate) => {
+  const hasDoi = (rec) => normalizeDoi(rec.doi).length > 0;
+  if (hasDoi(candidate) && !hasDoi(current)) return candidate;
+
+  const currentCitations = Number(current.citations || 0);
+  const candidateCitations = Number(candidate.citations || 0);
+  if (candidateCitations > currentCitations) return candidate;
+
+  // Prefer the one with a non-empty venue if the rest is equal
+  if (!current.venue && candidate.venue) return candidate;
+
+  return current;
+};
+
 const parseCsvLine = (line) => {
   const result = [];
   let current = "";
