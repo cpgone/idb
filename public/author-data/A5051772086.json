@@ -15,9 +15,9 @@
       "Zaka Emad"
     ],
     "works_count": 69,
-    "cited_by_count": 746,
+    "cited_by_count": 748,
     "summary_stats": {
-      "2yr_mean_citedness": 1.263157894736842,
+      "2yr_mean_citedness": 1.3157894736842106,
       "h_index": 14,
       "i10_index": 23
     },
@@ -208,7 +208,7 @@
       {
         "id": "https://openalex.org/T10161",
         "display_name": "Rock Mechanics and Modeling",
-        "value": 0.000248,
+        "value": 0.0002478,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -225,7 +225,7 @@
       {
         "id": "https://openalex.org/T12865",
         "display_name": "Tailings Management and Properties",
-        "value": 0.0001915,
+        "value": 0.0001913,
         "subfield": {
           "id": "https://openalex.org/subfields/2205",
           "display_name": "Civil and Structural Engineering"
@@ -242,7 +242,7 @@
       {
         "id": "https://openalex.org/T12482",
         "display_name": "Tunneling and Rock Mechanics",
-        "value": 0.0001524,
+        "value": 0.0001523,
         "subfield": {
           "id": "https://openalex.org/subfields/2205",
           "display_name": "Civil and Structural Engineering"
@@ -259,7 +259,7 @@
       {
         "id": "https://openalex.org/T11046",
         "display_name": "Geotechnical Engineering and Analysis",
-        "value": 0.0000944,
+        "value": 0.0000943,
         "subfield": {
           "id": "https://openalex.org/subfields/2213",
           "display_name": "Safety, Risk, Reliability and Quality"
@@ -406,7 +406,7 @@
         "year": 2023,
         "works_count": 10,
         "oa_works_count": 6,
-        "cited_by_count": 76
+        "cited_by_count": 77
       },
       {
         "year": 2024,
@@ -418,7 +418,7 @@
         "year": 2025,
         "works_count": 7,
         "oa_works_count": 3,
-        "cited_by_count": 6
+        "cited_by_count": 7
       },
       {
         "year": 2026,
@@ -437,7 +437,7 @@
     },
     "block_key": "m emad",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051772086",
-    "updated_date": "2026-02-24T12:19:58",
+    "updated_date": "2026-02-25T12:19:17",
     "created_date": "2020-06-19T00:00:00"
   },
   "works": [
@@ -2146,8 +2146,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5400000214576721
         }
       ],
       "awards": [],
@@ -4348,8 +4348,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -5000,11 +5000,11 @@
         "currency": "EUR",
         "value_usd": 1067
       },
-      "fwci": 3.4305,
+      "fwci": 3.4281,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.93215073,
+        "value": 0.93213069,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5341,8 +5341,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -5729,7 +5729,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-02-25T23:00:34.991745",
+      "updated_date": "2025-12-31T23:11:33.660297",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6436,8 +6436,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -7960,7 +7960,7 @@
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.86915589,
+        "value": 0.8691585,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10247,11 +10247,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.03199233,
+      "fwci": 4.0982,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.92587516,
+        "value": 0.92605169,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10850,7 +10850,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-02-14T14:00:54.825952",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13054,8 +13054,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [
@@ -15360,11 +15360,11 @@
         "currency": "CHF",
         "value_usd": 2382
       },
-      "fwci": 1.3011,
+      "fwci": 1.301,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.76241289,
+        "value": 0.76237805,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17237,8 +17237,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "No poverty",
-          "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/1"
+          "id": "https://metadata.un.org/sdg/1",
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],
@@ -19400,8 +19400,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -20845,8 +20845,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
@@ -21579,11 +21579,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.196,
+      "fwci": 5.1959,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.94724356,
+        "value": 0.94724253,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24250,7 +24250,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.65911194,
+        "value": 0.65912229,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24507,8 +24507,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],
@@ -24851,11 +24851,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.2657,
+      "fwci": 7.0985,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.96768201,
+        "value": 0.96701903,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26333,11 +26333,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4575,
+      "fwci": 0.4576,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.62016247,
+        "value": 0.62017901,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26715,8 +26715,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -26964,7 +26964,7 @@
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.03397752,
+        "value": 0.03396894,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28213,7 +28213,7 @@
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.86010695,
+        "value": 0.86010423,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30630,7 +30630,7 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.72258214,
+      "fwci": 0.7272,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
@@ -31851,8 +31851,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.7599999904632568
         }
       ],
       "awards": [],
@@ -33991,8 +33991,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -38190,8 +38190,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
@@ -41823,11 +41823,11 @@
         "currency": "EUR",
         "value_usd": 1650
       },
-      "fwci": 0.7758,
+      "fwci": 0.7721,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.67725103,
+        "value": 0.67648743,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42959,8 +42959,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "score": 0.5,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5
         }
       ],
       "awards": [],
@@ -43515,11 +43515,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4074,
+      "fwci": 0.4063,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.56720073,
+        "value": 0.56681679,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46222,8 +46222,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Responsible consumption and production",
-          "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
@@ -50052,8 +50052,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -50593,8 +50593,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -54028,7 +54028,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08209902,
+        "value": 0.08209549,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55315,7 +55315,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.17446909,
+        "value": 0.1744316,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55559,8 +55559,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.7099999785423279
         }
       ],
       "awards": [],
@@ -58594,8 +58594,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.6299999952316284
         }
       ],
       "awards": [],
@@ -59757,7 +59757,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14373284,
+        "value": 0.14563573,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61179,8 +61179,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -66476,7 +66476,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.42647926,
+        "value": 0.42068825,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -66918,7 +66918,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-20T08:17:22.645390",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-21T00:00:00"
     },
     {
@@ -67459,7 +67459,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.8518188,
+        "value": 0.84526835,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68693,8 +68693,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "score": 0.7176126837730408,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.7176126837730408
         }
       ],
       "awards": [],
@@ -68901,7 +68901,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.59295463,
+        "value": 0.54439951,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -70270,7 +70270,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-23T20:09:44.859080",
+      "updated_date": "2026-02-15T05:58:04.055770",
       "created_date": "2026-02-04T00:00:00"
     }
   ]

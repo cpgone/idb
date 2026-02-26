@@ -38,7 +38,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10491",
     "name": "Enhanced Oil Recovery Techniques",
     "publications": 988,
-    "citations": 22466
+    "citations": 22468
   },
   {
     "id": "https://openalex.org/T11801",
@@ -440,7 +440,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11434",
     "name": "Electrochemical Analysis and Applications",
     "publications": 35,
-    "citations": 700
+    "citations": 702
   },
   {
     "id": "https://openalex.org/T11401",
@@ -452,7 +452,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10480",
     "name": "Ionic liquids properties and applications",
     "publications": 33,
-    "citations": 798
+    "citations": 800
   },
   {
     "id": "https://openalex.org/T10233",
@@ -890,7 +890,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10180",
     "name": "Analytical chemistry methods development",
     "publications": 17,
-    "citations": 144
+    "citations": 145
   },
   {
     "id": "https://openalex.org/T10624",
@@ -956,7 +956,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10908",
     "name": "Analytical Chemistry and Chromatography",
     "publications": 15,
-    "citations": 473
+    "citations": 474
   },
   {
     "id": "https://openalex.org/T10532",
@@ -2792,7 +2792,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11460",
     "name": "Analytical Methods in Pharmaceuticals",
     "publications": 4,
-    "citations": 41
+    "citations": 42
   },
   {
     "id": "https://openalex.org/T11052",
@@ -8999,7 +8999,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I24676775",
     "name": "Indian Institute of Technology Madras",
     "publications": 23,
-    "citations": 812
+    "citations": 814
   },
   {
     "id": "https://openalex.org/I28022161",
@@ -9059,7 +9059,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I91041137",
     "name": "Assiut University",
     "publications": 22,
-    "citations": 325
+    "citations": 326
   },
   {
     "id": "https://openalex.org/I139660479",

@@ -194,7 +194,7 @@
       {
         "id": "https://openalex.org/T12247",
         "display_name": "Microbial Applications in Construction Materials",
-        "value": 0.0002055,
+        "value": 0.0002052,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -794,11 +794,11 @@
         "currency": "EUR",
         "value_usd": 1930
       },
-      "fwci": 18.5061,
+      "fwci": 18.5064,
       "has_fulltext": true,
       "cited_by_count": 187,
       "citation_normalized_percentile": {
-        "value": 0.99751244,
+        "value": 0.99751252,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1231,9 +1231,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -2761,9 +2761,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -5673,9 +5673,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -8592,9 +8592,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9233,9 +9233,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -10477,9 +10477,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -13522,9 +13522,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -14835,9 +14835,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -18177,9 +18177,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -19291,11 +19291,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7322,
+      "fwci": 1.7317,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.82197978,
+        "value": 0.8219857,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19561,9 +19561,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [
@@ -20027,11 +20027,11 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 1.6994,
+      "fwci": 1.6326,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.81447806,
+        "value": 0.81093626,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23560,11 +23560,11 @@
         "currency": "USD",
         "value_usd": 1685
       },
-      "fwci": 0.3117,
+      "fwci": 1.4439,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.50190114,
+        "value": 0.82660057,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26067,9 +26067,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -27487,9 +27487,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -28702,9 +28702,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Partnerships for the goals",
+          "id": "https://metadata.un.org/sdg/17",
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/17"
+          "display_name": "Partnerships for the goals"
         }
       ],
       "awards": [],
@@ -34278,9 +34278,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Decent work and economic growth",
+          "id": "https://metadata.un.org/sdg/8",
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/8"
+          "display_name": "Decent work and economic growth"
         }
       ],
       "awards": [],
@@ -35977,11 +35977,11 @@
         "currency": "USD",
         "value_usd": 1685
       },
-      "fwci": 0.7302,
+      "fwci": 0.6648,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.64040999,
+        "value": 0.62301176,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36366,9 +36366,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Decent work and economic growth",
+          "id": "https://metadata.un.org/sdg/8",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/8"
+          "display_name": "Decent work and economic growth"
         }
       ],
       "awards": [],
@@ -41957,11 +41957,11 @@
         "currency": "EUR",
         "value_usd": 1930
       },
-      "fwci": 0.2887,
+      "fwci": 0.2886,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.51899282,
+        "value": 0.51887577,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42339,9 +42339,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -43007,11 +43007,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2037,
+      "fwci": 0.2032,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.45474607,
+        "value": 0.45446302,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46184,9 +46184,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -49988,9 +49988,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],

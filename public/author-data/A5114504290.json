@@ -734,16 +734,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.41999998688697815
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -1685,7 +1685,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1263361,
+        "value": 0.12555012,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1863,8 +1863,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -3197,21 +3197,21 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.44999998807907104
+          "display_name": "Responsible consumption and production"
         },
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4300000071525574
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,

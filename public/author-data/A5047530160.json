@@ -10,9 +10,9 @@
       "Radwan, Omar"
     ],
     "works_count": 22,
-    "cited_by_count": 95,
+    "cited_by_count": 96,
     "summary_stats": {
-      "2yr_mean_citedness": 5,
+      "2yr_mean_citedness": 5.111111111111111,
       "h_index": 6,
       "i10_index": 4
     },
@@ -168,7 +168,7 @@
       {
         "id": "https://openalex.org/T13298",
         "display_name": "Solar Energy Systems and Technologies",
-        "value": 0.0000398,
+        "value": 0.0000396,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -185,7 +185,7 @@
       {
         "id": "https://openalex.org/T10938",
         "display_name": "Phase Change Materials Research",
-        "value": 0.0000368,
+        "value": 0.0000366,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -295,7 +295,7 @@
         "year": 2024,
         "works_count": 4,
         "oa_works_count": 2,
-        "cited_by_count": 33
+        "cited_by_count": 34
       },
       {
         "year": 2025,
@@ -320,7 +320,7 @@
     },
     "block_key": "o radwan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5047530160",
-    "updated_date": "2026-02-19T12:19:50",
+    "updated_date": "2026-02-25T12:19:17",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -1550,9 +1550,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.8899999856948853
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
@@ -2780,9 +2780,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.7900000214576721
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
@@ -3610,9 +3610,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.44999998807907104
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -3976,11 +3976,11 @@
         "currency": "USD",
         "value_usd": 1685
       },
-      "fwci": 3.8929,
+      "fwci": 3.774,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.92235431,
+        "value": 0.92068033,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5476,9 +5476,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.4399999976158142
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7042,9 +7042,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9931,9 +9931,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.800000011920929
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],

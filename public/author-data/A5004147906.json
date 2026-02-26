@@ -13,9 +13,9 @@
       "Joakim H. Beck"
     ],
     "works_count": 49,
-    "cited_by_count": 732,
+    "cited_by_count": 736,
     "summary_stats": {
-      "2yr_mean_citedness": 2,
+      "2yr_mean_citedness": 2.375,
       "h_index": 13,
       "i10_index": 15
     },
@@ -295,7 +295,7 @@
       {
         "id": "https://openalex.org/T10848",
         "display_name": "Advanced Multi-Objective Optimization Algorithms",
-        "value": 0.0000619,
+        "value": 0.0000618,
         "subfield": {
           "id": "https://openalex.org/subfields/1703",
           "display_name": "Computational Theory and Mathematics"
@@ -312,7 +312,7 @@
       {
         "id": "https://openalex.org/T10110",
         "display_name": "earthquake and tectonic studies",
-        "value": 0.0000528,
+        "value": 0.0000527,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -453,7 +453,7 @@
         "year": 2022,
         "works_count": 3,
         "oa_works_count": 3,
-        "cited_by_count": 52
+        "cited_by_count": 53
       },
       {
         "year": 2023,
@@ -465,13 +465,13 @@
         "year": 2024,
         "works_count": 3,
         "oa_works_count": 3,
-        "cited_by_count": 10
+        "cited_by_count": 12
       },
       {
         "year": 2025,
         "works_count": 5,
         "oa_works_count": 3,
-        "cited_by_count": 6
+        "cited_by_count": 7
       }
     ],
     "longest_name": "Joakim H. Beck",
@@ -484,7 +484,7 @@
     },
     "block_key": "j beck",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5004147906",
-    "updated_date": "2026-02-18T12:20:29",
+    "updated_date": "2026-02-25T12:19:17",
     "created_date": "2020-11-09T00:00:00"
   },
   "works": [
@@ -3330,9 +3330,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/10",
-          "display_name": "Reduced inequalities"
+          "display_name": "Reduced inequalities",
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
@@ -4723,9 +4723,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.4099999964237213
         }
       ],
       "awards": [
@@ -5519,9 +5519,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [
@@ -10909,11 +10909,11 @@
         "value_usd": 4070
       },
       "apc_paid": null,
-      "fwci": 5.20622652,
+      "fwci": 5.6082,
       "has_fulltext": false,
       "cited_by_count": 77,
       "citation_normalized_percentile": {
-        "value": 0.96541856,
+        "value": 0.96240279,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11193,18 +11193,16 @@
           "landing_page_url": "https://www.research.ed.ac.uk/en/publications/2316be55-6f87-4458-aa0a-51ece8b512c5",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306400321",
-            "display_name": "Edinburgh Research Explorer (University of Edinburgh)",
+            "id": "https://openalex.org/S4406922455",
+            "display_name": "Edinburgh Research Explorer",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I98677209",
-            "host_organization_name": "University of Edinburgh",
-            "host_organization_lineage": [
-              "https://openalex.org/I98677209"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -11222,18 +11220,16 @@
           "landing_page_url": "http://hdl.handle.net/20.500.11820/2316be55-6f87-4458-aa0a-51ece8b512c5",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306400320",
-            "display_name": "Edinburgh Research Explorer (University of Edinburgh)",
+            "id": "https://openalex.org/S4406922455",
+            "display_name": "Edinburgh Research Explorer",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I98677209",
-            "host_organization_name": "University of Edinburgh",
-            "host_organization_lineage": [
-              "https://openalex.org/I98677209"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -11252,18 +11248,16 @@
         "landing_page_url": "https://www.research.ed.ac.uk/en/publications/2316be55-6f87-4458-aa0a-51ece8b512c5",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306400321",
-          "display_name": "Edinburgh Research Explorer (University of Edinburgh)",
+          "id": "https://openalex.org/S4406922455",
+          "display_name": "Edinburgh Research Explorer",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I98677209",
-          "host_organization_name": "University of Edinburgh",
-          "host_organization_lineage": [
-            "https://openalex.org/I98677209"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -11277,9 +11271,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [
@@ -11454,7 +11448,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-05T00:54:17.221276",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13986,11 +13980,11 @@
         "currency": "EUR",
         "value_usd": 1553
       },
-      "fwci": 3.8316,
+      "fwci": 3.8313,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.94345084,
+        "value": 0.94344567,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14373,9 +14367,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5099999904632568
         }
       ],
       "awards": [
@@ -17248,9 +17242,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -18438,7 +18432,7 @@
         "value_usd": 4840
       },
       "apc_paid": null,
-      "fwci": 0.9755,
+      "fwci": 0.9753,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
@@ -20453,9 +20447,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/8",
-          "display_name": "Decent work and economic growth"
+          "display_name": "Decent work and economic growth",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -20942,7 +20936,7 @@
         "value_usd": 3510
       },
       "apc_paid": null,
-      "fwci": 2.8042,
+      "fwci": 2.8041,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
@@ -21821,9 +21815,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.5099999904632568
         }
       ],
       "awards": [
@@ -24310,9 +24304,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5
         }
       ],
       "awards": [
@@ -29950,9 +29944,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6499999761581421,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6499999761581421
         }
       ],
       "awards": [
@@ -30490,11 +30484,11 @@
         "currency": "USD",
         "value_usd": 2870
       },
-      "fwci": 2.0275,
+      "fwci": 2.0032,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.82487731,
+        "value": 0.82330544,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30776,9 +30770,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6299999952316284,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6299999952316284
         }
       ],
       "awards": [
@@ -31480,9 +31474,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
@@ -32595,7 +32589,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.54374548,
+        "value": 0.53896056,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34035,7 +34029,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32510288,
+        "value": 0.32443532,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34345,9 +34339,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
@@ -34782,7 +34776,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.09884011,
+        "value": 0.09883752,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36904,9 +36898,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
@@ -37584,9 +37578,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7200000286102295,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -38364,9 +38358,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.75
         }
       ],
       "awards": [],
@@ -38785,9 +38779,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -41184,9 +41178,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -42105,9 +42099,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -47670,9 +47664,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6100000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6100000143051147
         }
       ],
       "awards": [],
@@ -48341,7 +48335,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35989436,
+        "value": 0.37570293,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

@@ -271,7 +271,8 @@
           ]
         },
         "years": [
-          2012
+          2012,
+          2011
         ]
       },
       {
@@ -437,7 +438,7 @@
       {
         "id": "https://openalex.org/T10024",
         "display_name": "TiO2 Photocatalysis and Solar Cells",
-        "value": 0.0001261,
+        "value": 0.000126,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -672,7 +673,7 @@
     },
     "block_key": "a el-zohry",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5063047677",
-    "updated_date": "2026-02-24T12:19:58",
+    "updated_date": "2026-02-25T12:19:17",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1711,9 +1712,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5899999737739563,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.5899999737739563
         }
       ],
       "awards": [
@@ -2920,9 +2921,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "score": 0.5400000214576721
         }
       ],
       "awards": [],
@@ -4194,9 +4195,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7200000286102295,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -7349,11 +7350,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 9.4022,
+      "fwci": 9.1739,
       "has_fulltext": false,
       "cited_by_count": 212,
       "citation_normalized_percentile": {
-        "value": 0.98435147,
+        "value": 0.98353489,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13602,9 +13603,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6100000143051147,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.6100000143051147
         }
       ],
       "awards": [
@@ -14849,9 +14850,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -16589,9 +16590,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.7400000095367432
         }
       ],
       "awards": [
@@ -19139,9 +19140,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6299999952316284,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.6299999952316284
         }
       ],
       "awards": [
@@ -21604,9 +21605,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -22670,11 +22671,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.9495,
+      "fwci": 4.9496,
       "has_fulltext": false,
       "cited_by_count": 91,
       "citation_normalized_percentile": {
-        "value": 0.96443277,
+        "value": 0.96443338,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26161,11 +26162,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.745,
+      "fwci": 7.7453,
       "has_fulltext": false,
       "cited_by_count": 69,
       "citation_normalized_percentile": {
-        "value": 0.97838178,
+        "value": 0.97838264,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26592,9 +26593,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.5699999928474426
         }
       ],
       "awards": [
@@ -29514,9 +29515,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5899999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
@@ -33281,9 +33282,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
+          "display_name": "Peace, Justice and strong institutions",
           "id": "https://metadata.un.org/sdg/16",
-          "display_name": "Peace, Justice and strong institutions"
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
@@ -34114,11 +34115,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.383,
+      "fwci": 4.2171,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.95000179,
+        "value": 0.94734725,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -37493,9 +37494,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
@@ -38103,9 +38104,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -43356,9 +43357,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6600000262260437,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
@@ -43913,9 +43914,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -46838,9 +46839,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [
@@ -47844,7 +47845,7 @@
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.83478851,
+        "value": 0.83479252,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50995,9 +50996,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -52531,9 +52532,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.7400000095367432
         }
       ],
       "awards": [
@@ -53990,9 +53991,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -55158,9 +55159,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -55726,6 +55727,960 @@
         {
           "year": 2019,
           "cited_by_count": 7
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1999350124",
+      "doi": "https://doi.org/10.1080/17518253.2010.546370",
+      "title": "Environmental method for spectrophotometric determination of copper(II)",
+      "display_name": "Environmental method for spectrophotometric determination of copper(II)",
+      "publication_year": 2011,
+      "publication_date": "2011-04-07",
+      "ids": {
+        "openalex": "https://openalex.org/W1999350124",
+        "doi": "https://doi.org/10.1080/17518253.2010.546370",
+        "mag": "1999350124"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1080/17518253.2010.546370",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1080/17518253.2010.546370",
+        "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/17518253.2010.546370?needAccess=true&role=button",
+        "source": {
+          "id": "https://openalex.org/S197698500",
+          "display_name": "Green Chemistry Letters and Reviews",
+          "issn_l": "1751-7192",
+          "issn": [
+            "1751-7192",
+            "1751-8253"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Green Chemistry Letters and Reviews",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/17518253.2010.546370?needAccess=true&role=button",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5108429709",
+            "display_name": "Elham Y. Hashem",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91041137",
+              "display_name": "Assiut University",
+              "ror": "https://ror.org/01jaj8n65",
+              "country_code": "EG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91041137"
+              ]
+            }
+          ],
+          "countries": [
+            "EG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "E.Y. Hashem",
+          "raw_affiliation_strings": [
+            "a Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
+            "Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "a Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
+              "institution_ids": [
+                "https://openalex.org/I91041137"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
+              "institution_ids": [
+                "https://openalex.org/I91041137"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084804151",
+            "display_name": "M. M. Seleim",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91041137",
+              "display_name": "Assiut University",
+              "ror": "https://ror.org/01jaj8n65",
+              "country_code": "EG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91041137"
+              ]
+            }
+          ],
+          "countries": [
+            "EG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M.M. Seleim",
+          "raw_affiliation_strings": [
+            "a Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
+            "Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "a Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
+              "institution_ids": [
+                "https://openalex.org/I91041137"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
+              "institution_ids": [
+                "https://openalex.org/I91041137"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5063047677",
+            "display_name": "Ahmed M. El‐Zohry",
+            "orcid": "https://orcid.org/0000-0003-2901-5815"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91041137",
+              "display_name": "Assiut University",
+              "ror": "https://ror.org/01jaj8n65",
+              "country_code": "EG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91041137"
+              ]
+            }
+          ],
+          "countries": [
+            "EG"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ahmed M. El-Zohry",
+          "raw_affiliation_strings": [
+            "a Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
+            "Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "a Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
+              "institution_ids": [
+                "https://openalex.org/I91041137"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
+              "institution_ids": [
+                "https://openalex.org/I91041137"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5063047677"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I91041137"
+      ],
+      "apc_list": {
+        "value": 1250,
+        "currency": "GBP",
+        "value_usd": 1533
+      },
+      "apc_paid": null,
+      "fwci": 0.5643,
+      "has_fulltext": false,
+      "cited_by_count": 25,
+      "citation_normalized_percentile": {
+        "value": 0.66643181,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "4",
+        "issue": "3",
+        "first_page": "241",
+        "last_page": "248"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11460",
+        "display_name": "Analytical Methods in Pharmaceuticals",
+        "score": 0.9957000017166138,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1602",
+          "display_name": "Analytical Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/16",
+          "display_name": "Chemistry"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11460",
+          "display_name": "Analytical Methods in Pharmaceuticals",
+          "score": 0.9957000017166138,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1602",
+            "display_name": "Analytical Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/16",
+            "display_name": "Chemistry"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10180",
+          "display_name": "Analytical chemistry methods development",
+          "score": 0.9952999949455261,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1602",
+            "display_name": "Analytical Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/16",
+            "display_name": "Chemistry"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10908",
+          "display_name": "Analytical Chemistry and Chromatography",
+          "score": 0.9927999973297119,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1607",
+            "display_name": "Spectroscopy"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/16",
+            "display_name": "Chemistry"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.8856590986251831
+        },
+        {
+          "id": "https://openalex.org/keywords/copper",
+          "display_name": "Copper",
+          "score": 0.8518706560134888
+        },
+        {
+          "id": "https://openalex.org/keywords/molar-absorptivity",
+          "display_name": "Molar absorptivity",
+          "score": 0.8120120763778687
+        },
+        {
+          "id": "https://openalex.org/keywords/reagent",
+          "display_name": "Reagent",
+          "score": 0.7454696893692017
+        },
+        {
+          "id": "https://openalex.org/keywords/ternary-operation",
+          "display_name": "Ternary operation",
+          "score": 0.5675050020217896
+        },
+        {
+          "id": "https://openalex.org/keywords/absorption",
+          "display_name": "Absorption (acoustics)",
+          "score": 0.48968175053596497
+        },
+        {
+          "id": "https://openalex.org/keywords/ternary-complex",
+          "display_name": "Ternary complex",
+          "score": 0.4843391180038452
+        },
+        {
+          "id": "https://openalex.org/keywords/salicylic-acid",
+          "display_name": "Salicylic acid",
+          "score": 0.43606898188591003
+        },
+        {
+          "id": "https://openalex.org/keywords/inorganic-chemistry",
+          "display_name": "Inorganic chemistry",
+          "score": 0.35719871520996094
+        },
+        {
+          "id": "https://openalex.org/keywords/nuclear-chemistry",
+          "display_name": "Nuclear chemistry",
+          "score": 0.35194095969200134
+        },
+        {
+          "id": "https://openalex.org/keywords/chromatography",
+          "display_name": "Chromatography",
+          "score": 0.32007265090942383
+        },
+        {
+          "id": "https://openalex.org/keywords/organic-chemistry",
+          "display_name": "Organic chemistry",
+          "score": 0.1777586042881012
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.8856590986251831
+        },
+        {
+          "id": "https://openalex.org/C544778455",
+          "wikidata": "https://www.wikidata.org/wiki/Q753",
+          "display_name": "Copper",
+          "level": 2,
+          "score": 0.8518706560134888
+        },
+        {
+          "id": "https://openalex.org/C76046532",
+          "wikidata": "https://www.wikidata.org/wiki/Q900239",
+          "display_name": "Molar absorptivity",
+          "level": 2,
+          "score": 0.8120120763778687
+        },
+        {
+          "id": "https://openalex.org/C40875361",
+          "wikidata": "https://www.wikidata.org/wiki/Q2356542",
+          "display_name": "Reagent",
+          "level": 2,
+          "score": 0.7454696893692017
+        },
+        {
+          "id": "https://openalex.org/C64452783",
+          "wikidata": "https://www.wikidata.org/wiki/Q1524945",
+          "display_name": "Ternary operation",
+          "level": 2,
+          "score": 0.5675050020217896
+        },
+        {
+          "id": "https://openalex.org/C125287762",
+          "wikidata": "https://www.wikidata.org/wiki/Q1758948",
+          "display_name": "Absorption (acoustics)",
+          "level": 2,
+          "score": 0.48968175053596497
+        },
+        {
+          "id": "https://openalex.org/C86756495",
+          "wikidata": "https://www.wikidata.org/wiki/Q7702931",
+          "display_name": "Ternary complex",
+          "level": 3,
+          "score": 0.4843391180038452
+        },
+        {
+          "id": "https://openalex.org/C2778221352",
+          "wikidata": "https://www.wikidata.org/wiki/Q193572",
+          "display_name": "Salicylic acid",
+          "level": 2,
+          "score": 0.43606898188591003
+        },
+        {
+          "id": "https://openalex.org/C179104552",
+          "wikidata": "https://www.wikidata.org/wiki/Q11165",
+          "display_name": "Inorganic chemistry",
+          "level": 1,
+          "score": 0.35719871520996094
+        },
+        {
+          "id": "https://openalex.org/C13965031",
+          "wikidata": "https://www.wikidata.org/wiki/Q243545",
+          "display_name": "Nuclear chemistry",
+          "level": 1,
+          "score": 0.35194095969200134
+        },
+        {
+          "id": "https://openalex.org/C43617362",
+          "wikidata": "https://www.wikidata.org/wiki/Q170050",
+          "display_name": "Chromatography",
+          "level": 1,
+          "score": 0.32007265090942383
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0.1777586042881012
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C55493867",
+          "wikidata": "https://www.wikidata.org/wiki/Q7094",
+          "display_name": "Biochemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C181199279",
+          "wikidata": "https://www.wikidata.org/wiki/Q8047",
+          "display_name": "Enzyme",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C199360897",
+          "wikidata": "https://www.wikidata.org/wiki/Q9143",
+          "display_name": "Programming language",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C24890656",
+          "wikidata": "https://www.wikidata.org/wiki/Q82811",
+          "display_name": "Acoustics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C120665830",
+          "wikidata": "https://www.wikidata.org/wiki/Q14620",
+          "display_name": "Optics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1080/17518253.2010.546370",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1080/17518253.2010.546370",
+          "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/17518253.2010.546370?needAccess=true&role=button",
+          "source": {
+            "id": "https://openalex.org/S197698500",
+            "display_name": "Green Chemistry Letters and Reviews",
+            "issn_l": "1751-7192",
+            "issn": [
+              "1751-7192",
+              "1751-8253"
+            ],
+            "is_oa": false,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320547",
+            "host_organization_name": "Taylor & Francis",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320547"
+            ],
+            "host_organization_lineage_names": [
+              "Taylor & Francis"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Green Chemistry Letters and Reviews",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1080/17518253.2010.546370",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1080/17518253.2010.546370",
+        "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/17518253.2010.546370?needAccess=true&role=button",
+        "source": {
+          "id": "https://openalex.org/S197698500",
+          "display_name": "Green Chemistry Letters and Reviews",
+          "issn_l": "1751-7192",
+          "issn": [
+            "1751-7192",
+            "1751-8253"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Green Chemistry Letters and Reviews",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W1999350124.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W1999350124.grobid-xml"
+      },
+      "referenced_works_count": 44,
+      "referenced_works": [
+        "https://openalex.org/W644209308",
+        "https://openalex.org/W1965233426",
+        "https://openalex.org/W1965938315",
+        "https://openalex.org/W1970653517",
+        "https://openalex.org/W1973281681",
+        "https://openalex.org/W1974769909",
+        "https://openalex.org/W1975613635",
+        "https://openalex.org/W1976788731",
+        "https://openalex.org/W1983990467",
+        "https://openalex.org/W1986484640",
+        "https://openalex.org/W2000225579",
+        "https://openalex.org/W2010890467",
+        "https://openalex.org/W2014296546",
+        "https://openalex.org/W2015381415",
+        "https://openalex.org/W2016524698",
+        "https://openalex.org/W2016671269",
+        "https://openalex.org/W2021303523",
+        "https://openalex.org/W2021496871",
+        "https://openalex.org/W2021950600",
+        "https://openalex.org/W2027159819",
+        "https://openalex.org/W2034217842",
+        "https://openalex.org/W2038274124",
+        "https://openalex.org/W2039579200",
+        "https://openalex.org/W2048370770",
+        "https://openalex.org/W2050975757",
+        "https://openalex.org/W2051270856",
+        "https://openalex.org/W2055197558",
+        "https://openalex.org/W2056692933",
+        "https://openalex.org/W2073845407",
+        "https://openalex.org/W2077424707",
+        "https://openalex.org/W2087306272",
+        "https://openalex.org/W2090343512",
+        "https://openalex.org/W2092054714",
+        "https://openalex.org/W2109559565",
+        "https://openalex.org/W2112443172",
+        "https://openalex.org/W2114378216",
+        "https://openalex.org/W2124981291",
+        "https://openalex.org/W2171473267",
+        "https://openalex.org/W2187111217",
+        "https://openalex.org/W2526365389",
+        "https://openalex.org/W2611280591",
+        "https://openalex.org/W2911768915",
+        "https://openalex.org/W2952279005",
+        "https://openalex.org/W3140628481"
+      ],
+      "related_works": [
+        "https://openalex.org/W2360895413",
+        "https://openalex.org/W2391257446",
+        "https://openalex.org/W2364556964",
+        "https://openalex.org/W2389878504",
+        "https://openalex.org/W2363376320",
+        "https://openalex.org/W2325041012",
+        "https://openalex.org/W2305952210",
+        "https://openalex.org/W2363858798",
+        "https://openalex.org/W2015264679",
+        "https://openalex.org/W2072179000"
+      ],
+      "abstract_inverted_index": {
+        "520": [
+          27
+        ],
+        "Abstract": [
+          0
+        ],
+        "A": [
+          1
+        ],
+        "highly": [
+          2
+        ],
+        "stable": [
+          3,
+          84
+        ],
+        "ternary": [
+          4
+        ],
+        "complex": [
+          5
+        ],
+        "of": [
+          6,
+          51,
+          99
+        ],
+        "copper(II)": [
+          7
+        ],
+        "with": [
+          8,
+          29
+        ],
+        "5-(4-nitrophenylazo)": [
+          9
+        ],
+        "salicylic": [
+          10
+        ],
+        "acid": [
+          11
+        ],
+        "(NPAS)": [
+          12
+        ],
+        "and": [
+          13,
+          74,
+          104
+        ],
+        "2,2′-Dipyridyl": [
+          14
+        ],
+        "(Dp)": [
+          15
+        ],
+        "in": [
+          16,
+          101
+        ],
+        "ethanol": [
+          17
+        ],
+        "medium": [
+          18
+        ],
+        "at": [
+          19,
+          26
+        ],
+        "room": [
+          20
+        ],
+        "temperature": [
+          21
+        ],
+        "gave": [
+          22
+        ],
+        "a": [
+          23,
+          30
+        ],
+        "maximum": [
+          24
+        ],
+        "absorption": [
+          25
+        ],
+        "nm": [
+          28
+        ],
+        "molar": [
+          31
+        ],
+        "absorptivity": [
+          32
+        ],
+        "2.60×104": [
+          33
+        ],
+        "L": [
+          34
+        ],
+        "mol-1": [
+          35
+        ],
+        "cm-1.": [
+          36
+        ],
+        "This": [
+          37
+        ],
+        "method": [
+          38,
+          70,
+          91
+        ],
+        "was": [
+          39,
+          65,
+          71,
+          92
+        ],
+        "characterized": [
+          40
+        ],
+        "by": [
+          41
+        ],
+        "safety": [
+          42
+        ],
+        "to": [
+          43,
+          76,
+          94
+        ],
+        "the": [
+          44,
+          81,
+          86,
+          90,
+          97
+        ],
+        "environment": [
+          45
+        ],
+        "as": [
+          46
+        ],
+        "there": [
+          47
+        ],
+        "are": [
+          48
+        ],
+        "no": [
+          49
+        ],
+        "uses": [
+          50
+        ],
+        "hazardous": [
+          52
+        ],
+        "solvents,": [
+          53
+        ],
+        "which": [
+          54
+        ],
+        "may": [
+          55
+        ],
+        "harm": [
+          56
+        ],
+        "our": [
+          57
+        ],
+        "environment.": [
+          58
+        ],
+        "The": [
+          59,
+          69
+        ],
+        "linear": [
+          60
+        ],
+        "range": [
+          61
+        ],
+        "for": [
+          62,
+          96
+        ],
+        "copper": [
+          63,
+          100
+        ],
+        "determination": [
+          64,
+          98
+        ],
+        "2.2–6.3": [
+          66
+        ],
+        "mg": [
+          67
+        ],
+        "L-1.": [
+          68
+        ],
+        "sensitive,": [
+          72
+        ],
+        "accurate,": [
+          73
+        ],
+        "tolerant": [
+          75
+        ],
+        "many": [
+          77
+        ],
+        "foreign": [
+          78
+        ],
+        "ions.": [
+          79
+        ],
+        "All": [
+          80
+        ],
+        "reagents": [
+          82
+        ],
+        "were": [
+          83
+        ],
+        "under": [
+          85
+        ],
+        "working": [
+          87
+        ],
+        "conditions.": [
+          88
+        ],
+        "Moreover,": [
+          89
+        ],
+        "easy": [
+          93
+        ],
+        "perform": [
+          95
+        ],
+        "pharmaceutical,": [
+          102
+        ],
+        "biological,": [
+          103
+        ],
+        "water": [
+          105
+        ],
+        "samples.": [
+          106
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
@@ -57014,9 +57969,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
@@ -57561,7 +58516,7 @@
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.67745637,
+        "value": 0.67745916,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -58696,13 +59651,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.783,
+      "fwci": 2.6812,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.90171288,
+        "value": 0.89817191,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 98,
@@ -59073,9 +60028,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -59870,11 +60825,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9907,
+      "fwci": 1.9908,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.86735036,
+        "value": 0.86735392,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60553,9 +61508,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -62016,9 +62971,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
+          "display_name": "Good health and well-being",
           "id": "https://metadata.un.org/sdg/3",
-          "display_name": "Good health and well-being"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -64245,7 +65200,7 @@
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.82474498,
+        "value": 0.82474786,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -64687,9 +65642,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
@@ -66053,956 +67008,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W1999350124",
-      "doi": "https://doi.org/10.1080/17518253.2010.546370",
-      "title": "Environmental method for spectrophotometric determination of copper(II)",
-      "display_name": "Environmental method for spectrophotometric determination of copper(II)",
-      "publication_year": 2011,
-      "publication_date": "2011-04-07",
-      "ids": {
-        "openalex": "https://openalex.org/W1999350124",
-        "doi": "https://doi.org/10.1080/17518253.2010.546370",
-        "mag": "1999350124"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1080/17518253.2010.546370",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1080/17518253.2010.546370",
-        "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/17518253.2010.546370?needAccess=true&role=button",
-        "source": {
-          "id": "https://openalex.org/S197698500",
-          "display_name": "Green Chemistry Letters and Reviews",
-          "issn_l": "1751-7192",
-          "issn": [
-            "1751-7192",
-            "1751-8253"
-          ],
-          "is_oa": false,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320547",
-          "host_organization_name": "Taylor & Francis",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320547"
-          ],
-          "host_organization_lineage_names": [
-            "Taylor & Francis"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Green Chemistry Letters and Reviews",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/17518253.2010.546370?needAccess=true&role=button",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5108429709",
-            "display_name": "Elham Y. Hashem",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I91041137",
-              "display_name": "Assiut University",
-              "ror": "https://ror.org/01jaj8n65",
-              "country_code": "EG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I91041137"
-              ]
-            }
-          ],
-          "countries": [
-            "EG"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "E.Y. Hashem",
-          "raw_affiliation_strings": [
-            "a Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
-            "Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "a Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
-              "institution_ids": [
-                "https://openalex.org/I91041137"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
-              "institution_ids": [
-                "https://openalex.org/I91041137"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5084804151",
-            "display_name": "M. M. Seleim",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I91041137",
-              "display_name": "Assiut University",
-              "ror": "https://ror.org/01jaj8n65",
-              "country_code": "EG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I91041137"
-              ]
-            }
-          ],
-          "countries": [
-            "EG"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "M.M. Seleim",
-          "raw_affiliation_strings": [
-            "a Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
-            "Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "a Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
-              "institution_ids": [
-                "https://openalex.org/I91041137"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
-              "institution_ids": [
-                "https://openalex.org/I91041137"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5063047677",
-            "display_name": "Ahmed M. El‐Zohry",
-            "orcid": "https://orcid.org/0000-0003-2901-5815"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I91041137",
-              "display_name": "Assiut University",
-              "ror": "https://ror.org/01jaj8n65",
-              "country_code": "EG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I91041137"
-              ]
-            }
-          ],
-          "countries": [
-            "EG"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Ahmed M. El-Zohry",
-          "raw_affiliation_strings": [
-            "a Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
-            "Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "a Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
-              "institution_ids": [
-                "https://openalex.org/I91041137"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Chemistry Department , Faculty of Science, Assiut University , Assiut, 71516, Egypt",
-              "institution_ids": [
-                "https://openalex.org/I91041137"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5063047677"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I91041137"
-      ],
-      "apc_list": {
-        "value": 1250,
-        "currency": "GBP",
-        "value_usd": 1533
-      },
-      "apc_paid": null,
-      "fwci": 0.58698265,
-      "has_fulltext": false,
-      "cited_by_count": 24,
-      "citation_normalized_percentile": {
-        "value": 0.66430372,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "4",
-        "issue": "3",
-        "first_page": "241",
-        "last_page": "248"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11460",
-        "display_name": "Analytical Methods in Pharmaceuticals",
-        "score": 0.9957000017166138,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1602",
-          "display_name": "Analytical Chemistry"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/16",
-          "display_name": "Chemistry"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11460",
-          "display_name": "Analytical Methods in Pharmaceuticals",
-          "score": 0.9957000017166138,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1602",
-            "display_name": "Analytical Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/16",
-            "display_name": "Chemistry"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10180",
-          "display_name": "Analytical chemistry methods development",
-          "score": 0.9952999949455261,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1602",
-            "display_name": "Analytical Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/16",
-            "display_name": "Chemistry"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10908",
-          "display_name": "Analytical Chemistry and Chromatography",
-          "score": 0.9927999973297119,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1607",
-            "display_name": "Spectroscopy"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/16",
-            "display_name": "Chemistry"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.8856590986251831
-        },
-        {
-          "id": "https://openalex.org/keywords/copper",
-          "display_name": "Copper",
-          "score": 0.8518706560134888
-        },
-        {
-          "id": "https://openalex.org/keywords/molar-absorptivity",
-          "display_name": "Molar absorptivity",
-          "score": 0.8120120763778687
-        },
-        {
-          "id": "https://openalex.org/keywords/reagent",
-          "display_name": "Reagent",
-          "score": 0.7454696893692017
-        },
-        {
-          "id": "https://openalex.org/keywords/ternary-operation",
-          "display_name": "Ternary operation",
-          "score": 0.5675050020217896
-        },
-        {
-          "id": "https://openalex.org/keywords/absorption",
-          "display_name": "Absorption (acoustics)",
-          "score": 0.48968175053596497
-        },
-        {
-          "id": "https://openalex.org/keywords/ternary-complex",
-          "display_name": "Ternary complex",
-          "score": 0.4843391180038452
-        },
-        {
-          "id": "https://openalex.org/keywords/salicylic-acid",
-          "display_name": "Salicylic acid",
-          "score": 0.43606898188591003
-        },
-        {
-          "id": "https://openalex.org/keywords/inorganic-chemistry",
-          "display_name": "Inorganic chemistry",
-          "score": 0.35719871520996094
-        },
-        {
-          "id": "https://openalex.org/keywords/nuclear-chemistry",
-          "display_name": "Nuclear chemistry",
-          "score": 0.35194095969200134
-        },
-        {
-          "id": "https://openalex.org/keywords/chromatography",
-          "display_name": "Chromatography",
-          "score": 0.32007265090942383
-        },
-        {
-          "id": "https://openalex.org/keywords/organic-chemistry",
-          "display_name": "Organic chemistry",
-          "score": 0.1777586042881012
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.8856590986251831
-        },
-        {
-          "id": "https://openalex.org/C544778455",
-          "wikidata": "https://www.wikidata.org/wiki/Q753",
-          "display_name": "Copper",
-          "level": 2,
-          "score": 0.8518706560134888
-        },
-        {
-          "id": "https://openalex.org/C76046532",
-          "wikidata": "https://www.wikidata.org/wiki/Q900239",
-          "display_name": "Molar absorptivity",
-          "level": 2,
-          "score": 0.8120120763778687
-        },
-        {
-          "id": "https://openalex.org/C40875361",
-          "wikidata": "https://www.wikidata.org/wiki/Q2356542",
-          "display_name": "Reagent",
-          "level": 2,
-          "score": 0.7454696893692017
-        },
-        {
-          "id": "https://openalex.org/C64452783",
-          "wikidata": "https://www.wikidata.org/wiki/Q1524945",
-          "display_name": "Ternary operation",
-          "level": 2,
-          "score": 0.5675050020217896
-        },
-        {
-          "id": "https://openalex.org/C125287762",
-          "wikidata": "https://www.wikidata.org/wiki/Q1758948",
-          "display_name": "Absorption (acoustics)",
-          "level": 2,
-          "score": 0.48968175053596497
-        },
-        {
-          "id": "https://openalex.org/C86756495",
-          "wikidata": "https://www.wikidata.org/wiki/Q7702931",
-          "display_name": "Ternary complex",
-          "level": 3,
-          "score": 0.4843391180038452
-        },
-        {
-          "id": "https://openalex.org/C2778221352",
-          "wikidata": "https://www.wikidata.org/wiki/Q193572",
-          "display_name": "Salicylic acid",
-          "level": 2,
-          "score": 0.43606898188591003
-        },
-        {
-          "id": "https://openalex.org/C179104552",
-          "wikidata": "https://www.wikidata.org/wiki/Q11165",
-          "display_name": "Inorganic chemistry",
-          "level": 1,
-          "score": 0.35719871520996094
-        },
-        {
-          "id": "https://openalex.org/C13965031",
-          "wikidata": "https://www.wikidata.org/wiki/Q243545",
-          "display_name": "Nuclear chemistry",
-          "level": 1,
-          "score": 0.35194095969200134
-        },
-        {
-          "id": "https://openalex.org/C43617362",
-          "wikidata": "https://www.wikidata.org/wiki/Q170050",
-          "display_name": "Chromatography",
-          "level": 1,
-          "score": 0.32007265090942383
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0.1777586042881012
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C55493867",
-          "wikidata": "https://www.wikidata.org/wiki/Q7094",
-          "display_name": "Biochemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C181199279",
-          "wikidata": "https://www.wikidata.org/wiki/Q8047",
-          "display_name": "Enzyme",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C199360897",
-          "wikidata": "https://www.wikidata.org/wiki/Q9143",
-          "display_name": "Programming language",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C24890656",
-          "wikidata": "https://www.wikidata.org/wiki/Q82811",
-          "display_name": "Acoustics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C120665830",
-          "wikidata": "https://www.wikidata.org/wiki/Q14620",
-          "display_name": "Optics",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1080/17518253.2010.546370",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1080/17518253.2010.546370",
-          "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/17518253.2010.546370?needAccess=true&role=button",
-          "source": {
-            "id": "https://openalex.org/S197698500",
-            "display_name": "Green Chemistry Letters and Reviews",
-            "issn_l": "1751-7192",
-            "issn": [
-              "1751-7192",
-              "1751-8253"
-            ],
-            "is_oa": false,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320547",
-            "host_organization_name": "Taylor & Francis",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320547"
-            ],
-            "host_organization_lineage_names": [
-              "Taylor & Francis"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Green Chemistry Letters and Reviews",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1080/17518253.2010.546370",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1080/17518253.2010.546370",
-        "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/17518253.2010.546370?needAccess=true&role=button",
-        "source": {
-          "id": "https://openalex.org/S197698500",
-          "display_name": "Green Chemistry Letters and Reviews",
-          "issn_l": "1751-7192",
-          "issn": [
-            "1751-7192",
-            "1751-8253"
-          ],
-          "is_oa": false,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320547",
-          "host_organization_name": "Taylor & Francis",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320547"
-          ],
-          "host_organization_lineage_names": [
-            "Taylor & Francis"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Green Chemistry Letters and Reviews",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W1999350124.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W1999350124.grobid-xml"
-      },
-      "referenced_works_count": 44,
-      "referenced_works": [
-        "https://openalex.org/W644209308",
-        "https://openalex.org/W1965233426",
-        "https://openalex.org/W1965938315",
-        "https://openalex.org/W1970653517",
-        "https://openalex.org/W1973281681",
-        "https://openalex.org/W1974769909",
-        "https://openalex.org/W1975613635",
-        "https://openalex.org/W1976788731",
-        "https://openalex.org/W1983990467",
-        "https://openalex.org/W1986484640",
-        "https://openalex.org/W2000225579",
-        "https://openalex.org/W2010890467",
-        "https://openalex.org/W2014296546",
-        "https://openalex.org/W2015381415",
-        "https://openalex.org/W2016524698",
-        "https://openalex.org/W2016671269",
-        "https://openalex.org/W2021303523",
-        "https://openalex.org/W2021496871",
-        "https://openalex.org/W2021950600",
-        "https://openalex.org/W2027159819",
-        "https://openalex.org/W2034217842",
-        "https://openalex.org/W2038274124",
-        "https://openalex.org/W2039579200",
-        "https://openalex.org/W2048370770",
-        "https://openalex.org/W2050975757",
-        "https://openalex.org/W2051270856",
-        "https://openalex.org/W2055197558",
-        "https://openalex.org/W2056692933",
-        "https://openalex.org/W2073845407",
-        "https://openalex.org/W2077424707",
-        "https://openalex.org/W2087306272",
-        "https://openalex.org/W2090343512",
-        "https://openalex.org/W2092054714",
-        "https://openalex.org/W2109559565",
-        "https://openalex.org/W2112443172",
-        "https://openalex.org/W2114378216",
-        "https://openalex.org/W2124981291",
-        "https://openalex.org/W2171473267",
-        "https://openalex.org/W2187111217",
-        "https://openalex.org/W2526365389",
-        "https://openalex.org/W2611280591",
-        "https://openalex.org/W2911768915",
-        "https://openalex.org/W2952279005",
-        "https://openalex.org/W3140628481"
-      ],
-      "related_works": [
-        "https://openalex.org/W2360895413",
-        "https://openalex.org/W2391257446",
-        "https://openalex.org/W2364556964",
-        "https://openalex.org/W2389878504",
-        "https://openalex.org/W2363376320",
-        "https://openalex.org/W2325041012",
-        "https://openalex.org/W2305952210",
-        "https://openalex.org/W2363858798",
-        "https://openalex.org/W2015264679",
-        "https://openalex.org/W2072179000"
-      ],
-      "abstract_inverted_index": {
-        "520": [
-          27
-        ],
-        "Abstract": [
-          0
-        ],
-        "A": [
-          1
-        ],
-        "highly": [
-          2
-        ],
-        "stable": [
-          3,
-          84
-        ],
-        "ternary": [
-          4
-        ],
-        "complex": [
-          5
-        ],
-        "of": [
-          6,
-          51,
-          99
-        ],
-        "copper(II)": [
-          7
-        ],
-        "with": [
-          8,
-          29
-        ],
-        "5-(4-nitrophenylazo)": [
-          9
-        ],
-        "salicylic": [
-          10
-        ],
-        "acid": [
-          11
-        ],
-        "(NPAS)": [
-          12
-        ],
-        "and": [
-          13,
-          74,
-          104
-        ],
-        "2,2′-Dipyridyl": [
-          14
-        ],
-        "(Dp)": [
-          15
-        ],
-        "in": [
-          16,
-          101
-        ],
-        "ethanol": [
-          17
-        ],
-        "medium": [
-          18
-        ],
-        "at": [
-          19,
-          26
-        ],
-        "room": [
-          20
-        ],
-        "temperature": [
-          21
-        ],
-        "gave": [
-          22
-        ],
-        "a": [
-          23,
-          30
-        ],
-        "maximum": [
-          24
-        ],
-        "absorption": [
-          25
-        ],
-        "nm": [
-          28
-        ],
-        "molar": [
-          31
-        ],
-        "absorptivity": [
-          32
-        ],
-        "2.60×104": [
-          33
-        ],
-        "L": [
-          34
-        ],
-        "mol-1": [
-          35
-        ],
-        "cm-1.": [
-          36
-        ],
-        "This": [
-          37
-        ],
-        "method": [
-          38,
-          70,
-          91
-        ],
-        "was": [
-          39,
-          65,
-          71,
-          92
-        ],
-        "characterized": [
-          40
-        ],
-        "by": [
-          41
-        ],
-        "safety": [
-          42
-        ],
-        "to": [
-          43,
-          76,
-          94
-        ],
-        "the": [
-          44,
-          81,
-          86,
-          90,
-          97
-        ],
-        "environment": [
-          45
-        ],
-        "as": [
-          46
-        ],
-        "there": [
-          47
-        ],
-        "are": [
-          48
-        ],
-        "no": [
-          49
-        ],
-        "uses": [
-          50
-        ],
-        "hazardous": [
-          52
-        ],
-        "solvents,": [
-          53
-        ],
-        "which": [
-          54
-        ],
-        "may": [
-          55
-        ],
-        "harm": [
-          56
-        ],
-        "our": [
-          57
-        ],
-        "environment.": [
-          58
-        ],
-        "The": [
-          59,
-          69
-        ],
-        "linear": [
-          60
-        ],
-        "range": [
-          61
-        ],
-        "for": [
-          62,
-          96
-        ],
-        "copper": [
-          63,
-          100
-        ],
-        "determination": [
-          64,
-          98
-        ],
-        "2.2–6.3": [
-          66
-        ],
-        "mg": [
-          67
-        ],
-        "L-1.": [
-          68
-        ],
-        "sensitive,": [
-          72
-        ],
-        "accurate,": [
-          73
-        ],
-        "tolerant": [
-          75
-        ],
-        "many": [
-          77
-        ],
-        "foreign": [
-          78
-        ],
-        "ions.": [
-          79
-        ],
-        "All": [
-          80
-        ],
-        "reagents": [
-          82
-        ],
-        "were": [
-          83
-        ],
-        "under": [
-          85
-        ],
-        "working": [
-          87
-        ],
-        "conditions.": [
-          88
-        ],
-        "Moreover,": [
-          89
-        ],
-        "easy": [
-          93
-        ],
-        "perform": [
-          95
-        ],
-        "pharmaceutical,": [
-          102
-        ],
-        "biological,": [
-          103
-        ],
-        "water": [
-          105
-        ],
-        "samples.": [
-          106
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2899788513",
       "doi": "https://doi.org/10.1088/1361-6463/aaefdf",
       "title": "Reduced ion migration and enhanced photoresponse in cuboid crystals of methylammonium lead iodide perovskite",
@@ -67797,9 +67802,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
@@ -68826,9 +68831,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -69644,9 +69649,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
@@ -73099,9 +73104,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4699999988079071,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
@@ -79151,9 +79156,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -81463,9 +81468,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -84646,7 +84651,7 @@
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.65555957,
+        "value": 0.65556523,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -86491,9 +86496,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -87487,9 +87492,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.75
         }
       ],
       "awards": [],
@@ -88887,9 +88892,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
@@ -89829,9 +89834,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -90289,9 +90294,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -92337,9 +92342,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5299999713897705,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -94890,11 +94895,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.043,
+      "fwci": 2.0222,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.86187902,
+        "value": 0.86049841,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -96127,11 +96132,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3553,
+      "fwci": 1.3369,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.81190394,
+        "value": 0.81034989,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -96495,9 +96500,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7200000286102295,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -98870,9 +98875,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -99741,7 +99746,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.06107534,
+        "value": 0.06069514,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -100013,9 +100018,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -100811,9 +100816,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -101125,7 +101130,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.12978723,
+        "value": 0.12940178,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -101384,9 +101389,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -102418,9 +102423,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
@@ -103094,11 +103099,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1086,
+      "fwci": 0.1084,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.36344863,
+        "value": 0.36319692,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -106914,9 +106919,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5600000023841858,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],
@@ -107475,7 +107480,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.02781441,
+        "value": 0.02781063,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -108150,9 +108155,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -109265,9 +109270,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -110533,9 +110538,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
@@ -111084,9 +111089,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -111732,9 +111737,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -112209,7 +112214,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08481036,
+        "value": 0.08480896,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -115174,9 +115179,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -124256,7 +124261,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.22602849,
+        "value": 0.22574796,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -124514,9 +124519,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
+          "display_name": "Partnerships for the goals",
           "id": "https://metadata.un.org/sdg/17",
-          "display_name": "Partnerships for the goals"
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -124558,8 +124563,8 @@
         "der": [
           0,
           5,
-          17,
-          23
+          18,
+          25
         ],
         "Gesellschaft": [
           1
@@ -124573,7 +124578,7 @@
         "(GDCh),": [
           4
         ],
-        "grçßten": [
+        "grten": [
           6
         ],
         "chemiewissenschaftlichen": [
@@ -124585,66 +124590,72 @@
         "in": [
           9
         ],
-        "Kontinentaleuropa.Informationen": [
+        "Kontinentaleuropa.": [
           10
         ],
-        "zu": [
+        "Informationen": [
           11
         ],
+        "zu": [
+          12
+        ],
         "den": [
-          12,
-          27
-        ],
-        "vielfältigen": [
-          13
-        ],
-        "Aktivitäten": [
-          14
-        ],
-        "und": [
-          15
-        ],
-        "Leistungen": [
-          16
-        ],
-        "GDCh,": [
-          18
-        ],
-        "z.B.": [
-          19
-        ],
-        "dem": [
-          20
-        ],
-        "verbilligten": [
-          21
-        ],
-        "Bezug": [
-          22
-        ],
-        "Angewandten": [
-          24
-        ],
-        "Chemie,s": [
-          25
-        ],
-        "owie": [
-          26
-        ],
-        "Antrag": [
-          28
-        ],
-        "auf": [
+          13,
           29
         ],
-        "Mitgliedschaft": [
+        "vielfltigen": [
+          14
+        ],
+        "Aktivitten": [
+          15
+        ],
+        "und": [
+          16
+        ],
+        "Leistungen": [
+          17
+        ],
+        "GDCh,": [
+          19
+        ],
+        "z.": [
+          20
+        ],
+        "B.": [
+          21
+        ],
+        "dem": [
+          22
+        ],
+        "verbilligten": [
+          23
+        ],
+        "Bezug": [
+          24
+        ],
+        "Angewandten": [
+          26
+        ],
+        "Chemie,s": [
+          27
+        ],
+        "owie": [
+          28
+        ],
+        "Antrag": [
           30
         ],
-        "finden": [
+        "auf": [
           31
         ],
-        "Sie": [
+        "Mitgliedschaft": [
           32
+        ],
+        "finden": [
+          33
+        ],
+        "Sie": [
+          34
         ]
       },
       "counts_by_year": [],
@@ -125332,9 +125343,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -126124,9 +126135,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -127107,9 +127118,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7200000286102295,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -131449,9 +131460,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7599999904632568,
+          "display_name": "Good health and well-being",
           "id": "https://metadata.un.org/sdg/3",
-          "display_name": "Good health and well-being"
+          "score": 0.7599999904632568
         }
       ],
       "awards": [],
@@ -132991,7 +133002,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34401572,
+        "value": 0.36057457,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -134005,7 +134016,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32106451,
+        "value": 0.31967224,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -138462,9 +138473,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8657159805297852,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.8657159805297852
         }
       ],
       "awards": [],
@@ -139474,7 +139485,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.31308187,
+        "value": 0.29855923,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -139846,9 +139857,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6359052062034607,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.6359052062034607
         }
       ],
       "awards": [],
@@ -139909,7 +139920,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-02-23T20:09:44.859080",
+      "updated_date": "2026-01-25T23:04:38.658462",
       "created_date": "2026-01-20T00:00:00"
     },
     {
