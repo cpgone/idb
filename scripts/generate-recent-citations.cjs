@@ -6,6 +6,7 @@
  * - Read today's works.csv (already fetched by cache/export).
  * - Load the latest snapshot in data/citation-snapshots/*.json (if any).
  * - Compare citations_today vs citations_prev; if increased, emit a feed item with addedAt=today.
+ * - Merge today's new items with the existing recent-citations file, keeping a rolling window.
  * - Save today's snapshot for the next run.
  *
  * Environment (optional):
@@ -21,6 +22,8 @@ const outputPath = path.join(root, "data", "recent-citations.json");
 const snapshotsDir = path.join(root, "data", "citation-snapshots");
 
 const todayIso = new Date().toISOString().slice(0, 10);
+const windowDaysEnv = Number(process.env.RECENT_CITATIONS_WINDOW_DAYS || "");
+const windowDays = Number.isFinite(windowDaysEnv) && windowDaysEnv > 0 ? windowDaysEnv : 31;
 
 const ensureDir = (p) => {
   if (!fs.existsSync(p)) fs.mkdirSync(p, { recursive: true });
@@ -68,11 +71,29 @@ const writeSnapshot = (map) => {
   fs.writeFileSync(file, JSON.stringify(map, null, 2));
 };
 
+const loadExistingFeed = () => {
+  if (!fs.existsSync(outputPath)) return [];
+  try {
+    const data = JSON.parse(fs.readFileSync(outputPath, "utf8"));
+    return Array.isArray(data) ? data : [];
+  } catch {
+    return [];
+  }
+};
+
+const withinWindow = (isoDate) => {
+  const t = Date.parse(isoDate || "");
+  if (Number.isNaN(t)) return false;
+  const cutoff = Date.now() - windowDays * 24 * 60 * 60 * 1000;
+  return t >= cutoff;
+};
+
 const main = () => {
   const works = readWorks();
   const prev = loadLatestSnapshot() || {};
   const currentSnapshot = {};
-  const feed = [];
+  const existingFeed = loadExistingFeed();
+  const newFeedItems = [];
 
   for (const w of works) {
     const workId = w.work_id;
@@ -81,7 +102,7 @@ const main = () => {
     currentSnapshot[workId] = citationsNow;
     const prevCites = Number(prev[workId] || 0);
     if (citationsNow > prevCites) {
-      feed.push({
+      newFeedItems.push({
         workId,
         doi: w.doi || "",
         title: w.title || "",
@@ -96,11 +117,40 @@ const main = () => {
     }
   }
 
-  fs.writeFileSync(outputPath, JSON.stringify(feed, null, 2));
+  // Merge with existing feed, keeping the most recent entry per workId and trimming to window
+  const merged = new Map();
+
+  const pushItem = (item) => {
+    if (!item.workId) return;
+    const key = item.workId;
+    const existing = merged.get(key);
+    if (!existing) {
+      merged.set(key, item);
+      return;
+    }
+    // Prefer newer addedAt; if same day, keep higher citedByCount
+    const existingTime = Date.parse(existing.addedAt || "");
+    const itemTime = Date.parse(item.addedAt || "");
+    if (!Number.isNaN(itemTime) && itemTime > existingTime) {
+      merged.set(key, item);
+    } else if (itemTime === existingTime && (item.citedByCount || 0) > (existing.citedByCount || 0)) {
+      merged.set(key, item);
+    }
+  };
+
+  existingFeed.forEach((item) => {
+    if (withinWindow(item.addedAt)) pushItem(item);
+  });
+  newFeedItems.forEach(pushItem);
+
+  const finalFeed = Array.from(merged.values()).filter((item) => withinWindow(item.addedAt));
+  finalFeed.sort((a, b) => Date.parse(b.addedAt || "") - Date.parse(a.addedAt || ""));
+
+  fs.writeFileSync(outputPath, JSON.stringify(finalFeed, null, 2));
   writeSnapshot(currentSnapshot);
 
   console.log(
-    `Wrote ${feed.length} recent citation rows to ${outputPath} (snapshot ${todayIso}, prev snapshot ${
+    `Wrote ${newFeedItems.length} new rows, ${finalFeed.length} total in window to ${outputPath} (snapshot ${todayIso}, prev snapshot ${
       Object.keys(prev).length ? "found" : "missing"
     }).`,
   );

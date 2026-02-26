@@ -13,6 +13,9 @@ const outPath = path.join(ROOT, "public", "feed.xml");
 const MAILTO = process.env.OPENALEX_MAILTO || "research@example.com";
 const MAX_ITEMS = Number(process.env.FEED_LIMIT || 100);
 const REQUEST_DELAY_MS = Number(process.env.FEED_REQUEST_DELAY || 200);
+const recentCitationsPath = path.join(ROOT, "data", "recent-citations.json");
+const windowDaysEnv = Number(process.env.RECENT_CITATIONS_WINDOW_DAYS || "");
+const RECENT_WINDOW_DAYS = Number.isFinite(windowDaysEnv) && windowDaysEnv > 0 ? windowDaysEnv : 7;
 
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -91,6 +94,32 @@ const toDoiUrl = (raw) => {
   return normalized.toLowerCase().startsWith("http")
     ? normalized
     : `https://doi.org/${normalized}`;
+};
+
+const canonicalWorkId = (raw) =>
+  (raw || "").trim().replace(/^https?:\/\/(www\.)?openalex\.org\//i, "");
+
+const loadRecentCitations = () => {
+  if (!fs.existsSync(recentCitationsPath)) return new Map();
+  try {
+    const data = JSON.parse(fs.readFileSync(recentCitationsPath, "utf8"));
+    if (!Array.isArray(data)) return new Map();
+    const cutoff = Date.now() - RECENT_WINDOW_DAYS * 24 * 60 * 60 * 1000;
+    const map = new Map();
+    data.forEach((item) => {
+      const t = Date.parse(item.addedAt || "");
+      if (Number.isNaN(t) || t < cutoff) return;
+      const key = canonicalWorkId(item.workId);
+      if (!key) return;
+      map.set(key, {
+        citedByCount: Number(item.citedByCount || 0),
+        addedAt: item.addedAt || "",
+      });
+    });
+    return map;
+  } catch {
+    return new Map();
+  }
 };
 
 const reconstructAbstract = (abstractInvertedIndex, fallback = "") => {
@@ -188,6 +217,7 @@ const main = async () => {
   });
 
   const items = sorted.slice(0, MAX_ITEMS);
+  const recentCitations = loadRecentCitations();
 
   const siteUrl =
     process.env.RSS_SITE_URL ||
@@ -230,6 +260,7 @@ const main = async () => {
       (work.host_venue && work.host_venue.display_name) ||
       row[pickKey(headers, "venue")] ||
       "";
+    const recent = recentCitations.get(canonicalWorkId(openAlexId));
 
     const authors =
       (work.authorships || [])
@@ -260,6 +291,11 @@ const main = async () => {
     if (venue) descriptionLines.push(`Venue: ${venue}`);
     if (pubYear) descriptionLines.push(`Year: ${pubYear}`);
     if (citations !== "") descriptionLines.push(`Citations: ${citations}`);
+    if (recent && recent.citedByCount > 0) {
+      descriptionLines.push(
+        `New citations (last ${RECENT_WINDOW_DAYS}d): +${recent.citedByCount} on ${recent.addedAt}`,
+      );
+    }
     const description = descriptionLines.join("\n");
 
     lines.push("    <item>");

@@ -11,6 +11,9 @@ const path = require("path");
 const ROOT = path.resolve(__dirname, "..");
 const worksPath = path.join(ROOT, "data", "works.csv");
 const outPath = path.join(ROOT, "public", "rss.xml");
+const recentCitationsPath = path.join(ROOT, "data", "recent-citations.json");
+const windowDaysEnv = Number(process.env.RECENT_CITATIONS_WINDOW_DAYS || "");
+const RECENT_WINDOW_DAYS = Number.isFinite(windowDaysEnv) && windowDaysEnv > 0 ? windowDaysEnv : 7;
 
 const parseCsvLine = (line) => {
   const result = [];
@@ -76,9 +79,8 @@ const escapeXml = (str) => {
     .replace(/'/g, "&apos;");
 };
 
-const pickKey = (headers, target) => {
-  return headers.find((h) => h.toLowerCase() === target) || target;
-};
+const pickKey = (headers, target) =>
+  headers.find((h) => h.toLowerCase() === target) || target;
 
 const toDoiUrl = (raw) => {
   if (!raw) return "";
@@ -89,12 +91,39 @@ const toDoiUrl = (raw) => {
     : `https://doi.org/${normalized}`;
 };
 
+const canonicalWorkId = (raw) =>
+  (raw || "").trim().replace(/^https?:\/\/(www\.)?openalex\.org\//i, "");
+
+const loadRecentCitations = () => {
+  if (!fs.existsSync(recentCitationsPath)) return new Map();
+  try {
+    const data = JSON.parse(fs.readFileSync(recentCitationsPath, "utf8"));
+    if (!Array.isArray(data)) return new Map();
+    const cutoff = Date.now() - RECENT_WINDOW_DAYS * 24 * 60 * 60 * 1000;
+    const map = new Map();
+    data.forEach((item) => {
+      const t = Date.parse(item.addedAt || "");
+      if (Number.isNaN(t) || t < cutoff) return;
+      const key = canonicalWorkId(item.workId);
+      if (!key) return;
+      map.set(key, {
+        citedByCount: Number(item.citedByCount || 0),
+        addedAt: item.addedAt || "",
+      });
+    });
+    return map;
+  } catch {
+    return new Map();
+  }
+};
+
 const main = () => {
   const { headers, rows } = readCsv(worksPath);
   if (!headers.length) {
     console.error("No data/works.csv found or file is empty. Skipping RSS generation.");
     process.exit(0);
   }
+  const recentCitations = loadRecentCitations();
 
   const titleKey = pickKey(headers, "title");
   const doiKey = pickKey(headers, "doi");
@@ -153,6 +182,7 @@ const main = () => {
     const program = row[programKey] || "";
     const venue = row[venueKey] || "";
     const citations = row[citationsKey] || "";
+    const recent = recentCitations.get(canonicalWorkId(workId));
     const pubDateRaw = row[publicationDateKey] || "";
     const authors = row[allAuthorsKey] || "";
     const firstAuthor = row[firstAuthorKey] || "";
@@ -172,6 +202,11 @@ const main = () => {
     if (venue) detailParts.push(`Venue: ${venue}`);
     if (year) detailParts.push(`Year: ${year}`);
     if (citations !== "") detailParts.push(`Citations: ${citations}`);
+    if (recent && recent.citedByCount > 0) {
+      detailParts.push(
+        `New citations (last ${RECENT_WINDOW_DAYS}d): +${recent.citedByCount} on ${recent.addedAt}`,
+      );
+    }
     if (doiUrl) detailParts.push(`DOI: ${doiUrl}`);
     if (openAlexUrl) detailParts.push(`OpenAlex: ${openAlexUrl}`);
     const description = detailParts.join(" | ");
