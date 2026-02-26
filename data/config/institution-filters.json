@@ -1,0 +1,36 @@
+{
+  "default": "all",
+  "options": [
+    {
+      "id": "all",
+      "label": "All institutions",
+      "shortLabel": "All",
+      "match": "any",
+      "institutions": []
+    },
+    {
+      "id": "kfupm",
+      "label": "King Fahd University of Petroleum and Minerals",
+      "shortLabel": "KFUPM",
+      "match": "any",
+      "institutions": [
+        "King Fahd University of Petroleum and Minerals"
+      ]
+    },
+    {
+      "id": "kfupm-saudi-aramco",
+      "label": "KFUPM and Saudi Aramco",
+      "shortLabel": "KFUPM + Saudi Aramco",
+      "match": "all",
+      "institutionGroups": [
+        [
+          "King Fahd University of Petroleum and Minerals"
+        ],
+        [
+          "Saudi Aramco (Saudi Arabia)",
+          "Saudi Aramco (United States)"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "showStats": true,
+  "showCharts": true,
+  "showInstitutionFilter": false,
+  "mainPageDefaults": {
+    "yearRange": {
+      "from": null,
+      "to": null
+    },
+    "publicationType": "all",
+    "institutionFilterId": ""
+  },
+  "authorDetailDefaults": {
+    "yearRange": {
+      "from": null,
+      "to": null
+    },
+    "publicationType": "all",
+    "institutionFilterId": "all"
+  },
+  "recentCitationsWindowDays": 7,
+  "statCards": {
+    "members": true,
+    "topics": true,
+    "insights": true,
+    "institutions": true,
+    "publications": true,
+    "citations": true
+  }
+}
