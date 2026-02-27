@@ -995,15 +995,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2990801408.pdf",
@@ -2454,8 +2454,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -2467,8 +2467,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2952243008.pdf",
@@ -3817,8 +3817,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2980267472.pdf",
@@ -4787,11 +4787,11 @@
         "currency": "EUR",
         "value_usd": 1930
       },
-      "fwci": 5.296,
+      "fwci": 5.2961,
       "has_fulltext": true,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.95704557,
+        "value": 0.9570469,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5224,8 +5224,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3020163029.pdf",
@@ -5290,7 +5290,579 @@
         "https://openalex.org/W2147112816",
         "https://openalex.org/W1979811603"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "2": [
+          195
+        ],
+        "12": [
+          192
+        ],
+        "30": [
+          82,
+          151,
+          169,
+          240
+        ],
+        "350": [
+          167
+        ],
+        "Abstract": [
+          0
+        ],
+        "Weighting": [
+          1
+        ],
+        "agents": [
+          2
+        ],
+        "are": [
+          3
+        ],
+        "mixed": [
+          4
+        ],
+        "with": [
+          5,
+          60,
+          231
+        ],
+        "the": [
+          6,
+          11,
+          22,
+          29,
+          34,
+          43,
+          85,
+          98,
+          102,
+          113,
+          120,
+          130,
+          146,
+          173,
+          180,
+          187,
+          200,
+          211,
+          215,
+          225,
+          232,
+          236,
+          244,
+          249
+        ],
+        "drilling": [
+          7,
+          23,
+          44,
+          64,
+          131,
+          141,
+          216
+        ],
+        "mud": [
+          8
+        ],
+        "to": [
+          9,
+          15,
+          54,
+          73,
+          96,
+          224
+        ],
+        "provide": [
+          10
+        ],
+        "high": [
+          12
+        ],
+        "density": [
+          13,
+          176
+        ],
+        "required": [
+          14
+        ],
+        "control": [
+          16
+        ],
+        "high-pressure": [
+          17
+        ],
+        "high-temperature": [
+          18
+        ],
+        "(HPHT)": [
+          19
+        ],
+        "wells": [
+          20
+        ],
+        "throughout": [
+          21
+        ],
+        "operation.": [
+          24
+        ],
+        "Solids": [
+          25
+        ],
+        "sag": [
+          26,
+          57,
+          92,
+          99,
+          147,
+          158
+        ],
+        "occurs": [
+          27
+        ],
+        "when": [
+          28,
+          229
+        ],
+        "weighting": [
+          30,
+          87
+        ],
+        "agent": [
+          31
+        ],
+        "separates": [
+          32
+        ],
+        "from": [
+          33
+        ],
+        "liquid": [
+          35
+        ],
+        "phase": [
+          36
+        ],
+        "and": [
+          37,
+          81,
+          90,
+          107,
+          126,
+          163,
+          179,
+          185,
+          255
+        ],
+        "settles": [
+          38
+        ],
+        "down,": [
+          39
+        ],
+        "causing": [
+          40
+        ],
+        "variations": [
+          41
+        ],
+        "in": [
+          42,
+          76,
+          160
+        ],
+        "fluid": [
+          45,
+          142,
+          175,
+          217
+        ],
+        "density.": [
+          46
+        ],
+        "This": [
+          47
+        ],
+        "study": [
+          48
+        ],
+        "evaluates": [
+          49
+        ],
+        "barite–manganese": [
+          50
+        ],
+        "tetroxide": [
+          51
+        ],
+        "(Micromax)": [
+          52
+        ],
+        "mixture": [
+          53
+        ],
+        "eliminate": [
+          55
+        ],
+        "solids": [
+          56
+        ],
+        "issue": [
+          58,
+          159
+        ],
+        "encountered": [
+          59
+        ],
+        "weighted": [
+          61
+        ],
+        "invert": [
+          62
+        ],
+        "emulsion": [
+          63
+        ],
+        "fluids": [
+          65,
+          75
+        ],
+        "at": [
+          66,
+          166,
+          191
+        ],
+        "HPHT": [
+          67
+        ],
+        "conditions.": [
+          68,
+          109
+        ],
+        "Micromax": [
+          69,
+          138,
+          154,
+          171,
+          208,
+          242
+        ],
+        "additive": [
+          70,
+          139,
+          155,
+          209
+        ],
+        "was": [
+          71,
+          116
+        ],
+        "added": [
+          72
+        ],
+        "barite-weighted": [
+          74
+        ],
+        "different": [
+          77
+        ],
+        "concentrations,": [
+          78
+        ],
+        "0,": [
+          79
+        ],
+        "15,": [
+          80
+        ],
+        "wt%": [
+          83,
+          152,
+          170,
+          241
+        ],
+        "of": [
+          84,
+          101,
+          112,
+          129,
+          153,
+          207,
+          214
+        ],
+        "total": [
+          86
+        ],
+        "agent.": [
+          88
+        ],
+        "Static": [
+          89
+        ],
+        "dynamic": [
+          91,
+          108,
+          162
+        ],
+        "tests": [
+          93
+        ],
+        "were": [
+          94
+        ],
+        "used": [
+          95
+        ],
+        "evaluate": [
+          97
+        ],
+        "tendency": [
+          100
+        ],
+        "new": [
+          103,
+          114
+        ],
+        "formulation": [
+          104,
+          115
+        ],
+        "under": [
+          105
+        ],
+        "static": [
+          106,
+          164
+        ],
+        "The": [
+          110,
+          133,
+          205
+        ],
+        "performance": [
+          111,
+          246
+        ],
+        "evaluated": [
+          117
+        ],
+        "by": [
+          118,
+          144,
+          177,
+          183,
+          203,
+          218,
+          247,
+          259
+        ],
+        "measuring": [
+          119
+        ],
+        "electrical": [
+          121
+        ],
+        "stability,": [
+          122
+        ],
+        "density,": [
+          123
+        ],
+        "rheological,": [
+          124
+        ],
+        "viscoelastic,": [
+          125
+        ],
+        "filtration": [
+          127,
+          245
+        ],
+        "properties": [
+          128,
+          213
+        ],
+        "fluid.": [
+          132
+        ],
+        "obtained": [
+          134
+        ],
+        "results": [
+          135
+        ],
+        "showed": [
+          136
+        ],
+        "that": [
+          137
+        ],
+        "improves": [
+          140
+        ],
+        "stability": [
+          143
+        ],
+        "reducing": [
+          145,
+          248
+        ],
+        "tendency.": [
+          148
+        ],
+        "Adding": [
+          149
+        ],
+        "only": [
+          150
+        ],
+        "eliminated": [
+          156
+        ],
+        "barite": [
+          157,
+          233
+        ],
+        "both": [
+          161
+        ],
+        "conditions": [
+          165
+        ],
+        "°F.": [
+          168
+        ],
+        "increased": [
+          172
+        ],
+        "base": [
+          174
+        ],
+        "5.4%": [
+          178
+        ],
+        "yield": [
+          181
+        ],
+        "point": [
+          182
+        ],
+        "115%": [
+          184
+        ],
+        "maintained": [
+          186
+        ],
+        "gel": [
+          188
+        ],
+        "strength": [
+          189
+        ],
+        "value": [
+          190
+        ],
+        "lb/100": [
+          193
+        ],
+        "ft": [
+          194
+        ],
+        ",": [
+          196
+        ],
+        "while": [
+          197
+        ],
+        "it": [
+          198
+        ],
+        "reduced": [
+          199
+        ],
+        "plastic": [
+          201
+        ],
+        "viscosity": [
+          202
+        ],
+        "30%.": [
+          204
+        ],
+        "addition": [
+          206
+        ],
+        "improved": [
+          210,
+          243
+        ],
+        "viscoelastic": [
+          212
+        ],
+        "maintaining": [
+          219
+        ],
+        "a": [
+          220
+        ],
+        "higher": [
+          221
+        ],
+        "storage": [
+          222
+        ],
+        "modulus": [
+          223,
+          227
+        ],
+        "loss": [
+          226
+        ],
+        "ratio": [
+          228
+        ],
+        "compared": [
+          230
+        ],
+        "sample": [
+          234
+        ],
+        "(in": [
+          235
+        ],
+        "range": [
+          237
+        ],
+        "4–4.5).": [
+          238
+        ],
+        "Furthermore,": [
+          239
+        ],
+        "filtrate": [
+          250
+        ],
+        "volume,": [
+          251
+        ],
+        "filter": [
+          252,
+          256
+        ],
+        "cake": [
+          253,
+          257
+        ],
+        "weight,": [
+          254
+        ],
+        "thickness": [
+          258
+        ],
+        "50%.": [
+          260
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -5321,7 +5893,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5959,8 +6531,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
@@ -5972,8 +6544,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -6658,8 +7230,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3112968447.pdf",
@@ -7890,8 +8462,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -7903,8 +8475,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -8289,7 +8861,7 @@
       "apc_paid": null,
       "fwci": 3.3966,
       "has_fulltext": false,
-      "cited_by_count": 18,
+      "cited_by_count": 19,
       "citation_normalized_percentile": {
         "value": 0.91576892,
         "is_in_top_1_percent": false,
@@ -8624,8 +9196,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -9323,6 +9895,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2024,
           "cited_by_count": 2
         },
@@ -9347,7 +9923,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9979,15 +10555,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3197787500.pdf",
@@ -11366,15 +11942,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -12025,15 +12601,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387949831.pdf"
@@ -12769,15 +13345,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4399319285.pdf"
@@ -13811,11 +14387,11 @@
         "currency": "USD",
         "value_usd": 1685
       },
-      "fwci": 5.9779,
+      "fwci": 5.8144,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.9587091,
+        "value": 0.95636241,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14170,8 +14746,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408264874.pdf"
@@ -14873,7 +15449,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-12-28T23:10:05.387466",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15420,8 +15996,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -15433,8 +16009,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4298119673.pdf",
@@ -16642,15 +17218,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -17763,8 +18339,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -18556,8 +19132,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3112287064.pdf",
@@ -20008,15 +20584,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7099999785423279
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -20786,8 +21362,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -22039,15 +22615,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -23228,8 +23804,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -24587,15 +25163,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -25781,8 +26357,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -27048,15 +27624,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -27656,8 +28232,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -29017,8 +29593,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -29674,8 +30250,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4205334489.pdf",
@@ -31002,15 +31578,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32175,15 +32751,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.5,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.5
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32739,8 +33315,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3021901181.pdf",
@@ -33007,7 +33583,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.30418954,
+        "value": 0.30394374,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33370,15 +33946,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.5400000214576721
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4405247386.pdf",
@@ -33400,7 +33976,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2026-02-26T06:29:33.603293",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

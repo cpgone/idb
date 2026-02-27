@@ -11,9 +11,9 @@
       "Husam Musa Baalousha"
     ],
     "works_count": 66,
-    "cited_by_count": 1151,
+    "cited_by_count": 1152,
     "summary_stats": {
-      "2yr_mean_citedness": 7.846153846153846,
+      "2yr_mean_citedness": 7.923076923076923,
       "h_index": 19,
       "i10_index": 31
     },
@@ -271,7 +271,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0002891,
+        "value": 0.0002882,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -288,7 +288,7 @@
       {
         "id": "https://openalex.org/T10894",
         "display_name": "Groundwater flow and contamination studies",
-        "value": 0.0002036,
+        "value": 0.0002035,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -305,7 +305,7 @@
       {
         "id": "https://openalex.org/T10398",
         "display_name": "Groundwater and Isotope Geochemistry",
-        "value": 0.0002026,
+        "value": 0.0002023,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -322,7 +322,7 @@
       {
         "id": "https://openalex.org/T11755",
         "display_name": "Transboundary Water Resource Management",
-        "value": 0.0000525,
+        "value": 0.0000524,
         "subfield": {
           "id": "https://openalex.org/subfields/3312",
           "display_name": "Sociology and Political Science"
@@ -339,7 +339,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000498,
+        "value": 0.0000496,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -499,7 +499,7 @@
         "year": 2024,
         "works_count": 6,
         "oa_works_count": 6,
-        "cited_by_count": 99
+        "cited_by_count": 100
       },
       {
         "year": 2025,
@@ -524,7 +524,7 @@
     },
     "block_key": "h baalousha",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5068126932",
-    "updated_date": "2026-02-20T12:20:28",
+    "updated_date": "2026-02-26T12:20:15",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -965,8 +965,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -2645,8 +2645,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4065,8 +4065,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7200000286102295
+          "score": 0.7200000286102295,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -4745,11 +4745,11 @@
         "currency": "EUR",
         "value_usd": 877
       },
-      "fwci": 6.269,
+      "fwci": 6.4052,
       "has_fulltext": false,
-      "cited_by_count": 38,
+      "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.97390981,
+        "value": 0.97486383,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5310,8 +5310,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -6005,7 +6005,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2025,
@@ -6020,7 +6020,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-12-24T23:09:58.560324",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6583,6 +6583,1633 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4400896951",
+      "doi": "https://doi.org/10.3389/frwa.2024.1388003",
+      "title": "A fuzzy analytical hierarchy process -GIS approach to flood susceptibility mapping in NEOM, Saudi Arabia",
+      "display_name": "A fuzzy analytical hierarchy process -GIS approach to flood susceptibility mapping in NEOM, Saudi Arabia",
+      "publication_year": 2024,
+      "publication_date": "2024-07-22",
+      "ids": {
+        "openalex": "https://openalex.org/W4400896951",
+        "doi": "https://doi.org/10.3389/frwa.2024.1388003"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3389/frwa.2024.1388003",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3389/frwa.2024.1388003",
+        "pdf_url": "https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2024.1388003/pdf",
+        "source": {
+          "id": "https://openalex.org/S4210177373",
+          "display_name": "Frontiers in Water",
+          "issn_l": "2624-9375",
+          "issn": [
+            "2624-9375"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320527",
+          "host_organization_name": "Frontiers Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320527"
+          ],
+          "host_organization_lineage_names": [
+            "Frontiers Media"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Frontiers in Water",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2024.1388003/pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5104945394",
+            "display_name": "Barra Faisal Bokhari",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Barra Faisal Bokhari",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074883327",
+            "display_name": "Bassam Tawabini",
+            "orcid": "https://orcid.org/0000-0002-0096-2723"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bassam Tawabini",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5068126932",
+            "display_name": "Husam Musa Baalousha",
+            "orcid": "https://orcid.org/0000-0002-9757-5470"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Husam Musa Baalousha",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5104945394"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 1150,
+        "currency": "USD",
+        "value_usd": 1150
+      },
+      "apc_paid": {
+        "value": 1150,
+        "currency": "USD",
+        "value_usd": 1150
+      },
+      "fwci": 3.5669,
+      "has_fulltext": false,
+      "cited_by_count": 12,
+      "citation_normalized_percentile": {
+        "value": 0.9309679,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "6",
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10930",
+        "display_name": "Flood Risk Assessment and Management",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2306",
+          "display_name": "Global and Planetary Change"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10930",
+          "display_name": "Flood Risk Assessment and Management",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2306",
+            "display_name": "Global and Planetary Change"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12543",
+          "display_name": "Groundwater and Watershed Analysis",
+          "score": 0.9983000159263611,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10330",
+          "display_name": "Hydrology and Watershed Management Studies",
+          "score": 0.9977999925613403,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2312",
+            "display_name": "Water Science and Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/topographic-wetness-index",
+          "display_name": "Topographic Wetness Index",
+          "score": 0.7037250399589539
+        },
+        {
+          "id": "https://openalex.org/keywords/flood-myth",
+          "display_name": "Flood myth",
+          "score": 0.6558577418327332
+        },
+        {
+          "id": "https://openalex.org/keywords/normalized-difference-vegetation-index",
+          "display_name": "Normalized Difference Vegetation Index",
+          "score": 0.6361559629440308
+        },
+        {
+          "id": "https://openalex.org/keywords/urbanization",
+          "display_name": "Urbanization",
+          "score": 0.6009082794189453
+        },
+        {
+          "id": "https://openalex.org/keywords/land-cover",
+          "display_name": "Land cover",
+          "score": 0.5974400043487549
+        },
+        {
+          "id": "https://openalex.org/keywords/geographic-information-system",
+          "display_name": "Geographic information system",
+          "score": 0.5896252393722534
+        },
+        {
+          "id": "https://openalex.org/keywords/flooding",
+          "display_name": "Flooding (psychology)",
+          "score": 0.5807143449783325
+        },
+        {
+          "id": "https://openalex.org/keywords/natural-hazard",
+          "display_name": "Natural hazard",
+          "score": 0.5413773655891418
+        },
+        {
+          "id": "https://openalex.org/keywords/elevation",
+          "display_name": "Elevation (ballistics)",
+          "score": 0.46974995732307434
+        },
+        {
+          "id": "https://openalex.org/keywords/hazard",
+          "display_name": "Hazard",
+          "score": 0.4573691487312317
+        },
+        {
+          "id": "https://openalex.org/keywords/land-use",
+          "display_name": "Land use",
+          "score": 0.4570200443267822
+        },
+        {
+          "id": "https://openalex.org/keywords/drainage",
+          "display_name": "Drainage",
+          "score": 0.4341817796230316
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrology",
+          "display_name": "Hydrology (agriculture)",
+          "score": 0.4323374629020691
+        },
+        {
+          "id": "https://openalex.org/keywords/drainage-density",
+          "display_name": "Drainage density",
+          "score": 0.42638924717903137
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.41744381189346313
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.3919185698032379
+        },
+        {
+          "id": "https://openalex.org/keywords/cartography",
+          "display_name": "Cartography",
+          "score": 0.37139731645584106
+        },
+        {
+          "id": "https://openalex.org/keywords/drainage-basin",
+          "display_name": "Drainage basin",
+          "score": 0.3283039629459381
+        },
+        {
+          "id": "https://openalex.org/keywords/remote-sensing",
+          "display_name": "Remote sensing",
+          "score": 0.2671181559562683
+        },
+        {
+          "id": "https://openalex.org/keywords/civil-engineering",
+          "display_name": "Civil engineering",
+          "score": 0.2034783959388733
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.19930297136306763
+        },
+        {
+          "id": "https://openalex.org/keywords/digital-elevation-model",
+          "display_name": "Digital elevation model",
+          "score": 0.1465063989162445
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-change",
+          "display_name": "Climate change",
+          "score": 0.13057950139045715
+        },
+        {
+          "id": "https://openalex.org/keywords/meteorology",
+          "display_name": "Meteorology",
+          "score": 0.11832037568092346
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.08044940233230591
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2776898743",
+          "wikidata": "https://www.wikidata.org/wiki/Q18353408",
+          "display_name": "Topographic Wetness Index",
+          "level": 3,
+          "score": 0.7037250399589539
+        },
+        {
+          "id": "https://openalex.org/C74256435",
+          "wikidata": "https://www.wikidata.org/wiki/Q134052",
+          "display_name": "Flood myth",
+          "level": 2,
+          "score": 0.6558577418327332
+        },
+        {
+          "id": "https://openalex.org/C1549246",
+          "wikidata": "https://www.wikidata.org/wiki/Q718775",
+          "display_name": "Normalized Difference Vegetation Index",
+          "level": 3,
+          "score": 0.6361559629440308
+        },
+        {
+          "id": "https://openalex.org/C39853841",
+          "wikidata": "https://www.wikidata.org/wiki/Q161078",
+          "display_name": "Urbanization",
+          "level": 2,
+          "score": 0.6009082794189453
+        },
+        {
+          "id": "https://openalex.org/C2780648208",
+          "wikidata": "https://www.wikidata.org/wiki/Q3001793",
+          "display_name": "Land cover",
+          "level": 3,
+          "score": 0.5974400043487549
+        },
+        {
+          "id": "https://openalex.org/C41856607",
+          "wikidata": "https://www.wikidata.org/wiki/Q483130",
+          "display_name": "Geographic information system",
+          "level": 2,
+          "score": 0.5896252393722534
+        },
+        {
+          "id": "https://openalex.org/C186594467",
+          "wikidata": "https://www.wikidata.org/wiki/Q1429176",
+          "display_name": "Flooding (psychology)",
+          "level": 2,
+          "score": 0.5807143449783325
+        },
+        {
+          "id": "https://openalex.org/C39410599",
+          "wikidata": "https://www.wikidata.org/wiki/Q3433179",
+          "display_name": "Natural hazard",
+          "level": 2,
+          "score": 0.5413773655891418
+        },
+        {
+          "id": "https://openalex.org/C37054046",
+          "wikidata": "https://www.wikidata.org/wiki/Q641888",
+          "display_name": "Elevation (ballistics)",
+          "level": 2,
+          "score": 0.46974995732307434
+        },
+        {
+          "id": "https://openalex.org/C49261128",
+          "wikidata": "https://www.wikidata.org/wiki/Q1132455",
+          "display_name": "Hazard",
+          "level": 2,
+          "score": 0.4573691487312317
+        },
+        {
+          "id": "https://openalex.org/C4792198",
+          "wikidata": "https://www.wikidata.org/wiki/Q1165944",
+          "display_name": "Land use",
+          "level": 2,
+          "score": 0.4570200443267822
+        },
+        {
+          "id": "https://openalex.org/C67592535",
+          "wikidata": "https://www.wikidata.org/wiki/Q7481320",
+          "display_name": "Drainage",
+          "level": 2,
+          "score": 0.4341817796230316
+        },
+        {
+          "id": "https://openalex.org/C76886044",
+          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+          "display_name": "Hydrology (agriculture)",
+          "level": 2,
+          "score": 0.4323374629020691
+        },
+        {
+          "id": "https://openalex.org/C2779989982",
+          "wikidata": "https://www.wikidata.org/wiki/Q5305552",
+          "display_name": "Drainage density",
+          "level": 3,
+          "score": 0.42638924717903137
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.41744381189346313
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.3919185698032379
+        },
+        {
+          "id": "https://openalex.org/C58640448",
+          "wikidata": "https://www.wikidata.org/wiki/Q42515",
+          "display_name": "Cartography",
+          "level": 1,
+          "score": 0.37139731645584106
+        },
+        {
+          "id": "https://openalex.org/C126645576",
+          "wikidata": "https://www.wikidata.org/wiki/Q166620",
+          "display_name": "Drainage basin",
+          "level": 2,
+          "score": 0.3283039629459381
+        },
+        {
+          "id": "https://openalex.org/C62649853",
+          "wikidata": "https://www.wikidata.org/wiki/Q199687",
+          "display_name": "Remote sensing",
+          "level": 1,
+          "score": 0.2671181559562683
+        },
+        {
+          "id": "https://openalex.org/C147176958",
+          "wikidata": "https://www.wikidata.org/wiki/Q77590",
+          "display_name": "Civil engineering",
+          "level": 1,
+          "score": 0.2034783959388733
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.19930297136306763
+        },
+        {
+          "id": "https://openalex.org/C181843262",
+          "wikidata": "https://www.wikidata.org/wiki/Q640492",
+          "display_name": "Digital elevation model",
+          "level": 2,
+          "score": 0.1465063989162445
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.13057950139045715
+        },
+        {
+          "id": "https://openalex.org/C153294291",
+          "wikidata": "https://www.wikidata.org/wiki/Q25261",
+          "display_name": "Meteorology",
+          "level": 1,
+          "score": 0.11832037568092346
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.08044940233230591
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C66938386",
+          "wikidata": "https://www.wikidata.org/wiki/Q633538",
+          "display_name": "Structural engineering",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C542102704",
+          "wikidata": "https://www.wikidata.org/wiki/Q183257",
+          "display_name": "Psychotherapist",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C50522688",
+          "wikidata": "https://www.wikidata.org/wiki/Q189833",
+          "display_name": "Economic growth",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.3389/frwa.2024.1388003",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3389/frwa.2024.1388003",
+          "pdf_url": "https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2024.1388003/pdf",
+          "source": {
+            "id": "https://openalex.org/S4210177373",
+            "display_name": "Frontiers in Water",
+            "issn_l": "2624-9375",
+            "issn": [
+              "2624-9375"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320527",
+            "host_organization_name": "Frontiers Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320527"
+            ],
+            "host_organization_lineage_names": [
+              "Frontiers Media"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Frontiers in Water",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:52dc03ab8f914dd2a3695900aa2078de",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/52dc03ab8f914dd2a3695900aa2078de",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S112646816",
+            "display_name": "SHILAP Revista de lepidopterología",
+            "issn_l": "0300-5267",
+            "issn": [
+              "0300-5267",
+              "2340-4078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Frontiers in Water, Vol 6 (2024)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3389/frwa.2024.1388003",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3389/frwa.2024.1388003",
+        "pdf_url": "https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2024.1388003/pdf",
+        "source": {
+          "id": "https://openalex.org/S4210177373",
+          "display_name": "Frontiers in Water",
+          "issn_l": "2624-9375",
+          "issn": [
+            "2624-9375"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320527",
+          "host_organization_name": "Frontiers Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320527"
+          ],
+          "host_organization_lineage_names": [
+            "Frontiers Media"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Frontiers in Water",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Sustainable cities and communities",
+          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/11"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4400896951.pdf"
+      },
+      "referenced_works_count": 68,
+      "referenced_works": [
+        "https://openalex.org/W158950929",
+        "https://openalex.org/W217581734",
+        "https://openalex.org/W1186112364",
+        "https://openalex.org/W1758744638",
+        "https://openalex.org/W1862006471",
+        "https://openalex.org/W1951039618",
+        "https://openalex.org/W1964931868",
+        "https://openalex.org/W1965976400",
+        "https://openalex.org/W1975116313",
+        "https://openalex.org/W1979486410",
+        "https://openalex.org/W1998442441",
+        "https://openalex.org/W2003665101",
+        "https://openalex.org/W2014121877",
+        "https://openalex.org/W2015685608",
+        "https://openalex.org/W2020407132",
+        "https://openalex.org/W2022175763",
+        "https://openalex.org/W2030762017",
+        "https://openalex.org/W2040990873",
+        "https://openalex.org/W2041658927",
+        "https://openalex.org/W2054984023",
+        "https://openalex.org/W2066704625",
+        "https://openalex.org/W2070776784",
+        "https://openalex.org/W2117835930",
+        "https://openalex.org/W2119534769",
+        "https://openalex.org/W2124969601",
+        "https://openalex.org/W2146773183",
+        "https://openalex.org/W2335114787",
+        "https://openalex.org/W2409108344",
+        "https://openalex.org/W2517461506",
+        "https://openalex.org/W2528028090",
+        "https://openalex.org/W2543064249",
+        "https://openalex.org/W2549184242",
+        "https://openalex.org/W2640557513",
+        "https://openalex.org/W2791530356",
+        "https://openalex.org/W2894452139",
+        "https://openalex.org/W2906318472",
+        "https://openalex.org/W2913126990",
+        "https://openalex.org/W2921271897",
+        "https://openalex.org/W2921637360",
+        "https://openalex.org/W2952736553",
+        "https://openalex.org/W2955989128",
+        "https://openalex.org/W2960766610",
+        "https://openalex.org/W2973682728",
+        "https://openalex.org/W2993462192",
+        "https://openalex.org/W3030217190",
+        "https://openalex.org/W3035067366",
+        "https://openalex.org/W3118802567",
+        "https://openalex.org/W3120093938",
+        "https://openalex.org/W3159357889",
+        "https://openalex.org/W3190581971",
+        "https://openalex.org/W3202537639",
+        "https://openalex.org/W3217077968",
+        "https://openalex.org/W4211007335",
+        "https://openalex.org/W4226135967",
+        "https://openalex.org/W4229000449",
+        "https://openalex.org/W4249081953",
+        "https://openalex.org/W4312335077",
+        "https://openalex.org/W4319918974",
+        "https://openalex.org/W4322500969",
+        "https://openalex.org/W4323043685",
+        "https://openalex.org/W4365452315",
+        "https://openalex.org/W4365814626",
+        "https://openalex.org/W4366168939",
+        "https://openalex.org/W4377965874",
+        "https://openalex.org/W4382278538",
+        "https://openalex.org/W4385491063",
+        "https://openalex.org/W4389950473",
+        "https://openalex.org/W4391179956"
+      ],
+      "related_works": [
+        "https://openalex.org/W1192997862",
+        "https://openalex.org/W3215334365",
+        "https://openalex.org/W3195361780",
+        "https://openalex.org/W2392991992",
+        "https://openalex.org/W4309046748",
+        "https://openalex.org/W2730344763",
+        "https://openalex.org/W2973756609",
+        "https://openalex.org/W2098724638",
+        "https://openalex.org/W2316026498",
+        "https://openalex.org/W3033743109"
+      ],
+      "abstract_inverted_index": {
+        "2": [
+          271,
+          280,
+          290
+        ],
+        "30": [
+          137
+        ],
+        "The": [
+          0,
+          136,
+          196,
+          292
+        ],
+        "Kingdom": [
+          1
+        ],
+        "of": [
+          2,
+          13,
+          55,
+          232,
+          240,
+          246,
+          254
+        ],
+        "Saudi": [
+          3,
+          21,
+          56
+        ],
+        "Arabia": [
+          4
+        ],
+        "is": [
+          5,
+          173,
+          268,
+          277,
+          287
+        ],
+        "undergoing": [
+          6
+        ],
+        "massive": [
+          7
+        ],
+        "and": [
+          8,
+          68,
+          104,
+          131,
+          147,
+          159
+        ],
+        "rapid": [
+          9
+        ],
+        "urbanization": [
+          10,
+          70
+        ],
+        "as": [
+          11,
+          43,
+          114
+        ],
+        "part": [
+          12
+        ],
+        "Vision": [
+          14
+        ],
+        "2030.": [
+          15
+        ],
+        "This": [
+          16,
+          72
+        ],
+        "includes": [
+          17
+        ],
+        "development": [
+          18
+        ],
+        "projects": [
+          19
+        ],
+        "along": [
+          20,
+          33
+        ],
+        "Arabia’s": [
+          22
+        ],
+        "coastline": [
+          23
+        ],
+        "across": [
+          24
+        ],
+        "the": [
+          25,
+          31,
+          53,
+          84,
+          108,
+          185,
+          191,
+          229,
+          258
+        ],
+        "Red": [
+          26
+        ],
+        "Sea.": [
+          27
+        ],
+        "Coastal": [
+          28
+        ],
+        "areas,": [
+          29
+        ],
+        "especially": [
+          30
+        ],
+        "ones": [
+          32
+        ],
+        "Saudi’s": [
+          34
+        ],
+        "western": [
+          35
+        ],
+        "regions": [
+          36
+        ],
+        "are": [
+          37,
+          163
+        ],
+        "susceptible": [
+          38
+        ],
+        "to": [
+          39,
+          64,
+          75,
+          101,
+          142,
+          165,
+          175,
+          189,
+          216,
+          261,
+          265,
+          285
+        ],
+        "natural": [
+          40
+        ],
+        "disasters": [
+          41
+        ],
+        "such": [
+          42,
+          113
+        ],
+        "flooding.": [
+          44
+        ],
+        "NEOM,": [
+          45
+        ],
+        "a": [
+          46,
+          59,
+          201,
+          223,
+          237
+        ],
+        "futuristic": [
+          47
+        ],
+        "city": [
+          48
+        ],
+        "currently": [
+          49
+        ],
+        "being": [
+          50
+        ],
+        "developed": [
+          51,
+          296
+        ],
+        "in": [
+          52,
+          80,
+          90,
+          200,
+          222,
+          297
+        ],
+        "northwest": [
+          54
+        ],
+        "Arabia,": [
+          57
+        ],
+        "exemplifies": [
+          58
+        ],
+        "potential": [
+          60,
+          304
+        ],
+        "flooding": [
+          61
+        ],
+        "hazard": [
+          62,
+          78
+        ],
+        "due": [
+          63
+        ],
+        "its": [
+          65
+        ],
+        "geographic": [
+          66
+        ],
+        "location": [
+          67
+        ],
+        "proposed": [
+          69
+        ],
+        "plans.": [
+          71
+        ],
+        "research": [
+          73,
+          197
+        ],
+        "aims": [
+          74
+        ],
+        "enhance": [
+          76
+        ],
+        "flood": [
+          77,
+          170,
+          193,
+          202,
+          233,
+          255,
+          293,
+          308
+        ],
+        "assessment": [
+          79
+        ],
+        "NEOM": [
+          81,
+          241
+        ],
+        "by": [
+          82
+        ],
+        "applying": [
+          83
+        ],
+        "Fuzzy": [
+          85
+        ],
+        "Analytical": [
+          86
+        ],
+        "Hierarchy": [
+          87
+        ],
+        "Process": [
+          88
+        ],
+        "(FAHP)": [
+          89
+        ],
+        "combination": [
+          91
+        ],
+        "with": [
+          92,
+          250,
+          263,
+          274,
+          283
+        ],
+        "Geographic": [
+          93
+        ],
+        "Information": [
+          94
+        ],
+        "System": [
+          95
+        ],
+        "(GIS).": [
+          96
+        ],
+        "Acknowledging": [
+          97
+        ],
+        "traditional": [
+          98
+        ],
+        "limitations": [
+          99
+        ],
+        "related": [
+          100
+        ],
+        "data": [
+          102,
+          151,
+          158
+        ],
+        "availability": [
+          103
+        ],
+        "parameter": [
+          105
+        ],
+        "selection": [
+          106
+        ],
+        "consensus,": [
+          107
+        ],
+        "study": [
+          109,
+          299
+        ],
+        "carefully": [
+          110
+        ],
+        "selects": [
+          111
+        ],
+        "parameters": [
+          112
+        ],
+        "drainage": [
+          115
+        ],
+        "density,": [
+          116
+        ],
+        "elevation,": [
+          117
+        ],
+        "slope,": [
+          118
+        ],
+        "rainfall,": [
+          119
+        ],
+        "land": [
+          120,
+          154
+        ],
+        "use/land": [
+          121
+        ],
+        "cover": [
+          122,
+          155
+        ],
+        "(LULC),": [
+          123
+        ],
+        "soil": [
+          124,
+          160
+        ],
+        "type,": [
+          125
+        ],
+        "normalized": [
+          126
+        ],
+        "difference": [
+          127
+        ],
+        "vegetation": [
+          128,
+          177
+        ],
+        "index": [
+          129,
+          134
+        ],
+        "(NDVI),": [
+          130
+        ],
+        "topographic": [
+          132
+        ],
+        "wetness": [
+          133
+        ],
+        "(TWI).": [
+          135
+        ],
+        "m": [
+          138
+        ],
+        "DEM": [
+          139
+        ],
+        "was": [
+          140
+        ],
+        "used": [
+          141
+        ],
+        "derive": [
+          143
+        ],
+        "Drainage": [
+          144
+        ],
+        "Density,": [
+          145
+        ],
+        "Slope,": [
+          146
+        ],
+        "TWI": [
+          148
+        ],
+        "while": [
+          149
+        ],
+        "LULC": [
+          150
+        ],
+        "helped": [
+          152
+        ],
+        "assess": [
+          153
+        ],
+        "changes.": [
+          156
+        ],
+        "Rainfall": [
+          157
+        ],
+        "type": [
+          161
+        ],
+        "information": [
+          162
+        ],
+        "integrated": [
+          164
+        ],
+        "evaluate": [
+          166
+        ],
+        "their": [
+          167
+        ],
+        "impact": [
+          168
+        ],
+        "on": [
+          169,
+          257,
+          303
+        ],
+        "susceptibility.": [
+          171
+        ],
+        "NDVI": [
+          172
+        ],
+        "employed": [
+          174
+        ],
+        "analyze": [
+          176
+        ],
+        "cover.": [
+          178
+        ],
+        "Utilizing": [
+          179
+        ],
+        "ArcGIS": [
+          180
+        ],
+        "Pro’s": [
+          181
+        ],
+        "weighted": [
+          182
+        ],
+        "overlay": [
+          183
+        ],
+        "model,": [
+          184
+        ],
+        "criteria": [
+          186
+        ],
+        "were": [
+          187
+        ],
+        "combined": [
+          188
+        ],
+        "generate": [
+          190
+        ],
+        "final": [
+          192
+        ],
+        "susceptibility": [
+          194,
+          203,
+          210,
+          248,
+          256,
+          267,
+          276,
+          294
+        ],
+        "map.": [
+          195
+        ],
+        "outcomes": [
+          198
+        ],
+        "manifest": [
+          199
+        ],
+        "map": [
+          204,
+          295
+        ],
+        "categorizing": [
+          205
+        ],
+        "areas": [
+          206,
+          262,
+          273,
+          282,
+          306
+        ],
+        "into": [
+          207,
+          228
+        ],
+        "seven": [
+          208
+        ],
+        "distinct": [
+          209
+        ],
+        "classes,": [
+          211
+        ],
+        "ranging": [
+          212
+        ],
+        "from": [
+          213
+        ],
+        "‘very": [
+          214,
+          217
+        ],
+        "low’": [
+          215
+        ],
+        "high.’": [
+          218
+        ],
+        "A": [
+          219
+        ],
+        "quantitative": [
+          220
+        ],
+        "breakdown": [
+          221
+        ],
+        "summary": [
+          224
+        ],
+        "table": [
+          225
+        ],
+        "provides": [
+          226
+        ],
+        "insights": [
+          227,
+          302
+        ],
+        "proportional": [
+          230
+        ],
+        "distribution": [
+          231,
+          253
+        ],
+        "risk.": [
+          234
+        ],
+        "Results": [
+          235
+        ],
+        "indicate": [
+          236
+        ],
+        "significant": [
+          238
+        ],
+        "portion": [
+          239
+        ],
+        "falls": [
+          242
+        ],
+        "within": [
+          243
+        ],
+        "varying": [
+          244
+        ],
+        "degrees": [
+          245
+        ],
+        "moderate": [
+          247
+        ],
+        "range": [
+          249
+        ],
+        "relatively": [
+          251
+        ],
+        "limited": [
+          252
+        ],
+        "extremes,": [
+          259
+        ],
+        "equating": [
+          260
+        ],
+        "‘low": [
+          264
+        ],
+        "moderate’": [
+          266
+        ],
+        "4,322.8": [
+          269
+        ],
+        "km": [
+          270,
+          279,
+          289
+        ],
+        ",": [
+          272,
+          281
+        ],
+        "‘moderate’": [
+          275
+        ],
+        "5,109.69": [
+          278
+        ],
+        "‘moderate": [
+          284
+        ],
+        "high’": [
+          286
+        ],
+        "4,081.39": [
+          288
+        ],
+        ".": [
+          291
+        ],
+        "this": [
+          298
+        ],
+        "can": [
+          300
+        ],
+        "shed": [
+          301
+        ],
+        "optimum": [
+          305,
+          312
+        ],
+        "for": [
+          307,
+          314
+        ],
+        "mitigation": [
+          309
+        ],
+        "measures": [
+          310
+        ],
+        "(i.e.,": [
+          311
+        ],
+        "locations": [
+          313
+        ],
+        "establishing": [
+          315
+        ],
+        "stormwater": [
+          316
+        ],
+        "collection": [
+          317
+        ],
+        "points).": [
+          318
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 10
+        }
+      ],
+      "updated_date": "2026-02-27T16:54:17.756197",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W1996191773",
       "doi": "https://doi.org/10.1016/j.desal.2005.12.009",
       "title": "Desalination status in the Gaza Strip and its environmental impact",
@@ -7077,8 +8704,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -7584,8 +9211,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8247,8 +9874,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7799999713897705
+          "score": 0.7799999713897705,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -8839,8 +10466,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5
+          "score": 0.5,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -9433,8 +11060,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -10241,8 +11868,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -11225,8 +12852,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -12324,8 +13951,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -15631,8 +17258,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -16235,1633 +17862,6 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4400896951",
-      "doi": "https://doi.org/10.3389/frwa.2024.1388003",
-      "title": "A fuzzy analytical hierarchy process -GIS approach to flood susceptibility mapping in NEOM, Saudi Arabia",
-      "display_name": "A fuzzy analytical hierarchy process -GIS approach to flood susceptibility mapping in NEOM, Saudi Arabia",
-      "publication_year": 2024,
-      "publication_date": "2024-07-22",
-      "ids": {
-        "openalex": "https://openalex.org/W4400896951",
-        "doi": "https://doi.org/10.3389/frwa.2024.1388003"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.3389/frwa.2024.1388003",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3389/frwa.2024.1388003",
-        "pdf_url": "https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2024.1388003/pdf",
-        "source": {
-          "id": "https://openalex.org/S4210177373",
-          "display_name": "Frontiers in Water",
-          "issn_l": "2624-9375",
-          "issn": [
-            "2624-9375"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320527",
-          "host_organization_name": "Frontiers Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320527"
-          ],
-          "host_organization_lineage_names": [
-            "Frontiers Media"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Frontiers in Water",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2024.1388003/pdf",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5104945394",
-            "display_name": "Barra Faisal Bokhari",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Barra Faisal Bokhari",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5074883327",
-            "display_name": "Bassam Tawabini",
-            "orcid": "https://orcid.org/0000-0002-0096-2723"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Bassam Tawabini",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5068126932",
-            "display_name": "Husam Musa Baalousha",
-            "orcid": "https://orcid.org/0000-0002-9757-5470"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Husam Musa Baalousha",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5104945394"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 1150,
-        "currency": "USD",
-        "value_usd": 1150
-      },
-      "apc_paid": {
-        "value": 1150,
-        "currency": "USD",
-        "value_usd": 1150
-      },
-      "fwci": 3.2883,
-      "has_fulltext": false,
-      "cited_by_count": 11,
-      "citation_normalized_percentile": {
-        "value": 0.92259875,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 97,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "6",
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10930",
-        "display_name": "Flood Risk Assessment and Management",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2306",
-          "display_name": "Global and Planetary Change"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10930",
-          "display_name": "Flood Risk Assessment and Management",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2306",
-            "display_name": "Global and Planetary Change"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12543",
-          "display_name": "Groundwater and Watershed Analysis",
-          "score": 0.9983000159263611,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10330",
-          "display_name": "Hydrology and Watershed Management Studies",
-          "score": 0.9977999925613403,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2312",
-            "display_name": "Water Science and Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/topographic-wetness-index",
-          "display_name": "Topographic Wetness Index",
-          "score": 0.7037250399589539
-        },
-        {
-          "id": "https://openalex.org/keywords/flood-myth",
-          "display_name": "Flood myth",
-          "score": 0.6558577418327332
-        },
-        {
-          "id": "https://openalex.org/keywords/normalized-difference-vegetation-index",
-          "display_name": "Normalized Difference Vegetation Index",
-          "score": 0.6361559629440308
-        },
-        {
-          "id": "https://openalex.org/keywords/urbanization",
-          "display_name": "Urbanization",
-          "score": 0.6009082794189453
-        },
-        {
-          "id": "https://openalex.org/keywords/land-cover",
-          "display_name": "Land cover",
-          "score": 0.5974400043487549
-        },
-        {
-          "id": "https://openalex.org/keywords/geographic-information-system",
-          "display_name": "Geographic information system",
-          "score": 0.5896252393722534
-        },
-        {
-          "id": "https://openalex.org/keywords/flooding",
-          "display_name": "Flooding (psychology)",
-          "score": 0.5807143449783325
-        },
-        {
-          "id": "https://openalex.org/keywords/natural-hazard",
-          "display_name": "Natural hazard",
-          "score": 0.5413773655891418
-        },
-        {
-          "id": "https://openalex.org/keywords/elevation",
-          "display_name": "Elevation (ballistics)",
-          "score": 0.46974995732307434
-        },
-        {
-          "id": "https://openalex.org/keywords/hazard",
-          "display_name": "Hazard",
-          "score": 0.4573691487312317
-        },
-        {
-          "id": "https://openalex.org/keywords/land-use",
-          "display_name": "Land use",
-          "score": 0.4570200443267822
-        },
-        {
-          "id": "https://openalex.org/keywords/drainage",
-          "display_name": "Drainage",
-          "score": 0.4341817796230316
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrology",
-          "display_name": "Hydrology (agriculture)",
-          "score": 0.4323374629020691
-        },
-        {
-          "id": "https://openalex.org/keywords/drainage-density",
-          "display_name": "Drainage density",
-          "score": 0.42638924717903137
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.41744381189346313
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.3919185698032379
-        },
-        {
-          "id": "https://openalex.org/keywords/cartography",
-          "display_name": "Cartography",
-          "score": 0.37139731645584106
-        },
-        {
-          "id": "https://openalex.org/keywords/drainage-basin",
-          "display_name": "Drainage basin",
-          "score": 0.3283039629459381
-        },
-        {
-          "id": "https://openalex.org/keywords/remote-sensing",
-          "display_name": "Remote sensing",
-          "score": 0.2671181559562683
-        },
-        {
-          "id": "https://openalex.org/keywords/civil-engineering",
-          "display_name": "Civil engineering",
-          "score": 0.2034783959388733
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.19930297136306763
-        },
-        {
-          "id": "https://openalex.org/keywords/digital-elevation-model",
-          "display_name": "Digital elevation model",
-          "score": 0.1465063989162445
-        },
-        {
-          "id": "https://openalex.org/keywords/climate-change",
-          "display_name": "Climate change",
-          "score": 0.13057950139045715
-        },
-        {
-          "id": "https://openalex.org/keywords/meteorology",
-          "display_name": "Meteorology",
-          "score": 0.11832037568092346
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.08044940233230591
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2776898743",
-          "wikidata": "https://www.wikidata.org/wiki/Q18353408",
-          "display_name": "Topographic Wetness Index",
-          "level": 3,
-          "score": 0.7037250399589539
-        },
-        {
-          "id": "https://openalex.org/C74256435",
-          "wikidata": "https://www.wikidata.org/wiki/Q134052",
-          "display_name": "Flood myth",
-          "level": 2,
-          "score": 0.6558577418327332
-        },
-        {
-          "id": "https://openalex.org/C1549246",
-          "wikidata": "https://www.wikidata.org/wiki/Q718775",
-          "display_name": "Normalized Difference Vegetation Index",
-          "level": 3,
-          "score": 0.6361559629440308
-        },
-        {
-          "id": "https://openalex.org/C39853841",
-          "wikidata": "https://www.wikidata.org/wiki/Q161078",
-          "display_name": "Urbanization",
-          "level": 2,
-          "score": 0.6009082794189453
-        },
-        {
-          "id": "https://openalex.org/C2780648208",
-          "wikidata": "https://www.wikidata.org/wiki/Q3001793",
-          "display_name": "Land cover",
-          "level": 3,
-          "score": 0.5974400043487549
-        },
-        {
-          "id": "https://openalex.org/C41856607",
-          "wikidata": "https://www.wikidata.org/wiki/Q483130",
-          "display_name": "Geographic information system",
-          "level": 2,
-          "score": 0.5896252393722534
-        },
-        {
-          "id": "https://openalex.org/C186594467",
-          "wikidata": "https://www.wikidata.org/wiki/Q1429176",
-          "display_name": "Flooding (psychology)",
-          "level": 2,
-          "score": 0.5807143449783325
-        },
-        {
-          "id": "https://openalex.org/C39410599",
-          "wikidata": "https://www.wikidata.org/wiki/Q3433179",
-          "display_name": "Natural hazard",
-          "level": 2,
-          "score": 0.5413773655891418
-        },
-        {
-          "id": "https://openalex.org/C37054046",
-          "wikidata": "https://www.wikidata.org/wiki/Q641888",
-          "display_name": "Elevation (ballistics)",
-          "level": 2,
-          "score": 0.46974995732307434
-        },
-        {
-          "id": "https://openalex.org/C49261128",
-          "wikidata": "https://www.wikidata.org/wiki/Q1132455",
-          "display_name": "Hazard",
-          "level": 2,
-          "score": 0.4573691487312317
-        },
-        {
-          "id": "https://openalex.org/C4792198",
-          "wikidata": "https://www.wikidata.org/wiki/Q1165944",
-          "display_name": "Land use",
-          "level": 2,
-          "score": 0.4570200443267822
-        },
-        {
-          "id": "https://openalex.org/C67592535",
-          "wikidata": "https://www.wikidata.org/wiki/Q7481320",
-          "display_name": "Drainage",
-          "level": 2,
-          "score": 0.4341817796230316
-        },
-        {
-          "id": "https://openalex.org/C76886044",
-          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
-          "display_name": "Hydrology (agriculture)",
-          "level": 2,
-          "score": 0.4323374629020691
-        },
-        {
-          "id": "https://openalex.org/C2779989982",
-          "wikidata": "https://www.wikidata.org/wiki/Q5305552",
-          "display_name": "Drainage density",
-          "level": 3,
-          "score": 0.42638924717903137
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.41744381189346313
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.3919185698032379
-        },
-        {
-          "id": "https://openalex.org/C58640448",
-          "wikidata": "https://www.wikidata.org/wiki/Q42515",
-          "display_name": "Cartography",
-          "level": 1,
-          "score": 0.37139731645584106
-        },
-        {
-          "id": "https://openalex.org/C126645576",
-          "wikidata": "https://www.wikidata.org/wiki/Q166620",
-          "display_name": "Drainage basin",
-          "level": 2,
-          "score": 0.3283039629459381
-        },
-        {
-          "id": "https://openalex.org/C62649853",
-          "wikidata": "https://www.wikidata.org/wiki/Q199687",
-          "display_name": "Remote sensing",
-          "level": 1,
-          "score": 0.2671181559562683
-        },
-        {
-          "id": "https://openalex.org/C147176958",
-          "wikidata": "https://www.wikidata.org/wiki/Q77590",
-          "display_name": "Civil engineering",
-          "level": 1,
-          "score": 0.2034783959388733
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.19930297136306763
-        },
-        {
-          "id": "https://openalex.org/C181843262",
-          "wikidata": "https://www.wikidata.org/wiki/Q640492",
-          "display_name": "Digital elevation model",
-          "level": 2,
-          "score": 0.1465063989162445
-        },
-        {
-          "id": "https://openalex.org/C132651083",
-          "wikidata": "https://www.wikidata.org/wiki/Q7942",
-          "display_name": "Climate change",
-          "level": 2,
-          "score": 0.13057950139045715
-        },
-        {
-          "id": "https://openalex.org/C153294291",
-          "wikidata": "https://www.wikidata.org/wiki/Q25261",
-          "display_name": "Meteorology",
-          "level": 1,
-          "score": 0.11832037568092346
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.08044940233230591
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C66938386",
-          "wikidata": "https://www.wikidata.org/wiki/Q633538",
-          "display_name": "Structural engineering",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C542102704",
-          "wikidata": "https://www.wikidata.org/wiki/Q183257",
-          "display_name": "Psychotherapist",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C50522688",
-          "wikidata": "https://www.wikidata.org/wiki/Q189833",
-          "display_name": "Economic growth",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C15744967",
-          "wikidata": "https://www.wikidata.org/wiki/Q9418",
-          "display_name": "Psychology",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C162324750",
-          "wikidata": "https://www.wikidata.org/wiki/Q8134",
-          "display_name": "Economics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.3389/frwa.2024.1388003",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.3389/frwa.2024.1388003",
-          "pdf_url": "https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2024.1388003/pdf",
-          "source": {
-            "id": "https://openalex.org/S4210177373",
-            "display_name": "Frontiers in Water",
-            "issn_l": "2624-9375",
-            "issn": [
-              "2624-9375"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320527",
-            "host_organization_name": "Frontiers Media",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320527"
-            ],
-            "host_organization_lineage_names": [
-              "Frontiers Media"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Frontiers in Water",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:52dc03ab8f914dd2a3695900aa2078de",
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/52dc03ab8f914dd2a3695900aa2078de",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Frontiers in Water, Vol 6 (2024)",
-          "raw_type": "article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.3389/frwa.2024.1388003",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3389/frwa.2024.1388003",
-        "pdf_url": "https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2024.1388003/pdf",
-        "source": {
-          "id": "https://openalex.org/S4210177373",
-          "display_name": "Frontiers in Water",
-          "issn_l": "2624-9375",
-          "issn": [
-            "2624-9375"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320527",
-          "host_organization_name": "Frontiers Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320527"
-          ],
-          "host_organization_lineage_names": [
-            "Frontiers Media"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Frontiers in Water",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.800000011920929
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4400896951.pdf"
-      },
-      "referenced_works_count": 68,
-      "referenced_works": [
-        "https://openalex.org/W158950929",
-        "https://openalex.org/W217581734",
-        "https://openalex.org/W1186112364",
-        "https://openalex.org/W1758744638",
-        "https://openalex.org/W1862006471",
-        "https://openalex.org/W1951039618",
-        "https://openalex.org/W1964931868",
-        "https://openalex.org/W1965976400",
-        "https://openalex.org/W1975116313",
-        "https://openalex.org/W1979486410",
-        "https://openalex.org/W1998442441",
-        "https://openalex.org/W2003665101",
-        "https://openalex.org/W2014121877",
-        "https://openalex.org/W2015685608",
-        "https://openalex.org/W2020407132",
-        "https://openalex.org/W2022175763",
-        "https://openalex.org/W2030762017",
-        "https://openalex.org/W2040990873",
-        "https://openalex.org/W2041658927",
-        "https://openalex.org/W2054984023",
-        "https://openalex.org/W2066704625",
-        "https://openalex.org/W2070776784",
-        "https://openalex.org/W2117835930",
-        "https://openalex.org/W2119534769",
-        "https://openalex.org/W2124969601",
-        "https://openalex.org/W2146773183",
-        "https://openalex.org/W2335114787",
-        "https://openalex.org/W2409108344",
-        "https://openalex.org/W2517461506",
-        "https://openalex.org/W2528028090",
-        "https://openalex.org/W2543064249",
-        "https://openalex.org/W2549184242",
-        "https://openalex.org/W2640557513",
-        "https://openalex.org/W2791530356",
-        "https://openalex.org/W2894452139",
-        "https://openalex.org/W2906318472",
-        "https://openalex.org/W2913126990",
-        "https://openalex.org/W2921271897",
-        "https://openalex.org/W2921637360",
-        "https://openalex.org/W2952736553",
-        "https://openalex.org/W2955989128",
-        "https://openalex.org/W2960766610",
-        "https://openalex.org/W2973682728",
-        "https://openalex.org/W2993462192",
-        "https://openalex.org/W3030217190",
-        "https://openalex.org/W3035067366",
-        "https://openalex.org/W3118802567",
-        "https://openalex.org/W3120093938",
-        "https://openalex.org/W3159357889",
-        "https://openalex.org/W3190581971",
-        "https://openalex.org/W3202537639",
-        "https://openalex.org/W3217077968",
-        "https://openalex.org/W4211007335",
-        "https://openalex.org/W4226135967",
-        "https://openalex.org/W4229000449",
-        "https://openalex.org/W4249081953",
-        "https://openalex.org/W4312335077",
-        "https://openalex.org/W4319918974",
-        "https://openalex.org/W4322500969",
-        "https://openalex.org/W4323043685",
-        "https://openalex.org/W4365452315",
-        "https://openalex.org/W4365814626",
-        "https://openalex.org/W4366168939",
-        "https://openalex.org/W4377965874",
-        "https://openalex.org/W4382278538",
-        "https://openalex.org/W4385491063",
-        "https://openalex.org/W4389950473",
-        "https://openalex.org/W4391179956"
-      ],
-      "related_works": [
-        "https://openalex.org/W1192997862",
-        "https://openalex.org/W3215334365",
-        "https://openalex.org/W3195361780",
-        "https://openalex.org/W2392991992",
-        "https://openalex.org/W4309046748",
-        "https://openalex.org/W2730344763",
-        "https://openalex.org/W2973756609",
-        "https://openalex.org/W2098724638",
-        "https://openalex.org/W2316026498",
-        "https://openalex.org/W3033743109"
-      ],
-      "abstract_inverted_index": {
-        "2": [
-          271,
-          280,
-          290
-        ],
-        "30": [
-          137
-        ],
-        "The": [
-          0,
-          136,
-          196,
-          292
-        ],
-        "Kingdom": [
-          1
-        ],
-        "of": [
-          2,
-          13,
-          55,
-          232,
-          240,
-          246,
-          254
-        ],
-        "Saudi": [
-          3,
-          21,
-          56
-        ],
-        "Arabia": [
-          4
-        ],
-        "is": [
-          5,
-          173,
-          268,
-          277,
-          287
-        ],
-        "undergoing": [
-          6
-        ],
-        "massive": [
-          7
-        ],
-        "and": [
-          8,
-          68,
-          104,
-          131,
-          147,
-          159
-        ],
-        "rapid": [
-          9
-        ],
-        "urbanization": [
-          10,
-          70
-        ],
-        "as": [
-          11,
-          43,
-          114
-        ],
-        "part": [
-          12
-        ],
-        "Vision": [
-          14
-        ],
-        "2030.": [
-          15
-        ],
-        "This": [
-          16,
-          72
-        ],
-        "includes": [
-          17
-        ],
-        "development": [
-          18
-        ],
-        "projects": [
-          19
-        ],
-        "along": [
-          20,
-          33
-        ],
-        "Arabia’s": [
-          22
-        ],
-        "coastline": [
-          23
-        ],
-        "across": [
-          24
-        ],
-        "the": [
-          25,
-          31,
-          53,
-          84,
-          108,
-          185,
-          191,
-          229,
-          258
-        ],
-        "Red": [
-          26
-        ],
-        "Sea.": [
-          27
-        ],
-        "Coastal": [
-          28
-        ],
-        "areas,": [
-          29
-        ],
-        "especially": [
-          30
-        ],
-        "ones": [
-          32
-        ],
-        "Saudi’s": [
-          34
-        ],
-        "western": [
-          35
-        ],
-        "regions": [
-          36
-        ],
-        "are": [
-          37,
-          163
-        ],
-        "susceptible": [
-          38
-        ],
-        "to": [
-          39,
-          64,
-          75,
-          101,
-          142,
-          165,
-          175,
-          189,
-          216,
-          261,
-          265,
-          285
-        ],
-        "natural": [
-          40
-        ],
-        "disasters": [
-          41
-        ],
-        "such": [
-          42,
-          113
-        ],
-        "flooding.": [
-          44
-        ],
-        "NEOM,": [
-          45
-        ],
-        "a": [
-          46,
-          59,
-          201,
-          223,
-          237
-        ],
-        "futuristic": [
-          47
-        ],
-        "city": [
-          48
-        ],
-        "currently": [
-          49
-        ],
-        "being": [
-          50
-        ],
-        "developed": [
-          51,
-          296
-        ],
-        "in": [
-          52,
-          80,
-          90,
-          200,
-          222,
-          297
-        ],
-        "northwest": [
-          54
-        ],
-        "Arabia,": [
-          57
-        ],
-        "exemplifies": [
-          58
-        ],
-        "potential": [
-          60,
-          304
-        ],
-        "flooding": [
-          61
-        ],
-        "hazard": [
-          62,
-          78
-        ],
-        "due": [
-          63
-        ],
-        "its": [
-          65
-        ],
-        "geographic": [
-          66
-        ],
-        "location": [
-          67
-        ],
-        "proposed": [
-          69
-        ],
-        "plans.": [
-          71
-        ],
-        "research": [
-          73,
-          197
-        ],
-        "aims": [
-          74
-        ],
-        "enhance": [
-          76
-        ],
-        "flood": [
-          77,
-          170,
-          193,
-          202,
-          233,
-          255,
-          293,
-          308
-        ],
-        "assessment": [
-          79
-        ],
-        "NEOM": [
-          81,
-          241
-        ],
-        "by": [
-          82
-        ],
-        "applying": [
-          83
-        ],
-        "Fuzzy": [
-          85
-        ],
-        "Analytical": [
-          86
-        ],
-        "Hierarchy": [
-          87
-        ],
-        "Process": [
-          88
-        ],
-        "(FAHP)": [
-          89
-        ],
-        "combination": [
-          91
-        ],
-        "with": [
-          92,
-          250,
-          263,
-          274,
-          283
-        ],
-        "Geographic": [
-          93
-        ],
-        "Information": [
-          94
-        ],
-        "System": [
-          95
-        ],
-        "(GIS).": [
-          96
-        ],
-        "Acknowledging": [
-          97
-        ],
-        "traditional": [
-          98
-        ],
-        "limitations": [
-          99
-        ],
-        "related": [
-          100
-        ],
-        "data": [
-          102,
-          151,
-          158
-        ],
-        "availability": [
-          103
-        ],
-        "parameter": [
-          105
-        ],
-        "selection": [
-          106
-        ],
-        "consensus,": [
-          107
-        ],
-        "study": [
-          109,
-          299
-        ],
-        "carefully": [
-          110
-        ],
-        "selects": [
-          111
-        ],
-        "parameters": [
-          112
-        ],
-        "drainage": [
-          115
-        ],
-        "density,": [
-          116
-        ],
-        "elevation,": [
-          117
-        ],
-        "slope,": [
-          118
-        ],
-        "rainfall,": [
-          119
-        ],
-        "land": [
-          120,
-          154
-        ],
-        "use/land": [
-          121
-        ],
-        "cover": [
-          122,
-          155
-        ],
-        "(LULC),": [
-          123
-        ],
-        "soil": [
-          124,
-          160
-        ],
-        "type,": [
-          125
-        ],
-        "normalized": [
-          126
-        ],
-        "difference": [
-          127
-        ],
-        "vegetation": [
-          128,
-          177
-        ],
-        "index": [
-          129,
-          134
-        ],
-        "(NDVI),": [
-          130
-        ],
-        "topographic": [
-          132
-        ],
-        "wetness": [
-          133
-        ],
-        "(TWI).": [
-          135
-        ],
-        "m": [
-          138
-        ],
-        "DEM": [
-          139
-        ],
-        "was": [
-          140
-        ],
-        "used": [
-          141
-        ],
-        "derive": [
-          143
-        ],
-        "Drainage": [
-          144
-        ],
-        "Density,": [
-          145
-        ],
-        "Slope,": [
-          146
-        ],
-        "TWI": [
-          148
-        ],
-        "while": [
-          149
-        ],
-        "LULC": [
-          150
-        ],
-        "helped": [
-          152
-        ],
-        "assess": [
-          153
-        ],
-        "changes.": [
-          156
-        ],
-        "Rainfall": [
-          157
-        ],
-        "type": [
-          161
-        ],
-        "information": [
-          162
-        ],
-        "integrated": [
-          164
-        ],
-        "evaluate": [
-          166
-        ],
-        "their": [
-          167
-        ],
-        "impact": [
-          168
-        ],
-        "on": [
-          169,
-          257,
-          303
-        ],
-        "susceptibility.": [
-          171
-        ],
-        "NDVI": [
-          172
-        ],
-        "employed": [
-          174
-        ],
-        "analyze": [
-          176
-        ],
-        "cover.": [
-          178
-        ],
-        "Utilizing": [
-          179
-        ],
-        "ArcGIS": [
-          180
-        ],
-        "Pro’s": [
-          181
-        ],
-        "weighted": [
-          182
-        ],
-        "overlay": [
-          183
-        ],
-        "model,": [
-          184
-        ],
-        "criteria": [
-          186
-        ],
-        "were": [
-          187
-        ],
-        "combined": [
-          188
-        ],
-        "generate": [
-          190
-        ],
-        "final": [
-          192
-        ],
-        "susceptibility": [
-          194,
-          203,
-          210,
-          248,
-          256,
-          267,
-          276,
-          294
-        ],
-        "map.": [
-          195
-        ],
-        "outcomes": [
-          198
-        ],
-        "manifest": [
-          199
-        ],
-        "map": [
-          204,
-          295
-        ],
-        "categorizing": [
-          205
-        ],
-        "areas": [
-          206,
-          262,
-          273,
-          282,
-          306
-        ],
-        "into": [
-          207,
-          228
-        ],
-        "seven": [
-          208
-        ],
-        "distinct": [
-          209
-        ],
-        "classes,": [
-          211
-        ],
-        "ranging": [
-          212
-        ],
-        "from": [
-          213
-        ],
-        "‘very": [
-          214,
-          217
-        ],
-        "low’": [
-          215
-        ],
-        "high.’": [
-          218
-        ],
-        "A": [
-          219
-        ],
-        "quantitative": [
-          220
-        ],
-        "breakdown": [
-          221
-        ],
-        "summary": [
-          224
-        ],
-        "table": [
-          225
-        ],
-        "provides": [
-          226
-        ],
-        "insights": [
-          227,
-          302
-        ],
-        "proportional": [
-          230
-        ],
-        "distribution": [
-          231,
-          253
-        ],
-        "risk.": [
-          234
-        ],
-        "Results": [
-          235
-        ],
-        "indicate": [
-          236
-        ],
-        "significant": [
-          238
-        ],
-        "portion": [
-          239
-        ],
-        "falls": [
-          242
-        ],
-        "within": [
-          243
-        ],
-        "varying": [
-          244
-        ],
-        "degrees": [
-          245
-        ],
-        "moderate": [
-          247
-        ],
-        "range": [
-          249
-        ],
-        "relatively": [
-          251
-        ],
-        "limited": [
-          252
-        ],
-        "extremes,": [
-          259
-        ],
-        "equating": [
-          260
-        ],
-        "‘low": [
-          264
-        ],
-        "moderate’": [
-          266
-        ],
-        "4,322.8": [
-          269
-        ],
-        "km": [
-          270,
-          279,
-          289
-        ],
-        ",": [
-          272,
-          281
-        ],
-        "‘moderate’": [
-          275
-        ],
-        "5,109.69": [
-          278
-        ],
-        "‘moderate": [
-          284
-        ],
-        "high’": [
-          286
-        ],
-        "4,081.39": [
-          288
-        ],
-        ".": [
-          291
-        ],
-        "this": [
-          298
-        ],
-        "can": [
-          300
-        ],
-        "shed": [
-          301
-        ],
-        "optimum": [
-          305,
-          312
-        ],
-        "for": [
-          307,
-          314
-        ],
-        "mitigation": [
-          309
-        ],
-        "measures": [
-          310
-        ],
-        "(i.e.,": [
-          311
-        ],
-        "locations": [
-          313
-        ],
-        "establishing": [
-          315
-        ],
-        "stormwater": [
-          316
-        ],
-        "collection": [
-          317
-        ],
-        "points).": [
-          318
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 10
-        }
-      ],
-      "updated_date": "2026-01-01T23:40:50.289205",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18748,8 +18748,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -20928,8 +20928,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6600000262260437
+          "score": 0.6600000262260437,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -21481,8 +21481,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -22097,8 +22097,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -22716,8 +22716,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -23313,8 +23313,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -24239,8 +24239,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -25455,8 +25455,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -26821,8 +26821,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -28122,8 +28122,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -29313,8 +29313,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -30265,8 +30265,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -31509,8 +31509,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -32085,8 +32085,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -33088,8 +33088,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.7200000286102295
+          "score": 0.7200000286102295,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -33692,11 +33692,11 @@
         "currency": "CHF",
         "value_usd": 1624
       },
-      "fwci": 2.4647,
+      "fwci": 2.4361,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.89054508,
+        "value": 0.88953069,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34567,7 +34567,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34974,8 +34974,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -36781,8 +36781,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -37817,8 +37817,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -39425,8 +39425,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -40229,8 +40229,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -40599,8 +40599,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -41231,8 +41231,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -42771,8 +42771,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -43636,8 +43636,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -44077,8 +44077,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -45946,13 +45946,13 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/15"
         },
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -47224,13 +47224,13 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/15"
         },
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -48795,13 +48795,13 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5400000214576721
+          "score": 0.5400000214576721,
+          "id": "https://metadata.un.org/sdg/14"
         },
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -50309,8 +50309,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -54471,8 +54471,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -54872,8 +54872,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -55611,8 +55611,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -56716,8 +56716,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137
+          "score": 0.7699999809265137,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -58462,7 +58462,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.05519288,
+        "value": 0.05497679,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -58902,8 +58902,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7799999713897705
+          "score": 0.7799999713897705,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -58954,422 +58954,9 @@
         "https://openalex.org/W2977508466",
         "https://openalex.org/W2913095358"
       ],
-      "abstract_inverted_index": {
-        "This": [
-          0,
-          23
-        ],
-        "study": [
-          1
-        ],
-        "introduces": [
-          2
-        ],
-        "a": [
-          3
-        ],
-        "new": [
-          4,
-          69
-        ],
-        "formulation": [
-          5,
-          71
-        ],
-        "for": [
-          6,
-          68,
-          151
-        ],
-        "solving": [
-          7
-        ],
-        "Tóth's": [
-          8
-        ],
-        "unit": [
-          9
-        ],
-        "basin": [
-          10,
-          105,
-          160,
-          170
-        ],
-        "groundwater": [
-          11,
-          32
-        ],
-        "flow": [
-          12,
-          131
-        ],
-        "problem": [
-          13,
-          54
-        ],
-        "by": [
-          14
-        ],
-        "using": [
-          15
-        ],
-        "Neumann": [
-          16
-        ],
-        "boundary": [
-          17
-        ],
-        "conditions": [
-          18
-        ],
-        "at": [
-          19
-        ],
-        "the": [
-          20,
-          26,
-          37,
-          43,
-          60,
-          73,
-          79,
-          89,
-          96,
-          99,
-          114,
-          119,
-          122,
-          126,
-          130,
-          146,
-          159,
-          167
-        ],
-        "water": [
-          21,
-          44,
-          179
-        ],
-        "table.": [
-          22
-        ],
-        "enables": [
-          24
-        ],
-        "considering": [
-          25
-        ],
-        "impacts": [
-          27
-        ],
-        "of": [
-          28,
-          72,
-          91,
-          98,
-          121
-        ],
-        "hydraulic": [
-          29,
-          83,
-          92,
-          115
-        ],
-        "conductivity": [
-          30,
-          84
-        ],
-        "and": [
-          31,
-          47,
-          85,
-          118,
-          135,
-          155,
-          172,
-          175,
-          182
-        ],
-        "recharge,": [
-          33
-        ],
-        "in": [
-          34,
-          82
-        ],
-        "contrast": [
-          35
-        ],
-        "to": [
-          36,
-          58,
-          107,
-          139,
-          178
-        ],
-        "earlier": [
-          38
-        ],
-        "model,": [
-          39
-        ],
-        "which": [
-          40,
-          64
-        ],
-        "assumed": [
-          41
-        ],
-        "that": [
-          42,
-          78,
-          145
-        ],
-        "table": [
-          45,
-          180
-        ],
-        "shape": [
-          46,
-          97,
-          120,
-          181
-        ],
-        "location": [
-          48
-        ],
-        "was": [
-          49,
-          55,
-          66
-        ],
-        "known.": [
-          50
-        ],
-        "The": [
-          51,
-          75
-        ],
-        "original": [
-          52
-        ],
-        "Tóth": [
-          53
-        ],
-        "represented": [
-          56
-        ],
-        "numerically": [
-          57
-        ],
-        "obtain": [
-          59
-        ],
-        "equivalent": [
-          61
-        ],
-        "recharge/discharge": [
-          62
-        ],
-        "boundary,": [
-          63
-        ],
-        "then": [
-          65
-        ],
-        "used": [
-          67
-        ],
-        "analytical": [
-          70
-        ],
-        "problem.": [
-          74
-        ],
-        "results": [
-          76,
-          164
-        ],
-        "show": [
-          77
-        ],
-        "likely": [
-          80
-        ],
-        "changes": [
-          81
-        ],
-        "recharge": [
-          86
-        ],
-        "significantly": [
-          87
-        ],
-        "affect": [
-          88,
-          112
-        ],
-        "magnitude": [
-          90,
-          117
-        ],
-        "head,": [
-          93
-        ],
-        "but": [
-          94
-        ],
-        "not": [
-          95
-        ],
-        "contour": [
-          100
-        ],
-        "lines.": [
-          101
-        ],
-        "Basin": [
-          102
-        ],
-        "dimensions": [
-          103
-        ],
-        "(i.e.": [
-          104
-        ],
-        "depth": [
-          106
-        ],
-        "length": [
-          108
-        ],
-        "aspect": [
-          109,
-          127,
-          153
-        ],
-        "ratio": [
-          110,
-          128
-        ],
-        "(b/a))": [
-          111
-        ],
-        "both": [
-          113
-        ],
-        "head": [
-          116,
-          147
-        ],
-        "resulting": [
-          123
-        ],
-        "contours.": [
-          124
-        ],
-        "As": [
-          125
-        ],
-        "decreases,": [
-          129
-        ],
-        "becomes": [
-          132,
-          161
-        ],
-        "more": [
-          133,
-          141
-        ],
-        "horizontal,": [
-          134
-        ],
-        "equipotential": [
-          136
-        ],
-        "lines": [
-          137
-        ],
-        "tend": [
-          138
-        ],
-        "become": [
-          140
-        ],
-        "vertical.": [
-          142
-        ],
-        "Results": [
-          143
-        ],
-        "reveal": [
-          144
-        ],
-        "gradient": [
-          148
-        ],
-        "is": [
-          149
-        ],
-        "higher": [
-          150
-        ],
-        "lower": [
-          152
-        ],
-        "ratios": [
-          154
-        ],
-        "exponentially": [
-          156
-        ],
-        "decreases": [
-          157
-        ],
-        "as": [
-          158
-        ],
-        "square.": [
-          162
-        ],
-        "These": [
-          163
-        ],
-        "enable": [
-          165
-        ],
-        "understand": [
-          166
-        ],
-        "relationship": [
-          168
-        ],
-        "between": [
-          169
-        ],
-        "geometry": [
-          171
-        ],
-        "hydrological": [
-          173
-        ],
-        "parameters,": [
-          174
-        ],
-        "their": [
-          176
-        ],
-        "relation": [
-          177
-        ],
-        "gradient.": [
-          183
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -60022,8 +59609,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -61653,7 +61240,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-05T00:54:17.221276",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-30T00:00:00"
     },
     {
@@ -62351,9 +61938,643 @@
         "https://openalex.org/W4414464584"
       ],
       "related_works": [],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Coupled": [
+          0
+        ],
+        "Hydro-Mechanical": [
+          1
+        ],
+        "(HM)": [
+          2
+        ],
+        "models,": [
+          3
+        ],
+        "which": [
+          4,
+          206
+        ],
+        "involve": [
+          5
+        ],
+        "the": [
+          6,
+          32,
+          38,
+          45,
+          61,
+          92,
+          99,
+          106,
+          110,
+          128,
+          134,
+          138,
+          141,
+          182,
+          202,
+          208,
+          219,
+          223,
+          246,
+          259,
+          262,
+          282
+        ],
+        "interaction": [
+          7
+        ],
+        "between": [
+          8,
+          120,
+          184
+        ],
+        "fluid": [
+          9
+        ],
+        "flow": [
+          10,
+          47,
+          121,
+          253
+        ],
+        "and": [
+          11,
+          48,
+          90,
+          122,
+          170,
+          187,
+          265,
+          289
+        ],
+        "mechanical": [
+          12,
+          49,
+          88,
+          123
+        ],
+        "processes": [
+          13,
+          56
+        ],
+        "in": [
+          14,
+          57,
+          67,
+          133,
+          150,
+          174,
+          196
+        ],
+        "porous": [
+          15
+        ],
+        "media,": [
+          16
+        ],
+        "are": [
+          17,
+          51,
+          193
+        ],
+        "essential": [
+          18
+        ],
+        "for": [
+          19,
+          53,
+          84,
+          201,
+          251,
+          286
+        ],
+        "simulating": [
+          20
+        ],
+        "rainfall-induced": [
+          21
+        ],
+        "landslides": [
+          22
+        ],
+        "(RILS).": [
+          23
+        ],
+        "A": [
+          24,
+          144,
+          270
+        ],
+        "common": [
+          25
+        ],
+        "strategy": [
+          26
+        ],
+        "to": [
+          27,
+          75,
+          116,
+          136
+        ],
+        "investigate": [
+          28
+        ],
+        "RILS": [
+          29,
+          102
+        ],
+        "is": [
+          30,
+          152,
+          254,
+          277
+        ],
+        "through": [
+          31
+        ],
+        "Biot": [
+          33
+        ],
+        "poroelasticity": [
+          34
+        ],
+        "approach": [
+          35
+        ],
+        "combined": [
+          36
+        ],
+        "with": [
+          37,
+          87,
+          154,
+          230
+        ],
+        "Local": [
+          39
+        ],
+        "Factor": [
+          40
+        ],
+        "of": [
+          41,
+          63,
+          94,
+          101,
+          109,
+          140,
+          147,
+          163,
+          214,
+          222,
+          248,
+          261,
+          273
+        ],
+        "Safety": [
+          42
+        ],
+        "concept.": [
+          43
+        ],
+        "While": [
+          44,
+          190
+        ],
+        "two-phase": [
+          46
+        ],
+        "equations": [
+          50,
+          89
+        ],
+        "well-documented": [
+          52
+        ],
+        "modeling": [
+          54
+        ],
+        "HM": [
+          55
+        ],
+        "variably": [
+          58
+        ],
+        "saturated": [
+          59
+        ],
+        "conditions,": [
+          60
+        ],
+        "use": [
+          62,
+          247
+        ],
+        "Richards'": [
+          64
+        ],
+        "Eq.": [
+          65
+        ],
+        "(RE)": [
+          66
+        ],
+        "this": [
+          68,
+          77,
+          176,
+          198,
+          244
+        ],
+        "context": [
+          69
+        ],
+        "remains": [
+          70
+        ],
+        "underexplored.": [
+          71
+        ],
+        "This": [
+          72
+        ],
+        "paper": [
+          73
+        ],
+        "aims": [
+          74
+        ],
+        "address": [
+          76
+        ],
+        "gap": [
+          78
+        ],
+        "by": [
+          79
+        ],
+        "providing": [
+          80
+        ],
+        "a": [
+          81,
+          117,
+          160
+        ],
+        "comprehensive": [
+          82
+        ],
+        "formulation": [
+          83
+        ],
+        "coupling": [
+          85,
+          119,
+          239
+        ],
+        "RE": [
+          86
+        ],
+        "evaluating": [
+          91
+        ],
+        "impact": [
+          93
+        ],
+        "various": [
+          95,
+          267
+        ],
+        "model": [
+          96,
+          113,
+          185,
+          264,
+          285
+        ],
+        "simplifications": [
+          97
+        ],
+        "on": [
+          98
+        ],
+        "reliability": [
+          100,
+          288
+        ],
+        "predictions.": [
+          103
+        ],
+        "We": [
+          104,
+          125,
+          257,
+          280
+        ],
+        "present": [
+          105
+        ],
+        "theoretical": [
+          107
+        ],
+        "development": [
+          108,
+          260
+        ],
+        "original": [
+          111,
+          142,
+          263
+        ],
+        "mathematical": [
+          112
+        ],
+        "that": [
+          114
+        ],
+        "leads": [
+          115
+        ],
+        "strong": [
+          118
+        ],
+        "equations.": [
+          124
+        ],
+        "also": [
+          126
+        ],
+        "review": [
+          127
+        ],
+        "different": [
+          129,
+          164,
+          274
+        ],
+        "simplification": [
+          130,
+          275
+        ],
+        "approaches": [
+          131,
+          149,
+          192,
+          276
+        ],
+        "proposed": [
+          132
+        ],
+        "literature": [
+          135
+        ],
+        "reduce": [
+          137
+        ],
+        "complexity": [
+          139,
+          186
+        ],
+        "model.": [
+          143
+        ],
+        "straightforward": [
+          145
+        ],
+        "implementation": [
+          146
+        ],
+        "these": [
+          148
+        ],
+        "COMSOL": [
+          151
+        ],
+        "provided,": [
+          153
+        ],
+        "validation": [
+          155
+        ],
+        "against": [
+          156
+        ],
+        "established": [
+          157
+        ],
+        "benchmarks.": [
+          158
+        ],
+        "Through": [
+          159
+        ],
+        "comparative": [
+          161,
+          271
+        ],
+        "analysis": [
+          162,
+          272
+        ],
+        "approaches,": [
+          165
+        ],
+        "using": [
+          166
+        ],
+        "both": [
+          167
+        ],
+        "hypothetical": [
+          168
+        ],
+        "benchmark": [
+          169
+        ],
+        "real": [
+          171
+        ],
+        "case": [
+          172
+        ],
+        "study": [
+          173,
+          177,
+          199
+        ],
+        "Azerbaijan,": [
+          175
+        ],
+        "provides": [
+          178
+        ],
+        "new": [
+          179
+        ],
+        "insights": [
+          180
+        ],
+        "into": [
+          181
+        ],
+        "balance": [
+          183
+        ],
+        "prediction": [
+          188
+        ],
+        "accuracy.": [
+          189
+        ],
+        "simplified": [
+          191,
+          231
+        ],
+        "commonly": [
+          194
+        ],
+        "used": [
+          195
+        ],
+        "literature,": [
+          197
+        ],
+        "advocates": [
+          200
+        ],
+        "fully": [
+          203,
+          224,
+          283
+        ],
+        "coupled": [
+          204,
+          225,
+          284
+        ],
+        "model,": [
+          205,
+          226
+        ],
+        "delivers": [
+          207
+        ],
+        "most": [
+          209
+        ],
+        "reliable": [
+          210
+        ],
+        "results.": [
+          211
+        ],
+        "The": [
+          212
+        ],
+        "employment": [
+          213
+        ],
+        "advanced": [
+          215
+        ],
+        "numerical": [
+          216
+        ],
+        "techniques": [
+          217
+        ],
+        "enhances": [
+          218
+        ],
+        "computational": [
+          220
+        ],
+        "performance": [
+          221
+        ],
+        "making": [
+          227
+        ],
+        "it": [
+          228
+        ],
+        "competitive": [
+          229
+        ],
+        "approaches.": [
+          232
+        ],
+        "•": [
+          233,
+          242,
+          256,
+          269,
+          279
+        ],
+        "Modeling": [
+          234
+        ],
+        "rainfall": [
+          235
+        ],
+        "induced": [
+          236
+        ],
+        "landslide": [
+          237
+        ],
+        "requires": [
+          238
+        ],
+        "hydro-mechanical": [
+          240
+        ],
+        "processes.": [
+          241
+        ],
+        "In": [
+          243
+        ],
+        "context,": [
+          245
+        ],
+        "Richards": [
+          249
+        ],
+        "equation": [
+          250
+        ],
+        "unsaturated": [
+          252
+        ],
+        "unexplored.": [
+          255
+        ],
+        "provide": [
+          258
+        ],
+        "its": [
+          266,
+          287
+        ],
+        "simplifications.": [
+          268
+        ],
+        "conducted.": [
+          278
+        ],
+        "recommend": [
+          281
+        ],
+        "performance.": [
+          290
+        ]
+      },
       "counts_by_year": [],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-11-27T00:00:00"
     },
     {
@@ -62704,7 +62925,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68603525,
+        "value": 0.6629108,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -63134,8 +63355,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2",
-          "score": 0.4535079300403595
+          "score": 0.4535079300403595,
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],

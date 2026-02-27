@@ -1056,8 +1056,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.75,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.75
         }
       ],
       "awards": [
@@ -4893,8 +4893,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4300000071525574,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -6674,13 +6674,13 @@
         "currency": "USD",
         "value_usd": 3380
       },
-      "fwci": 2.6444,
+      "fwci": 2.8388,
       "has_fulltext": false,
-      "cited_by_count": 13,
+      "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.89290248,
+        "value": 0.90282018,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 89,
@@ -7090,8 +7090,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6899999976158142,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -7926,6 +7926,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 11
         },
@@ -7938,7 +7942,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-03T00:53:05.648605",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8520,8 +8524,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.47999998927116394,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [
@@ -15306,7 +15310,7 @@
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.9435833,
+        "value": 0.94358492,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15667,8 +15671,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.5
         }
       ],
       "awards": [],
@@ -15754,7 +15758,685 @@
         "https://openalex.org/W2586491006",
         "https://openalex.org/W2017105698"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "2": [
+          163
+        ],
+        "3": [
+          136
+        ],
+        "15": [
+          110,
+          119
+        ],
+        "30": [
+          270
+        ],
+        "50": [
+          251
+        ],
+        "1000": [
+          253,
+          272
+        ],
+        "Abstract": [
+          0
+        ],
+        "The": [
+          1,
+          246,
+          283
+        ],
+        "diversion": [
+          2,
+          90,
+          247,
+          298,
+          312
+        ],
+        "efficiency": [
+          3,
+          54,
+          91,
+          248
+        ],
+        "measures": [
+          4
+        ],
+        "the": [
+          5,
+          14,
+          29,
+          46,
+          57,
+          61,
+          73,
+          98,
+          102,
+          161,
+          166,
+          182,
+          189,
+          194,
+          207,
+          217,
+          222,
+          229,
+          238,
+          242,
+          250,
+          262,
+          267,
+          269,
+          281,
+          302,
+          311
+        ],
+        "acid": [
+          6,
+          21,
+          42,
+          49,
+          89,
+          105,
+          113,
+          116,
+          122,
+          145,
+          151,
+          201,
+          231,
+          256,
+          275,
+          290,
+          316
+        ],
+        "capacity": [
+          7,
+          313
+        ],
+        "to": [
+          8,
+          13,
+          45,
+          51,
+          71,
+          87,
+          159,
+          187,
+          205,
+          241,
+          261,
+          309
+        ],
+        "change": [
+          9
+        ],
+        "its": [
+          10
+        ],
+        "flow": [
+          11
+        ],
+        "direction": [
+          12,
+          59,
+          224
+        ],
+        "lower": [
+          15
+        ],
+        "permeability": [
+          16
+        ],
+        "reservoir": [
+          17
+        ],
+        "sections.": [
+          18
+        ],
+        "A": [
+          19
+        ],
+        "good": [
+          20
+        ],
+        "diverter": [
+          22
+        ],
+        "creates": [
+          23
+        ],
+        "a": [
+          24,
+          34,
+          77,
+          85,
+          234,
+          296
+        ],
+        "tortuous": [
+          25
+        ],
+        "(zigzagged)": [
+          26
+        ],
+        "wormhole": [
+          27,
+          58,
+          223,
+          244
+        ],
+        "within": [
+          28
+        ],
+        "acidized": [
+          30,
+          183
+        ],
+        "core": [
+          31
+        ],
+        "sample": [
+          32
+        ],
+        "in": [
+          33,
+          55,
+          97,
+          101,
+          172,
+          225,
+          280,
+          306,
+          318
+        ],
+        "laboratory": [
+          35
+        ],
+        "setup.": [
+          36
+        ],
+        "Here,": [
+          37
+        ],
+        "we": [
+          38,
+          81
+        ],
+        "studied": [
+          39
+        ],
+        "two": [
+          40,
+          141,
+          147,
+          173
+        ],
+        "different": [
+          41,
+          153
+        ],
+        "diverters": [
+          43
+        ],
+        "compared": [
+          44,
+          260
+        ],
+        "conventional": [
+          47
+        ],
+        "hydrochloric": [
+          48
+        ],
+        "(HCl)": [
+          50
+        ],
+        "investigate": [
+          52
+        ],
+        "their": [
+          53
+        ],
+        "changing": [
+          56
+        ],
+        "inside": [
+          60
+        ],
+        "rock": [
+          62,
+          78,
+          167
+        ],
+        "core.": [
+          63
+        ],
+        "Nuclear": [
+          64
+        ],
+        "magnetic": [
+          65
+        ],
+        "resonance": [
+          66
+        ],
+        "(NMR)": [
+          67
+        ],
+        "can": [
+          68,
+          94
+        ],
+        "be": [
+          69,
+          95
+        ],
+        "used": [
+          70
+        ],
+        "measure": [
+          72,
+          88,
+          160
+        ],
+        "3D": [
+          74
+        ],
+        "tortuosity": [
+          75,
+          171,
+          213,
+          218,
+          239
+        ],
+        "of": [
+          76,
+          118,
+          165,
+          181,
+          237,
+          249,
+          314
+        ],
+        "sample;": [
+          79
+        ],
+        "hence,": [
+          80
+        ],
+        "propose": [
+          82
+        ],
+        "it": [
+          83,
+          93
+        ],
+        "as": [
+          84
+        ],
+        "tool": [
+          86
+        ],
+        "because": [
+          92
+        ],
+        "applied": [
+          96
+        ],
+        "field": [
+          99
+        ],
+        "and": [
+          100,
+          114,
+          123,
+          146,
+          169,
+          199
+        ],
+        "laboratory.": [
+          103
+        ],
+        "Two": [
+          104
+        ],
+        "systems": [
+          106
+        ],
+        "were": [
+          107,
+          130
+        ],
+        "utilized:": [
+          108
+        ],
+        "straight": [
+          109,
+          143,
+          263
+        ],
+        "wt.%": [
+          111,
+          120
+        ],
+        "HCl": [
+          112,
+          121,
+          144,
+          150,
+          264
+        ],
+        "gelled": [
+          115,
+          149,
+          230
+        ],
+        "consisting": [
+          117
+        ],
+        "polyacrylamide": [
+          124
+        ],
+        "polymer": [
+          125
+        ],
+        "(PAM).": [
+          126
+        ],
+        "Four": [
+          127
+        ],
+        "coreflooding": [
+          128
+        ],
+        "experiments": [
+          129
+        ],
+        "conducted": [
+          131
+        ],
+        "on": [
+          132,
+          301
+        ],
+        "1.5": [
+          133
+        ],
+        "inch-diameter": [
+          134
+        ],
+        "×": [
+          135
+        ],
+        "inch-length": [
+          137
+        ],
+        "Indiana": [
+          138
+        ],
+        "limestone": [
+          139
+        ],
+        "samples,": [
+          140
+        ],
+        "with": [
+          142,
+          148
+        ],
+        "at": [
+          152
+        ],
+        "PAM": [
+          154
+        ],
+        "concentrations.": [
+          155
+        ],
+        "NMR": [
+          156,
+          211,
+          303
+        ],
+        "was": [
+          157,
+          185,
+          203,
+          219,
+          257
+        ],
+        "utilized": [
+          158
+        ],
+        "T": [
+          162
+        ],
+        "distribution": [
+          164
+        ],
+        "samples": [
+          168,
+          184
+        ],
+        "diffusion": [
+          170,
+          212,
+          304
+        ],
+        "orthogonal": [
+          174,
+          240
+        ],
+        "directions.": [
+          175
+        ],
+        "Also,": [
+          176
+        ],
+        "X-ray": [
+          177
+        ],
+        "computed": [
+          178
+        ],
+        "tomography": [
+          179
+        ],
+        "(CT)": [
+          180
+        ],
+        "taken": [
+          186
+        ],
+        "visualize": [
+          188
+        ],
+        "wormholes.": [
+          190
+        ],
+        "Results": [
+          191
+        ],
+        "showed": [
+          192,
+          215,
+          233
+        ],
+        "that": [
+          193,
+          216
+        ],
+        "polymer-based": [
+          195
+        ],
+        "acid-created": [
+          196
+        ],
+        "zigzagged": [
+          197
+        ],
+        "paths,": [
+          198
+        ],
+        "more": [
+          200,
+          292
+        ],
+        "volume": [
+          202
+        ],
+        "consumed": [
+          204
+        ],
+        "create": [
+          206
+        ],
+        "wormholes": [
+          208
+        ],
+        "using": [
+          209
+        ],
+        "CT.": [
+          210
+        ],
+        "measurements": [
+          214,
+          305
+        ],
+        "reduced": [
+          220
+        ],
+        "along": [
+          221
+        ],
+        "all": [
+          226
+        ],
+        "experiments.": [
+          227
+        ],
+        "Nevertheless,": [
+          228
+        ],
+        "treatments": [
+          232
+        ],
+        "significant": [
+          235
+        ],
+        "reduction": [
+          236
+        ],
+        "main": [
+          243
+        ],
+        "path.": [
+          245
+        ],
+        "lbm/": [
+          252,
+          271
+        ],
+        "gal": [
+          254,
+          273
+        ],
+        "PAM-gelled": [
+          255,
+          274
+        ],
+        "35%": [
+          258
+        ],
+        "higher": [
+          259
+        ],
+        "acid.": [
+          265
+        ],
+        "On": [
+          266
+        ],
+        "contrary,": [
+          268
+        ],
+        "gave": [
+          276
+        ],
+        "only": [
+          277
+        ],
+        "10%": [
+          278
+        ],
+        "improvement": [
+          279
+        ],
+        "diversion.": [
+          282
+        ],
+        "index": [
+          284,
+          299
+        ],
+        "could": [
+          285
+        ],
+        "screen": [
+          286
+        ],
+        "quantitatively": [
+          287
+        ],
+        "which": [
+          288
+        ],
+        "diverting": [
+          289
+        ],
+        "is": [
+          291
+        ],
+        "efficient.": [
+          293
+        ],
+        "We": [
+          294
+        ],
+        "introduced": [
+          295
+        ],
+        "new": [
+          297
+        ],
+        "based": [
+          300
+        ],
+        "this": [
+          307
+        ],
+        "study": [
+          308
+        ],
+        "quantify": [
+          310
+        ],
+        "an": [
+          315
+        ],
+        "system": [
+          317
+        ],
+        "carbonate": [
+          319
+        ],
+        "rock.": [
+          320
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
@@ -15769,7 +16451,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-25T23:00:34.991745",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16426,8 +17108,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5400000214576721,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.5400000214576721
         }
       ],
       "awards": [],
@@ -18195,8 +18877,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.550000011920929,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -18856,8 +19538,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7099999785423279,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7099999785423279
         }
       ],
       "awards": [],
@@ -20374,8 +21056,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -21868,8 +22550,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7099999785423279,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7099999785423279
         }
       ],
       "awards": [],
@@ -23303,8 +23985,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4699999988079071,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
@@ -24591,8 +25273,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.47999998927116394,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -26069,8 +26751,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7200000286102295,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -27486,8 +28168,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6600000262260437,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
@@ -28939,8 +29621,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4399999976158142,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -30116,8 +30798,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4300000071525574,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -32084,8 +32766,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -33188,8 +33870,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.699999988079071,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
@@ -36718,8 +37400,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6815276741981506,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6815276741981506
         }
       ],
       "awards": [],
@@ -38337,8 +39019,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8192726373672485,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8192726373672485
         }
       ],
       "awards": [],

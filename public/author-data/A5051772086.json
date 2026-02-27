@@ -225,7 +225,7 @@
       {
         "id": "https://openalex.org/T12865",
         "display_name": "Tailings Management and Properties",
-        "value": 0.0001913,
+        "value": 0.0001911,
         "subfield": {
           "id": "https://openalex.org/subfields/2205",
           "display_name": "Civil and Structural Engineering"
@@ -1066,8 +1066,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -2145,16 +2145,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5400000214576721
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4291162386.pdf",
@@ -2859,6 +2859,789 @@
       "created_date": "2022-08-13T00:00:00"
     },
     {
+      "id": "https://openalex.org/W1997940502",
+      "doi": "https://doi.org/10.1080/17480930.2012.707527",
+      "title": "Effect of blast vibrations on the stability of cemented rockfill",
+      "display_name": "Effect of blast vibrations on the stability of cemented rockfill",
+      "publication_year": 2012,
+      "publication_date": "2012-08-15",
+      "ids": {
+        "openalex": "https://openalex.org/W1997940502",
+        "doi": "https://doi.org/10.1080/17480930.2012.707527",
+        "mag": "1997940502"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1080/17480930.2012.707527",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1080/17480930.2012.707527",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S48643595",
+          "display_name": "International Journal of Mining Reclamation and Environment",
+          "issn_l": "1748-0930",
+          "issn": [
+            "1748-0930",
+            "1748-0949"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Mining, Reclamation and Environment",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5051772086",
+            "display_name": "Muhammad Zaka Emad",
+            "orcid": "https://orcid.org/0000-0001-8537-8026"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I5023651",
+              "display_name": "McGill University",
+              "ror": "https://ror.org/01pxwe438",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I5023651"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Muhammad Zaka Emad",
+          "raw_affiliation_strings": [
+            "Department of Mining and Materials Engineering , McGill University , 3450 University Street, Montreal , Quebec , H3A 2A7 , Canada",
+            "Department of Mining and Materials Engineering, McGill University, 3450 University Street, Montreal, Quebec, H3A 2A7, Canada"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Mining and Materials Engineering , McGill University , 3450 University Street, Montreal , Quebec , H3A 2A7 , Canada",
+              "institution_ids": [
+                "https://openalex.org/I5023651"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Mining and Materials Engineering, McGill University, 3450 University Street, Montreal, Quebec, H3A 2A7, Canada",
+              "institution_ids": [
+                "https://openalex.org/I5023651"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5028103466",
+            "display_name": "Hani S. Mitri",
+            "orcid": "https://orcid.org/0000-0002-6482-7424"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I5023651",
+              "display_name": "McGill University",
+              "ror": "https://ror.org/01pxwe438",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I5023651"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Hani S. Mitri",
+          "raw_affiliation_strings": [
+            "Department of Mining and Materials Engineering , McGill University , 3450 University Street, Montreal , Quebec , H3A 2A7 , Canada",
+            "Department of Mining and Materials Engineering, McGill University, 3450 University Street, Montreal, Quebec, H3A 2A7, Canada"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Mining and Materials Engineering , McGill University , 3450 University Street, Montreal , Quebec , H3A 2A7 , Canada",
+              "institution_ids": [
+                "https://openalex.org/I5023651"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Mining and Materials Engineering, McGill University, 3450 University Street, Montreal, Quebec, H3A 2A7, Canada",
+              "institution_ids": [
+                "https://openalex.org/I5023651"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5089521328",
+            "display_name": "John G. Henning",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "John G. Henning",
+          "raw_affiliation_strings": [
+            "Corporate Technical Services, Goldcorp Inc , 666 Burrard Street, Vancouver , V6C2X8 , British Columbia , Canada"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Corporate Technical Services, Goldcorp Inc , 666 Burrard Street, Vancouver , V6C2X8 , British Columbia , Canada",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5028103466"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I5023651"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 4.0985,
+      "has_fulltext": false,
+      "cited_by_count": 31,
+      "citation_normalized_percentile": {
+        "value": 0.92605623,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "26",
+        "issue": "3",
+        "first_page": "233",
+        "last_page": "243"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12233",
+        "display_name": "Geotechnical Engineering and Underground Structures",
+        "score": 0.9972000122070312,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2205",
+          "display_name": "Civil and Structural Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12233",
+          "display_name": "Geotechnical Engineering and Underground Structures",
+          "score": 0.9972000122070312,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2205",
+            "display_name": "Civil and Structural Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13596",
+          "display_name": "Grouting, Rheology, and Soil Mechanics",
+          "score": 0.9972000122070312,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2205",
+            "display_name": "Civil and Structural Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13619",
+          "display_name": "Geotechnical and Geomechanical Engineering",
+          "score": 0.9918000102043152,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/vibration",
+          "display_name": "Vibration",
+          "score": 0.6003780364990234
+        },
+        {
+          "id": "https://openalex.org/keywords/stability",
+          "display_name": "Stability (learning theory)",
+          "score": 0.5363349318504333
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-engineering",
+          "display_name": "Structural engineering",
+          "score": 0.44439053535461426
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.43330785632133484
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.4031989574432373
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.33925381302833557
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.20172324776649475
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.19270294904708862
+        },
+        {
+          "id": "https://openalex.org/keywords/acoustics",
+          "display_name": "Acoustics",
+          "score": 0.08391526341438293
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C198394728",
+          "wikidata": "https://www.wikidata.org/wiki/Q3695508",
+          "display_name": "Vibration",
+          "level": 2,
+          "score": 0.6003780364990234
+        },
+        {
+          "id": "https://openalex.org/C112972136",
+          "wikidata": "https://www.wikidata.org/wiki/Q7595718",
+          "display_name": "Stability (learning theory)",
+          "level": 2,
+          "score": 0.5363349318504333
+        },
+        {
+          "id": "https://openalex.org/C66938386",
+          "wikidata": "https://www.wikidata.org/wiki/Q633538",
+          "display_name": "Structural engineering",
+          "level": 1,
+          "score": 0.44439053535461426
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.43330785632133484
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.4031989574432373
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.33925381302833557
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.20172324776649475
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.19270294904708862
+        },
+        {
+          "id": "https://openalex.org/C24890656",
+          "wikidata": "https://www.wikidata.org/wiki/Q82811",
+          "display_name": "Acoustics",
+          "level": 1,
+          "score": 0.08391526341438293
+        },
+        {
+          "id": "https://openalex.org/C119857082",
+          "wikidata": "https://www.wikidata.org/wiki/Q2539",
+          "display_name": "Machine learning",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1080/17480930.2012.707527",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1080/17480930.2012.707527",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S48643595",
+            "display_name": "International Journal of Mining Reclamation and Environment",
+            "issn_l": "1748-0930",
+            "issn": [
+              "1748-0930",
+              "1748-0949"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320547",
+            "host_organization_name": "Taylor & Francis",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320547"
+            ],
+            "host_organization_lineage_names": [
+              "Taylor & Francis"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Journal of Mining, Reclamation and Environment",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 9,
+      "referenced_works": [
+        "https://openalex.org/W20434945",
+        "https://openalex.org/W620589100",
+        "https://openalex.org/W1591538533",
+        "https://openalex.org/W2052868693",
+        "https://openalex.org/W2305100714",
+        "https://openalex.org/W2889434994",
+        "https://openalex.org/W3163583788",
+        "https://openalex.org/W3180136505",
+        "https://openalex.org/W3208921156"
+      ],
+      "related_works": [
+        "https://openalex.org/W2324615561",
+        "https://openalex.org/W2086120259",
+        "https://openalex.org/W2245170124",
+        "https://openalex.org/W2076393078",
+        "https://openalex.org/W3186982001",
+        "https://openalex.org/W2137941439",
+        "https://openalex.org/W1984402782",
+        "https://openalex.org/W2004200960",
+        "https://openalex.org/W1999891779",
+        "https://openalex.org/W2029513011"
+      ],
+      "abstract_inverted_index": {
+        "Blast": [
+          0,
+          107
+        ],
+        "vibrations": [
+          1,
+          63,
+          74,
+          92
+        ],
+        "are": [
+          2,
+          105,
+          113
+        ],
+        "considered": [
+          3
+        ],
+        "among": [
+          4
+        ],
+        "the": [
+          5,
+          25,
+          47,
+          79,
+          88
+        ],
+        "primary": [
+          6
+        ],
+        "factors": [
+          7
+        ],
+        "in": [
+          8,
+          14
+        ],
+        "destabilising": [
+          9
+        ],
+        "cemented": [
+          10
+        ],
+        "rockfill": [
+          11
+        ],
+        "(CRF)": [
+          12
+        ],
+        "stopes": [
+          13,
+          44
+        ],
+        "open": [
+          15
+        ],
+        "stoping": [
+          16
+        ],
+        "systems": [
+          17
+        ],
+        "with": [
+          18
+        ],
+        "delayed": [
+          19
+        ],
+        "backfill.": [
+          20
+        ],
+        "This": [
+          21,
+          85
+        ],
+        "destabilisation": [
+          22
+        ],
+        "occurs": [
+          23
+        ],
+        "when": [
+          24
+        ],
+        "backfill": [
+          26
+        ],
+        "face": [
+          27
+        ],
+        "is": [
+          28
+        ],
+        "subjected": [
+          29
+        ],
+        "to": [
+          30,
+          110
+        ],
+        "blasting": [
+          31,
+          41,
+          57,
+          112
+        ],
+        "of": [
+          32,
+          42,
+          49,
+          72,
+          90,
+          99
+        ],
+        "an": [
+          33
+        ],
+        "adjacent": [
+          34,
+          43
+        ],
+        "stope.": [
+          35
+        ],
+        "Inadequate": [
+          36
+        ],
+        "cementation,": [
+          37
+        ],
+        "backfilling": [
+          38
+        ],
+        "practices": [
+          39,
+          58
+        ],
+        "and": [
+          40,
+          52,
+          64,
+          82,
+          103
+        ],
+        "can": [
+          45,
+          59,
+          66,
+          75
+        ],
+        "be": [
+          46,
+          76
+        ],
+        "causes": [
+          48
+        ],
+        "CRF": [
+          50,
+          94
+        ],
+        "failure": [
+          51
+        ],
+        "hence": [
+          53
+        ],
+        "ore": [
+          54
+        ],
+        "dilution.": [
+          55
+        ],
+        "Poor": [
+          56
+        ],
+        "cause": [
+          60
+        ],
+        "greater": [
+          61
+        ],
+        "blast": [
+          62,
+          73,
+          83,
+          91,
+          101
+        ],
+        "therefore": [
+          65
+        ],
+        "initiate": [
+          67
+        ],
+        "fill": [
+          68
+        ],
+        "failure.": [
+          69
+        ],
+        "The": [
+          70,
+          97
+        ],
+        "magnitude": [
+          71
+        ],
+        "controlled": [
+          77
+        ],
+        "by": [
+          78
+        ],
+        "powder": [
+          80
+        ],
+        "factor": [
+          81
+        ],
+        "design.": [
+          84
+        ],
+        "study": [
+          86
+        ],
+        "presents": [
+          87
+        ],
+        "effects": [
+          89
+        ],
+        "on": [
+          93
+        ],
+        "backfilled": [
+          95
+        ],
+        "stopes.": [
+          96
+        ],
+        "effect": [
+          98
+        ],
+        "different": [
+          100
+        ],
+        "loads": [
+          102,
+          108
+        ],
+        "profiles": [
+          104
+        ],
+        "examined.": [
+          106
+        ],
+        "corresponding": [
+          109
+        ],
+        "non-ideal": [
+          111
+        ],
+        "also": [
+          114
+        ],
+        "simulated.": [
+          115
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-02-27T16:54:17.756197",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W3044037720",
       "doi": "https://doi.org/10.1007/s12517-020-05680-5",
       "title": "Effect of particle morphology on mechanical behavior of rock mass",
@@ -3491,8 +4274,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 192,
@@ -4347,9 +5130,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4300000071525574
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -4371,8 +5154,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -5340,16 +6123,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6200000047683716
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4404231521.pdf"
@@ -6068,11 +6851,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 6.9658,
+      "fwci": 6.8822,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.9706667,
+        "value": 0.97029785,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6435,16 +7218,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.41999998688697815
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4411009740.pdf",
@@ -6555,7 +7338,660 @@
         "https://openalex.org/W4306362096",
         "https://openalex.org/W4318215372"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "28": [
+          45
+        ],
+        "The": [
+          0,
+          131
+        ],
+        "use": [
+          1
+        ],
+        "of": [
+          2,
+          15,
+          44,
+          50,
+          75,
+          138,
+          161,
+          183,
+          196,
+          241,
+          250,
+          264,
+          266
+        ],
+        "naturally": [
+          3
+        ],
+        "available": [
+          4
+        ],
+        "materials": [
+          5,
+          18
+        ],
+        "such": [
+          6
+        ],
+        "as": [
+          7
+        ],
+        "metakaolin": [
+          8
+        ],
+        "(MK)": [
+          9
+        ],
+        "can": [
+          10
+        ],
+        "greatly": [
+          11
+        ],
+        "reduce": [
+          12,
+          27
+        ],
+        "the": [
+          13,
+          22,
+          28,
+          41,
+          152,
+          177,
+          194,
+          228,
+          242,
+          248,
+          270
+        ],
+        "utilization": [
+          14
+        ],
+        "emission": [
+          16
+        ],
+        "intensive": [
+          17
+        ],
+        "like": [
+          19,
+          86
+        ],
+        "cement": [
+          20,
+          252
+        ],
+        "in": [
+          21,
+          193,
+          269
+        ],
+        "construction": [
+          23,
+          38
+        ],
+        "sector.": [
+          24
+        ],
+        "This": [
+          25
+        ],
+        "would": [
+          26
+        ],
+        "stress": [
+          29
+        ],
+        "on": [
+          30,
+          227
+        ],
+        "depleting": [
+          31
+        ],
+        "natural": [
+          32
+        ],
+        "resources": [
+          33
+        ],
+        "and": [
+          34,
+          58,
+          102,
+          121,
+          143,
+          187,
+          220,
+          236
+        ],
+        "foster": [
+          35
+        ],
+        "a": [
+          36,
+          255
+        ],
+        "sustainable": [
+          37
+        ],
+        "industry.": [
+          39,
+          273
+        ],
+        "However,": [
+          40,
+          185
+        ],
+        "laboratory": [
+          42
+        ],
+        "determination": [
+          43
+        ],
+        "day": [
+          46
+        ],
+        "compressive": [
+          47
+        ],
+        "strength": [
+          48
+        ],
+        "(C-S)": [
+          49
+        ],
+        "MK-based": [
+          51,
+          76,
+          251
+        ],
+        "mortar": [
+          52,
+          77,
+          119
+        ],
+        "is": [
+          53,
+          151
+        ],
+        "associated": [
+          54
+        ],
+        "with": [
+          55
+        ],
+        "several": [
+          56
+        ],
+        "time": [
+          57
+        ],
+        "resource": [
+          59
+        ],
+        "constraints.": [
+          60
+        ],
+        "Thus,": [
+          61
+        ],
+        "this": [
+          62,
+          129,
+          267
+        ],
+        "study": [
+          63,
+          268
+        ],
+        "was": [
+          64,
+          126,
+          260
+        ],
+        "conducted": [
+          65,
+          226
+        ],
+        "to": [
+          66,
+          72,
+          172,
+          246
+        ],
+        "develop": [
+          67
+        ],
+        "reliable": [
+          68
+        ],
+        "empirical": [
+          69,
+          197
+        ],
+        "prediction": [
+          70
+        ],
+        "models": [
+          71,
+          133
+        ],
+        "assess": [
+          73
+        ],
+        "CS": [
+          74
+        ],
+        "from": [
+          78,
+          109
+        ],
+        "its": [
+          79
+        ],
+        "mixture": [
+          80
+        ],
+        "proportion": [
+          81
+        ],
+        "using": [
+          82
+        ],
+        "machine": [
+          83,
+          207
+        ],
+        "learning": [
+          84,
+          208
+        ],
+        "algorithms": [
+          85,
+          189,
+          202
+        ],
+        "gene": [
+          87
+        ],
+        "expression": [
+          88,
+          96
+        ],
+        "programming": [
+          89,
+          97
+        ],
+        "(GEP),": [
+          90
+        ],
+        "extreme": [
+          91
+        ],
+        "gradient": [
+          92
+        ],
+        "boosting": [
+          93
+        ],
+        "(XGB),": [
+          94
+        ],
+        "multi": [
+          95
+        ],
+        "(MEP),": [
+          98
+        ],
+        "bagging": [
+          99
+        ],
+        "regressor": [
+          100
+        ],
+        "(BR),": [
+          101
+        ],
+        "AdaBoost": [
+          103
+        ],
+        "etc.": [
+          104,
+          125
+        ],
+        "A": [
+          105
+        ],
+        "comprehensive": [
+          106
+        ],
+        "dataset": [
+          107
+        ],
+        "compiled": [
+          108
+        ],
+        "published": [
+          110
+        ],
+        "literature": [
+          111
+        ],
+        "having": [
+          112,
+          156,
+          166
+        ],
+        "five": [
+          113
+        ],
+        "input": [
+          114
+        ],
+        "parameters": [
+          115
+        ],
+        "including": [
+          116,
+          210
+        ],
+        "water-to-binder": [
+          117,
+          234
+        ],
+        "ratio,": [
+          118
+        ],
+        "age,": [
+          120
+        ],
+        "maximum": [
+          122
+        ],
+        "aggregate": [
+          123
+        ],
+        "diameter": [
+          124
+        ],
+        "used": [
+          127
+        ],
+        "for": [
+          128,
+          262
+        ],
+        "purpose.": [
+          130
+        ],
+        "developed": [
+          132
+        ],
+        "were": [
+          134,
+          225
+        ],
+        "validated": [
+          135
+        ],
+        "by": [
+          136,
+          164
+        ],
+        "means": [
+          137
+        ],
+        "error": [
+          139
+        ],
+        "metrics,": [
+          140
+        ],
+        "residual": [
+          141
+        ],
+        "assessment,": [
+          142
+        ],
+        "external": [
+          144
+        ],
+        "validation": [
+          145
+        ],
+        "checks": [
+          146
+        ],
+        "which": [
+          147,
+          199,
+          231
+        ],
+        "revealed": [
+          148
+        ],
+        "that": [
+          149,
+          233
+        ],
+        "XGB": [
+          150,
+          229
+        ],
+        "most": [
+          153,
+          243
+        ],
+        "accurate": [
+          154
+        ],
+        "algorithm": [
+          155
+        ],
+        "testing": [
+          157,
+          179
+        ],
+        "[Formula:": [
+          158,
+          167,
+          180
+        ],
+        "see": [
+          159,
+          168,
+          181
+        ],
+        "text]": [
+          160,
+          169,
+          182
+        ],
+        "0.998": [
+          162
+        ],
+        "followed": [
+          163
+        ],
+        "BR": [
+          165
+        ],
+        "values": [
+          170
+        ],
+        "equal": [
+          171
+        ],
+        "0.946": [
+          173
+        ],
+        "while": [
+          174
+        ],
+        "MEP": [
+          175,
+          186
+        ],
+        "had": [
+          176
+        ],
+        "lowest": [
+          178
+        ],
+        "0.893.": [
+          184
+        ],
+        "GEP": [
+          188
+        ],
+        "expressed": [
+          190
+        ],
+        "their": [
+          191
+        ],
+        "output": [
+          192
+        ],
+        "form": [
+          195
+        ],
+        "equations": [
+          198
+        ],
+        "other": [
+          200
+        ],
+        "black-box": [
+          201
+        ],
+        "couldn't": [
+          203
+        ],
+        "produce.": [
+          204
+        ],
+        "Moreover,": [
+          205
+        ],
+        "interpretable": [
+          206
+        ],
+        "approaches": [
+          209
+        ],
+        "shapely": [
+          211
+        ],
+        "additive": [
+          212
+        ],
+        "explanatory": [
+          213
+        ],
+        "analysis": [
+          214
+        ],
+        "(SHAP),": [
+          215
+        ],
+        "individual": [
+          216
+        ],
+        "conditional": [
+          217
+        ],
+        "expectation": [
+          218
+        ],
+        "(ICE),": [
+          219
+        ],
+        "partial": [
+          221
+        ],
+        "dependence": [
+          222
+        ],
+        "plots": [
+          223
+        ],
+        "(PDP)": [
+          224
+        ],
+        "model": [
+          230
+        ],
+        "highlighted": [
+          232
+        ],
+        "ratio": [
+          235
+        ],
+        "sample": [
+          237
+        ],
+        "age": [
+          238
+        ],
+        "are": [
+          239
+        ],
+        "some": [
+          240
+        ],
+        "significant": [
+          244
+        ],
+        "variables": [
+          245
+        ],
+        "predict": [
+          247
+        ],
+        "C-S": [
+          249
+        ],
+        "mortars.": [
+          253
+        ],
+        "Finally,": [
+          254
+        ],
+        "graphical": [
+          256
+        ],
+        "user": [
+          257
+        ],
+        "interface": [
+          258
+        ],
+        "(GUI)": [
+          259
+        ],
+        "made": [
+          261
+        ],
+        "implementation": [
+          263
+        ],
+        "findings": [
+          265
+        ],
+        "civil": [
+          271
+        ],
+        "engineering": [
+          272
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -6566,7 +8002,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-02-25T08:12:03.925757",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6736,16 +8172,16 @@
         "value_usd": 3640
       },
       "apc_paid": null,
-      "fwci": 4.6622,
+      "fwci": 4.6625,
       "has_fulltext": false,
-      "cited_by_count": 52,
+      "cited_by_count": 53,
       "citation_normalized_percentile": {
-        "value": 0.95327103,
+        "value": 0.95327406,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 98,
+        "min": 97,
         "max": 99
       },
       "biblio": {
@@ -7022,8 +8458,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -7056,6 +8492,10 @@
       "abstract_inverted_index": null,
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 6
         },
@@ -7084,7 +8524,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7498,8 +8938,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -8235,8 +9675,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2554699073.pdf",
@@ -9504,8 +10944,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3121842805.pdf",
@@ -10071,41 +11511,41 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W1997940502",
-      "doi": "https://doi.org/10.1080/17480930.2012.707527",
-      "title": "Effect of blast vibrations on the stability of cemented rockfill",
-      "display_name": "Effect of blast vibrations on the stability of cemented rockfill",
-      "publication_year": 2012,
-      "publication_date": "2012-08-15",
+      "id": "https://openalex.org/W1915805890",
+      "doi": "https://doi.org/10.1139/cgj-2013-0305",
+      "title": "Effect of blast-induced vibrations on fill failure in vertical block mining with delayed backfill",
+      "display_name": "Effect of blast-induced vibrations on fill failure in vertical block mining with delayed backfill",
+      "publication_year": 2014,
+      "publication_date": "2014-04-10",
       "ids": {
-        "openalex": "https://openalex.org/W1997940502",
-        "doi": "https://doi.org/10.1080/17480930.2012.707527",
-        "mag": "1997940502"
+        "openalex": "https://openalex.org/W1915805890",
+        "doi": "https://doi.org/10.1139/cgj-2013-0305",
+        "mag": "1915805890"
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.1080/17480930.2012.707527",
+        "id": "doi:10.1139/cgj-2013-0305",
         "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1080/17480930.2012.707527",
+        "landing_page_url": "https://doi.org/10.1139/cgj-2013-0305",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S48643595",
-          "display_name": "International Journal of Mining Reclamation and Environment",
-          "issn_l": "1748-0930",
+          "id": "https://openalex.org/S105963835",
+          "display_name": "Canadian Geotechnical Journal",
+          "issn_l": "0008-3674",
           "issn": [
-            "1748-0930",
-            "1748-0949"
+            "0008-3674",
+            "1208-6010"
           ],
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
-          "host_organization": "https://openalex.org/P4310320547",
-          "host_organization_name": "Taylor & Francis",
+          "host_organization": "https://openalex.org/P4310313060",
+          "host_organization_name": "NRC Research Press",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320547"
+            "https://openalex.org/P4310313060"
           ],
           "host_organization_lineage_names": [
-            "Taylor & Francis"
+            "NRC Research Press"
           ],
           "type": "journal"
         },
@@ -10114,7 +11554,7 @@
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
-        "raw_source_name": "International Journal of Mining, Reclamation and Environment",
+        "raw_source_name": "Canadian Geotechnical Journal",
         "raw_type": "journal-article"
       },
       "type": "article",
@@ -10150,21 +11590,19 @@
           "countries": [
             "CA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Muhammad Zaka Emad",
           "raw_affiliation_strings": [
-            "Department of Mining and Materials Engineering , McGill University , 3450 University Street, Montreal , Quebec , H3A 2A7 , Canada",
-            "Department of Mining and Materials Engineering, McGill University, 3450 University Street, Montreal, Quebec, H3A 2A7, Canada"
+            "Department of Mining and Materials Engineering, McGill University, Montréal, QC H3A 0E8, Canada",
+            "Department of Mining and Materials Engineering, McGill University, Montreal, QC H3A 0E8, Canada"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Mining and Materials Engineering , McGill University , 3450 University Street, Montreal , Quebec , H3A 2A7 , Canada",
-              "institution_ids": [
-                "https://openalex.org/I5023651"
-              ]
+              "raw_affiliation_string": "Department of Mining and Materials Engineering, McGill University, Montréal, QC H3A 0E8, Canada",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Department of Mining and Materials Engineering, McGill University, 3450 University Street, Montreal, Quebec, H3A 2A7, Canada",
+              "raw_affiliation_string": "Department of Mining and Materials Engineering, McGill University, Montreal, QC H3A 0E8, Canada",
               "institution_ids": [
                 "https://openalex.org/I5023651"
               ]
@@ -10193,21 +11631,19 @@
           "countries": [
             "CA"
           ],
-          "is_corresponding": true,
-          "raw_author_name": "Hani S. Mitri",
+          "is_corresponding": false,
+          "raw_author_name": "Hani Mitri",
           "raw_affiliation_strings": [
-            "Department of Mining and Materials Engineering , McGill University , 3450 University Street, Montreal , Quebec , H3A 2A7 , Canada",
-            "Department of Mining and Materials Engineering, McGill University, 3450 University Street, Montreal, Quebec, H3A 2A7, Canada"
+            "Department of Mining and Materials Engineering, McGill University, Montréal, QC H3A 0E8, Canada",
+            "Department of Mining and Materials Engineering, McGill University, Montreal, QC H3A 0E8, Canada"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Mining and Materials Engineering , McGill University , 3450 University Street, Montreal , Quebec , H3A 2A7 , Canada",
-              "institution_ids": [
-                "https://openalex.org/I5023651"
-              ]
+              "raw_affiliation_string": "Department of Mining and Materials Engineering, McGill University, Montréal, QC H3A 0E8, Canada",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Department of Mining and Materials Engineering, McGill University, 3450 University Street, Montreal, Quebec, H3A 2A7, Canada",
+              "raw_affiliation_string": "Department of Mining and Materials Engineering, McGill University, Montreal, QC H3A 0E8, Canada",
               "institution_ids": [
                 "https://openalex.org/I5023651"
               ]
@@ -10217,20 +11653,20 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5089521328",
-            "display_name": "John G. Henning",
-            "orcid": null
+            "id": "https://openalex.org/A5003965762",
+            "display_name": "Cecile Kelly",
+            "orcid": "https://orcid.org/0000-0002-9517-3670"
           },
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "John G. Henning",
+          "raw_author_name": "Cecile Kelly",
           "raw_affiliation_strings": [
-            "Corporate Technical Services, Goldcorp Inc , 666 Burrard Street, Vancouver , V6C2X8 , British Columbia , Canada"
+            "Birchtree Mine, Vale Manitoba Operations, Manitoba Division, Thompson, MB R8N 1P3, Canada"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Corporate Technical Services, Goldcorp Inc , 666 Burrard Street, Vancouver , V6C2X8 , British Columbia , Canada",
+              "raw_affiliation_string": "Birchtree Mine, Vale Manitoba Operations, Manitoba Division, Thompson, MB R8N 1P3, Canada",
               "institution_ids": []
             }
           ]
@@ -10240,41 +11676,41 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
       "corresponding_author_ids": [
-        "https://openalex.org/A5028103466"
+        "https://openalex.org/A5051772086"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I5023651"
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.0982,
+      "fwci": 5.196,
       "has_fulltext": false,
-      "cited_by_count": 30,
+      "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.92605169,
+        "value": 0.94724356,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 99
       },
       "biblio": {
-        "volume": "26",
-        "issue": "3",
-        "first_page": "233",
-        "last_page": "243"
+        "volume": "51",
+        "issue": "9",
+        "first_page": "975",
+        "last_page": "983"
       },
       "is_retracted": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T12233",
-        "display_name": "Geotechnical Engineering and Underground Structures",
-        "score": 0.9972000122070312,
+        "id": "https://openalex.org/T10161",
+        "display_name": "Rock Mechanics and Modeling",
+        "score": 1,
         "subfield": {
-          "id": "https://openalex.org/subfields/2205",
-          "display_name": "Civil and Structural Engineering"
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
         },
         "field": {
           "id": "https://openalex.org/fields/22",
@@ -10287,29 +11723,12 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T12233",
-          "display_name": "Geotechnical Engineering and Underground Structures",
-          "score": 0.9972000122070312,
+          "id": "https://openalex.org/T10161",
+          "display_name": "Rock Mechanics and Modeling",
+          "score": 1,
           "subfield": {
-            "id": "https://openalex.org/subfields/2205",
-            "display_name": "Civil and Structural Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13596",
-          "display_name": "Grouting, Rheology, and Soil Mechanics",
-          "score": 0.9972000122070312,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2205",
-            "display_name": "Civil and Structural Engineering"
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
           },
           "field": {
             "id": "https://openalex.org/fields/22",
@@ -10323,10 +11742,27 @@
         {
           "id": "https://openalex.org/T13619",
           "display_name": "Geotechnical and Geomechanical Engineering",
-          "score": 0.9918000102043152,
+          "score": 0.9983999729156494,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12482",
+          "display_name": "Tunneling and Rock Mechanics",
+          "score": 0.9975000023841858,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2205",
+            "display_name": "Civil and Structural Engineering"
           },
           "field": {
             "id": "https://openalex.org/fields/22",
@@ -10340,119 +11776,197 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/vibration",
-          "display_name": "Vibration",
-          "score": 0.6003780364990234
+          "id": "https://openalex.org/keywords/stoping",
+          "display_name": "Stoping",
+          "score": 0.7497453689575195
         },
         {
-          "id": "https://openalex.org/keywords/stability",
-          "display_name": "Stability (learning theory)",
-          "score": 0.5363349318504333
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-engineering",
-          "display_name": "Structural engineering",
-          "score": 0.44439053535461426
+          "id": "https://openalex.org/keywords/geomechanics",
+          "display_name": "Geomechanics",
+          "score": 0.6786481142044067
         },
         {
           "id": "https://openalex.org/keywords/geotechnical-engineering",
           "display_name": "Geotechnical engineering",
-          "score": 0.43330785632133484
+          "score": 0.6330589652061462
+        },
+        {
+          "id": "https://openalex.org/keywords/vibration",
+          "display_name": "Vibration",
+          "score": 0.609414279460907
+        },
+        {
+          "id": "https://openalex.org/keywords/wedge",
+          "display_name": "Wedge (geometry)",
+          "score": 0.5404984951019287
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-simulation",
+          "display_name": "Computer simulation",
+          "score": 0.4932102560997009
         },
         {
           "id": "https://openalex.org/keywords/geology",
           "display_name": "Geology",
-          "score": 0.4031989574432373
+          "score": 0.48349907994270325
+        },
+        {
+          "id": "https://openalex.org/keywords/mining-engineering",
+          "display_name": "Mining engineering",
+          "score": 0.48308756947517395
+        },
+        {
+          "id": "https://openalex.org/keywords/block",
+          "display_name": "Block (permutation group theory)",
+          "score": 0.47530755400657654
+        },
+        {
+          "id": "https://openalex.org/keywords/numerical-analysis",
+          "display_name": "Numerical analysis",
+          "score": 0.45172446966171265
         },
         {
           "id": "https://openalex.org/keywords/engineering",
           "display_name": "Engineering",
-          "score": 0.33925381302833557
+          "score": 0.4343968629837036
         },
         {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.20172324776649475
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.19270294904708862
-        },
-        {
-          "id": "https://openalex.org/keywords/acoustics",
-          "display_name": "Acoustics",
-          "score": 0.08391526341438293
+          "id": "https://openalex.org/keywords/structural-engineering",
+          "display_name": "Structural engineering",
+          "score": 0.3647919297218323
         }
       ],
       "concepts": [
         {
-          "id": "https://openalex.org/C198394728",
-          "wikidata": "https://www.wikidata.org/wiki/Q3695508",
-          "display_name": "Vibration",
+          "id": "https://openalex.org/C94236395",
+          "wikidata": "https://www.wikidata.org/wiki/Q1419614",
+          "display_name": "Stoping",
           "level": 2,
-          "score": 0.6003780364990234
+          "score": 0.7497453689575195
         },
         {
-          "id": "https://openalex.org/C112972136",
-          "wikidata": "https://www.wikidata.org/wiki/Q7595718",
-          "display_name": "Stability (learning theory)",
+          "id": "https://openalex.org/C185715996",
+          "wikidata": "https://www.wikidata.org/wiki/Q2670285",
+          "display_name": "Geomechanics",
           "level": 2,
-          "score": 0.5363349318504333
-        },
-        {
-          "id": "https://openalex.org/C66938386",
-          "wikidata": "https://www.wikidata.org/wiki/Q633538",
-          "display_name": "Structural engineering",
-          "level": 1,
-          "score": 0.44439053535461426
+          "score": 0.6786481142044067
         },
         {
           "id": "https://openalex.org/C187320778",
           "wikidata": "https://www.wikidata.org/wiki/Q1349130",
           "display_name": "Geotechnical engineering",
           "level": 1,
-          "score": 0.43330785632133484
+          "score": 0.6330589652061462
+        },
+        {
+          "id": "https://openalex.org/C198394728",
+          "wikidata": "https://www.wikidata.org/wiki/Q3695508",
+          "display_name": "Vibration",
+          "level": 2,
+          "score": 0.609414279460907
+        },
+        {
+          "id": "https://openalex.org/C47422493",
+          "wikidata": "https://www.wikidata.org/wiki/Q2755127",
+          "display_name": "Wedge (geometry)",
+          "level": 2,
+          "score": 0.5404984951019287
+        },
+        {
+          "id": "https://openalex.org/C500300565",
+          "wikidata": "https://www.wikidata.org/wiki/Q925667",
+          "display_name": "Computer simulation",
+          "level": 2,
+          "score": 0.4932102560997009
         },
         {
           "id": "https://openalex.org/C127313418",
           "wikidata": "https://www.wikidata.org/wiki/Q1069",
           "display_name": "Geology",
           "level": 0,
-          "score": 0.4031989574432373
+          "score": 0.48349907994270325
+        },
+        {
+          "id": "https://openalex.org/C16674752",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mining engineering",
+          "level": 1,
+          "score": 0.48308756947517395
+        },
+        {
+          "id": "https://openalex.org/C2777210771",
+          "wikidata": "https://www.wikidata.org/wiki/Q4927124",
+          "display_name": "Block (permutation group theory)",
+          "level": 2,
+          "score": 0.47530755400657654
+        },
+        {
+          "id": "https://openalex.org/C48753275",
+          "wikidata": "https://www.wikidata.org/wiki/Q11216",
+          "display_name": "Numerical analysis",
+          "level": 2,
+          "score": 0.45172446966171265
         },
         {
           "id": "https://openalex.org/C127413603",
           "wikidata": "https://www.wikidata.org/wiki/Q11023",
           "display_name": "Engineering",
           "level": 0,
-          "score": 0.33925381302833557
+          "score": 0.4343968629837036
+        },
+        {
+          "id": "https://openalex.org/C66938386",
+          "wikidata": "https://www.wikidata.org/wiki/Q633538",
+          "display_name": "Structural engineering",
+          "level": 1,
+          "score": 0.3647919297218323
+        },
+        {
+          "id": "https://openalex.org/C44154836",
+          "wikidata": "https://www.wikidata.org/wiki/Q45045",
+          "display_name": "Simulation",
+          "level": 1,
+          "score": 0
         },
         {
           "id": "https://openalex.org/C121332964",
           "wikidata": "https://www.wikidata.org/wiki/Q413",
           "display_name": "Physics",
           "level": 0,
-          "score": 0.20172324776649475
+          "score": 0
         },
         {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.19270294904708862
-        },
-        {
-          "id": "https://openalex.org/C24890656",
-          "wikidata": "https://www.wikidata.org/wiki/Q82811",
-          "display_name": "Acoustics",
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
           "level": 1,
-          "score": 0.08391526341438293
+          "score": 0
         },
         {
-          "id": "https://openalex.org/C119857082",
-          "wikidata": "https://www.wikidata.org/wiki/Q2539",
-          "display_name": "Machine learning",
+          "id": "https://openalex.org/C2524010",
+          "wikidata": "https://www.wikidata.org/wiki/Q8087",
+          "display_name": "Geometry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C134306372",
+          "wikidata": "https://www.wikidata.org/wiki/Q7754",
+          "display_name": "Mathematical analysis",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C120665830",
+          "wikidata": "https://www.wikidata.org/wiki/Q14620",
+          "display_name": "Optics",
           "level": 1,
           "score": 0
         }
@@ -10461,28 +11975,28 @@
       "locations_count": 1,
       "locations": [
         {
-          "id": "doi:10.1080/17480930.2012.707527",
+          "id": "doi:10.1139/cgj-2013-0305",
           "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1080/17480930.2012.707527",
+          "landing_page_url": "https://doi.org/10.1139/cgj-2013-0305",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S48643595",
-            "display_name": "International Journal of Mining Reclamation and Environment",
-            "issn_l": "1748-0930",
+            "id": "https://openalex.org/S105963835",
+            "display_name": "Canadian Geotechnical Journal",
+            "issn_l": "0008-3674",
             "issn": [
-              "1748-0930",
-              "1748-0949"
+              "0008-3674",
+              "1208-6010"
             ],
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
-            "host_organization": "https://openalex.org/P4310320547",
-            "host_organization_name": "Taylor & Francis",
+            "host_organization": "https://openalex.org/P4310313060",
+            "host_organization_name": "NRC Research Press",
             "host_organization_lineage": [
-              "https://openalex.org/P4310320547"
+              "https://openalex.org/P4310313060"
             ],
             "host_organization_lineage_names": [
-              "Taylor & Francis"
+              "NRC Research Press"
             ],
             "type": "journal"
           },
@@ -10491,313 +12005,404 @@
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
-          "raw_source_name": "International Journal of Mining, Reclamation and Environment",
+          "raw_source_name": "Canadian Geotechnical Journal",
           "raw_type": "journal-article"
         }
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320334593",
+          "display_name": "Natural Sciences and Engineering Research Council of Canada",
+          "ror": "https://ror.org/01h531d29"
+        }
+      ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 9,
+      "referenced_works_count": 6,
       "referenced_works": [
         "https://openalex.org/W20434945",
-        "https://openalex.org/W620589100",
-        "https://openalex.org/W1591538533",
-        "https://openalex.org/W2052868693",
-        "https://openalex.org/W2305100714",
-        "https://openalex.org/W2889434994",
-        "https://openalex.org/W3163583788",
-        "https://openalex.org/W3180136505",
-        "https://openalex.org/W3208921156"
+        "https://openalex.org/W1992147631",
+        "https://openalex.org/W1997940502",
+        "https://openalex.org/W2087874905",
+        "https://openalex.org/W2297353960",
+        "https://openalex.org/W3180136505"
       ],
       "related_works": [
-        "https://openalex.org/W2324615561",
-        "https://openalex.org/W2086120259",
-        "https://openalex.org/W2245170124",
-        "https://openalex.org/W2076393078",
-        "https://openalex.org/W3186982001",
-        "https://openalex.org/W2137941439",
-        "https://openalex.org/W1984402782",
-        "https://openalex.org/W2004200960",
-        "https://openalex.org/W1999891779",
-        "https://openalex.org/W2029513011"
+        "https://openalex.org/W2606561643",
+        "https://openalex.org/W2728872239",
+        "https://openalex.org/W2374930247",
+        "https://openalex.org/W2374309527",
+        "https://openalex.org/W2548222822",
+        "https://openalex.org/W2049181797",
+        "https://openalex.org/W1974862832",
+        "https://openalex.org/W2049195189",
+        "https://openalex.org/W2094510435",
+        "https://openalex.org/W3131359455"
       ],
       "abstract_inverted_index": {
-        "Blast": [
-          0,
-          107
+        "Numerical": [
+          0
         ],
-        "vibrations": [
-          1,
-          63,
-          74,
-          92
+        "modelling": [
+          1
         ],
-        "are": [
+        "has": [
           2,
-          105,
-          113
+          90
         ],
-        "considered": [
+        "long": [
           3
         ],
-        "among": [
-          4
+        "been": [
+          4,
+          91
         ],
-        "the": [
-          5,
-          25,
-          47,
-          79,
-          88
+        "used": [
+          5
         ],
-        "primary": [
-          6
-        ],
-        "factors": [
-          7
-        ],
-        "in": [
-          8,
-          14
-        ],
-        "destabilising": [
-          9
-        ],
-        "cemented": [
-          10
-        ],
-        "rockfill": [
-          11
-        ],
-        "(CRF)": [
-          12
-        ],
-        "stopes": [
-          13,
-          44
-        ],
-        "open": [
-          15
-        ],
-        "stoping": [
-          16
-        ],
-        "systems": [
-          17
-        ],
-        "with": [
-          18
-        ],
-        "delayed": [
+        "as": [
+          6,
           19
         ],
-        "backfill.": [
-          20
+        "a": [
+          7,
+          94,
+          98,
+          107,
+          130,
+          142
         ],
-        "This": [
-          21,
-          85
+        "powerful": [
+          8
         ],
-        "destabilisation": [
-          22
+        "tool": [
+          9
         ],
-        "occurs": [
-          23
-        ],
-        "when": [
-          24
-        ],
-        "backfill": [
-          26
-        ],
-        "face": [
-          27
-        ],
-        "is": [
-          28
-        ],
-        "subjected": [
-          29
-        ],
-        "to": [
-          30,
-          110
-        ],
-        "blasting": [
-          31,
-          41,
-          57,
-          112
-        ],
-        "of": [
+        "for": [
+          10,
           32,
-          42,
-          49,
-          72,
-          90,
-          99
+          55,
+          60,
+          93,
+          145
         ],
-        "an": [
-          33
+        "geomechanics": [
+          11
         ],
-        "adjacent": [
-          34,
-          43
+        "mine": [
+          12
         ],
-        "stope.": [
-          35
-        ],
-        "Inadequate": [
-          36
-        ],
-        "cementation,": [
-          37
-        ],
-        "backfilling": [
-          38
-        ],
-        "practices": [
-          39,
-          58
+        "design": [
+          13,
+          59
         ],
         "and": [
-          40,
-          52,
-          64,
-          82,
-          103
+          14,
+          110
         ],
-        "can": [
-          45,
-          59,
-          66,
-          75
+        "analysis": [
+          15
         ],
-        "be": [
-          46,
-          76
+        "of": [
+          16,
+          44,
+          97,
+          148
         ],
-        "causes": [
-          48
+        "such": [
+          17
         ],
-        "CRF": [
-          50,
-          94
-        ],
-        "failure": [
-          51
-        ],
-        "hence": [
-          53
+        "problems": [
+          18
         ],
         "ore": [
-          54
+          20,
+          37,
+          62
         ],
         "dilution.": [
-          55
+          21
         ],
-        "Poor": [
-          56
+        "Open": [
+          22
         ],
-        "cause": [
-          60
+        "stoping": [
+          23
         ],
-        "greater": [
-          61
+        "mining": [
+          24,
+          33
+        ],
+        "method": [
+          25
+        ],
+        "with": [
+          26,
+          80,
+          124,
+          129
+        ],
+        "delayed": [
+          27
+        ],
+        "backfill": [
+          28,
+          51,
+          58,
+          150
+        ],
+        "is": [
+          29,
+          53,
+          72,
+          102,
+          135
+        ],
+        "generally": [
+          30
+        ],
+        "employed": [
+          31
+        ],
+        "steeply": [
+          34
+        ],
+        "dipping": [
+          35
+        ],
+        "tabular": [
+          36
+        ],
+        "deposits.": [
+          38
+        ],
+        "Several": [
+          39
+        ],
+        "authors": [
+          40
+        ],
+        "reported": [
+          41
+        ],
+        "that": [
+          42,
+          74,
+          101,
+          137
+        ],
+        "consideration": [
+          43
+        ],
+        "production": [
+          45
         ],
         "blast": [
-          62,
-          73,
-          83,
-          91,
-          101
+          46,
+          75
         ],
-        "therefore": [
-          65
-        ],
-        "initiate": [
-          67
-        ],
-        "fill": [
-          68
-        ],
-        "failure.": [
-          69
-        ],
-        "The": [
-          70,
-          97
-        ],
-        "magnitude": [
-          71
-        ],
-        "controlled": [
-          77
-        ],
-        "by": [
-          78
-        ],
-        "powder": [
-          80
-        ],
-        "factor": [
-          81
-        ],
-        "design.": [
-          84
-        ],
-        "study": [
-          86
-        ],
-        "presents": [
-          87
-        ],
-        "effects": [
-          89
+        "vibrations": [
+          47,
+          76,
+          139
         ],
         "on": [
-          93
+          48
         ],
-        "backfilled": [
-          95
+        "adjacent,": [
+          49
         ],
-        "stopes.": [
-          96
+        "exposed": [
+          50
         ],
-        "effect": [
-          98
+        "faces": [
+          52
         ],
-        "different": [
-          100
+        "crucial": [
+          54
         ],
-        "loads": [
-          102,
-          108
+        "the": [
+          56,
+          149
         ],
-        "profiles": [
-          104
+        "effective": [
+          57
         ],
-        "examined.": [
+        "minimum": [
+          61
+        ],
+        "dilution": [
+          63
+        ],
+        "due": [
+          64
+        ],
+        "to": [
+          65,
           106
         ],
-        "corresponding": [
+        "fill": [
+          66
+        ],
+        "failure.": [
+          67
+        ],
+        "In": [
+          68
+        ],
+        "this": [
+          69
+        ],
+        "study,": [
+          70
+        ],
+        "it": [
+          71
+        ],
+        "shown": [
+          73,
+          136
+        ],
+        "can": [
+          77,
+          140
+        ],
+        "be": [
+          78,
+          141
+        ],
+        "characterized": [
+          79
+        ],
+        "dynamic": [
+          81,
+          87
+        ],
+        "numerical": [
+          82,
+          88,
+          115
+        ],
+        "modelling.": [
+          83
+        ],
+        "A": [
+          84
+        ],
+        "FLAC": [
+          85
+        ],
+        "3D": [
+          86
+        ],
+        "model": [
+          89
+        ],
+        "developed": [
+          92
+        ],
+        "typical": [
+          95
+        ],
+        "layout": [
+          96
+        ],
+        "secondary": [
+          99
+        ],
+        "stope": [
+          100,
+          126
+        ],
+        "being": [
+          103
+        ],
+        "mined": [
+          104,
           109
         ],
-        "non-ideal": [
+        "next": [
+          105
+        ],
+        "previously": [
+          108
+        ],
+        "backfilled": [
           111
         ],
-        "also": [
+        "primary": [
+          112,
+          143
+        ],
+        "stope.": [
+          113
+        ],
+        "The": [
           114
         ],
-        "simulated.": [
-          115
+        "simulations": [
+          116
+        ],
+        "are": [
+          117
+        ],
+        "validated": [
+          118
+        ],
+        "by": [
+          119
+        ],
+        "comparing": [
+          120
+        ],
+        "predicted": [
+          121
+        ],
+        "failure": [
+          122,
+          147
+        ],
+        "geometry": [
+          123
+        ],
+        "laser-surveyed": [
+          125
+        ],
+        "profiles": [
+          127
+        ],
+        "obtained": [
+          128
+        ],
+        "cavity": [
+          131
+        ],
+        "monitoring": [
+          132
+        ],
+        "system.": [
+          133
+        ],
+        "It": [
+          134
+        ],
+        "blast-induced": [
+          138
+        ],
+        "cause": [
+          144
+        ],
+        "wedge-type": [
+          146
+        ],
+        "face.": [
+          151
         ]
       },
       "counts_by_year": [
@@ -10815,42 +12420,42 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2018,
           "cited_by_count": 3
         },
         {
-          "year": 2017,
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2020,
           "cited_by_count": 4
         },
         {
-          "year": 2016,
+          "year": 2019,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2018,
           "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 5
         },
         {
           "year": 2015,
           "cited_by_count": 3
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11584,8 +13189,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2948072089.pdf",
@@ -13053,9 +14658,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.41999998688697815
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -13075,8 +14680,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4378907821.pdf"
@@ -14355,8 +15960,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4308725695.pdf",
@@ -15792,8 +17397,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4309717468.pdf",
@@ -17236,16 +18841,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "No poverty",
+          "score": 0.5600000023841858,
           "id": "https://metadata.un.org/sdg/1",
-          "score": 0.5600000023841858
+          "display_name": "No poverty"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -17939,8 +19544,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4367853327.pdf"
@@ -19399,9 +21004,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.49000000953674316
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -19423,8 +21028,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4390402953.pdf"
@@ -20844,16 +22449,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4699999988079071
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4224306451.pdf",
@@ -21401,950 +23006,6 @@
         {
           "year": 2026,
           "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1915805890",
-      "doi": "https://doi.org/10.1139/cgj-2013-0305",
-      "title": "Effect of blast-induced vibrations on fill failure in vertical block mining with delayed backfill",
-      "display_name": "Effect of blast-induced vibrations on fill failure in vertical block mining with delayed backfill",
-      "publication_year": 2014,
-      "publication_date": "2014-04-10",
-      "ids": {
-        "openalex": "https://openalex.org/W1915805890",
-        "doi": "https://doi.org/10.1139/cgj-2013-0305",
-        "mag": "1915805890"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1139/cgj-2013-0305",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1139/cgj-2013-0305",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S105963835",
-          "display_name": "Canadian Geotechnical Journal",
-          "issn_l": "0008-3674",
-          "issn": [
-            "0008-3674",
-            "1208-6010"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310313060",
-          "host_organization_name": "NRC Research Press",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310313060"
-          ],
-          "host_organization_lineage_names": [
-            "NRC Research Press"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Canadian Geotechnical Journal",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5051772086",
-            "display_name": "Muhammad Zaka Emad",
-            "orcid": "https://orcid.org/0000-0001-8537-8026"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I5023651",
-              "display_name": "McGill University",
-              "ror": "https://ror.org/01pxwe438",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I5023651"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Muhammad Zaka Emad",
-          "raw_affiliation_strings": [
-            "Department of Mining and Materials Engineering, McGill University, Montréal, QC H3A 0E8, Canada",
-            "Department of Mining and Materials Engineering, McGill University, Montreal, QC H3A 0E8, Canada"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Mining and Materials Engineering, McGill University, Montréal, QC H3A 0E8, Canada",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Department of Mining and Materials Engineering, McGill University, Montreal, QC H3A 0E8, Canada",
-              "institution_ids": [
-                "https://openalex.org/I5023651"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5028103466",
-            "display_name": "Hani S. Mitri",
-            "orcid": "https://orcid.org/0000-0002-6482-7424"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I5023651",
-              "display_name": "McGill University",
-              "ror": "https://ror.org/01pxwe438",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I5023651"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hani Mitri",
-          "raw_affiliation_strings": [
-            "Department of Mining and Materials Engineering, McGill University, Montréal, QC H3A 0E8, Canada",
-            "Department of Mining and Materials Engineering, McGill University, Montreal, QC H3A 0E8, Canada"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Mining and Materials Engineering, McGill University, Montréal, QC H3A 0E8, Canada",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Department of Mining and Materials Engineering, McGill University, Montreal, QC H3A 0E8, Canada",
-              "institution_ids": [
-                "https://openalex.org/I5023651"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5003965762",
-            "display_name": "Cecile Kelly",
-            "orcid": "https://orcid.org/0000-0002-9517-3670"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Cecile Kelly",
-          "raw_affiliation_strings": [
-            "Birchtree Mine, Vale Manitoba Operations, Manitoba Division, Thompson, MB R8N 1P3, Canada"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Birchtree Mine, Vale Manitoba Operations, Manitoba Division, Thompson, MB R8N 1P3, Canada",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5051772086"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I5023651"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 5.1959,
-      "has_fulltext": false,
-      "cited_by_count": 36,
-      "citation_normalized_percentile": {
-        "value": 0.94724253,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "51",
-        "issue": "9",
-        "first_page": "975",
-        "last_page": "983"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10161",
-        "display_name": "Rock Mechanics and Modeling",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10161",
-          "display_name": "Rock Mechanics and Modeling",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13619",
-          "display_name": "Geotechnical and Geomechanical Engineering",
-          "score": 0.9983999729156494,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12482",
-          "display_name": "Tunneling and Rock Mechanics",
-          "score": 0.9975000023841858,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2205",
-            "display_name": "Civil and Structural Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/stoping",
-          "display_name": "Stoping",
-          "score": 0.7497453689575195
-        },
-        {
-          "id": "https://openalex.org/keywords/geomechanics",
-          "display_name": "Geomechanics",
-          "score": 0.6786481142044067
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.6330589652061462
-        },
-        {
-          "id": "https://openalex.org/keywords/vibration",
-          "display_name": "Vibration",
-          "score": 0.609414279460907
-        },
-        {
-          "id": "https://openalex.org/keywords/wedge",
-          "display_name": "Wedge (geometry)",
-          "score": 0.5404984951019287
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-simulation",
-          "display_name": "Computer simulation",
-          "score": 0.4932102560997009
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.48349907994270325
-        },
-        {
-          "id": "https://openalex.org/keywords/mining-engineering",
-          "display_name": "Mining engineering",
-          "score": 0.48308756947517395
-        },
-        {
-          "id": "https://openalex.org/keywords/block",
-          "display_name": "Block (permutation group theory)",
-          "score": 0.47530755400657654
-        },
-        {
-          "id": "https://openalex.org/keywords/numerical-analysis",
-          "display_name": "Numerical analysis",
-          "score": 0.45172446966171265
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.4343968629837036
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-engineering",
-          "display_name": "Structural engineering",
-          "score": 0.3647919297218323
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C94236395",
-          "wikidata": "https://www.wikidata.org/wiki/Q1419614",
-          "display_name": "Stoping",
-          "level": 2,
-          "score": 0.7497453689575195
-        },
-        {
-          "id": "https://openalex.org/C185715996",
-          "wikidata": "https://www.wikidata.org/wiki/Q2670285",
-          "display_name": "Geomechanics",
-          "level": 2,
-          "score": 0.6786481142044067
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.6330589652061462
-        },
-        {
-          "id": "https://openalex.org/C198394728",
-          "wikidata": "https://www.wikidata.org/wiki/Q3695508",
-          "display_name": "Vibration",
-          "level": 2,
-          "score": 0.609414279460907
-        },
-        {
-          "id": "https://openalex.org/C47422493",
-          "wikidata": "https://www.wikidata.org/wiki/Q2755127",
-          "display_name": "Wedge (geometry)",
-          "level": 2,
-          "score": 0.5404984951019287
-        },
-        {
-          "id": "https://openalex.org/C500300565",
-          "wikidata": "https://www.wikidata.org/wiki/Q925667",
-          "display_name": "Computer simulation",
-          "level": 2,
-          "score": 0.4932102560997009
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.48349907994270325
-        },
-        {
-          "id": "https://openalex.org/C16674752",
-          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
-          "display_name": "Mining engineering",
-          "level": 1,
-          "score": 0.48308756947517395
-        },
-        {
-          "id": "https://openalex.org/C2777210771",
-          "wikidata": "https://www.wikidata.org/wiki/Q4927124",
-          "display_name": "Block (permutation group theory)",
-          "level": 2,
-          "score": 0.47530755400657654
-        },
-        {
-          "id": "https://openalex.org/C48753275",
-          "wikidata": "https://www.wikidata.org/wiki/Q11216",
-          "display_name": "Numerical analysis",
-          "level": 2,
-          "score": 0.45172446966171265
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.4343968629837036
-        },
-        {
-          "id": "https://openalex.org/C66938386",
-          "wikidata": "https://www.wikidata.org/wiki/Q633538",
-          "display_name": "Structural engineering",
-          "level": 1,
-          "score": 0.3647919297218323
-        },
-        {
-          "id": "https://openalex.org/C44154836",
-          "wikidata": "https://www.wikidata.org/wiki/Q45045",
-          "display_name": "Simulation",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C62520636",
-          "wikidata": "https://www.wikidata.org/wiki/Q944",
-          "display_name": "Quantum mechanics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C2524010",
-          "wikidata": "https://www.wikidata.org/wiki/Q8087",
-          "display_name": "Geometry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C134306372",
-          "wikidata": "https://www.wikidata.org/wiki/Q7754",
-          "display_name": "Mathematical analysis",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C120665830",
-          "wikidata": "https://www.wikidata.org/wiki/Q14620",
-          "display_name": "Optics",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1139/cgj-2013-0305",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1139/cgj-2013-0305",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S105963835",
-            "display_name": "Canadian Geotechnical Journal",
-            "issn_l": "0008-3674",
-            "issn": [
-              "0008-3674",
-              "1208-6010"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310313060",
-            "host_organization_name": "NRC Research Press",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310313060"
-            ],
-            "host_organization_lineage_names": [
-              "NRC Research Press"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Canadian Geotechnical Journal",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320334593",
-          "display_name": "Natural Sciences and Engineering Research Council of Canada",
-          "ror": "https://ror.org/01h531d29"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 6,
-      "referenced_works": [
-        "https://openalex.org/W20434945",
-        "https://openalex.org/W1992147631",
-        "https://openalex.org/W1997940502",
-        "https://openalex.org/W2087874905",
-        "https://openalex.org/W2297353960",
-        "https://openalex.org/W3180136505"
-      ],
-      "related_works": [
-        "https://openalex.org/W2606561643",
-        "https://openalex.org/W2728872239",
-        "https://openalex.org/W2374930247",
-        "https://openalex.org/W2374309527",
-        "https://openalex.org/W2548222822",
-        "https://openalex.org/W2049181797",
-        "https://openalex.org/W1974862832",
-        "https://openalex.org/W2049195189",
-        "https://openalex.org/W2094510435",
-        "https://openalex.org/W3131359455"
-      ],
-      "abstract_inverted_index": {
-        "Numerical": [
-          0
-        ],
-        "modelling": [
-          1
-        ],
-        "has": [
-          2,
-          90
-        ],
-        "long": [
-          3
-        ],
-        "been": [
-          4,
-          91
-        ],
-        "used": [
-          5
-        ],
-        "as": [
-          6,
-          19
-        ],
-        "a": [
-          7,
-          94,
-          98,
-          107,
-          130,
-          142
-        ],
-        "powerful": [
-          8
-        ],
-        "tool": [
-          9
-        ],
-        "for": [
-          10,
-          32,
-          55,
-          60,
-          93,
-          145
-        ],
-        "geomechanics": [
-          11
-        ],
-        "mine": [
-          12
-        ],
-        "design": [
-          13,
-          59
-        ],
-        "and": [
-          14,
-          110
-        ],
-        "analysis": [
-          15
-        ],
-        "of": [
-          16,
-          44,
-          97,
-          148
-        ],
-        "such": [
-          17
-        ],
-        "problems": [
-          18
-        ],
-        "ore": [
-          20,
-          37,
-          62
-        ],
-        "dilution.": [
-          21
-        ],
-        "Open": [
-          22
-        ],
-        "stoping": [
-          23
-        ],
-        "mining": [
-          24,
-          33
-        ],
-        "method": [
-          25
-        ],
-        "with": [
-          26,
-          80,
-          124,
-          129
-        ],
-        "delayed": [
-          27
-        ],
-        "backfill": [
-          28,
-          51,
-          58,
-          150
-        ],
-        "is": [
-          29,
-          53,
-          72,
-          102,
-          135
-        ],
-        "generally": [
-          30
-        ],
-        "employed": [
-          31
-        ],
-        "steeply": [
-          34
-        ],
-        "dipping": [
-          35
-        ],
-        "tabular": [
-          36
-        ],
-        "deposits.": [
-          38
-        ],
-        "Several": [
-          39
-        ],
-        "authors": [
-          40
-        ],
-        "reported": [
-          41
-        ],
-        "that": [
-          42,
-          74,
-          101,
-          137
-        ],
-        "consideration": [
-          43
-        ],
-        "production": [
-          45
-        ],
-        "blast": [
-          46,
-          75
-        ],
-        "vibrations": [
-          47,
-          76,
-          139
-        ],
-        "on": [
-          48
-        ],
-        "adjacent,": [
-          49
-        ],
-        "exposed": [
-          50
-        ],
-        "faces": [
-          52
-        ],
-        "crucial": [
-          54
-        ],
-        "the": [
-          56,
-          149
-        ],
-        "effective": [
-          57
-        ],
-        "minimum": [
-          61
-        ],
-        "dilution": [
-          63
-        ],
-        "due": [
-          64
-        ],
-        "to": [
-          65,
-          106
-        ],
-        "fill": [
-          66
-        ],
-        "failure.": [
-          67
-        ],
-        "In": [
-          68
-        ],
-        "this": [
-          69
-        ],
-        "study,": [
-          70
-        ],
-        "it": [
-          71
-        ],
-        "shown": [
-          73,
-          136
-        ],
-        "can": [
-          77,
-          140
-        ],
-        "be": [
-          78,
-          141
-        ],
-        "characterized": [
-          79
-        ],
-        "dynamic": [
-          81,
-          87
-        ],
-        "numerical": [
-          82,
-          88,
-          115
-        ],
-        "modelling.": [
-          83
-        ],
-        "A": [
-          84
-        ],
-        "FLAC": [
-          85
-        ],
-        "3D": [
-          86
-        ],
-        "model": [
-          89
-        ],
-        "developed": [
-          92
-        ],
-        "typical": [
-          95
-        ],
-        "layout": [
-          96
-        ],
-        "secondary": [
-          99
-        ],
-        "stope": [
-          100,
-          126
-        ],
-        "being": [
-          103
-        ],
-        "mined": [
-          104,
-          109
-        ],
-        "next": [
-          105
-        ],
-        "previously": [
-          108
-        ],
-        "backfilled": [
-          111
-        ],
-        "primary": [
-          112,
-          143
-        ],
-        "stope.": [
-          113
-        ],
-        "The": [
-          114
-        ],
-        "simulations": [
-          116
-        ],
-        "are": [
-          117
-        ],
-        "validated": [
-          118
-        ],
-        "by": [
-          119
-        ],
-        "comparing": [
-          120
-        ],
-        "predicted": [
-          121
-        ],
-        "failure": [
-          122,
-          147
-        ],
-        "geometry": [
-          123
-        ],
-        "laser-surveyed": [
-          125
-        ],
-        "profiles": [
-          127
-        ],
-        "obtained": [
-          128
-        ],
-        "cavity": [
-          131
-        ],
-        "monitoring": [
-          132
-        ],
-        "system.": [
-          133
-        ],
-        "It": [
-          134
-        ],
-        "blast-induced": [
-          138
-        ],
-        "cause": [
-          144
-        ],
-        "wedge-type": [
-          146
-        ],
-        "face.": [
-          151
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 3
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
@@ -23177,8 +23838,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4291164723.pdf",
@@ -24506,16 +25167,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.5600000023841858,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5600000023841858
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -25220,8 +25881,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -26714,16 +27375,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.550000011920929
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -27162,8 +27823,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -27631,8 +28292,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -28473,8 +29134,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -29921,8 +30582,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -30902,8 +31563,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -31850,16 +32511,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.7599999904632568,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7599999904632568
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2782066084.pdf",
@@ -32893,8 +33554,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -33990,16 +34651,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5299999713897705
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3155543949.pdf",
@@ -35714,8 +36375,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4313413716.pdf",
@@ -37060,8 +37721,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -38189,16 +38850,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4099999964237213
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3117311214.pdf",
@@ -39157,8 +39818,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -39794,8 +40455,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40763,8 +41424,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385820535.pdf"
@@ -42034,8 +42695,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4393383880.pdf"
@@ -42958,16 +43619,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.5,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -43789,8 +44450,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3035346982.pdf"
@@ -44647,8 +45308,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -45224,8 +45885,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -46221,16 +46882,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.6000000238418579
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -47350,8 +48011,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -48994,8 +49655,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4390917847.pdf"
@@ -50051,16 +50712,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5299999713897705
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -50592,16 +51253,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.46000000834465027
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -51745,8 +52406,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -52423,8 +53084,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3208663660.pdf",
@@ -53380,8 +54041,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54366,8 +55027,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3177591575.pdf",
@@ -55167,8 +55828,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -55558,16 +56219,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7099999785423279
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -56931,8 +57592,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -57450,8 +58111,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -58593,16 +59254,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.6299999952316284,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6299999952316284
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -59988,8 +60649,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -61178,16 +61839,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.47999998927116394
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62347,8 +63008,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -63246,8 +63907,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408668241.pdf"
@@ -63701,8 +64362,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4411681231.pdf",
@@ -64745,8 +65406,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65697,8 +66358,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66607,8 +67268,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -67235,8 +67896,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -67790,8 +68451,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7117566586.pdf"
@@ -68692,16 +69353,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.7176126837730408,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7176126837730408
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -69297,8 +69958,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,

@@ -572,11 +572,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 1.5725,
+      "fwci": 1.5668,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.80577362,
+        "value": 0.8049264,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1097,8 +1097,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -1160,7 +1160,641 @@
         "https://openalex.org/W2803518343",
         "https://openalex.org/W2065255020"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "This": [
+          0,
+          215
+        ],
+        "study": [
+          1,
+          216,
+          256
+        ],
+        "focuses": [
+          2
+        ],
+        "on": [
+          3
+        ],
+        "the": [
+          4,
+          9,
+          13,
+          52,
+          71,
+          98,
+          116,
+          120,
+          178,
+          202,
+          218,
+          224,
+          237,
+          242,
+          246,
+          252,
+          258
+        ],
+        "comprehensive": [
+          5
+        ],
+        "reservoir": [
+          6,
+          28,
+          38,
+          57,
+          126,
+          152,
+          213,
+          232
+        ],
+        "characterization": [
+          7,
+          118
+        ],
+        "of": [
+          8,
+          22,
+          74,
+          88,
+          100,
+          119,
+          180,
+          204,
+          226,
+          236,
+          248,
+          260
+        ],
+        "'Kukih'": [
+          10,
+          219
+        ],
+        "Field": [
+          11
+        ],
+        "within": [
+          12
+        ],
+        "onshore": [
+          14
+        ],
+        "northeastern": [
+          15
+        ],
+        "Niger": [
+          16
+        ],
+        "Delta": [
+          17
+        ],
+        "region,": [
+          18
+        ],
+        "Nigeria.": [
+          19
+        ],
+        "The": [
+          20,
+          67
+        ],
+        "absence": [
+          21
+        ],
+        "its": [
+          23
+        ],
+        "detailed": [
+          24,
+          83
+        ],
+        "description": [
+          25
+        ],
+        "with": [
+          26,
+          132,
+          145
+        ],
+        "delineated": [
+          27
+        ],
+        "properties,": [
+          29,
+          58
+        ],
+        "lateral": [
+          30
+        ],
+        "continuity,": [
+          31
+        ],
+        "and": [
+          32,
+          40,
+          48,
+          60,
+          76,
+          95,
+          109,
+          130,
+          135,
+          159,
+          167,
+          183,
+          201,
+          245
+        ],
+        "their": [
+          33
+        ],
+        "use": [
+          34
+        ],
+        "to": [
+          35,
+          55,
+          63,
+          143,
+          195
+        ],
+        "identify": [
+          36
+        ],
+        "potential": [
+          37
+        ],
+        "quality": [
+          39
+        ],
+        "heterogeneity": [
+          41
+        ],
+        "necessitated": [
+          42
+        ],
+        "this": [
+          43,
+          255
+        ],
+        "study.": [
+          44
+        ],
+        "Integrating": [
+          45
+        ],
+        "well": [
+          46,
+          90,
+          243
+        ],
+        "log": [
+          47
+        ],
+        "3D": [
+          49
+        ],
+        "seismic": [
+          50,
+          168
+        ],
+        "data,": [
+          51
+        ],
+        "investigation": [
+          53
+        ],
+        "aims": [
+          54
+        ],
+        "elucidate": [
+          56
+        ],
+        "lithofacies,": [
+          59
+        ],
+        "depositional": [
+          61
+        ],
+        "environments": [
+          62,
+          171
+        ],
+        "unravel": [
+          64
+        ],
+        "hydrocarbon": [
+          65,
+          151,
+          221
+        ],
+        "potential.": [
+          66,
+          153
+        ],
+        "geological": [
+          68
+        ],
+        "setting,": [
+          69
+        ],
+        "encompassing": [
+          70
+        ],
+        "Agbada": [
+          72
+        ],
+        "Formation": [
+          73
+        ],
+        "Early": [
+          75
+        ],
+        "Middle": [
+          77
+        ],
+        "Miocene": [
+          78
+        ],
+        "age,": [
+          79
+        ],
+        "is": [
+          80
+        ],
+        "scrutinized": [
+          81
+        ],
+        "through": [
+          82,
+          164,
+          174,
+          251
+        ],
+        "geologic": [
+          84
+        ],
+        "analysis.": [
+          85
+        ],
+        "Petrophysical": [
+          86
+        ],
+        "evaluation": [
+          87
+        ],
+        "four": [
+          89
+        ],
+        "logs": [
+          91,
+          244
+        ],
+        "(Kukih-1,": [
+          92
+        ],
+        "Kukih-2,": [
+          93
+        ],
+        "Kukih-3,": [
+          94
+        ],
+        "Kukih-4)": [
+          96
+        ],
+        "facilitated": [
+          97
+        ],
+        "determination": [
+          99
+        ],
+        "key": [
+          101
+        ],
+        "parameters": [
+          102
+        ],
+        "such": [
+          103
+        ],
+        "as": [
+          104,
+          207
+        ],
+        "shale": [
+          105
+        ],
+        "volume,": [
+          106
+        ],
+        "effective": [
+          107
+        ],
+        "porosity,": [
+          108
+        ],
+        "water": [
+          110
+        ],
+        "saturation.": [
+          111
+        ],
+        "Seismic": [
+          112
+        ],
+        "interpretation": [
+          113
+        ],
+        "further": [
+          114
+        ],
+        "enriched": [
+          115
+        ],
+        "structural": [
+          117,
+          160,
+          249,
+          253,
+          265
+        ],
+        "field.": [
+          121
+        ],
+        "Results": [
+          122
+        ],
+        "showcase": [
+          123
+        ],
+        "three": [
+          124
+        ],
+        "predominant": [
+          125
+        ],
+        "sands": [
+          127
+        ],
+        "(A,": [
+          128
+        ],
+        "B,": [
+          129
+        ],
+        "C)": [
+          131
+        ],
+        "distinct": [
+          133
+        ],
+        "lithofacies": [
+          134,
+          157
+        ],
+        "thickness": [
+          136
+        ],
+        "variations.": [
+          137
+        ],
+        "Effective": [
+          138
+        ],
+        "porosity": [
+          139
+        ],
+        "ranges": [
+          140
+        ],
+        "from": [
+          141,
+          241
+        ],
+        "Fair": [
+          142
+        ],
+        "Excellent,": [
+          144
+        ],
+        "permeability": [
+          146
+        ],
+        "exhibiting": [
+          147,
+          263
+        ],
+        "high": [
+          148
+        ],
+        "values": [
+          149
+        ],
+        "for": [
+          150,
+          211
+        ],
+        "Water": [
+          154
+        ],
+        "saturation": [
+          155
+        ],
+        "trends,": [
+          156
+        ],
+        "distributions,": [
+          158
+        ],
+        "features": [
+          161
+        ],
+        "were": [
+          162,
+          172,
+          199
+        ],
+        "illuminated": [
+          163
+        ],
+        "iso-parametric": [
+          165
+        ],
+        "maps": [
+          166
+        ],
+        "analyses.": [
+          169
+        ],
+        "Depositional": [
+          170
+        ],
+        "inferred": [
+          173
+        ],
+        "facies": [
+          175
+        ],
+        "analysis,": [
+          176
+        ],
+        "revealing": [
+          177
+        ],
+        "presence": [
+          179
+        ],
+        "funnel-,": [
+          181
+        ],
+        "cylinder-,": [
+          182
+        ],
+        "bell-shaped": [
+          184
+        ],
+        "successions": [
+          185
+        ],
+        "that": [
+          186
+        ],
+        "hint": [
+          187
+        ],
+        "at": [
+          188
+        ],
+        "intricate": [
+          189
+        ],
+        "marine": [
+          190
+        ],
+        "sedimentary": [
+          191
+        ],
+        "processes.": [
+          192
+        ],
+        "Challenges": [
+          193
+        ],
+        "owing": [
+          194
+        ],
+        "limited": [
+          196
+        ],
+        "core": [
+          197
+        ],
+        "data": [
+          198
+        ],
+        "acknowledged,": [
+          200
+        ],
+        "integration": [
+          203
+        ],
+        "methodologies": [
+          205
+        ],
+        "emerged": [
+          206
+        ],
+        "a": [
+          208
+        ],
+        "pivotal": [
+          209
+        ],
+        "strategy": [
+          210
+        ],
+        "enhanced": [
+          212
+        ],
+        "understanding.": [
+          214
+        ],
+        "underscores": [
+          217
+        ],
+        "Field's": [
+          220
+        ],
+        "potential,": [
+          222
+        ],
+        "accentuating": [
+          223
+        ],
+        "significance": [
+          225
+        ],
+        "multidisciplinary": [
+          227
+        ],
+        "approaches": [
+          228
+        ],
+        "in": [
+          229
+        ],
+        "deciphering": [
+          230
+        ],
+        "complex": [
+          231
+        ],
+        "systems.": [
+          233
+        ],
+        "In": [
+          234
+        ],
+        "light": [
+          235
+        ],
+        "petrophysical": [
+          238
+        ],
+        "analysis": [
+          239
+        ],
+        "derived": [
+          240
+        ],
+        "identification": [
+          247
+        ],
+        "highs": [
+          250
+        ],
+        "maps,": [
+          254
+        ],
+        "recommends": [
+          257
+        ],
+        "drilling": [
+          259
+        ],
+        "unexplored": [
+          261
+        ],
+        "zones": [
+          262
+        ],
+        "promising": [
+          264
+        ],
+        "characteristics.": [
+          266
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -1175,7 +1809,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1686,8 +2320,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6200000047683716
         }
       ],
@@ -2453,8 +3087,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6200000047683716
         }
       ],
@@ -4235,8 +4869,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147
         }
       ],
@@ -6841,8 +7475,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Peace, Justice and strong institutions",
           "id": "https://metadata.un.org/sdg/16",
+          "display_name": "Peace, Justice and strong institutions",
           "score": 0.4099999964237213
         }
       ],
@@ -15839,7 +16473,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34381955,
+        "value": 0.34165631,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16151,7 +16785,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

@@ -10,9 +10,9 @@
       "Ahmed Fatah"
     ],
     "works_count": 38,
-    "cited_by_count": 1397,
+    "cited_by_count": 1399,
     "summary_stats": {
-      "2yr_mean_citedness": 13.615384615384615,
+      "2yr_mean_citedness": 13.76923076923077,
       "h_index": 20,
       "i10_index": 25
     },
@@ -283,7 +283,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0002379,
+        "value": 0.0002374,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -300,7 +300,7 @@
       {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.0000661,
+        "value": 0.000066,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -334,7 +334,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000416,
+        "value": 0.0000415,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -469,13 +469,13 @@
         "year": 2024,
         "works_count": 7,
         "oa_works_count": 0,
-        "cited_by_count": 140
+        "cited_by_count": 141
       },
       {
         "year": 2025,
         "works_count": 6,
         "oa_works_count": 0,
-        "cited_by_count": 37
+        "cited_by_count": 38
       }
     ],
     "longest_name": "Ahmed A. Abd El Fatah",
@@ -488,7 +488,7 @@
     },
     "block_key": "a fatah",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5087940859",
-    "updated_date": "2026-02-21T12:20:09",
+    "updated_date": "2026-02-26T12:20:15",
     "created_date": "2020-09-25T00:00:00"
   },
   "works": [
@@ -1170,9 +1170,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8600000143051147
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -2021,9 +2021,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4399999976158142
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3857,9 +3857,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7300000190734863
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -4629,9 +4629,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4699999988079071
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -5366,14 +5366,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.44999998807907104
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.4399999976158142
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -6709,9 +6709,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.46000000834465027
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -8063,9 +8063,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.47999998927116394
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -11000,9 +11000,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.46000000834465027
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -12247,9 +12247,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.5,
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.5
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -14937,9 +14937,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4300000071525574
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -15730,9 +15730,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5299999713897705
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -24575,9 +24575,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5299999713897705
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -26394,9 +26394,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.7699999809265137
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -27182,9 +27182,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5299999713897705
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -28979,9 +28979,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Good health and well-being",
+          "score": 0.5699999928474426,
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.5699999928474426
+          "display_name": "Good health and well-being"
         }
       ],
       "awards": [],
@@ -29585,9 +29585,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Good health and well-being",
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.44999998807907104
+          "display_name": "Good health and well-being"
         }
       ],
       "awards": [],
@@ -31403,9 +31403,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6000000238418579
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -32631,9 +32631,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Good health and well-being",
+          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.6000000238418579
+          "display_name": "Good health and well-being"
         }
       ],
       "awards": [],
@@ -34089,9 +34089,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.75,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.75
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],

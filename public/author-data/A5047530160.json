@@ -10,9 +10,9 @@
       "Radwan, Omar"
     ],
     "works_count": 22,
-    "cited_by_count": 96,
+    "cited_by_count": 98,
     "summary_stats": {
-      "2yr_mean_citedness": 5.111111111111111,
+      "2yr_mean_citedness": 5.333333333333333,
       "h_index": 6,
       "i10_index": 4
     },
@@ -295,13 +295,13 @@
         "year": 2024,
         "works_count": 4,
         "oa_works_count": 2,
-        "cited_by_count": 34
+        "cited_by_count": 35
       },
       {
         "year": 2025,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 12
+        "cited_by_count": 13
       },
       {
         "year": 2026,
@@ -320,7 +320,7 @@
     },
     "block_key": "o radwan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5047530160",
-    "updated_date": "2026-02-25T12:19:17",
+    "updated_date": "2026-02-26T12:20:15",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -1550,9 +1550,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -2780,9 +2780,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.7900000214576721
         }
       ],
       "awards": [
@@ -3610,9 +3610,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -5476,9 +5476,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -7042,9 +7042,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -9931,9 +9931,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],

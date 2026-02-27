@@ -273,7 +273,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0001242,
+        "value": 0.0001241,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -1542,11 +1542,11 @@
         "currency": "EUR",
         "value_usd": 1930
       },
-      "fwci": 2.5707,
+      "fwci": 2.5708,
       "has_fulltext": true,
-      "cited_by_count": 85,
+      "cited_by_count": 86,
       "citation_normalized_percentile": {
-        "value": 0.88874477,
+        "value": 0.88874838,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2103,7 +2103,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 30
+          "cited_by_count": 31
         },
         {
           "year": 2024,
@@ -2122,7 +2122,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2529,8 +2529,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4300000071525574,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -4760,8 +4760,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.550000011920929,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -11214,8 +11214,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.41999998688697815,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -14805,11 +14805,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4725,
+      "fwci": 1.4726,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.82996769,
+        "value": 0.82997825,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15237,400 +15237,7 @@
         "https://openalex.org/W2350850615",
         "https://openalex.org/W4236314829"
       ],
-      "abstract_inverted_index": {
-        "In": [
-          0
-        ],
-        "order": [
-          1
-        ],
-        "to": [
-          2,
-          16,
-          47,
-          84,
-          170
-        ],
-        "estimate": [
-          3,
-          17,
-          48
-        ],
-        "reservoir": [
-          4,
-          91
-        ],
-        "parameters": [
-          5
-        ],
-        "more": [
-          6
-        ],
-        "effectively": [
-          7
-        ],
-        "by": [
-          8,
-          36
-        ],
-        "history": [
-          9,
-          174
-        ],
-        "fitting,": [
-          10
-        ],
-        "DE": [
-          11,
-          61,
-          105
-        ],
-        "(Differential": [
-          12
-        ],
-        "Evolution)": [
-          13
-        ],
-        "was": [
-          14,
-          28,
-          34,
-          82
-        ],
-        "proposed": [
-          15
-        ],
-        "the": [
-          18,
-          24,
-          31,
-          49,
-          68,
-          86,
-          108,
-          112,
-          117,
-          121,
-          140,
-          149,
-          154,
-          160,
-          166
-        ],
-        "optimum": [
-          19
-        ],
-        "damping": [
-          20,
-          50
-        ],
-        "factor": [
-          21,
-          51
-        ],
-        "so": [
-          22
-        ],
-        "that": [
-          23
-        ],
-        "standard": [
-          25,
-          41
-        ],
-        "Levenberg-Marquardt": [
-          26,
-          80
-        ],
-        "algorithm": [
-          27,
-          33,
-          43,
-          81,
-          114,
-          122,
-          146,
-          151
-        ],
-        "improved,": [
-          29
-        ],
-        "and": [
-          30,
-          52,
-          66,
-          96,
-          115,
-          128,
-          158
-        ],
-        "improved": [
-          32,
-          79,
-          150
-        ],
-        "validated": [
-          35
-        ],
-        "analysis": [
-          37
-        ],
-        "of": [
-          38,
-          70,
-          88,
-          111,
-          144,
-          156,
-          173
-        ],
-        "examples.": [
-          39
-        ],
-        "The": [
-          40,
-          78,
-          101
-        ],
-        "LM": [
-          42,
-          113,
-          145,
-          167
-        ],
-        "uses": [
-          44
-        ],
-        "trial-and-error": [
-          45
-        ],
-        "method": [
-          46
-        ],
-        "is": [
-          53,
-          147
-        ],
-        "less": [
-          54
-        ],
-        "reliable": [
-          55
-        ],
-        "for": [
-          56,
-          73,
-          124,
-          165
-        ],
-        "large": [
-          57,
-          135
-        ],
-        "scale": [
-          58,
-          130,
-          136
-        ],
-        "inverse": [
-          59,
-          131,
-          137
-        ],
-        "problems.": [
-          60
-        ],
-        "can": [
-          62
-        ],
-        "solve": [
-          63
-        ],
-        "this": [
-          64
-        ],
-        "problem": [
-          65
-        ],
-        "eliminate": [
-          67
-        ],
-        "use": [
-          69
-        ],
-        "line": [
-          71
-        ],
-        "search": [
-          72
-        ],
-        "an": [
-          74
-        ],
-        "appropriate": [
-          75
-        ],
-        "step": [
-          76
-        ],
-        "length.": [
-          77
-        ],
-        "applied": [
-          83
-        ],
-        "match": [
-          85
-        ],
-        "histories": [
-          87
-        ],
-        "two": [
-          89
-        ],
-        "synthetic": [
-          90
-        ],
-        "models": [
-          92
-        ],
-        "with": [
-          93,
-          98
-        ],
-        "different": [
-          94
-        ],
-        "scales,": [
-          95
-        ],
-        "compared": [
-          97
-        ],
-        "other": [
-          99
-        ],
-        "algorithms.": [
-          100
-        ],
-        "results": [
-          102
-        ],
-        "show": [
-          103
-        ],
-        "that:": [
-          104
-        ],
-        "speeds": [
-          106
-        ],
-        "up": [
-          107
-        ],
-        "convergence": [
-          109
-        ],
-        "rate": [
-          110
-        ],
-        "reduces": [
-          116
-        ],
-        "residual": [
-          118
-        ],
-        "errors,": [
-          119
-        ],
-        "making": [
-          120
-        ],
-        "suitable": [
-          123
-        ],
-        "not": [
-          125
-        ],
-        "only": [
-          126
-        ],
-        "small": [
-          127
-        ],
-        "medium": [
-          129
-        ],
-        "problems,": [
-          132
-        ],
-        "but": [
-          133
-        ],
-        "also": [
-          134
-        ],
-        "problems;": [
-          138
-        ],
-        "if": [
-          139
-        ],
-        "iteration": [
-          141
-        ],
-        "termination": [
-          142
-        ],
-        "criteria": [
-          143
-        ],
-        "preset,": [
-          148
-        ],
-        "will": [
-          152
-        ],
-        "save": [
-          153
-        ],
-        "number": [
-          155
-        ],
-        "iterations": [
-          157
-        ],
-        "reduce": [
-          159
-        ],
-        "total": [
-          161
-        ],
-        "time": [
-          162
-        ],
-        "greatly": [
-          163
-        ],
-        "needed": [
-          164
-        ],
-        "algorithm,": [
-          168
-        ],
-        "leading": [
-          169
-        ],
-        "higher": [
-          171
-        ],
-        "efficiency": [
-          172
-        ],
-        "matching.": [
-          175
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -15673,7 +15280,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18757,8 +18364,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6399999856948853,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
@@ -20332,8 +19939,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4399999976158142
         }
       ],
       "awards": [
@@ -22830,8 +22437,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5799999833106995,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.5799999833106995
         }
       ],
       "awards": [
@@ -26387,8 +25994,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6399999856948853,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
@@ -26965,8 +26572,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4000000059604645,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
@@ -33117,8 +32724,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5299999713897705,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -35196,8 +34803,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.47999998927116394,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [
@@ -37986,8 +37593,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.550000011920929,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -40238,8 +39845,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.699999988079071,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
@@ -45852,8 +45459,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.46000000834465027,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -46644,8 +46251,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5699999928474426,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
@@ -47116,8 +46723,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6000000238418579,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
@@ -49535,8 +49142,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7599999904632568,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.7599999904632568
         }
       ],
       "awards": [],
@@ -51073,8 +50680,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.699999988079071,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
@@ -54896,8 +54503,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5099999904632568,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
@@ -55853,8 +55460,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.41999998688697815,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -56622,8 +56229,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.49000000953674316,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [
@@ -57661,8 +57268,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6200000047683716,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -61230,8 +60837,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -62573,8 +62180,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5799999833106995,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
@@ -64352,8 +63959,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.5
         }
       ],
       "awards": [],
@@ -69304,8 +68911,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5600000023841858,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],

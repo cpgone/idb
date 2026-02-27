@@ -8,10 +8,10 @@
       "Tantardini, C.",
       "Tantardini, Christian"
     ],
-    "works_count": 84,
-    "cited_by_count": 899,
+    "works_count": 86,
+    "cited_by_count": 900,
     "summary_stats": {
-      "2yr_mean_citedness": 2.1470588235294117,
+      "2yr_mean_citedness": 2.0555555555555554,
       "h_index": 15,
       "i10_index": 25
     },
@@ -401,7 +401,7 @@
       {
         "id": "https://openalex.org/T11948",
         "display_name": "Machine Learning in Materials Science",
-        "value": 0.0000538,
+        "value": 0.0000534,
         "subfield": {
           "id": "https://openalex.org/subfields/2505",
           "display_name": "Materials Chemistry"
@@ -418,7 +418,7 @@
       {
         "id": "https://openalex.org/T12612",
         "display_name": "Strong Light-Matter Interactions",
-        "value": 0.0000517,
+        "value": 0.0000515,
         "subfield": {
           "id": "https://openalex.org/subfields/3107",
           "display_name": "Atomic and Molecular Physics, and Optics"
@@ -535,7 +535,7 @@
         "year": 2024,
         "works_count": 13,
         "oa_works_count": 12,
-        "cited_by_count": 59
+        "cited_by_count": 60
       },
       {
         "year": 2025,
@@ -545,8 +545,8 @@
       },
       {
         "year": 2026,
-        "works_count": 5,
-        "oa_works_count": 5,
+        "works_count": 7,
+        "oa_works_count": 7,
         "cited_by_count": 0
       }
     ],
@@ -560,7 +560,7 @@
     },
     "block_key": "c tantardini",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5022893471",
-    "updated_date": "2026-02-21T12:20:09",
+    "updated_date": "2026-02-26T12:20:15",
     "created_date": "2017-10-06T00:00:00"
   },
   "works": [
@@ -733,11 +733,11 @@
         "currency": "GBP",
         "value_usd": 4808
       },
-      "fwci": 25.9423,
+      "fwci": 25.9448,
       "has_fulltext": true,
-      "cited_by_count": 356,
+      "cited_by_count": 357,
       "citation_normalized_percentile": {
-        "value": 0.99887505,
+        "value": 0.99887516,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1061,8 +1061,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3142449123.pdf",
@@ -1164,7 +1164,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 10
+          "cited_by_count": 11
         },
         {
           "year": 2025,
@@ -1187,7 +1187,7 @@
           "cited_by_count": 23
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1607,8 +1607,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4230203047.pdf",
@@ -2314,8 +2314,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -3009,11 +3009,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 2.2539,
+      "fwci": 2.2487,
       "has_fulltext": true,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.88661247,
+        "value": 0.88633198,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3414,9 +3414,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Peace, Justice and strong institutions",
+          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/16",
-          "score": 0.6800000071525574
+          "display_name": "Peace, Justice and strong institutions"
         }
       ],
       "awards": [
@@ -3466,8 +3466,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4388632688.pdf"
@@ -3535,437 +3535,7 @@
         "https://openalex.org/W2010918298",
         "https://openalex.org/W336871927"
       ],
-      "abstract_inverted_index": {
-        "We": [
-          0,
-          31,
-          110,
-          177
-        ],
-        "propose": [
-          1
-        ],
-        "a": [
-          2,
-          33,
-          64,
-          81
-        ],
-        "machine-learning": [
-          3,
-          165
-        ],
-        "interatomic": [
-          4
-        ],
-        "potential": [
-          5,
-          12
-        ],
-        "for": [
-          6,
-          159
-        ],
-        "multi-component": [
-          7
-        ],
-        "magnetic": [
-          8,
-          15,
-          51,
-          75,
-          108,
-          153
-        ],
-        "materials.": [
-          9
-        ],
-        "In": [
-          10
-        ],
-        "this": [
-          11,
-          186
-        ],
-        "we": [
-          13,
-          140
-        ],
-        "consider": [
-          14
-        ],
-        "moments": [
-          16,
-          52,
-          154
-        ],
-        "as": [
-          17
-        ],
-        "degrees": [
-          18
-        ],
-        "of": [
-          19,
-          46,
-          71,
-          97,
-          118,
-          124,
-          155
-        ],
-        "freedom": [
-          20
-        ],
-        "(features)": [
-          21
-        ],
-        "along": [
-          22
-        ],
-        "with": [
-          23,
-          36,
-          48,
-          68,
-          106,
-          121,
-          164,
-          171,
-          175
-        ],
-        "atomic": [
-          24,
-          26,
-          73
-        ],
-        "positions,": [
-          25,
-          74
-        ],
-        "types,": [
-          27
-        ],
-        "and": [
-          28,
-          77,
-          126,
-          128,
-          132,
-          150
-        ],
-        "lattice": [
-          29,
-          78,
-          148
-        ],
-        "vectors.": [
-          30,
-          79
-        ],
-        "create": [
-          32
-        ],
-        "training": [
-          34,
-          61,
-          82
-        ],
-        "set": [
-          35,
-          62,
-          83
-        ],
-        "constrained": [
-          37
-        ],
-        "DFT": [
-          38
-        ],
-        "(cDFT)": [
-          39
-        ],
-        "that": [
-          40,
-          90,
-          142,
-          180
-        ],
-        "allows": [
-          41
-        ],
-        "us": [
-          42,
-          93
-        ],
-        "to": [
-          43,
-          58,
-          86,
-          94
-        ],
-        "calculate": [
-          44
-        ],
-        "energies": [
-          45
-        ],
-        "configurations": [
-          47,
-          98
-        ],
-        "non-equilibrium": [
-          49,
-          72,
-          107
-        ],
-        "(excited)": [
-          50
-        ],
-        "and,": [
-          53
-        ],
-        "thus,": [
-          54
-        ],
-        "it": [
-          55
-        ],
-        "is": [
-          56
-        ],
-        "possible": [
-          57,
-          85
-        ],
-        "construct": [
-          59
-        ],
-        "the": [
-          60,
-          100,
-          104,
-          112,
-          116,
-          136,
-          143,
-          146,
-          151,
-          156,
-          172,
-          181,
-          190,
-          196
-        ],
-        "in": [
-          63,
-          99,
-          168,
-          185,
-          195
-        ],
-        "wide": [
-          65
-        ],
-        "configuration": [
-          66
-        ],
-        "space": [
-          67
-        ],
-        "great": [
-          69
-        ],
-        "variety": [
-          70
-        ],
-        "moments,": [
-          76
-        ],
-        "Such": [
-          80
-        ],
-        "makes": [
-          84
-        ],
-        "fit": [
-          87
-        ],
-        "reliable": [
-          88
-        ],
-        "potentials": [
-          89,
-          114,
-          166
-        ],
-        "will": [
-          91
-        ],
-        "allow": [
-          92
-        ],
-        "predict": [
-          95
-        ],
-        "properties": [
-          96
-        ],
-        "excited": [
-          101
-        ],
-        "states": [
-          102
-        ],
-        "(including": [
-          103
-        ],
-        "ones": [
-          105,
-          173
-        ],
-        "moments).": [
-          109
-        ],
-        "verify": [
-          111
-        ],
-        "trained": [
-          113
-        ],
-        "on": [
-          115
-        ],
-        "system": [
-          117
-        ],
-        "bcc": [
-          119
-        ],
-        "Fe-Al": [
-          120,
-          161,
-          197
-        ],
-        "different": [
-          122,
-          129,
-          160
-        ],
-        "concentrations": [
-          123
-        ],
-        "Al": [
-          125,
-          131
-        ],
-        "Fe": [
-          127,
-          133
-        ],
-        "ways": [
-          130
-        ],
-        "atoms": [
-          134
-        ],
-        "occupy": [
-          135
-        ],
-        "supercell": [
-          137
-        ],
-        "sites.": [
-          138
-        ],
-        "Here,": [
-          139
-        ],
-        "show": [
-          141
-        ],
-        "formation": [
-          144
-        ],
-        "energies,": [
-          145
-        ],
-        "equilibrium": [
-          147
-        ],
-        "parameters,": [
-          149
-        ],
-        "total": [
-          152
-        ],
-        "unit": [
-          157
-        ],
-        "cell": [
-          158
-        ],
-        "structures": [
-          162
-        ],
-        "calculated": [
-          163
-        ],
-        "are": [
-          167
-        ],
-        "good": [
-          169
-        ],
-        "correspondence": [
-          170
-        ],
-        "obtained": [
-          174
-        ],
-        "DFT.": [
-          176
-        ],
-        "also": [
-          178
-        ],
-        "demonstrate": [
-          179
-        ],
-        "theoretical": [
-          182
-        ],
-        "calculations": [
-          183
-        ],
-        "conducted": [
-          184
-        ],
-        "study": [
-          187
-        ],
-        "qualitatively": [
-          188
-        ],
-        "reproduce": [
-          189
-        ],
-        "experimentally-observed": [
-          191
-        ],
-        "anomalous": [
-          192
-        ],
-        "volume-composition": [
-          193
-        ],
-        "dependence": [
-          194
-        ],
-        "system.": [
-          198
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -3984,7 +3554,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-02-25T23:00:34.991745",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4372,11 +3942,11 @@
         "currency": "USD",
         "value_usd": 2810
       },
-      "fwci": 1.2291,
+      "fwci": 1.2262,
       "has_fulltext": true,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.82758132,
+        "value": 0.82702191,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4766,9 +4336,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4300000071525574
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [
@@ -4805,8 +4375,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4401362622.pdf",
@@ -4864,614 +4434,7 @@
         "https://openalex.org/W2044964419",
         "https://openalex.org/W2023587177"
       ],
-      "abstract_inverted_index": {
-        "61": [
-          152
-        ],
-        "635": [
-          228
-        ],
-        "Hardness": [
-          0
-        ],
-        "is": [
-          1,
-          30,
-          57,
-          106,
-          196
-        ],
-        "a": [
-          2,
-          46,
-          73,
-          84,
-          91,
-          135,
-          197,
-          211
-        ],
-        "materials’": [
-          3
-        ],
-        "property": [
-          4,
-          24,
-          163
-        ],
-        "with": [
-          5,
-          66,
-          169,
-          204,
-          243
-        ],
-        "implications": [
-          6
-        ],
-        "in": [
-          7,
-          33,
-          45,
-          72
-        ],
-        "several": [
-          8,
-          37,
-          130
-        ],
-        "industrial": [
-          9
-        ],
-        "fields,": [
-          10
-        ],
-        "including": [
-          11
-        ],
-        "oil": [
-          12
-        ],
-        "and": [
-          13,
-          16,
-          25,
-          32,
-          114,
-          183,
-          191,
-          219,
-          254
-        ],
-        "gas,": [
-          14
-        ],
-        "manufacturing,": [
-          15
-        ],
-        "others.": [
-          17
-        ],
-        "However,": [
-          18
-        ],
-        "the": [
-          19,
-          34,
-          143,
-          161,
-          175,
-          201,
-          205,
-          232,
-          236
-        ],
-        "relationship": [
-          20,
-          56
-        ],
-        "between": [
-          21
-        ],
-        "this": [
-          22,
-          79
-        ],
-        "macroscale": [
-          23
-        ],
-        "atomic": [
-          26
-        ],
-        "(i.e.,": [
-          27,
-          164
-        ],
-        "microscale)": [
-          28
-        ],
-        "properties": [
-          29
-        ],
-        "unknown": [
-          31
-        ],
-        "last": [
-          35
-        ],
-        "decade": [
-          36
-        ],
-        "models": [
-          38
-        ],
-        "have": [
-          39,
-          82,
-          173
-        ],
-        "unsuccessfully": [
-          40
-        ],
-        "tried": [
-          41
-        ],
-        "to": [
-          42,
-          69,
-          124
-        ],
-        "correlate": [
-          43
-        ],
-        "them": [
-          44
-        ],
-        "wide": [
-          47,
-          74
-        ],
-        "range": [
-          48,
-          75
-        ],
-        "of": [
-          49,
-          54,
-          58,
-          63,
-          76,
-          126,
-          137,
-          167,
-          178,
-          200,
-          213,
-          224,
-          227,
-          238
-        ],
-        "chemical": [
-          50
-        ],
-        "space.": [
-          51
-        ],
-        "The": [
-          52,
-          154,
-          193
-        ],
-        "understanding": [
-          53
-        ],
-        "such": [
-          55
-        ],
-        "fundamental": [
-          59
-        ],
-        "importance": [
-          60
-        ],
-        "for": [
-          61,
-          87,
-          111,
-          151,
-          180
-        ],
-        "discovery": [
-          62
-        ],
-        "harder": [
-          64,
-          244
-        ],
-        "materials": [
-          65,
-          230
-        ],
-        "specific": [
-          67
-        ],
-        "characteristics": [
-          68
-        ],
-        "be": [
-          70
-        ],
-        "employed": [
-          71
-        ],
-        "fields.": [
-          77
-        ],
-        "In": [
-          78,
-          140
-        ],
-        "work,": [
-          80
-        ],
-        "we": [
-          81
-        ],
-        "found": [
-          83,
-          194,
-          233
-        ],
-        "physical": [
-          85
-        ],
-        "descriptor": [
-          86,
-          195,
-          234
-        ],
-        "Vickers": [
-          88
-        ],
-        "hardness": [
-          89,
-          179,
-          240
-        ],
-        "using": [
-          90,
-          231
-        ],
-        "symbolic-regression": [
-          92
-        ],
-        "artificial-intelligence": [
-          93,
-          108
-        ],
-        "approach": [
-          94
-        ],
-        "based": [
-          95
-        ],
-        "on": [
-          96
-        ],
-        "compressed": [
-          97
-        ],
-        "sensing.": [
-          98
-        ],
-        "SISSO": [
-          99,
-          157
-        ],
-        "(Sure": [
-          100
-        ],
-        "Independence": [
-          101
-        ],
-        "Screening": [
-          102
-        ],
-        "plus": [
-          103
-        ],
-        "Sparsifying": [
-          104
-        ],
-        "Operator)": [
-          105
-        ],
-        "an": [
-          107
-        ],
-        "algorithm": [
-          109
-        ],
-        "used": [
-          110
-        ],
-        "discovering": [
-          112
-        ],
-        "simple": [
-          113
-        ],
-        "interpretable": [
-          115
-        ],
-        "predictive": [
-          116
-        ],
-        "models.": [
-          117
-        ],
-        "It": [
-          118
-        ],
-        "performs": [
-          119
-        ],
-        "feature": [
-          120
-        ],
-        "selection": [
-          121
-        ],
-        "from": [
-          122,
-          129,
-          148,
-          210
-        ],
-        "up": [
-          123
-        ],
-        "billions": [
-          125
-        ],
-        "candidates": [
-          127
-        ],
-        "obtained": [
-          128,
-          147
-        ],
-        "primary": [
-          131,
-          144
-        ],
-        "features": [
-          132,
-          145
-        ],
-        "by": [
-          133
-        ],
-        "applying": [
-          134
-        ],
-        "set": [
-          136
-        ],
-        "mathematical": [
-          138
-        ],
-        "operators.": [
-          139
-        ],
-        "our": [
-          141
-        ],
-        "work": [
-          142
-        ],
-        "are": [
-          146
-        ],
-        "atomistic": [
-          149
-        ],
-        "simulations": [
-          150
-        ],
-        "materials.": [
-          153
-        ],
-        "resulting": [
-          155
-        ],
-        "sparse": [
-          156
-        ],
-        "model": [
-          158
-        ],
-        "accurately": [
-          159
-        ],
-        "describes": [
-          160
-        ],
-        "target": [
-          162
-        ],
-        "experimental": [
-          165,
-          176
-        ],
-        "values": [
-          166,
-          177
-        ],
-        "hardness)": [
-          168
-        ],
-        "minimal": [
-          170
-        ],
-        "complexity.": [
-          171
-        ],
-        "We": [
-          172
-        ],
-        "considered": [
-          174
-        ],
-        "binary,": [
-          181
-        ],
-        "ternary,": [
-          182
-        ],
-        "quaternary": [
-          184
-        ],
-        "transition-metal": [
-          185
-        ],
-        "borides,": [
-          186
-        ],
-        "carbides,": [
-          187
-        ],
-        "nitrides,": [
-          188
-        ],
-        "carbonitrides,": [
-          189
-        ],
-        "carboborides,": [
-          190
-        ],
-        "boronitrides.": [
-          192
-        ],
-        "non-linear": [
-          198
-        ],
-        "function": [
-          199
-        ],
-        "microscopic": [
-          202
-        ],
-        "properties,": [
-          203
-        ],
-        "most": [
-          206
-        ],
-        "significant": [
-          207
-        ],
-        "contribution": [
-          208
-        ],
-        "being": [
-          209
-        ],
-        "combination": [
-          212
-        ],
-        "Voigt-averaged": [
-          214
-        ],
-        "bulk": [
-          215
-        ],
-        "modulus,": [
-          216
-        ],
-        "Poisson’s": [
-          217
-        ],
-        "ratio,": [
-          218
-        ],
-        "Reuss-averaged": [
-          220
-        ],
-        "shear": [
-          221
-        ],
-        "modulus.": [
-          222
-        ],
-        "Results": [
-          223
-        ],
-        "high-throughput": [
-          225
-        ],
-        "screening": [
-          226
-        ],
-        "candidate": [
-          229
-        ],
-        "suggest": [
-          235
-        ],
-        "enhancement": [
-          237
-        ],
-        "material’s": [
-          239
-        ],
-        "through": [
-          241
-        ],
-        "mixing": [
-          242
-        ],
-        "yet": [
-          245
-        ],
-        "metastable": [
-          246,
-          249
-        ],
-        "structures": [
-          247
-        ],
-        "(e.g.,": [
-          248
-        ],
-        "VN,": [
-          250
-        ],
-        "TaN,": [
-          251
-        ],
-        "ReN2,": [
-          252
-        ],
-        "Cr3N4,": [
-          253
-        ],
-        "ZrB6": [
-          255
-        ],
-        "all": [
-          256
-        ],
-        "exhibit": [
-          257
-        ],
-        "high": [
-          258
-        ],
-        "hardness).": [
-          259
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -5486,7 +4449,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6138,8 +5101,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -7151,16 +6114,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5099999904632568
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -8243,8 +7206,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -9968,8 +8931,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -11302,8 +10265,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3021669255.pdf",
@@ -12261,9 +11224,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.4699999988079071
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
@@ -12327,8 +11290,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -14043,8 +13006,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -15394,8 +14357,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -16856,8 +15819,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4229369860.pdf",
@@ -18016,9 +16979,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6700000166893005
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -18043,8 +17006,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4391347866.pdf"
@@ -18982,8 +17945,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4404518844.pdf"
@@ -19503,11 +18466,11 @@
         "currency": "USD",
         "value_usd": 3190
       },
-      "fwci": 0.8617,
+      "fwci": 0.8583,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.7442282,
+        "value": 0.74306514,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19955,9 +18918,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Peace, Justice and strong institutions",
+          "score": 0.6499999761581421,
           "id": "https://metadata.un.org/sdg/16",
-          "score": 0.6499999761581421
+          "display_name": "Peace, Justice and strong institutions"
         }
       ],
       "awards": [],
@@ -19979,8 +18942,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4396913258.pdf",
@@ -20036,7 +18999,509 @@
         "https://openalex.org/W2066648624",
         "https://openalex.org/W2083615846"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "We": [
+          0,
+          49
+        ],
+        "developed": [
+          1
+        ],
+        "a": [
+          2,
+          142,
+          155,
+          168
+        ],
+        "method": [
+          3,
+          25,
+          52,
+          169
+        ],
+        "for": [
+          4,
+          170
+        ],
+        "fitting": [
+          5,
+          28,
+          118,
+          171
+        ],
+        "machine-learning": [
+          6,
+          172
+        ],
+        "interatomic": [
+          7
+        ],
+        "potentials": [
+          8,
+          173
+        ],
+        "with": [
+          9,
+          37,
+          58,
+          83,
+          141,
+          174,
+          199,
+          207
+        ],
+        "magnetic": [
+          10,
+          15,
+          31,
+          40,
+          120,
+          175,
+          183,
+          218
+        ],
+        "degrees": [
+          11,
+          176
+        ],
+        "of": [
+          12,
+          23,
+          35,
+          125,
+          133,
+          177
+        ],
+        "freedom,": [
+          13
+        ],
+        "namely,": [
+          14
+        ],
+        "Moment": [
+          16
+        ],
+        "Tensor": [
+          17
+        ],
+        "Potentials": [
+          18
+        ],
+        "(mMTP).": [
+          19
+        ],
+        "The": [
+          20
+        ],
+        "main": [
+          21
+        ],
+        "feature": [
+          22
+        ],
+        "our": [
+          24,
+          51
+        ],
+        "consists": [
+          26
+        ],
+        "in": [
+          27,
+          112,
+          130,
+          162,
+          222
+        ],
+        "mMTP": [
+          29,
+          84,
+          180,
+          191,
+          208
+        ],
+        "to": [
+          30,
+          39,
+          119,
+          217
+        ],
+        "forces": [
+          32,
+          121,
+          184,
+          219
+        ],
+        "(negative": [
+          33
+        ],
+        "derivatives": [
+          34
+        ],
+        "energies": [
+          36
+        ],
+        "respect": [
+          38
+        ],
+        "moments)": [
+          41
+        ],
+        "as": [
+          42,
+          108
+        ],
+        "obtained": [
+          43,
+          87
+        ],
+        "spin-polarized": [
+          44,
+          186
+        ],
+        "density": [
+          45
+        ],
+        "functional": [
+          46
+        ],
+        "theory": [
+          47
+        ],
+        "calculations.": [
+          48,
+          188
+        ],
+        "test": [
+          50
+        ],
+        "on": [
+          53,
+          192
+        ],
+        "the": [
+          54,
+          80,
+          99,
+          105,
+          123,
+          131,
+          159,
+          163
+        ],
+        "bcc": [
+          55,
+          193
+        ],
+        "Fe–Al": [
+          56,
+          194
+        ],
+        "system": [
+          57
+        ],
+        "different": [
+          59
+        ],
+        "compositions.": [
+          60
+        ],
+        "Specifically,": [
+          61
+        ],
+        "we": [
+          62,
+          97,
+          115
+        ],
+        "calculate": [
+          63
+        ],
+        "formation": [
+          64
+        ],
+        "energies,": [
+          65
+        ],
+        "equilibrium": [
+          66
+        ],
+        "lattice": [
+          67,
+          101,
+          211
+        ],
+        "parameter,": [
+          68
+        ],
+        "and": [
+          69,
+          85,
+          103,
+          213,
+          225
+        ],
+        "total": [
+          70
+        ],
+        "cell": [
+          71,
+          106
+        ],
+        "magnetization.": [
+          72
+        ],
+        "Our": [
+          73
+        ],
+        "findings": [
+          74
+        ],
+        "demonstrate": [
+          75,
+          116
+        ],
+        "an": [
+          76
+        ],
+        "accurate": [
+          77
+        ],
+        "correspondence": [
+          78
+        ],
+        "between": [
+          79
+        ],
+        "values": [
+          81
+        ],
+        "calculated": [
+          82
+        ],
+        "those": [
+          86
+        ],
+        "by": [
+          88,
+          152
+        ],
+        "DFT": [
+          89,
+          187,
+          200
+        ],
+        "at": [
+          90,
+          201
+        ],
+        "zero": [
+          91,
+          202
+        ],
+        "temperature.": [
+          92,
+          203
+        ],
+        "Additionally,": [
+          93
+        ],
+        "using": [
+          94
+        ],
+        "molecular": [
+          95
+        ],
+        "dynamics,": [
+          96
+        ],
+        "estimate": [
+          98
+        ],
+        "finite-temperature": [
+          100,
+          210
+        ],
+        "parameter": [
+          102
+        ],
+        "capture": [
+          104
+        ],
+        "expansion": [
+          107
+        ],
+        "was": [
+          109
+        ],
+        "previously": [
+          110
+        ],
+        "revealed": [
+          111
+        ],
+        "experiment.": [
+          113
+        ],
+        "Furthermore,": [
+          114
+        ],
+        "that": [
+          117,
+          135
+        ],
+        "increases": [
+          122
+        ],
+        "reliability": [
+          124,
+          221
+        ],
+        "structure": [
+          126,
+          145,
+          223
+        ],
+        "relaxation": [
+          127,
+          137,
+          224
+        ],
+        "(or,": [
+          128
+        ],
+        "equilibration),": [
+          129
+        ],
+        "sense": [
+          132
+        ],
+        "ensuring": [
+          134
+        ],
+        "every": [
+          136
+        ],
+        "run": [
+          138
+        ],
+        "ends": [
+          139
+        ],
+        "up": [
+          140
+        ],
+        "successfully": [
+          143
+        ],
+        "relaxed": [
+          144
+        ],
+        "(the": [
+          146
+        ],
+        "failure": [
+          147
+        ],
+        "may": [
+          148
+        ],
+        "otherwise": [
+          149
+        ],
+        "be": [
+          150
+        ],
+        "caused": [
+          151
+        ],
+        "falsely": [
+          153
+        ],
+        "driving": [
+          154
+        ],
+        "configuration": [
+          156
+        ],
+        "away": [
+          157
+        ],
+        "from": [
+          158,
+          185
+        ],
+        "region": [
+          160
+        ],
+        "covered": [
+          161
+        ],
+        "training": [
+          164
+        ],
+        "set).": [
+          165
+        ],
+        "•": [
+          166,
+          179,
+          189,
+          204,
+          215
+        ],
+        "Developed": [
+          167
+        ],
+        "freedom.": [
+          178
+        ],
+        "accurately": [
+          181
+        ],
+        "matches": [
+          182
+        ],
+        "Tested": [
+          190
+        ],
+        "system,": [
+          195
+        ],
+        "achieving": [
+          196
+        ],
+        "close": [
+          197
+        ],
+        "alignment": [
+          198
+        ],
+        "Molecular": [
+          205
+        ],
+        "dynamics": [
+          206
+        ],
+        "predicts": [
+          209
+        ],
+        "parameters": [
+          212
+        ],
+        "expansion.": [
+          214
+        ],
+        "Fitting": [
+          216
+        ],
+        "improves": [
+          220
+        ],
+        "equilibration.": [
+          226
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -20047,7 +19512,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-02-25T08:12:03.925757",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20783,8 +20248,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 106,
@@ -21890,8 +21355,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4390603323.pdf",
@@ -23259,9 +22724,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.6000000238418579
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
@@ -23291,8 +22756,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -24178,9 +23643,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.7599999904632568,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7599999904632568
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -24200,8 +23665,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -24752,16 +24217,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.5799999833106995,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5799999833106995
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -26001,16 +25466,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4300000071525574
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2559147521.pdf",
@@ -27145,8 +26610,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -28168,8 +27633,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -29259,8 +28724,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 106,
@@ -30069,9 +29534,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.7900000214576721
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
@@ -30127,8 +29592,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -31344,9 +30809,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4399999976158142
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -31358,8 +30823,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -32231,8 +31696,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -33094,9 +32559,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
+          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.5199999809265137
+          "display_name": "Zero hunger"
         }
       ],
       "awards": [],
@@ -33108,8 +32573,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -33725,8 +33190,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2759768026.pdf",
@@ -34603,8 +34068,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -35427,9 +34892,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5199999809265137
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -35456,8 +34921,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4390489100.pdf"
@@ -36676,8 +36141,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -37626,8 +37091,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3165459731.pdf",
@@ -38105,9 +37570,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.6100000143051147,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.6100000143051147
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -38119,8 +37584,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -39148,16 +38613,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.46000000834465027
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312196519.pdf",
@@ -40491,16 +39956,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Partnerships for the goals",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/17",
-          "score": 0.4300000071525574
+          "display_name": "Partnerships for the goals"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4391835302.pdf"
@@ -41818,8 +41283,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4390961488.pdf",
@@ -42926,8 +42391,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4400949897.pdf"
@@ -44292,8 +43757,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -45440,9 +44905,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4399999976158142
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -45469,8 +44934,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 103,
@@ -46495,8 +45960,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -47815,9 +47280,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7099999785423279
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -47842,8 +47307,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -49001,8 +48466,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -54469,8 +53934,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 215,
@@ -55700,8 +55165,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4210973954.pdf",
@@ -56548,16 +56013,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.5400000214576721
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4367060991.pdf"
@@ -57778,8 +57243,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4376126392.pdf",
@@ -58729,16 +58194,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4099999964237213
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4378647067.pdf"
@@ -59790,8 +59255,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386555998.pdf"
@@ -61069,16 +60534,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.7400000095367432,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7400000095367432
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 105,
@@ -61934,8 +61399,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387210692.pdf"
@@ -63116,8 +62581,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387210939.pdf"
@@ -64479,8 +63944,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387356314.pdf"
@@ -65550,8 +65015,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4388514127.pdf"
@@ -66516,9 +65981,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5199999809265137
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -66545,8 +66010,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -67395,8 +66860,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4396821382.pdf",
@@ -68332,8 +67797,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -68792,8 +68257,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -69132,8 +68597,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -69604,8 +69069,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -69932,8 +69397,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -70260,8 +69725,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -70588,8 +70053,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -70916,8 +70381,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -71228,8 +70693,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -71782,8 +71247,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4405955846.pdf"
@@ -72959,8 +72424,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407954820.pdf"
@@ -73936,16 +73401,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4300000071525574
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -74589,16 +74054,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.6499999761581421,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.6499999761581421
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -75536,8 +75001,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 110,
@@ -76636,8 +76101,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -76923,8 +76388,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -77546,8 +77011,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -78120,18 +77585,18 @@
         "landing_page_url": "http://arxiv.org/abs/2512.14438",
         "pdf_url": "https://arxiv.org/pdf/2512.14438",
         "source": {
-          "id": "https://openalex.org/S4306400194",
-          "display_name": "arXiv (Cornell University)",
-          "issn_l": null,
-          "issn": null,
+          "id": "https://openalex.org/S4393918464",
+          "display_name": "ArXiv.org",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I205783295",
-          "host_organization_name": "Cornell University",
-          "host_organization_lineage": [
-            "https://openalex.org/I205783295"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -78234,18 +77699,18 @@
           "landing_page_url": "http://arxiv.org/abs/2512.14438",
           "pdf_url": "https://arxiv.org/pdf/2512.14438",
           "source": {
-            "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
-            "issn_l": null,
-            "issn": null,
+            "id": "https://openalex.org/S4393918464",
+            "display_name": "ArXiv.org",
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
-            "host_organization_lineage": [
-              "https://openalex.org/I205783295"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -78293,18 +77758,18 @@
         "landing_page_url": "http://arxiv.org/abs/2512.14438",
         "pdf_url": "https://arxiv.org/pdf/2512.14438",
         "source": {
-          "id": "https://openalex.org/S4306400194",
-          "display_name": "arXiv (Cornell University)",
-          "issn_l": null,
-          "issn": null,
+          "id": "https://openalex.org/S4393918464",
+          "display_name": "ArXiv.org",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I205783295",
-          "host_organization_name": "Cornell University",
-          "host_organization_lineage": [
-            "https://openalex.org/I205783295"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -78320,8 +77785,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4417469600.pdf"
@@ -78869,7 +78334,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-25T23:00:34.991745",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-12-18T00:00:00"
     },
     {
@@ -79467,8 +78932,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -80553,8 +80018,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7117277276.pdf"
@@ -81816,8 +81281,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7122497980.pdf"
@@ -82869,8 +82334,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -83957,8 +83422,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7124358305.pdf"
@@ -84964,16 +84429,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.40414997935295105,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.40414997935295105
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -85394,8 +84859,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -86293,8 +85758,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87219,8 +86684,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87897,7 +87362,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2026-02-26T06:34:08.959763",
       "created_date": "2026-02-26T00:00:00"
     },
     {
@@ -88340,8 +87805,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -89018,7 +88483,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2026-02-26T06:34:08.959763",
       "created_date": "2026-02-26T00:00:00"
     }
   ]

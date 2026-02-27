@@ -968,8 +968,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 114,
@@ -1333,11 +1333,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 11.2051,
+      "fwci": 11.206,
       "has_fulltext": false,
-      "cited_by_count": 83,
+      "cited_by_count": 84,
       "citation_normalized_percentile": {
-        "value": 0.99235051,
+        "value": 0.99235122,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1696,16 +1696,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7099999785423279,
           "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -1770,7 +1770,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -1793,7 +1793,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2394,8 +2394,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3207987013.pdf",
@@ -3279,9 +3279,9 @@
       },
       "fwci": 3.4384,
       "has_fulltext": true,
-      "cited_by_count": 42,
+      "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.93114732,
+        "value": 0.93114866,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3725,16 +3725,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.550000011920929,
           "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4200092765.pdf",
@@ -3796,7 +3796,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 10
+          "cited_by_count": 11
         },
         {
           "year": 2024,
@@ -3811,7 +3811,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4302,16 +4302,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.47999998927116394,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -5045,8 +5045,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -6417,16 +6417,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/12",
+          "score": 0.41999998688697815,
           "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4391338548.pdf"
@@ -7922,8 +7922,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2945806800.pdf",
@@ -9355,8 +9355,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2999411408.pdf",
@@ -10798,16 +10798,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.5400000214576721,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2975933935.pdf",
@@ -12070,16 +12070,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5,
           "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12888,8 +12888,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3025803735.pdf",
@@ -13899,8 +13899,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -15138,16 +15138,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.47999998927116394,
           "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -15914,8 +15914,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4296558800.pdf",
@@ -16203,11 +16203,11 @@
         "currency": "EUR",
         "value_usd": 1930
       },
-      "fwci": 3.5542,
+      "fwci": 3.5332,
       "has_fulltext": true,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.92325729,
+        "value": 0.92264203,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16580,8 +16580,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4394978581.pdf"
@@ -16637,7 +16637,604 @@
         "https://openalex.org/W2377270209",
         "https://openalex.org/W2385288070"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "13": [
+          157,
+          171
+        ],
+        "27": [
+          155
+        ],
+        "56": [
+          173
+        ],
+        "Abstract": [
+          0
+        ],
+        "Underbalanced": [
+          1
+        ],
+        "foam": [
+          2,
+          27,
+          68,
+          71,
+          94,
+          135,
+          147,
+          168,
+          195,
+          205,
+          240
+        ],
+        "drilling": [
+          3,
+          17,
+          55,
+          218,
+          226,
+          255
+        ],
+        "(UBFD)": [
+          4
+        ],
+        "represents": [
+          5
+        ],
+        "a": [
+          6,
+          66,
+          101,
+          112,
+          120,
+          132,
+          143,
+          186,
+          191,
+          200,
+          213
+        ],
+        "pivotal": [
+          7
+        ],
+        "technique": [
+          8
+        ],
+        "aimed": [
+          9
+        ],
+        "at": [
+          10,
+          97
+        ],
+        "enhancing": [
+          11
+        ],
+        "safety": [
+          12
+        ],
+        "and": [
+          13,
+          38,
+          57,
+          82,
+          137,
+          199,
+          227,
+          250,
+          257
+        ],
+        "operational": [
+          14
+        ],
+        "efficiency": [
+          15
+        ],
+        "within": [
+          16
+        ],
+        "operations.": [
+          18
+        ],
+        "Despite": [
+          19
+        ],
+        "its": [
+          20,
+          59,
+          228,
+          236
+        ],
+        "recognized": [
+          21
+        ],
+        "benefits,": [
+          22
+        ],
+        "the": [
+          23,
+          49,
+          88,
+          116,
+          129,
+          161,
+          244
+        ],
+        "challenge": [
+          24
+        ],
+        "of": [
+          25,
+          73,
+          119,
+          163,
+          222,
+          246
+        ],
+        "maintaining": [
+          26
+        ],
+        "stability": [
+          28,
+          95,
+          136,
+          183
+        ],
+        "persists,": [
+          29
+        ],
+        "particularly": [
+          30
+        ],
+        "in": [
+          31,
+          146,
+          194,
+          203
+        ],
+        "conditions": [
+          32,
+          234
+        ],
+        "characterized": [
+          33
+        ],
+        "by": [
+          34,
+          47,
+          160
+        ],
+        "elevated": [
+          35
+        ],
+        "water": [
+          36,
+          138,
+          152
+        ],
+        "salinity": [
+          37
+        ],
+        "alkalinity.": [
+          39
+        ],
+        "This": [
+          40
+        ],
+        "study": [
+          41,
+          130
+        ],
+        "endeavors": [
+          42
+        ],
+        "to": [
+          43,
+          107,
+          150,
+          156,
+          172,
+          185,
+          253
+        ],
+        "bridge": [
+          44
+        ],
+        "this": [
+          45
+        ],
+        "gap": [
+          46
+        ],
+        "introducing": [
+          48
+        ],
+        "eco-friendly": [
+          50
+        ],
+        "Gemini": [
+          51
+        ],
+        "surfactant": [
+          52,
+          90
+        ],
+        "(GS12)": [
+          53
+        ],
+        "for": [
+          54,
+          92,
+          124,
+          216,
+          224,
+          238,
+          243
+        ],
+        "foams": [
+          56,
+          75
+        ],
+        "evaluating": [
+          58
+        ],
+        "performance": [
+          60
+        ],
+        "under": [
+          61,
+          231
+        ],
+        "mildly": [
+          62,
+          232
+        ],
+        "alkaline": [
+          63,
+          233
+        ],
+        "conditions.": [
+          64
+        ],
+        "Employing": [
+          65
+        ],
+        "dynamic": [
+          67
+        ],
+        "analyzer,": [
+          69
+        ],
+        "diverse": [
+          70
+        ],
+        "properties": [
+          72
+        ],
+        "GS12": [
+          74,
+          176,
+          223
+        ],
+        "were": [
+          76
+        ],
+        "systematically": [
+          77
+        ],
+        "assessed,": [
+          78
+        ],
+        "including": [
+          79
+        ],
+        "stability,": [
+          80
+        ],
+        "foamability,": [
+          81
+        ],
+        "bubble": [
+          83
+        ],
+        "structure.": [
+          84
+        ],
+        "Results": [
+          85
+        ],
+        "elucidate": [
+          86
+        ],
+        "that": [
+          87
+        ],
+        "optimal": [
+          89
+        ],
+        "concentration": [
+          91,
+          103,
+          123
+        ],
+        "maximal": [
+          93
+        ],
+        "stands": [
+          96
+        ],
+        "1.5": [
+          98,
+          108
+        ],
+        "wt%;": [
+          99
+        ],
+        "however,": [
+          100
+        ],
+        "threefold": [
+          102
+        ],
+        "increase": [
+          104,
+          193,
+          202
+        ],
+        "(from": [
+          105
+        ],
+        "0.5": [
+          106,
+          121
+        ],
+        "wt%)": [
+          109
+        ],
+        "merely": [
+          110
+        ],
+        "yields": [
+          111
+        ],
+        "30%": [
+          113
+        ],
+        "improvement,": [
+          114
+        ],
+        "emphasizing": [
+          115
+        ],
+        "economic": [
+          117
+        ],
+        "viability": [
+          118
+        ],
+        "wt%": [
+          122
+        ],
+        "practical": [
+          125
+        ],
+        "UB": [
+          126,
+          217,
+          225
+        ],
+        "applications.": [
+          127,
+          219
+        ],
+        "Additionally,": [
+          128
+        ],
+        "demonstrates": [
+          131
+        ],
+        "correlation": [
+          133
+        ],
+        "between": [
+          134
+        ],
+        "salinity,": [
+          139
+        ],
+        "with": [
+          140
+        ],
+        "seawater": [
+          141
+        ],
+        "exhibiting": [
+          142
+        ],
+        "twofold": [
+          144
+        ],
+        "reduction": [
+          145
+        ],
+        "half-life": [
+          148,
+          169,
+          196
+        ],
+        "compared": [
+          149,
+          184
+        ],
+        "deionized": [
+          151
+        ],
+        "(decreasing": [
+          153
+        ],
+        "from": [
+          154,
+          170
+        ],
+        "min),": [
+          158
+        ],
+        "mitigated": [
+          159
+        ],
+        "addition": [
+          162
+        ],
+        "PAC": [
+          164,
+          178
+        ],
+        "polymer,": [
+          165
+        ],
+        "which": [
+          166
+        ],
+        "increases": [
+          167
+        ],
+        "min.": [
+          174
+        ],
+        "Moreover,": [
+          175
+        ],
+        "+": [
+          177
+        ],
+        "foaming": [
+          179
+        ],
+        "systems": [
+          180
+        ],
+        "exhibit": [
+          181
+        ],
+        "surpassing": [
+          182
+        ],
+        "typical": [
+          187
+        ],
+        "commercial": [
+          188
+        ],
+        "blend,": [
+          189
+        ],
+        "boasting": [
+          190
+        ],
+        "78%": [
+          192
+        ],
+        "(245": [
+          197,
+          207
+        ],
+        "min)": [
+          198
+        ],
+        "21%": [
+          201
+        ],
+        "initial": [
+          204
+        ],
+        "volume": [
+          206
+        ],
+        "mL),": [
+          208
+        ],
+        "thereby": [
+          209
+        ],
+        "positioning": [
+          210
+        ],
+        "it": [
+          211
+        ],
+        "as": [
+          212
+        ],
+        "promising": [
+          214
+        ],
+        "candidate": [
+          215
+        ],
+        "The": [
+          220
+        ],
+        "introduction": [
+          221
+        ],
+        "comprehensive": [
+          229
+        ],
+        "evaluation": [
+          230
+        ],
+        "underscore": [
+          235
+        ],
+        "potential": [
+          237
+        ],
+        "sustainable": [
+          239
+        ],
+        "drilling,": [
+          241
+        ],
+        "advocating": [
+          242
+        ],
+        "utilization": [
+          245
+        ],
+        "environmentally": [
+          247
+        ],
+        "friendly": [
+          248
+        ],
+        "surfactants": [
+          249
+        ],
+        "green": [
+          251
+        ],
+        "polymers": [
+          252
+        ],
+        "enhance": [
+          254
+        ],
+        "sustainability": [
+          256
+        ],
+        "address": [
+          258
+        ],
+        "pressing": [
+          259
+        ],
+        "industry": [
+          260
+        ],
+        "challenges.": [
+          261
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -16652,7 +17249,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-02-03T23:48:18.283914",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17262,16 +17859,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5899999737739563,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.5899999737739563,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -18005,8 +18602,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312109319.pdf",
@@ -19456,16 +20053,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.46000000834465027,
           "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4223993683.pdf",
@@ -20668,8 +21265,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -21384,16 +21981,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.75,
           "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -22622,16 +23219,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.6800000071525574,
           "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -23847,8 +24444,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -25438,8 +26035,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -26978,8 +27575,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3216310063.pdf",
@@ -28248,8 +28845,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -29352,8 +29949,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30457,16 +31054,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5099999904632568,
           "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -31448,8 +32045,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -32352,8 +32949,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -33182,11 +33779,11 @@
         "currency": "USD",
         "value_usd": 1685
       },
-      "fwci": 2.345,
+      "fwci": 2.3258,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.85748778,
+        "value": 0.85604788,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33609,8 +34206,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408313171.pdf"
@@ -34184,7 +34781,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-12-28T23:10:05.387466",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34692,16 +35289,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.47999998927116394,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -35766,16 +36363,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.5400000214576721,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -36788,11 +37385,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 1.1777,
+      "fwci": 1.1629,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.73383495,
+        "value": 0.73167008,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37169,8 +37766,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407285570.pdf"
@@ -37223,549 +37820,14 @@
         "https://openalex.org/W2354019630",
         "https://openalex.org/W2348852398"
       ],
-      "abstract_inverted_index": {
-        "4": [
-          132
-        ],
-        "80": [
-          146
-        ],
-        "90": [
-          101
-        ],
-        "Underbalanced": [
-          0
-        ],
-        "foam": [
-          1,
-          6,
-          25,
-          107,
-          138,
-          177,
-          182,
-          205
-        ],
-        "drilling": [
-          2,
-          31,
-          181,
-          216
-        ],
-        "(UBFD)": [
-          3
-        ],
-        "requires": [
-          4
-        ],
-        "stable": [
-          5
-        ],
-        "systems": [
-          7
-        ],
-        "that": [
-          8
-        ],
-        "maintain": [
-          9
-        ],
-        "low": [
-          10,
-          161
-        ],
-        "density": [
-          11
-        ],
-        "and": [
-          12,
-          19,
-          27,
-          62,
-          80,
-          90,
-          96,
-          105,
-          120,
-          148,
-          164,
-          185,
-          211,
-          223,
-          229
-        ],
-        "high": [
-          13
-        ],
-        "carrying": [
-          14
-        ],
-        "capacity": [
-          15
-        ],
-        "under": [
-          16,
-          94,
-          214
-        ],
-        "elevated": [
-          17
-        ],
-        "pressure": [
-          18
-        ],
-        "temperature": [
-          20
-        ],
-        "(EPT)": [
-          21
-        ],
-        "conditions.": [
-          22,
-          217
-        ],
-        "However,": [
-          23
-        ],
-        "achieving": [
-          24
-        ],
-        "stability": [
-          26,
-          89,
-          184
-        ],
-        "performance": [
-          28,
-          51
-        ],
-        "in": [
-          29,
-          74,
-          158,
-          168,
-          183,
-          227
-        ],
-        "challenging": [
-          30,
-          215
-        ],
-        "environments": [
-          32
-        ],
-        "remains": [
-          33
-        ],
-        "critical.": [
-          34
-        ],
-        "This": [
-          35,
-          218
-        ],
-        "study": [
-          36
-        ],
-        "explores": [
-          37
-        ],
-        "the": [
-          38,
-          50
-        ],
-        "novel": [
-          39
-        ],
-        "application": [
-          40
-        ],
-        "of": [
-          41,
-          52,
-          131
-        ],
-        "Saudi": [
-          42,
-          82,
-          134,
-          196
-        ],
-        "calcium": [
-          43,
-          83,
-          197
-        ],
-        "bentonite": [
-          44,
-          84,
-          135,
-          198
-        ],
-        "as": [
-          45,
-          199
-        ],
-        "an": [
-          46,
-          142
-        ],
-        "additive": [
-          47,
-          202
-        ],
-        "to": [
-          48,
-          64,
-          124,
-          190
-        ],
-        "enhance": [
-          49
-        ],
-        "ammonium": [
-          53
-        ],
-        "alcohol": [
-          54
-        ],
-        "ether": [
-          55
-        ],
-        "sulfate": [
-          56
-        ],
-        "(AAES)-based": [
-          57
-        ],
-        "foams,": [
-          58
-        ],
-        "addressing": [
-          59
-        ],
-        "stability,": [
-          60,
-          139,
-          209
-        ],
-        "rheology,": [
-          61,
-          210
-        ],
-        "resistance": [
-          63,
-          189,
-          213
-        ],
-        "hydrocarbon": [
-          65,
-          110,
-          191
-        ],
-        "contamination.": [
-          66,
-          192
-        ],
-        "AAES-based": [
-          67
-        ],
-        "foams": [
-          68
-        ],
-        "were": [
-          69,
-          92,
-          122
-        ],
-        "prepared": [
-          70
-        ],
-        "using": [
-          71,
-          103
-        ],
-        "synthetic": [
-          72
-        ],
-        "seawater": [
-          73
-        ],
-        "a": [
-          75,
-          155,
-          165,
-          179,
-          200
-        ],
-        "mildly": [
-          76
-        ],
-        "alkaline": [
-          77
-        ],
-        "environment,": [
-          78
-        ],
-        "with": [
-          79
-        ],
-        "without": [
-          81
-        ],
-        "at": [
-          85,
-          160
-        ],
-        "various": [
-          86
-        ],
-        "concentrations.": [
-          87
-        ],
-        "Foam": [
-          88
-        ],
-        "viscosity": [
-          91,
-          159,
-          186
-        ],
-        "evaluated": [
-          93
-        ],
-        "ambient": [
-          95
-        ],
-        "EPT": [
-          97
-        ],
-        "conditions": [
-          98
-        ],
-        "(1000": [
-          99
-        ],
-        "psi,": [
-          100
-        ],
-        "°C)": [
-          102
-        ],
-        "dynamic": [
-          104
-        ],
-        "high-pressure": [
-          106
-        ],
-        "analyzers,": [
-          108
-        ],
-        "while": [
-          109,
-          187
-        ],
-        "contamination": [
-          111
-        ],
-        "tests": [
-          112
-        ],
-        "assessed": [
-          113
-        ],
-        "robustness.": [
-          114
-        ],
-        "Rheological": [
-          115,
-          152
-        ],
-        "properties,": [
-          116
-        ],
-        "including": [
-          117
-        ],
-        "yield": [
-          118,
-          169
-        ],
-        "strength": [
-          119
-        ],
-        "viscosity,": [
-          121
-        ],
-        "measured": [
-          123
-        ],
-        "evaluate": [
-          125
-        ],
-        "cuttings": [
-          126,
-          173
-        ],
-        "transport": [
-          127
-        ],
-        "efficiency.": [
-          128
-        ],
-        "The": [
-          129,
-          175,
-          193
-        ],
-        "addition": [
-          130
-        ],
-        "g/L": [
-          133
-        ],
-        "significantly": [
-          136
-        ],
-        "improved": [
-          137
-        ],
-        "evidenced": [
-          140
-        ],
-        "by": [
-          141
-        ],
-        "extended": [
-          143
-        ],
-        "half-life": [
-          144
-        ],
-        "(+": [
-          145
-        ],
-        "min)": [
-          147
-        ],
-        "enhanced": [
-          149,
-          208
-        ],
-        "liquid": [
-          150
-        ],
-        "retention.": [
-          151
-        ],
-        "analysis": [
-          153
-        ],
-        "revealed": [
-          154
-        ],
-        "fourfold": [
-          156
-        ],
-        "increase": [
-          157
-        ],
-        "shear": [
-          162
-        ],
-        "rates": [
-          163
-        ],
-        "ninefold": [
-          166
-        ],
-        "enhancement": [
-          167
-        ],
-        "strength,": [
-          170
-        ],
-        "enabling": [
-          171
-        ],
-        "superior": [
-          172
-        ],
-        "transport.": [
-          174
-        ],
-        "AAES-bentonite": [
-          176
-        ],
-        "outperformed": [
-          178
-        ],
-        "commercial": [
-          180
-        ],
-        "maintaining": [
-          188
-        ],
-        "results": [
-          194
-        ],
-        "suggest": [
-          195
-        ],
-        "promising": [
-          201
-        ],
-        "for": [
-          203
-        ],
-        "UBD": [
-          204,
-          225
-        ],
-        "systems,": [
-          206
-        ],
-        "delivering": [
-          207
-        ],
-        "contaminant": [
-          212
-        ],
-        "advancement": [
-          219
-        ],
-        "supports": [
-          220
-        ],
-        "more": [
-          221
-        ],
-        "efficient": [
-          222
-        ],
-        "sustainable": [
-          224
-        ],
-        "operations": [
-          226
-        ],
-        "saline": [
-          228
-        ],
-        "high-temperature": [
-          230
-        ],
-        "environments.": [
-          231
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-25T08:12:03.925757",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38141,8 +38203,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -39749,16 +39811,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4300000071525574,
           "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -40869,16 +40931,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4099999964237213,
           "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41330,8 +41392,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -42557,8 +42619,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -43567,8 +43629,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -43936,8 +43998,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415854487.pdf"
@@ -43949,7 +44011,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-02-04T23:10:29.248076",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-11-04T00:00:00"
     },
     {
@@ -44255,7 +44317,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68514151,
+        "value": 0.65962281,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44702,8 +44764,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -45312,7 +45374,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2026-02-11T00:00:00"
     }
   ]

@@ -156,7 +156,7 @@
       {
         "id": "https://openalex.org/I32021983",
         "ror": "https://ror.org/04v76ef78",
-        "display_name": "Christian-Albrechts-Universität zu Kiel",
+        "display_name": "Kiel University",
         "country_code": "DE",
         "type": "education",
         "lineage": [
@@ -166,7 +166,7 @@
       {
         "id": "https://openalex.org/I32021983",
         "ror": "https://ror.org/04v76ef78",
-        "display_name": "Kiel University",
+        "display_name": "Christian-Albrechts-Universität zu Kiel",
         "country_code": "DE",
         "type": "education",
         "lineage": [
@@ -270,7 +270,7 @@
       {
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
-        "value": 0.0002123,
+        "value": 0.0002122,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -304,7 +304,7 @@
       {
         "id": "https://openalex.org/T10110",
         "display_name": "earthquake and tectonic studies",
-        "value": 0.0001898,
+        "value": 0.0001897,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -321,7 +321,7 @@
       {
         "id": "https://openalex.org/T10689",
         "display_name": "Remote-Sensing Image Classification",
-        "value": 0.0001686,
+        "value": 0.0001685,
         "subfield": {
           "id": "https://openalex.org/subfields/2214",
           "display_name": "Media Technology"
@@ -523,7 +523,7 @@
     },
     "block_key": "j armstrong-altrin",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5056332242",
-    "updated_date": "2026-02-25T12:19:17",
+    "updated_date": "2026-02-26T12:20:15",
     "created_date": "2018-08-03T00:00:00"
   },
   "works": [
@@ -56762,11 +56762,11 @@
         "currency": "USD",
         "value_usd": 3000
       },
-      "fwci": 1.2844,
+      "fwci": 1.2845,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.83783733,
+        "value": 0.83784192,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57334,7 +57334,684 @@
         "https://openalex.org/W3204874555",
         "https://openalex.org/W2158848288"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Field": [
+          0
+        ],
+        "and": [
+          1,
+          46,
+          67,
+          70,
+          76,
+          85,
+          124,
+          161,
+          172,
+          180,
+          186,
+          196,
+          210,
+          220,
+          249,
+          265
+        ],
+        "remote": [
+          2
+        ],
+        "sensing": [
+          3
+        ],
+        "studies": [
+          4
+        ],
+        "reveal": [
+          5
+        ],
+        "that": [
+          6,
+          29,
+          82,
+          128
+        ],
+        "Au-bearing": [
+          7
+        ],
+        "quartz": [
+          8,
+          119,
+          287
+        ],
+        "±": [
+          9
+        ],
+        "carbonate": [
+          10,
+          194,
+          253
+        ],
+        "lodes": [
+          11,
+          50,
+          256
+        ],
+        "in": [
+          12,
+          15,
+          39,
+          79,
+          96,
+          118,
+          162,
+          224,
+          252,
+          255
+        ],
+        "Romite": [
+          13,
+          159
+        ],
+        "deposit,": [
+          14
+        ],
+        "the": [
+          16,
+          32,
+          73,
+          131,
+          142,
+          158,
+          189,
+          205,
+          225,
+          236,
+          262,
+          269
+        ],
+        "extreme": [
+          17
+        ],
+        "South": [
+          18
+        ],
+        "Eastern": [
+          19
+        ],
+        "Desert": [
+          20
+        ],
+        "of": [
+          21,
+          102,
+          149,
+          183,
+          204,
+          222,
+          232,
+          244,
+          268,
+          276,
+          285
+        ],
+        "Egypt,": [
+          22
+        ],
+        "are": [
+          23,
+          134,
+          154,
+          213
+        ],
+        "controlled": [
+          24
+        ],
+        "by": [
+          25
+        ],
+        "NNE-striking": [
+          26
+        ],
+        "shear": [
+          27,
+          44,
+          74,
+          152
+        ],
+        "zones": [
+          28,
+          75
+        ],
+        "splay": [
+          30
+        ],
+        "from": [
+          31,
+          109
+        ],
+        "ca.": [
+          33
+        ],
+        "660–550": [
+          34
+        ],
+        "Ma": [
+          35
+        ],
+        "Hamisana": [
+          36,
+          132
+        ],
+        "Zone.": [
+          37
+        ],
+        "Quartz": [
+          38,
+          139
+        ],
+        "releasing": [
+          40
+        ],
+        "bends": [
+          41
+        ],
+        "with": [
+          42,
+          51,
+          106,
+          116,
+          176
+        ],
+        "sinistral": [
+          43
+        ],
+        "geometry": [
+          45
+        ],
+        "abundant": [
+          47
+        ],
+        "boudinaged": [
+          48
+        ],
+        "quartz-carbonate": [
+          49
+        ],
+        "serrate": [
+          52
+        ],
+        "ribboned": [
+          53
+        ],
+        "fabrics": [
+          54
+        ],
+        "suggest": [
+          55,
+          289
+        ],
+        "vein": [
+          56,
+          286
+        ],
+        "formation": [
+          57,
+          100
+        ],
+        "throughout": [
+          58
+        ],
+        "a": [
+          59,
+          99,
+          165,
+          258,
+          290
+        ],
+        "transpressive": [
+          60
+        ],
+        "wrench": [
+          61
+        ],
+        "system.": [
+          62
+        ],
+        "Ubiquitous": [
+          63
+        ],
+        "hydrothermal": [
+          64,
+          86
+        ],
+        "quartz,": [
+          65
+        ],
+        "carbonate,": [
+          66
+        ],
+        "subordinate": [
+          68
+        ],
+        "chlorite": [
+          69,
+          97
+        ],
+        "sericite": [
+          71
+        ],
+        "within": [
+          72
+        ],
+        "as": [
+          77,
+          235
+        ],
+        "slivers": [
+          78
+        ],
+        "veins,": [
+          80
+        ],
+        "indicate": [
+          81,
+          127
+        ],
+        "gold": [
+          83,
+          117,
+          136
+        ],
+        "deposition": [
+          84
+        ],
+        "alteration": [
+          87
+        ],
+        "occurred": [
+          88
+        ],
+        "under": [
+          89
+        ],
+        "greenschist": [
+          90
+        ],
+        "facies": [
+          91
+        ],
+        "conditions.": [
+          92
+        ],
+        "The": [
+          93,
+          121,
+          193,
+          217,
+          241,
+          272
+        ],
+        "Al": [
+          94
+        ],
+        "(IV)": [
+          95
+        ],
+        "indicates": [
+          98
+        ],
+        "temperature": [
+          101,
+          264
+        ],
+        "∼300": [
+          103
+        ],
+        "°C,": [
+          104
+        ],
+        "comparable": [
+          105
+        ],
+        "temperatures": [
+          107
+        ],
+        "estimated": [
+          108
+        ],
+        "arsenopyrite": [
+          110
+        ],
+        "composition": [
+          111
+        ],
+        "for": [
+          112,
+          229,
+          278
+        ],
+        "grains": [
+          113
+        ],
+        "intimately": [
+          114
+        ],
+        "associated": [
+          115
+        ],
+        "veins.": [
+          120
+        ],
+        "new": [
+          122
+        ],
+        "geological": [
+          123
+        ],
+        "geochemical": [
+          125,
+          167
+        ],
+        "data": [
+          126
+        ],
+        "splays": [
+          129
+        ],
+        "off": [
+          130
+        ],
+        "Zone": [
+          133
+        ],
+        "potential": [
+          135
+        ],
+        "exploration": [
+          137
+        ],
+        "targets.": [
+          138,
+          156
+        ],
+        "veins": [
+          140
+        ],
+        "along": [
+          141
+        ],
+        "high": [
+          143,
+          181
+        ],
+        "order": [
+          144
+        ],
+        "(2nd": [
+          145
+        ],
+        "or": [
+          146
+        ],
+        "3rd)": [
+          147
+        ],
+        "structures": [
+          148
+        ],
+        "this": [
+          150
+        ],
+        "crustal-scale": [
+          151
+        ],
+        "zone": [
+          153
+        ],
+        "favorable": [
+          155
+        ],
+        "In": [
+          157
+        ],
+        "deposit": [
+          160,
+          226
+        ],
+        "surrounding": [
+          163
+        ],
+        "areas,": [
+          164
+        ],
+        "Au-As-Cu-Sb-Co-Zn": [
+          166
+        ],
+        "signature": [
+          168
+        ],
+        "characterizes": [
+          169
+        ],
+        "mineralized": [
+          170,
+          191
+        ],
+        "zones,": [
+          171
+        ],
+        "particularly": [
+          173
+        ],
+        "rock": [
+          174
+        ],
+        "chips": [
+          175
+        ],
+        ">1000": [
+          177
+        ],
+        "ppm": [
+          178
+        ],
+        "As": [
+          179
+        ],
+        "contents": [
+          182
+        ],
+        "Cu,": [
+          184
+        ],
+        "Zn,": [
+          185
+        ],
+        "Co": [
+          187
+        ],
+        "target": [
+          188
+        ],
+        "better": [
+          190
+        ],
+        "areas.": [
+          192
+        ],
+        "δ13CPDB": [
+          195
+        ],
+        "δ18OSMOW": [
+          197
+        ],
+        "isotope": [
+          198
+        ],
+        "signatures": [
+          199
+        ],
+        "preclude": [
+          200
+        ],
+        "an": [
+          201
+        ],
+        "organic": [
+          202
+        ],
+        "source": [
+          203
+        ],
+        "ore": [
+          206,
+          270,
+          279
+        ],
+        "fluid,": [
+          207
+        ],
+        "but": [
+          208
+        ],
+        "metamorphic": [
+          209,
+          230,
+          292
+        ],
+        "magmatic": [
+          211
+        ],
+        "sources": [
+          212
+        ],
+        "still": [
+          214
+        ],
+        "valid": [
+          215
+        ],
+        "candidates.": [
+          216
+        ],
+        "intense": [
+          218
+        ],
+        "deformation": [
+          219
+        ],
+        "lack": [
+          221
+        ],
+        "magmatism": [
+          223
+        ],
+        "area": [
+          227
+        ],
+        "argue": [
+          228
+        ],
+        "dewatering": [
+          231
+        ],
+        "greenstone": [
+          233
+        ],
+        "rocks": [
+          234
+        ],
+        "most": [
+          237
+        ],
+        "likely": [
+          238,
+          291
+        ],
+        "fluid": [
+          239
+        ],
+        "source.": [
+          240
+        ],
+        "narrow": [
+          242
+        ],
+        "ranges": [
+          243
+        ],
+        "δ13C": [
+          245
+        ],
+        "(−4.6‰": [
+          246
+        ],
+        "to": [
+          247,
+          261
+        ],
+        "−3.1‰)": [
+          248
+        ],
+        "δ18O": [
+          250,
+          283
+        ],
+        "(11.9‰–13.7‰)": [
+          251
+        ],
+        "minerals": [
+          254
+        ],
+        "imply": [
+          257
+        ],
+        "corresponding": [
+          259
+        ],
+        "uniformity": [
+          260
+        ],
+        "ambient": [
+          263
+        ],
+        "δ13CCO2": [
+          266
+        ],
+        "(δ13CΣC)": [
+          267
+        ],
+        "fluids.": [
+          271
+        ],
+        "calculated": [
+          273
+        ],
+        "δ18OH2O": [
+          274
+        ],
+        "values": [
+          275,
+          284
+        ],
+        "6.9‰–7.9‰": [
+          277
+        ],
+        "fluids,": [
+          280
+        ],
+        "based": [
+          281
+        ],
+        "on": [
+          282
+        ],
+        "further": [
+          288
+        ],
+        "origin.": [
+          293
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
@@ -57381,7 +58058,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -72947,11 +73624,11 @@
         "value_usd": 3700
       },
       "apc_paid": null,
-      "fwci": 5.2143,
+      "fwci": 5.7577,
       "has_fulltext": false,
-      "cited_by_count": 9,
+      "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.96217146,
+        "value": 0.96859362,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -73418,6 +74095,10 @@
       "abstract_inverted_index": null,
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 7
         },
@@ -73426,7 +74107,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-01-19T04:01:09.351973",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -85081,6 +85762,1226 @@
       "created_date": "2025-07-02T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4413879343",
+      "doi": "https://doi.org/10.1111/1755-6724.15333",
+      "title": "Remote Sensing‐based Machine Learning Techniques for Mapping Gold‐Mineralized Alteration Zones in the Fatira Mine Area, Egypt",
+      "display_name": "Remote Sensing‐based Machine Learning Techniques for Mapping Gold‐Mineralized Alteration Zones in the Fatira Mine Area, Egypt",
+      "publication_year": 2025,
+      "publication_date": "2025-08-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4413879343",
+        "doi": "https://doi.org/10.1111/1755-6724.15333"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1111/1755-6724.15333",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1111/1755-6724.15333",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S103198402",
+          "display_name": "Acta Geologica Sinica - English Edition",
+          "issn_l": "1000-9515",
+          "issn": [
+            "1000-9515",
+            "1755-6724"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Acta Geologica Sinica - English Edition",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5017848474",
+            "display_name": "Refaey M. El-Wardany",
+            "orcid": "https://orcid.org/0000-0001-6766-6921"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I25355098",
+              "display_name": "Chang'an University",
+              "ror": "https://ror.org/05mxya461",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I25355098"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I184834183",
+              "display_name": "Al-Azhar University",
+              "ror": "https://ror.org/05fnp1145",
+              "country_code": "EG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I184834183"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "EG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Refaey EL‐WARDANY",
+          "raw_affiliation_strings": [
+            "Department of Geology, Faculty of Science Al‐Azhar University  Assiut Branch 71524 Egypt",
+            "School of Earth Science and Resource Chang'an University  Xi'an 710054 China"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Faculty of Science Al‐Azhar University  Assiut Branch 71524 Egypt",
+              "institution_ids": [
+                "https://openalex.org/I184834183"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Earth Science and Resource Chang'an University  Xi'an 710054 China",
+              "institution_ids": [
+                "https://openalex.org/I25355098"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5102884282",
+            "display_name": "Jiangang Jiao",
+            "orcid": "https://orcid.org/0000-0003-4188-9574"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I25355098",
+              "display_name": "Chang'an University",
+              "ror": "https://ror.org/05mxya461",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I25355098"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jiangang JIAO",
+          "raw_affiliation_strings": [
+            "School of Earth Science and Resource Chang'an University  Xi'an 710054 China"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth Science and Resource Chang'an University  Xi'an 710054 China",
+              "institution_ids": [
+                "https://openalex.org/I25355098"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5056332242",
+            "display_name": "Basem Zoheir",
+            "orcid": "https://orcid.org/0000-0003-1792-9134"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Basem ZOHEIR",
+          "raw_affiliation_strings": [
+            "Department of Geosciences King Fahd University of Petroleum and Minerals (KFUPM)  Dhahran 31261 Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences King Fahd University of Petroleum and Minerals (KFUPM)  Dhahran 31261 Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5063505997",
+            "display_name": "Lobna Khedr",
+            "orcid": "https://orcid.org/0000-0003-1033-3055"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I130009713",
+              "display_name": "Suez University",
+              "ror": "https://ror.org/00ndhrx30",
+              "country_code": "EG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I130009713"
+              ]
+            }
+          ],
+          "countries": [
+            "EG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lobna KHEDR",
+          "raw_affiliation_strings": [
+            "Department of Geology, Faculty of Science Suez University  Suez 43518 Egypt"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Faculty of Science Suez University  Suez 43518 Egypt",
+              "institution_ids": [
+                "https://openalex.org/I130009713"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037197370",
+            "display_name": "Mustafa Kumral",
+            "orcid": "https://orcid.org/0000-0001-7827-8721"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I48912391",
+              "display_name": "Istanbul Technical University",
+              "ror": "https://ror.org/059636586",
+              "country_code": "TR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I48912391"
+              ]
+            }
+          ],
+          "countries": [
+            "TR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mustafa KUMRAL",
+          "raw_affiliation_strings": [
+            "Department of Geological Engineering, Faculty of Mines Istanbul Technical University  Istanbul 34469 Turkey"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geological Engineering, Faculty of Mines Istanbul Technical University  Istanbul 34469 Turkey",
+              "institution_ids": [
+                "https://openalex.org/I48912391"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100720842",
+            "display_name": "Lei Liu",
+            "orcid": "https://orcid.org/0000-0002-7749-0402"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I25355098",
+              "display_name": "Chang'an University",
+              "ror": "https://ror.org/05mxya461",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I25355098"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I154425047",
+              "display_name": "University of Alberta",
+              "ror": "https://ror.org/0160cpw27",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ],
+          "countries": [
+            "CA",
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lei LIU",
+          "raw_affiliation_strings": [
+            "Department of Earth and Atmospheric Sciences University of Alberta  Edmonton T6G2E3 Canada",
+            "School of Earth Science and Resource Chang'an University  Xi'an 710054 China"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Atmospheric Sciences University of Alberta  Edmonton T6G2E3 Canada",
+              "institution_ids": [
+                "https://openalex.org/I154425047"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Earth Science and Resource Chang'an University  Xi'an 710054 China",
+              "institution_ids": [
+                "https://openalex.org/I25355098"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5063858075",
+            "display_name": "Ibrahim Abu El‐Leil",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I184834183",
+              "display_name": "Al-Azhar University",
+              "ror": "https://ror.org/05fnp1145",
+              "country_code": "EG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I184834183"
+              ]
+            }
+          ],
+          "countries": [
+            "EG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ibrahem ABU EL‐LEIL",
+          "raw_affiliation_strings": [
+            "Department of Geology, Faculty of Science Al‐Azhar University  Cairo Branch Egypt"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Faculty of Science Al‐Azhar University  Cairo Branch Egypt",
+              "institution_ids": [
+                "https://openalex.org/I184834183"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5030288203",
+            "display_name": "Ahmed Orabi",
+            "orcid": "https://orcid.org/0000-0002-7174-9233"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I184834183",
+              "display_name": "Al-Azhar University",
+              "ror": "https://ror.org/05fnp1145",
+              "country_code": "EG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I184834183"
+              ]
+            }
+          ],
+          "countries": [
+            "EG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ahmed ORABI",
+          "raw_affiliation_strings": [
+            "Department of Geology, Faculty of Science Al‐Azhar University  Assiut Branch 71524 Egypt"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Faculty of Science Al‐Azhar University  Assiut Branch 71524 Egypt",
+              "institution_ids": [
+                "https://openalex.org/I184834183"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5117283409",
+            "display_name": "Lotfy Abd El-Salam",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I184834183",
+              "display_name": "Al-Azhar University",
+              "ror": "https://ror.org/05fnp1145",
+              "country_code": "EG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I184834183"
+              ]
+            }
+          ],
+          "countries": [
+            "EG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lotfy ABD EL‐SALAM",
+          "raw_affiliation_strings": [
+            "Department of Geology, Faculty of Science Al‐Azhar University  Assiut Branch 71524 Egypt"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Faculty of Science Al‐Azhar University  Assiut Branch 71524 Egypt",
+              "institution_ids": [
+                "https://openalex.org/I184834183"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5028691091",
+            "display_name": "Amr Abdelnasser",
+            "orcid": "https://orcid.org/0000-0001-5994-7088"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I48912391",
+              "display_name": "Istanbul Technical University",
+              "ror": "https://ror.org/059636586",
+              "country_code": "TR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I48912391"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I207547235",
+              "display_name": "Benha University",
+              "ror": "https://ror.org/03tn5ee41",
+              "country_code": "EG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I207547235"
+              ]
+            }
+          ],
+          "countries": [
+            "EG",
+            "TR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Amr ABDELNASSER",
+          "raw_affiliation_strings": [
+            "Department of Geological Engineering, Faculty of Mines Istanbul Technical University  Istanbul 34469 Turkey",
+            "Geology Department, Faculty of Science Benha University  Benha 13518 Egypt"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geological Engineering, Faculty of Mines Istanbul Technical University  Istanbul 34469 Turkey",
+              "institution_ids": [
+                "https://openalex.org/I48912391"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geology Department, Faculty of Science Benha University  Benha 13518 Egypt",
+              "institution_ids": [
+                "https://openalex.org/I207547235"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 5,
+      "institutions_distinct_count": 10,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5028691091"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I207547235",
+        "https://openalex.org/I48912391"
+      ],
+      "apc_list": {
+        "value": 3140,
+        "currency": "USD",
+        "value_usd": 3140
+      },
+      "apc_paid": null,
+      "fwci": 2.8076,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.9250284,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 97,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "99",
+        "issue": "4",
+        "first_page": "1196",
+        "last_page": "1223"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12157",
+        "display_name": "Geochemistry and Geologic Mapping",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10689",
+          "display_name": "Remote-Sensing Image Classification",
+          "score": 0.9940000176429749,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2214",
+            "display_name": "Media Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10770",
+          "display_name": "Soil Geostatistics and Mapping",
+          "score": 0.9739999771118164,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.628634512424469
+        },
+        {
+          "id": "https://openalex.org/keywords/mining-engineering",
+          "display_name": "Mining engineering",
+          "score": 0.4242193400859833
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.38432279229164124
+        },
+        {
+          "id": "https://openalex.org/keywords/remote-sensing",
+          "display_name": "Remote sensing",
+          "score": 0.36827412247657776
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.628634512424469
+        },
+        {
+          "id": "https://openalex.org/C16674752",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mining engineering",
+          "level": 1,
+          "score": 0.4242193400859833
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.38432279229164124
+        },
+        {
+          "id": "https://openalex.org/C62649853",
+          "wikidata": "https://www.wikidata.org/wiki/Q199687",
+          "display_name": "Remote sensing",
+          "level": 1,
+          "score": 0.36827412247657776
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1111/1755-6724.15333",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1111/1755-6724.15333",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S103198402",
+            "display_name": "Acta Geologica Sinica - English Edition",
+            "issn_l": "1000-9515",
+            "issn": [
+              "1000-9515",
+              "1755-6724"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Acta Geologica Sinica - English Edition",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 85,
+      "referenced_works": [
+        "https://openalex.org/W569502334",
+        "https://openalex.org/W595147118",
+        "https://openalex.org/W1548850152",
+        "https://openalex.org/W1608960209",
+        "https://openalex.org/W1967400946",
+        "https://openalex.org/W1983564289",
+        "https://openalex.org/W1983813906",
+        "https://openalex.org/W1983865151",
+        "https://openalex.org/W1993921138",
+        "https://openalex.org/W1994385748",
+        "https://openalex.org/W1995339082",
+        "https://openalex.org/W2004099648",
+        "https://openalex.org/W2009139678",
+        "https://openalex.org/W2010522912",
+        "https://openalex.org/W2013904582",
+        "https://openalex.org/W2018391802",
+        "https://openalex.org/W2023373255",
+        "https://openalex.org/W2031282500",
+        "https://openalex.org/W2032051771",
+        "https://openalex.org/W2056819025",
+        "https://openalex.org/W2058644801",
+        "https://openalex.org/W2060365046",
+        "https://openalex.org/W2061357718",
+        "https://openalex.org/W2065875500",
+        "https://openalex.org/W2067041472",
+        "https://openalex.org/W2071884509",
+        "https://openalex.org/W2074506246",
+        "https://openalex.org/W2077865152",
+        "https://openalex.org/W2081342672",
+        "https://openalex.org/W2085572798",
+        "https://openalex.org/W2086726221",
+        "https://openalex.org/W2093044475",
+        "https://openalex.org/W2100921418",
+        "https://openalex.org/W2118332032",
+        "https://openalex.org/W2119049524",
+        "https://openalex.org/W2123649031",
+        "https://openalex.org/W2126722968",
+        "https://openalex.org/W2129659014",
+        "https://openalex.org/W2134893701",
+        "https://openalex.org/W2139709933",
+        "https://openalex.org/W2140103896",
+        "https://openalex.org/W2140740764",
+        "https://openalex.org/W2142179592",
+        "https://openalex.org/W2188767531",
+        "https://openalex.org/W2194920534",
+        "https://openalex.org/W2264490891",
+        "https://openalex.org/W2344220100",
+        "https://openalex.org/W2565909193",
+        "https://openalex.org/W2604219531",
+        "https://openalex.org/W2790239854",
+        "https://openalex.org/W2793927960",
+        "https://openalex.org/W2800585695",
+        "https://openalex.org/W2917558960",
+        "https://openalex.org/W2932813851",
+        "https://openalex.org/W2947319370",
+        "https://openalex.org/W2972335388",
+        "https://openalex.org/W2981927612",
+        "https://openalex.org/W3015770584",
+        "https://openalex.org/W3015860713",
+        "https://openalex.org/W3016296757",
+        "https://openalex.org/W3036103835",
+        "https://openalex.org/W3086496997",
+        "https://openalex.org/W3090695989",
+        "https://openalex.org/W3096231545",
+        "https://openalex.org/W3159102813",
+        "https://openalex.org/W3181605656",
+        "https://openalex.org/W3208943037",
+        "https://openalex.org/W3211173425",
+        "https://openalex.org/W4210597241",
+        "https://openalex.org/W4210699701",
+        "https://openalex.org/W4225395032",
+        "https://openalex.org/W4230674625",
+        "https://openalex.org/W4248150465",
+        "https://openalex.org/W4287840314",
+        "https://openalex.org/W4308100956",
+        "https://openalex.org/W4310154651",
+        "https://openalex.org/W4313225253",
+        "https://openalex.org/W4313398394",
+        "https://openalex.org/W4320479342",
+        "https://openalex.org/W4362465905",
+        "https://openalex.org/W4388206431",
+        "https://openalex.org/W4391883779",
+        "https://openalex.org/W4394060561",
+        "https://openalex.org/W4395080836",
+        "https://openalex.org/W4408387386"
+      ],
+      "related_works": [
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2324615561",
+        "https://openalex.org/W2086120259",
+        "https://openalex.org/W2245170124",
+        "https://openalex.org/W2076393078",
+        "https://openalex.org/W3186982001",
+        "https://openalex.org/W1984402782",
+        "https://openalex.org/W2137941439",
+        "https://openalex.org/W2004200960",
+        "https://openalex.org/W1999891779"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "In": [
+          1
+        ],
+        "the": [
+          2,
+          10,
+          109,
+          154,
+          158,
+          164,
+          171
+        ],
+        "Fatira": [
+          3,
+          159
+        ],
+        "(Abu": [
+          4
+        ],
+        "Zawal)": [
+          5
+        ],
+        "mine": [
+          6
+        ],
+        "area,": [
+          7,
+          160
+        ],
+        "located": [
+          8
+        ],
+        "in": [
+          9,
+          39,
+          45,
+          157,
+          170
+        ],
+        "northern": [
+          11
+        ],
+        "Eastern": [
+          12
+        ],
+        "Desert": [
+          13
+        ],
+        "of": [
+          14,
+          94,
+          114,
+          119,
+          125
+        ],
+        "Egypt,": [
+          15
+        ],
+        "fieldwork": [
+          16
+        ],
+        "and": [
+          17,
+          30,
+          48,
+          57,
+          69,
+          87,
+          121,
+          141
+        ],
+        "mineralogical": [
+          18
+        ],
+        "analysis,": [
+          19
+        ],
+        "integrated": [
+          20
+        ],
+        "with": [
+          21,
+          53,
+          74
+        ],
+        "machine": [
+          22,
+          112
+        ],
+        "learning": [
+          23
+        ],
+        "techniques": [
+          24
+        ],
+        "applied": [
+          25
+        ],
+        "to": [
+          26,
+          131,
+          153
+        ],
+        "Landsat‐8": [
+          27,
+          115
+        ],
+        "OLI,": [
+          28
+        ],
+        "ASTER,": [
+          29
+        ],
+        "Sentinel‐2": [
+          31,
+          97
+        ],
+        "multi‐spectral": [
+          32
+        ],
+        "imagery": [
+          33
+        ],
+        "(MSI)": [
+          34
+        ],
+        "data": [
+          35
+        ],
+        "delineate": [
+          36
+        ],
+        "gold‐sulfide": [
+          37
+        ],
+        "mineralization": [
+          38,
+          156
+        ],
+        "altered": [
+          40
+        ],
+        "rocks.": [
+          41,
+          60
+        ],
+        "Gold": [
+          42
+        ],
+        "(Au)": [
+          43
+        ],
+        "anomalies": [
+          44
+        ],
+        "hydrothermal": [
+          46,
+          133,
+          149
+        ],
+        "breccias": [
+          47
+        ],
+        "quartz": [
+          49
+        ],
+        "veins": [
+          50
+        ],
+        "are": [
+          51,
+          65
+        ],
+        "associated": [
+          52
+        ],
+        "NE‐oriented": [
+          54
+        ],
+        "felsite": [
+          55
+        ],
+        "dykes": [
+          56
+        ],
+        "silicified": [
+          58
+        ],
+        "granitic": [
+          59
+        ],
+        "Two": [
+          61
+        ],
+        "main": [
+          62
+        ],
+        "alteration": [
+          63,
+          95,
+          134
+        ],
+        "types": [
+          64
+        ],
+        "identified:": [
+          66
+        ],
+        "a": [
+          67,
+          70,
+          122
+        ],
+        "pyrite‐sericite‐quartz": [
+          68
+        ],
+        "sulfide‐chlorite‐carbonate": [
+          71
+        ],
+        "assemblage,": [
+          72
+        ],
+        "locally": [
+          73
+        ],
+        "dispersed": [
+          75
+        ],
+        "free‐milling": [
+          76
+        ],
+        "Au": [
+          77
+        ],
+        "specks.": [
+          78
+        ],
+        "Dimensionality": [
+          79
+        ],
+        "reduction": [
+          80
+        ],
+        "techniques,": [
+          81
+        ],
+        "including": [
+          82,
+          137
+        ],
+        "principal": [
+          83
+        ],
+        "component": [
+          84,
+          89
+        ],
+        "analysis": [
+          85,
+          90
+        ],
+        "(PCA)": [
+          86
+        ],
+        "independent": [
+          88
+        ],
+        "(ICA),": [
+          91
+        ],
+        "enabled": [
+          92
+        ],
+        "mapping": [
+          93
+        ],
+        "types.": [
+          96
+        ],
+        "PC125": [
+          98
+        ],
+        "composite": [
+          99
+        ],
+        "images": [
+          100
+        ],
+        "offered": [
+          101
+        ],
+        "efficient": [
+          102
+        ],
+        "lithological": [
+          103
+        ],
+        "differentiation,": [
+          104
+        ],
+        "while": [
+          105
+        ],
+        "supervised": [
+          106
+        ],
+        "classifications,": [
+          107
+        ],
+        "i.e.,": [
+          108
+        ],
+        "support": [
+          110
+        ],
+        "vector": [
+          111
+        ],
+        "(SVM)": [
+          113
+        ],
+        "yielded": [
+          116
+        ],
+        "an": [
+          117
+        ],
+        "accuracy": [
+          118
+        ],
+        "88.55%": [
+          120
+        ],
+        "Kappa": [
+          123
+        ],
+        "value": [
+          124
+        ],
+        "0.86.": [
+          126
+        ],
+        "ASTER": [
+          127
+        ],
+        "mineral": [
+          128,
+          135
+        ],
+        "indices": [
+          129
+        ],
+        "contributed": [
+          130,
+          152
+        ],
+        "map": [
+          132
+        ],
+        "phases,": [
+          136
+        ],
+        "sericite,": [
+          138
+        ],
+        "muscovite,": [
+          139
+        ],
+        "kaolinite,": [
+          140
+        ],
+        "iron": [
+          142
+        ],
+        "oxides.": [
+          143
+        ],
+        "Results": [
+          144
+        ],
+        "indicate": [
+          145
+        ],
+        "that": [
+          146
+        ],
+        "post‐magmatic": [
+          147
+        ],
+        "epigenetic": [
+          148
+        ],
+        "activity": [
+          150
+        ],
+        "significantly": [
+          151
+        ],
+        "Au‐sulfide": [
+          155
+        ],
+        "distinguishing": [
+          161
+        ],
+        "it": [
+          162
+        ],
+        "from": [
+          163
+        ],
+        "more": [
+          165
+        ],
+        "prevalent": [
+          166
+        ],
+        "orogenic": [
+          167
+        ],
+        "gold": [
+          168
+        ],
+        "deposits": [
+          169
+        ],
+        "region.": [
+          172
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-02-27T16:54:17.756197",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W1973562035",
       "doi": "https://doi.org/10.1016/j.oregeorev.2008.09.007",
       "title": "Role of fluid mixing and wallrock sulfidation in gold mineralization at the Semna mine area, central Eastern Desert of Egypt: Evidence from hydrothermal alteration, fluid inclusions and stable isotope data",
@@ -87669,11 +89570,11 @@
         "currency": "USD",
         "value_usd": 2300
       },
-      "fwci": 1.9731,
+      "fwci": 1.9732,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.83742865,
+        "value": 0.83741082,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -88271,7 +90172,480 @@
         "https://openalex.org/W4321512183",
         "https://openalex.org/W2042239063"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Textural": [
+          0
+        ],
+        "and": [
+          1,
+          29,
+          56,
+          73,
+          117,
+          120,
+          144,
+          173,
+          186
+        ],
+        "compositional": [
+          2
+        ],
+        "characteristics": [
+          3,
+          175
+        ],
+        "of": [
+          4,
+          16,
+          115,
+          135,
+          153,
+          167,
+          176
+        ],
+        "mineral": [
+          5,
+          170
+        ],
+        "inclusions": [
+          6,
+          31,
+          41,
+          64
+        ],
+        "in": [
+          7,
+          49,
+          78,
+          123,
+          157
+        ],
+        "podiform": [
+          8
+        ],
+        "chromitites": [
+          9,
+          94,
+          116,
+          179
+        ],
+        "flourish": [
+          10
+        ],
+        "thoughtful": [
+          11
+        ],
+        "information": [
+          12
+        ],
+        "about": [
+          13
+        ],
+        "the": [
+          14,
+          17,
+          23,
+          50,
+          124,
+          136,
+          165,
+          177
+        ],
+        "genesis": [
+          15
+        ],
+        "Köyceğiz": [
+          18,
+          93,
+          178
+        ],
+        "ophiolite": [
+          19
+        ],
+        "(SW": [
+          20
+        ],
+        "Turkey).": [
+          21
+        ],
+        "In": [
+          22
+        ],
+        "chromitite": [
+          24,
+          130
+        ],
+        "bodies,": [
+          25
+        ],
+        "olivine,": [
+          26
+        ],
+        "orthopyroxene,": [
+          27
+        ],
+        "clinopyroxene,": [
+          28
+        ],
+        "sulfide": [
+          30
+        ],
+        "are": [
+          32,
+          44,
+          95
+        ],
+        "mostly": [
+          33
+        ],
+        "sub-rounded": [
+          34
+        ],
+        "or": [
+          35
+        ],
+        "globular.": [
+          36
+        ],
+        "Less": [
+          37
+        ],
+        "abundant": [
+          38
+        ],
+        "needle-shaped": [
+          39
+        ],
+        "silicate": [
+          40
+        ],
+        "(10–50": [
+          42
+        ],
+        "μm-long)": [
+          43
+        ],
+        "aligned": [
+          45
+        ],
+        "along": [
+          46
+        ],
+        "crystallographic": [
+          47
+        ],
+        "orientations": [
+          48
+        ],
+        "host": [
+          51
+        ],
+        "magnesiochromite": [
+          52,
+          80
+        ],
+        "grains.": [
+          53
+        ],
+        "Raman": [
+          54
+        ],
+        "spectroscopy": [
+          55
+        ],
+        "micro": [
+          57
+        ],
+        "analytical": [
+          58
+        ],
+        "data": [
+          59,
+          121
+        ],
+        "indicate": [
+          60,
+          129
+        ],
+        "that": [
+          61
+        ],
+        "these": [
+          62
+        ],
+        "lamellar": [
+          63
+        ],
+        "have": [
+          65
+        ],
+        "consistently": [
+          66
+        ],
+        "a": [
+          67,
+          158
+        ],
+        "diopside": [
+          68
+        ],
+        "composition.": [
+          69
+        ],
+        "Uncommon,": [
+          70
+        ],
+        "discrete": [
+          71
+        ],
+        "micro-diamonds": [
+          72
+        ],
+        "moissanite": [
+          74
+        ],
+        "(SiC)": [
+          75
+        ],
+        "particles,": [
+          76
+        ],
+        "observed": [
+          77
+        ],
+        "some": [
+          79
+        ],
+        "grains,": [
+          81
+        ],
+        "may": [
+          82
+        ],
+        "suggest": [
+          83
+        ],
+        "formation": [
+          84,
+          131
+        ],
+        "under": [
+          85
+        ],
+        "ultra-high": [
+          86
+        ],
+        "pressure": [
+          87
+        ],
+        "(UHP)": [
+          88
+        ],
+        "super-reduced": [
+          89
+        ],
+        "(SuR)": [
+          90
+        ],
+        "conditions.": [
+          91
+        ],
+        "The": [
+          92,
+          140
+        ],
+        "characterized": [
+          96
+        ],
+        "by": [
+          97,
+          132
+        ],
+        "variable": [
+          98,
+          141
+        ],
+        "platinum-group": [
+          99
+        ],
+        "element": [
+          100
+        ],
+        "(PGE)": [
+          101
+        ],
+        "abundances": [
+          102
+        ],
+        "(80–441": [
+          103
+        ],
+        "ppb),": [
+          104
+        ],
+        "with": [
+          105,
+          164
+        ],
+        "unfailing": [
+          106
+        ],
+        "IPGE": [
+          107
+        ],
+        ">": [
+          108
+        ],
+        "PPGE": [
+          109
+        ],
+        "contents.": [
+          110
+        ],
+        "Fractionated": [
+          111
+        ],
+        "chondrite-normalized": [
+          112
+        ],
+        "PGE": [
+          113
+        ],
+        "patterns": [
+          114
+        ],
+        "associated": [
+          118,
+          137
+        ],
+        "peridotites": [
+          119
+        ],
+        "scatter": [
+          122
+        ],
+        "Pd/Ir": [
+          125
+        ],
+        "versus": [
+          126
+        ],
+        "Pt/Pt*": [
+          127
+        ],
+        "space": [
+          128
+        ],
+        "partial": [
+          133
+        ],
+        "melting": [
+          134
+        ],
+        "mantle": [
+          138,
+          183
+        ],
+        "rocks.": [
+          139
+        ],
+        "187Os/188Os(i)": [
+          142
+        ],
+        "(0.1278–0.1380)": [
+          143
+        ],
+        "γOs": [
+          145
+        ],
+        "(−0.38": [
+          146
+        ],
+        "to": [
+          147
+        ],
+        "+7.54)": [
+          148
+        ],
+        "values": [
+          149
+        ],
+        "demonstrate": [
+          150
+        ],
+        "extensive": [
+          151
+        ],
+        "contamination": [
+          152
+        ],
+        "crustal": [
+          154
+        ],
+        "components,": [
+          155
+        ],
+        "likely": [
+          156
+        ],
+        "supra-subduction": [
+          159
+        ],
+        "zone": [
+          160
+        ],
+        "(SSZ)": [
+          161
+        ],
+        "setting.": [
+          162
+        ],
+        "Combined": [
+          163
+        ],
+        "occurrence": [
+          166
+        ],
+        "unusual": [
+          168
+        ],
+        "‘exotic’": [
+          169
+        ],
+        "inclusions,": [
+          171
+        ],
+        "geochemical": [
+          172
+        ],
+        "isotopic": [
+          174
+        ],
+        "replicate": [
+          180
+        ],
+        "superimposed": [
+          181
+        ],
+        "deep": [
+          182
+        ],
+        "processes,": [
+          184
+        ],
+        "recycling": [
+          185
+        ],
+        "subduction-related": [
+          187
+        ],
+        "phase": [
+          188
+        ],
+        "transformations.": [
+          189
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
@@ -88290,7 +90664,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2026-02-27T16:54:17.756197",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -133999,1218 +136373,6 @@
       "abstract_inverted_index": null,
       "counts_by_year": [],
       "updated_date": "2026-02-03T00:53:05.648605",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4413879343",
-      "doi": "https://doi.org/10.1111/1755-6724.15333",
-      "title": "Remote Sensing‐based Machine Learning Techniques for Mapping Gold‐Mineralized Alteration Zones in the Fatira Mine Area, Egypt",
-      "display_name": "Remote Sensing‐based Machine Learning Techniques for Mapping Gold‐Mineralized Alteration Zones in the Fatira Mine Area, Egypt",
-      "publication_year": 2025,
-      "publication_date": "2025-08-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4413879343",
-        "doi": "https://doi.org/10.1111/1755-6724.15333"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1111/1755-6724.15333",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1111/1755-6724.15333",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S103198402",
-          "display_name": "Acta Geologica Sinica - English Edition",
-          "issn_l": "1000-9515",
-          "issn": [
-            "1000-9515",
-            "1755-6724"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320595",
-          "host_organization_name": "Wiley",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320595"
-          ],
-          "host_organization_lineage_names": [
-            "Wiley"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Acta Geologica Sinica - English Edition",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5017848474",
-            "display_name": "Refaey M. El-Wardany",
-            "orcid": "https://orcid.org/0000-0001-6766-6921"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I25355098",
-              "display_name": "Chang'an University",
-              "ror": "https://ror.org/05mxya461",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I25355098"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I184834183",
-              "display_name": "Al-Azhar University",
-              "ror": "https://ror.org/05fnp1145",
-              "country_code": "EG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I184834183"
-              ]
-            }
-          ],
-          "countries": [
-            "CN",
-            "EG"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Refaey EL‐WARDANY",
-          "raw_affiliation_strings": [
-            "Department of Geology, Faculty of Science Al‐Azhar University  Assiut Branch 71524 Egypt",
-            "School of Earth Science and Resource Chang'an University  Xi'an 710054 China"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Faculty of Science Al‐Azhar University  Assiut Branch 71524 Egypt",
-              "institution_ids": [
-                "https://openalex.org/I184834183"
-              ]
-            },
-            {
-              "raw_affiliation_string": "School of Earth Science and Resource Chang'an University  Xi'an 710054 China",
-              "institution_ids": [
-                "https://openalex.org/I25355098"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5102884282",
-            "display_name": "Jiangang Jiao",
-            "orcid": "https://orcid.org/0000-0003-4188-9574"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I25355098",
-              "display_name": "Chang'an University",
-              "ror": "https://ror.org/05mxya461",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I25355098"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jiangang JIAO",
-          "raw_affiliation_strings": [
-            "School of Earth Science and Resource Chang'an University  Xi'an 710054 China"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Earth Science and Resource Chang'an University  Xi'an 710054 China",
-              "institution_ids": [
-                "https://openalex.org/I25355098"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5056332242",
-            "display_name": "Basem Zoheir",
-            "orcid": "https://orcid.org/0000-0003-1792-9134"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Basem ZOHEIR",
-          "raw_affiliation_strings": [
-            "Department of Geosciences King Fahd University of Petroleum and Minerals (KFUPM)  Dhahran 31261 Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences King Fahd University of Petroleum and Minerals (KFUPM)  Dhahran 31261 Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5063505997",
-            "display_name": "Lobna Khedr",
-            "orcid": "https://orcid.org/0000-0003-1033-3055"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I130009713",
-              "display_name": "Suez University",
-              "ror": "https://ror.org/00ndhrx30",
-              "country_code": "EG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I130009713"
-              ]
-            }
-          ],
-          "countries": [
-            "EG"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Lobna KHEDR",
-          "raw_affiliation_strings": [
-            "Department of Geology, Faculty of Science Suez University  Suez 43518 Egypt"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Faculty of Science Suez University  Suez 43518 Egypt",
-              "institution_ids": [
-                "https://openalex.org/I130009713"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5037197370",
-            "display_name": "Mustafa Kumral",
-            "orcid": "https://orcid.org/0000-0001-7827-8721"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I48912391",
-              "display_name": "Istanbul Technical University",
-              "ror": "https://ror.org/059636586",
-              "country_code": "TR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I48912391"
-              ]
-            }
-          ],
-          "countries": [
-            "TR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mustafa KUMRAL",
-          "raw_affiliation_strings": [
-            "Department of Geological Engineering, Faculty of Mines Istanbul Technical University  Istanbul 34469 Turkey"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geological Engineering, Faculty of Mines Istanbul Technical University  Istanbul 34469 Turkey",
-              "institution_ids": [
-                "https://openalex.org/I48912391"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5100720842",
-            "display_name": "Lei Liu",
-            "orcid": "https://orcid.org/0000-0002-7749-0402"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I25355098",
-              "display_name": "Chang'an University",
-              "ror": "https://ror.org/05mxya461",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I25355098"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I154425047",
-              "display_name": "University of Alberta",
-              "ror": "https://ror.org/0160cpw27",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I154425047"
-              ]
-            }
-          ],
-          "countries": [
-            "CA",
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Lei LIU",
-          "raw_affiliation_strings": [
-            "Department of Earth and Atmospheric Sciences University of Alberta  Edmonton T6G2E3 Canada",
-            "School of Earth Science and Resource Chang'an University  Xi'an 710054 China"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth and Atmospheric Sciences University of Alberta  Edmonton T6G2E3 Canada",
-              "institution_ids": [
-                "https://openalex.org/I154425047"
-              ]
-            },
-            {
-              "raw_affiliation_string": "School of Earth Science and Resource Chang'an University  Xi'an 710054 China",
-              "institution_ids": [
-                "https://openalex.org/I25355098"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5063858075",
-            "display_name": "Ibrahim Abu El‐Leil",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I184834183",
-              "display_name": "Al-Azhar University",
-              "ror": "https://ror.org/05fnp1145",
-              "country_code": "EG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I184834183"
-              ]
-            }
-          ],
-          "countries": [
-            "EG"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ibrahem ABU EL‐LEIL",
-          "raw_affiliation_strings": [
-            "Department of Geology, Faculty of Science Al‐Azhar University  Cairo Branch Egypt"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Faculty of Science Al‐Azhar University  Cairo Branch Egypt",
-              "institution_ids": [
-                "https://openalex.org/I184834183"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5030288203",
-            "display_name": "Ahmed Orabi",
-            "orcid": "https://orcid.org/0000-0002-7174-9233"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I184834183",
-              "display_name": "Al-Azhar University",
-              "ror": "https://ror.org/05fnp1145",
-              "country_code": "EG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I184834183"
-              ]
-            }
-          ],
-          "countries": [
-            "EG"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ahmed ORABI",
-          "raw_affiliation_strings": [
-            "Department of Geology, Faculty of Science Al‐Azhar University  Assiut Branch 71524 Egypt"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Faculty of Science Al‐Azhar University  Assiut Branch 71524 Egypt",
-              "institution_ids": [
-                "https://openalex.org/I184834183"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5117283409",
-            "display_name": "Lotfy Abd El-Salam",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I184834183",
-              "display_name": "Al-Azhar University",
-              "ror": "https://ror.org/05fnp1145",
-              "country_code": "EG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I184834183"
-              ]
-            }
-          ],
-          "countries": [
-            "EG"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Lotfy ABD EL‐SALAM",
-          "raw_affiliation_strings": [
-            "Department of Geology, Faculty of Science Al‐Azhar University  Assiut Branch 71524 Egypt"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Faculty of Science Al‐Azhar University  Assiut Branch 71524 Egypt",
-              "institution_ids": [
-                "https://openalex.org/I184834183"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5028691091",
-            "display_name": "Amr Abdelnasser",
-            "orcid": "https://orcid.org/0000-0001-5994-7088"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I48912391",
-              "display_name": "Istanbul Technical University",
-              "ror": "https://ror.org/059636586",
-              "country_code": "TR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I48912391"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I207547235",
-              "display_name": "Benha University",
-              "ror": "https://ror.org/03tn5ee41",
-              "country_code": "EG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I207547235"
-              ]
-            }
-          ],
-          "countries": [
-            "EG",
-            "TR"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Amr ABDELNASSER",
-          "raw_affiliation_strings": [
-            "Department of Geological Engineering, Faculty of Mines Istanbul Technical University  Istanbul 34469 Turkey",
-            "Geology Department, Faculty of Science Benha University  Benha 13518 Egypt"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geological Engineering, Faculty of Mines Istanbul Technical University  Istanbul 34469 Turkey",
-              "institution_ids": [
-                "https://openalex.org/I48912391"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geology Department, Faculty of Science Benha University  Benha 13518 Egypt",
-              "institution_ids": [
-                "https://openalex.org/I207547235"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 5,
-      "institutions_distinct_count": 10,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5028691091"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I207547235",
-        "https://openalex.org/I48912391"
-      ],
-      "apc_list": {
-        "value": 3140,
-        "currency": "USD",
-        "value_usd": 3140
-      },
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.13317862,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": "99",
-        "issue": "4",
-        "first_page": "1196",
-        "last_page": "1223"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12157",
-        "display_name": "Geochemistry and Geologic Mapping",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10689",
-          "display_name": "Remote-Sensing Image Classification",
-          "score": 0.9940000176429749,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2214",
-            "display_name": "Media Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10770",
-          "display_name": "Soil Geostatistics and Mapping",
-          "score": 0.9739999771118164,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.628634512424469
-        },
-        {
-          "id": "https://openalex.org/keywords/mining-engineering",
-          "display_name": "Mining engineering",
-          "score": 0.4242193400859833
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.38432279229164124
-        },
-        {
-          "id": "https://openalex.org/keywords/remote-sensing",
-          "display_name": "Remote sensing",
-          "score": 0.36827412247657776
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.628634512424469
-        },
-        {
-          "id": "https://openalex.org/C16674752",
-          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
-          "display_name": "Mining engineering",
-          "level": 1,
-          "score": 0.4242193400859833
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.38432279229164124
-        },
-        {
-          "id": "https://openalex.org/C62649853",
-          "wikidata": "https://www.wikidata.org/wiki/Q199687",
-          "display_name": "Remote sensing",
-          "level": 1,
-          "score": 0.36827412247657776
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1111/1755-6724.15333",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1111/1755-6724.15333",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S103198402",
-            "display_name": "Acta Geologica Sinica - English Edition",
-            "issn_l": "1000-9515",
-            "issn": [
-              "1000-9515",
-              "1755-6724"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320595",
-            "host_organization_name": "Wiley",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320595"
-            ],
-            "host_organization_lineage_names": [
-              "Wiley"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Acta Geologica Sinica - English Edition",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 85,
-      "referenced_works": [
-        "https://openalex.org/W569502334",
-        "https://openalex.org/W595147118",
-        "https://openalex.org/W1548850152",
-        "https://openalex.org/W1608960209",
-        "https://openalex.org/W1967400946",
-        "https://openalex.org/W1983564289",
-        "https://openalex.org/W1983813906",
-        "https://openalex.org/W1983865151",
-        "https://openalex.org/W1993921138",
-        "https://openalex.org/W1994385748",
-        "https://openalex.org/W1995339082",
-        "https://openalex.org/W2004099648",
-        "https://openalex.org/W2009139678",
-        "https://openalex.org/W2010522912",
-        "https://openalex.org/W2013904582",
-        "https://openalex.org/W2018391802",
-        "https://openalex.org/W2023373255",
-        "https://openalex.org/W2031282500",
-        "https://openalex.org/W2032051771",
-        "https://openalex.org/W2056819025",
-        "https://openalex.org/W2058644801",
-        "https://openalex.org/W2060365046",
-        "https://openalex.org/W2061357718",
-        "https://openalex.org/W2065875500",
-        "https://openalex.org/W2067041472",
-        "https://openalex.org/W2071884509",
-        "https://openalex.org/W2074506246",
-        "https://openalex.org/W2077865152",
-        "https://openalex.org/W2081342672",
-        "https://openalex.org/W2085572798",
-        "https://openalex.org/W2086726221",
-        "https://openalex.org/W2093044475",
-        "https://openalex.org/W2100921418",
-        "https://openalex.org/W2118332032",
-        "https://openalex.org/W2119049524",
-        "https://openalex.org/W2123649031",
-        "https://openalex.org/W2126722968",
-        "https://openalex.org/W2129659014",
-        "https://openalex.org/W2134893701",
-        "https://openalex.org/W2139709933",
-        "https://openalex.org/W2140103896",
-        "https://openalex.org/W2140740764",
-        "https://openalex.org/W2142179592",
-        "https://openalex.org/W2188767531",
-        "https://openalex.org/W2194920534",
-        "https://openalex.org/W2264490891",
-        "https://openalex.org/W2344220100",
-        "https://openalex.org/W2565909193",
-        "https://openalex.org/W2604219531",
-        "https://openalex.org/W2790239854",
-        "https://openalex.org/W2793927960",
-        "https://openalex.org/W2800585695",
-        "https://openalex.org/W2917558960",
-        "https://openalex.org/W2932813851",
-        "https://openalex.org/W2947319370",
-        "https://openalex.org/W2972335388",
-        "https://openalex.org/W2981927612",
-        "https://openalex.org/W3015770584",
-        "https://openalex.org/W3015860713",
-        "https://openalex.org/W3016296757",
-        "https://openalex.org/W3036103835",
-        "https://openalex.org/W3086496997",
-        "https://openalex.org/W3090695989",
-        "https://openalex.org/W3096231545",
-        "https://openalex.org/W3159102813",
-        "https://openalex.org/W3181605656",
-        "https://openalex.org/W3208943037",
-        "https://openalex.org/W3211173425",
-        "https://openalex.org/W4210597241",
-        "https://openalex.org/W4210699701",
-        "https://openalex.org/W4225395032",
-        "https://openalex.org/W4230674625",
-        "https://openalex.org/W4248150465",
-        "https://openalex.org/W4287840314",
-        "https://openalex.org/W4308100956",
-        "https://openalex.org/W4310154651",
-        "https://openalex.org/W4313225253",
-        "https://openalex.org/W4313398394",
-        "https://openalex.org/W4320479342",
-        "https://openalex.org/W4362465905",
-        "https://openalex.org/W4388206431",
-        "https://openalex.org/W4391883779",
-        "https://openalex.org/W4394060561",
-        "https://openalex.org/W4395080836",
-        "https://openalex.org/W4408387386"
-      ],
-      "related_works": [
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W2324615561",
-        "https://openalex.org/W2086120259",
-        "https://openalex.org/W2245170124",
-        "https://openalex.org/W2076393078",
-        "https://openalex.org/W3186982001",
-        "https://openalex.org/W1984402782",
-        "https://openalex.org/W2137941439",
-        "https://openalex.org/W2004200960",
-        "https://openalex.org/W1999891779"
-      ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "In": [
-          1
-        ],
-        "the": [
-          2,
-          10,
-          109,
-          154,
-          158,
-          164,
-          171
-        ],
-        "Fatira": [
-          3,
-          159
-        ],
-        "(Abu": [
-          4
-        ],
-        "Zawal)": [
-          5
-        ],
-        "mine": [
-          6
-        ],
-        "area,": [
-          7,
-          160
-        ],
-        "located": [
-          8
-        ],
-        "in": [
-          9,
-          39,
-          45,
-          157,
-          170
-        ],
-        "northern": [
-          11
-        ],
-        "Eastern": [
-          12
-        ],
-        "Desert": [
-          13
-        ],
-        "of": [
-          14,
-          94,
-          114,
-          119,
-          125
-        ],
-        "Egypt,": [
-          15
-        ],
-        "fieldwork": [
-          16
-        ],
-        "and": [
-          17,
-          30,
-          48,
-          57,
-          69,
-          87,
-          121,
-          141
-        ],
-        "mineralogical": [
-          18
-        ],
-        "analysis,": [
-          19
-        ],
-        "integrated": [
-          20
-        ],
-        "with": [
-          21,
-          53,
-          74
-        ],
-        "machine": [
-          22,
-          112
-        ],
-        "learning": [
-          23
-        ],
-        "techniques": [
-          24
-        ],
-        "applied": [
-          25
-        ],
-        "to": [
-          26,
-          131,
-          153
-        ],
-        "Landsat‐8": [
-          27,
-          115
-        ],
-        "OLI,": [
-          28
-        ],
-        "ASTER,": [
-          29
-        ],
-        "Sentinel‐2": [
-          31,
-          97
-        ],
-        "multi‐spectral": [
-          32
-        ],
-        "imagery": [
-          33
-        ],
-        "(MSI)": [
-          34
-        ],
-        "data": [
-          35
-        ],
-        "delineate": [
-          36
-        ],
-        "gold‐sulfide": [
-          37
-        ],
-        "mineralization": [
-          38,
-          156
-        ],
-        "altered": [
-          40
-        ],
-        "rocks.": [
-          41,
-          60
-        ],
-        "Gold": [
-          42
-        ],
-        "(Au)": [
-          43
-        ],
-        "anomalies": [
-          44
-        ],
-        "hydrothermal": [
-          46,
-          133,
-          149
-        ],
-        "breccias": [
-          47
-        ],
-        "quartz": [
-          49
-        ],
-        "veins": [
-          50
-        ],
-        "are": [
-          51,
-          65
-        ],
-        "associated": [
-          52
-        ],
-        "NE‐oriented": [
-          54
-        ],
-        "felsite": [
-          55
-        ],
-        "dykes": [
-          56
-        ],
-        "silicified": [
-          58
-        ],
-        "granitic": [
-          59
-        ],
-        "Two": [
-          61
-        ],
-        "main": [
-          62
-        ],
-        "alteration": [
-          63,
-          95,
-          134
-        ],
-        "types": [
-          64
-        ],
-        "identified:": [
-          66
-        ],
-        "a": [
-          67,
-          70,
-          122
-        ],
-        "pyrite‐sericite‐quartz": [
-          68
-        ],
-        "sulfide‐chlorite‐carbonate": [
-          71
-        ],
-        "assemblage,": [
-          72
-        ],
-        "locally": [
-          73
-        ],
-        "dispersed": [
-          75
-        ],
-        "free‐milling": [
-          76
-        ],
-        "Au": [
-          77
-        ],
-        "specks.": [
-          78
-        ],
-        "Dimensionality": [
-          79
-        ],
-        "reduction": [
-          80
-        ],
-        "techniques,": [
-          81
-        ],
-        "including": [
-          82,
-          137
-        ],
-        "principal": [
-          83
-        ],
-        "component": [
-          84,
-          89
-        ],
-        "analysis": [
-          85,
-          90
-        ],
-        "(PCA)": [
-          86
-        ],
-        "independent": [
-          88
-        ],
-        "(ICA),": [
-          91
-        ],
-        "enabled": [
-          92
-        ],
-        "mapping": [
-          93
-        ],
-        "types.": [
-          96
-        ],
-        "PC125": [
-          98
-        ],
-        "composite": [
-          99
-        ],
-        "images": [
-          100
-        ],
-        "offered": [
-          101
-        ],
-        "efficient": [
-          102
-        ],
-        "lithological": [
-          103
-        ],
-        "differentiation,": [
-          104
-        ],
-        "while": [
-          105
-        ],
-        "supervised": [
-          106
-        ],
-        "classifications,": [
-          107
-        ],
-        "i.e.,": [
-          108
-        ],
-        "support": [
-          110
-        ],
-        "vector": [
-          111
-        ],
-        "(SVM)": [
-          113
-        ],
-        "yielded": [
-          116
-        ],
-        "an": [
-          117
-        ],
-        "accuracy": [
-          118
-        ],
-        "88.55%": [
-          120
-        ],
-        "Kappa": [
-          123
-        ],
-        "value": [
-          124
-        ],
-        "0.86.": [
-          126
-        ],
-        "ASTER": [
-          127
-        ],
-        "mineral": [
-          128,
-          135
-        ],
-        "indices": [
-          129
-        ],
-        "contributed": [
-          130,
-          152
-        ],
-        "map": [
-          132
-        ],
-        "phases,": [
-          136
-        ],
-        "sericite,": [
-          138
-        ],
-        "muscovite,": [
-          139
-        ],
-        "kaolinite,": [
-          140
-        ],
-        "iron": [
-          142
-        ],
-        "oxides.": [
-          143
-        ],
-        "Results": [
-          144
-        ],
-        "indicate": [
-          145
-        ],
-        "that": [
-          146
-        ],
-        "post‐magmatic": [
-          147
-        ],
-        "epigenetic": [
-          148
-        ],
-        "activity": [
-          150
-        ],
-        "significantly": [
-          151
-        ],
-        "Au‐sulfide": [
-          155
-        ],
-        "distinguishing": [
-          161
-        ],
-        "it": [
-          162
-        ],
-        "from": [
-          163
-        ],
-        "more": [
-          165
-        ],
-        "prevalent": [
-          166
-        ],
-        "orogenic": [
-          167
-        ],
-        "gold": [
-          168
-        ],
-        "deposits": [
-          169
-        ],
-        "region.": [
-          172
-        ]
-      },
-      "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
