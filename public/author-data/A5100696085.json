@@ -994,9 +994,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -1706,9 +1706,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -4211,9 +4211,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -9621,9 +9621,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -14143,9 +14143,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -22536,9 +22536,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -32217,9 +32217,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -43714,9 +43714,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -44802,11 +44802,11 @@
         "currency": "GBP",
         "value_usd": 1459
       },
-      "fwci": 1.1629,
+      "fwci": 1.1617,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.78700339,
+        "value": 0.78687226,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45192,14 +45192,588 @@
         "https://openalex.org/W2389468517",
         "https://openalex.org/W2090848880"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          72,
+          110,
+          129
+        ],
+        "oil": [
+          1,
+          87
+        ],
+        "and": [
+          2,
+          24,
+          37,
+          50,
+          70,
+          88,
+          105,
+          124,
+          164,
+          174,
+          190,
+          219
+        ],
+        "gas": [
+          3,
+          89
+        ],
+        "industry,": [
+          4
+        ],
+        "constituting": [
+          5
+        ],
+        "90%": [
+          6
+        ],
+        "of": [
+          7,
+          56,
+          74,
+          112,
+          131,
+          139,
+          146,
+          157,
+          167,
+          233
+        ],
+        "Saudi": [
+          8,
+          32
+        ],
+        "Arabia's": [
+          9
+        ],
+        "exports,": [
+          10
+        ],
+        "relies": [
+          11
+        ],
+        "on": [
+          12,
+          42,
+          117
+        ],
+        "essential": [
+          13
+        ],
+        "operations,": [
+          14
+        ],
+        "including": [
+          15,
+          68
+        ],
+        "oil-well": [
+          16
+        ],
+        "cementing.": [
+          17,
+          91
+        ],
+        "This": [
+          18
+        ],
+        "crucial": [
+          19
+        ],
+        "process": [
+          20
+        ],
+        "ensures": [
+          21
+        ],
+        "zonal": [
+          22
+        ],
+        "isolation": [
+          23
+        ],
+        "wellbore": [
+          25
+        ],
+        "structural": [
+          26
+        ],
+        "support.": [
+          27
+        ],
+        "While": [
+          28
+        ],
+        "traditional": [
+          29
+        ],
+        "cementing": [
+          30
+        ],
+        "involves": [
+          31
+        ],
+        "Class": [
+          33
+        ],
+        "G": [
+          34
+        ],
+        "cement,": [
+          35,
+          159
+        ],
+        "water": [
+          36
+        ],
+        "additives,": [
+          38
+        ],
+        "recent": [
+          39
+        ],
+        "attention": [
+          40
+        ],
+        "focuses": [
+          41
+        ],
+        "secondary": [
+          43,
+          84
+        ],
+        "cementitious": [
+          44,
+          63
+        ],
+        "materials": [
+          45
+        ],
+        "for": [
+          46,
+          247
+        ],
+        "enhanced": [
+          47
+        ],
+        "mechanical": [
+          48,
+          155
+        ],
+        "properties": [
+          49,
+          126
+        ],
+        "durability.": [
+          51
+        ],
+        "Kaolinite": [
+          52
+        ],
+        "is": [
+          53,
+          77,
+          142
+        ],
+        "a": [
+          54,
+          61,
+          83,
+          184,
+          191
+        ],
+        "type": [
+          55
+        ],
+        "clay": [
+          57
+        ],
+        "mineral": [
+          58
+        ],
+        "investigated": [
+          59
+        ],
+        "as": [
+          60,
+          82,
+          211
+        ],
+        "supplementary": [
+          62
+        ],
+        "material": [
+          64,
+          85
+        ],
+        "in": [
+          65,
+          86,
+          183,
+          187,
+          194,
+          213
+        ],
+        "various": [
+          66
+        ],
+        "applications,": [
+          67
+        ],
+        "concrete": [
+          69
+        ],
+        "mortar.": [
+          71
+        ],
+        "objective": [
+          73
+        ],
+        "this": [
+          75,
+          132
+        ],
+        "study": [
+          76,
+          133
+        ],
+        "to": [
+          78,
+          148,
+          236
+        ],
+        "use": [
+          79
+        ],
+        "Qusaiba": [
+          80
+        ],
+        "kaolinite": [
+          81,
+          98,
+          115,
+          147,
+          152,
+          235
+        ],
+        "wells": [
+          90
+        ],
+        "Six": [
+          92
+        ],
+        "heavyweight": [
+          93
+        ],
+        "cement": [
+          94,
+          140,
+          169,
+          199,
+          243
+        ],
+        "samples": [
+          95,
+          249
+        ],
+        "with": [
+          96,
+          251
+        ],
+        "different": [
+          97
+        ],
+        "concentrations": [
+          99
+        ],
+        "were": [
+          100,
+          127,
+          170
+        ],
+        "prepared": [
+          101,
+          250
+        ],
+        "under": [
+          102
+        ],
+        "high": [
+          103,
+          106
+        ],
+        "pressure": [
+          104
+        ],
+        "temperature": [
+          107
+        ],
+        "(HPHT)": [
+          108
+        ],
+        "conditions.": [
+          109
+        ],
+        "effects": [
+          111
+        ],
+        "incorporating": [
+          113
+        ],
+        "several": [
+          114
+        ],
+        "dosages": [
+          116
+        ],
+        "the": [
+          118,
+          143,
+          154,
+          158,
+          162,
+          168,
+          214,
+          222,
+          228,
+          231,
+          234,
+          238,
+          242,
+          248
+        ],
+        "cement's": [
+          119
+        ],
+        "segregation,": [
+          120
+        ],
+        "microstructure,": [
+          121
+        ],
+        "mechanical,": [
+          122
+        ],
+        "elastic,": [
+          123
+        ],
+        "petrophysical": [
+          125
+        ],
+        "assessed.": [
+          128
+        ],
+        "results": [
+          130
+        ],
+        "revealed": [
+          134
+        ],
+        "that": [
+          135
+        ],
+        "1%": [
+          136
+        ],
+        "by": [
+          137,
+          172,
+          206,
+          221,
+          227,
+          245
+        ],
+        "weight": [
+          138
+        ],
+        "(BWOC)": [
+          141
+        ],
+        "optimum": [
+          144
+        ],
+        "concentration": [
+          145
+        ],
+        "be": [
+          149
+        ],
+        "used.": [
+          150
+        ],
+        "Using": [
+          151
+        ],
+        "improved": [
+          153,
+          198
+        ],
+        "strength": [
+          156
+        ],
+        "where": [
+          160
+        ],
+        "both": [
+          161
+        ],
+        "compressive": [
+          163
+        ],
+        "tensile": [
+          165
+        ],
+        "strengths": [
+          166
+        ],
+        "increased": [
+          171
+        ],
+        "13%": [
+          173
+        ],
+        "73%,": [
+          175
+        ],
+        "respectively,": [
+          176
+        ],
+        "when": [
+          177
+        ],
+        "adding": [
+          178,
+          209
+        ],
+        "kaolinite.": [
+          179,
+          252
+        ],
+        "It": [
+          180
+        ],
+        "also": [
+          181,
+          204
+        ],
+        "resulted": [
+          182
+        ],
+        "6.4%": [
+          185
+        ],
+        "reduction": [
+          186
+        ],
+        "Young’s": [
+          188
+        ],
+        "modulus": [
+          189
+        ],
+        "minor": [
+          192
+        ],
+        "increase": [
+          193
+        ],
+        "Poisson’s": [
+          195
+        ],
+        "ratio,": [
+          196
+        ],
+        "indicating": [
+          197
+        ],
+        "elasticity.": [
+          200
+        ],
+        "Cement": [
+          201
+        ],
+        "segregation": [
+          202
+        ],
+        "was": [
+          203
+        ],
+        "reduced": [
+          205,
+          241
+        ],
+        "74.4%": [
+          207,
+          246
+        ],
+        "after": [
+          208
+        ],
+        "kaolinite,": [
+          210
+        ],
+        "noted": [
+          212
+        ],
+        "direct": [
+          215
+        ],
+        "density": [
+          216
+        ],
+        "variation": [
+          217
+        ],
+        "method": [
+          218
+        ],
+        "confirmed": [
+          220
+        ],
+        "CT": [
+          223
+        ],
+        "scan.": [
+          224
+        ],
+        "As": [
+          225
+        ],
+        "indicated": [
+          226
+        ],
+        "SEM": [
+          229
+        ],
+        "images,": [
+          230
+        ],
+        "ability": [
+          232
+        ],
+        "fill": [
+          237
+        ],
+        "pore": [
+          239
+        ],
+        "spaces": [
+          240
+        ],
+        "permeability": [
+          244
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-27T16:54:17.756197",
+      "updated_date": "2026-02-28T09:26:25.869077",
       "created_date": "2025-10-10T00:00:00"
     },
     {

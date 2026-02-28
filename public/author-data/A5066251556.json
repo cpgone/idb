@@ -964,8 +964,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 93,
@@ -1764,8 +1764,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 296,
@@ -2766,8 +2766,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 242,
@@ -3844,8 +3844,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 107,
@@ -4873,8 +4873,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -6393,8 +6393,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4311285904.pdf",
@@ -7810,8 +7810,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3008854749.pdf",
@@ -8847,8 +8847,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -9576,8 +9576,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -10580,11 +10580,11 @@
         "currency": "USD",
         "value_usd": 1750
       },
-      "fwci": 5.0239,
+      "fwci": 5.0142,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.94317853,
+        "value": 0.94299409,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10927,8 +10927,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -10980,7 +10980,535 @@
         "https://openalex.org/W2951332247",
         "https://openalex.org/W4404561996"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "300": [
+          114
+        ],
+        "The": [
+          0,
+          64,
+          178
+        ],
+        "structural": [
+          1,
+          197
+        ],
+        "properties": [
+          2
+        ],
+        "of": [
+          3,
+          55,
+          183,
+          199
+        ],
+        "surfactants": [
+          4,
+          29,
+          70,
+          137,
+          201
+        ],
+        "are": [
+          5,
+          221
+        ],
+        "essential": [
+          6
+        ],
+        "for": [
+          7,
+          119,
+          174,
+          188,
+          202,
+          206
+        ],
+        "understanding": [
+          8
+        ],
+        "their": [
+          9,
+          117
+        ],
+        "behavior": [
+          10
+        ],
+        "and": [
+          11,
+          20,
+          33,
+          39,
+          45,
+          61,
+          82,
+          88,
+          129,
+          145,
+          211,
+          218
+        ],
+        "sustainability": [
+          12
+        ],
+        "under": [
+          13
+        ],
+        "extreme": [
+          14
+        ],
+        "conditions,": [
+          15
+        ],
+        "such": [
+          16
+        ],
+        "as": [
+          17
+        ],
+        "high": [
+          18,
+          106
+        ],
+        "temperatures": [
+          19,
+          90,
+          111
+        ],
+        "varying": [
+          21
+        ],
+        "salinities.": [
+          22
+        ],
+        "In": [
+          23
+        ],
+        "this": [
+          24
+        ],
+        "study,": [
+          25
+        ],
+        "four": [
+          26,
+          69
+        ],
+        "pyridinium-based": [
+          27
+        ],
+        "dicationic": [
+          28,
+          157,
+          200
+        ],
+        "with": [
+          30,
+          93,
+          109,
+          124,
+          138,
+          152,
+          159
+        ],
+        "different": [
+          31
+        ],
+        "hydrophilic": [
+          32,
+          139
+        ],
+        "hydrophobic": [
+          34,
+          153
+        ],
+        "spacer": [
+          35,
+          56,
+          162
+        ],
+        "groups": [
+          36,
+          57
+        ],
+        "were": [
+          37,
+          49
+        ],
+        "synthesized": [
+          38
+        ],
+        "structurally": [
+          40
+        ],
+        "characterized.": [
+          41
+        ],
+        "Thermogravimetric": [
+          42
+        ],
+        "analysis": [
+          43
+        ],
+        "(TGA)": [
+          44
+        ],
+        "surface": [
+          46,
+          62,
+          143,
+          180
+        ],
+        "tension": [
+          47,
+          128,
+          144,
+          181
+        ],
+        "measurements": [
+          48,
+          134
+        ],
+        "conducted": [
+          50
+        ],
+        "to": [
+          51,
+          113
+        ],
+        "investigate": [
+          52
+        ],
+        "the": [
+          53,
+          156,
+          164,
+          196
+        ],
+        "influence": [
+          54
+        ],
+        "on": [
+          58
+        ],
+        "thermal": [
+          59,
+          107,
+          216
+        ],
+        "stability": [
+          60
+        ],
+        "properties.": [
+          63
+        ],
+        "results": [
+          65,
+          104
+        ],
+        "demonstrated": [
+          66,
+          71
+        ],
+        "that": [
+          67,
+          136
+        ],
+        "all": [
+          68
+        ],
+        "remarkable": [
+          72
+        ],
+        "solubility": [
+          73
+        ],
+        "in": [
+          74
+        ],
+        "various": [
+          75
+        ],
+        "aqueous": [
+          76
+        ],
+        "environments-seawater": [
+          77
+        ],
+        "(SW),": [
+          78
+        ],
+        "deionized": [
+          79
+        ],
+        "water": [
+          80,
+          84
+        ],
+        "(DW),": [
+          81
+        ],
+        "formation": [
+          83,
+          149
+        ],
+        "(FW)-at": [
+          85
+        ],
+        "both": [
+          86
+        ],
+        "ambient": [
+          87
+        ],
+        "elevated": [
+          89
+        ],
+        "(90": [
+          91
+        ],
+        "°C),": [
+          92
+        ],
+        "no": [
+          94
+        ],
+        "phase": [
+          95
+        ],
+        "separation": [
+          96
+        ],
+        "or": [
+          97
+        ],
+        "cloudiness": [
+          98
+        ],
+        "observed": [
+          99
+        ],
+        "after": [
+          100
+        ],
+        "three": [
+          101
+        ],
+        "weeks.": [
+          102
+        ],
+        "TGA": [
+          103
+        ],
+        "revealed": [
+          105
+        ],
+        "stability,": [
+          108
+        ],
+        "decomposition": [
+          110
+        ],
+        "close": [
+          112
+        ],
+        "°C,": [
+          115
+        ],
+        "highlighting": [
+          116
+        ],
+        "robustness": [
+          118
+        ],
+        "applications": [
+          120,
+          207
+        ],
+        "requiring": [
+          121
+        ],
+        "sustainable": [
+          122,
+          203
+        ],
+        "materials": [
+          123
+        ],
+        "extended": [
+          125
+        ],
+        "lifespans.": [
+          126
+        ],
+        "Surface": [
+          127
+        ],
+        "critical": [
+          130
+        ],
+        "micelle": [
+          131,
+          148,
+          171
+        ],
+        "concentration": [
+          132
+        ],
+        "(CMC)": [
+          133
+        ],
+        "showed": [
+          135
+        ],
+        "spacers": [
+          140
+        ],
+        "achieved": [
+          141
+        ],
+        "lower": [
+          142
+        ],
+        "more": [
+          146
+        ],
+        "efficient": [
+          147,
+          175
+        ],
+        "than": [
+          150
+        ],
+        "those": [
+          151
+        ],
+        "spacers.": [
+          154
+        ],
+        "Notably,": [
+          155
+        ],
+        "surfactant": [
+          158
+        ],
+        "a": [
+          160,
+          168
+        ],
+        "hydroxy": [
+          161
+        ],
+        "exhibited": [
+          163
+        ],
+        "lowest": [
+          165,
+          179
+        ],
+        "CMC,": [
+          166
+        ],
+        "indicating": [
+          167
+        ],
+        "tightly": [
+          169
+        ],
+        "packed": [
+          170
+        ],
+        "structure,": [
+          172
+        ],
+        "advantageous": [
+          173
+        ],
+        "resource": [
+          176
+        ],
+        "utilization.": [
+          177
+        ],
+        "value": [
+          182
+        ],
+        "31.790": [
+          184
+        ],
+        "mNm<sup>-1</sup>": [
+          185
+        ],
+        "was": [
+          186
+        ],
+        "obtained": [
+          187
+        ],
+        "<b>GS-NH.</b>": [
+          189
+        ],
+        "These": [
+          190
+        ],
+        "findings": [
+          191
+        ],
+        "provide": [
+          192
+        ],
+        "valuable": [
+          193
+        ],
+        "insights": [
+          194
+        ],
+        "into": [
+          195
+        ],
+        "design": [
+          198
+        ],
+        "engineering,": [
+          204
+        ],
+        "particularly": [
+          205
+        ],
+        "like": [
+          208
+        ],
+        "CO<sub>2</sub>": [
+          209
+        ],
+        "storage": [
+          210
+        ],
+        "enhanced": [
+          212
+        ],
+        "oil": [
+          213
+        ],
+        "recovery,": [
+          214
+        ],
+        "where": [
+          215
+        ],
+        "resilience": [
+          217
+        ],
+        "salt": [
+          219
+        ],
+        "tolerance": [
+          220
+        ],
+        "critical.": [
+          222
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -10991,7 +11519,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-02-27T16:54:17.756197",
+      "updated_date": "2026-02-28T09:26:25.869077",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11643,8 +12171,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -12541,11 +13069,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6241,
+      "fwci": 1.6254,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.84329551,
+        "value": 0.84321489,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12857,8 +13385,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 118,
@@ -12994,573 +13522,7 @@
         "https://openalex.org/W3207311200",
         "https://openalex.org/W2783606089"
       ],
-      "abstract_inverted_index": {
-        "Carbon": [
-          0
-        ],
-        "dioxide": [
-          1
-        ],
-        "(CO2)": [
-          2
-        ],
-        "storage": [
-          3,
-          27
-        ],
-        "in": [
-          4,
-          62,
-          87
-        ],
-        "geological": [
-          5
-        ],
-        "reservoirs": [
-          6
-        ],
-        "faces": [
-          7
-        ],
-        "viscous": [
-          8
-        ],
-        "fingering,": [
-          9
-        ],
-        "gravity": [
-          10
-        ],
-        "override,": [
-          11
-        ],
-        "and": [
-          12,
-          21,
-          25,
-          38,
-          46,
-          71,
-          81,
-          91,
-          113,
-          146,
-          162,
-          187,
-          196,
-          202,
-          218,
-          223
-        ],
-        "poor": [
-          13
-        ],
-        "mobility": [
-          14,
-          44,
-          111
-        ],
-        "control": [
-          15,
-          45,
-          112,
-          133
-        ],
-        "due": [
-          16
-        ],
-        "to": [
-          17,
-          34,
-          58,
-          123,
-          225,
-          231
-        ],
-        "its": [
-          18,
-          40
-        ],
-        "low": [
-          19
-        ],
-        "viscosity": [
-          20,
-          41
-        ],
-        "resulting": [
-          22
-        ],
-        "inefficient": [
-          23
-        ],
-        "distribution": [
-          24,
-          48
-        ],
-        "compromised": [
-          26
-        ],
-        "capacity.": [
-          28
-        ],
-        "Therefore,": [
-          29
-        ],
-        "an": [
-          30
-        ],
-        "urgent": [
-          31
-        ],
-        "need": [
-          32
-        ],
-        "arises": [
-          33
-        ],
-        "thicken": [
-          35
-        ],
-        "the": [
-          36,
-          50,
-          55,
-          66,
-          74,
-          93,
-          136,
-          143,
-          148,
-          226,
-          229
-        ],
-        "CO2": [
-          37,
-          79,
-          106,
-          122,
-          140
-        ],
-        "enhance": [
-          39,
-          59
-        ],
-        "for": [
-          42,
-          78,
-          205
-        ],
-        "better": [
-          43,
-          110
-        ],
-        "uniform": [
-          47
-        ],
-        "across": [
-          49
-        ],
-        "reservoir.": [
-          51
-        ],
-        "This": [
-          52
-        ],
-        "study": [
-          53,
-          75,
-          152,
-          191
-        ],
-        "examines": [
-          54
-        ],
-        "different": [
-          56
-        ],
-        "schemes": [
-          57
-        ],
-        "sweep": [
-          60,
-          207
-        ],
-        "efficiency": [
-          61,
-          84
-        ],
-        "subsurface": [
-          63
-        ],
-        "storage.": [
-          64
-        ],
-        "In": [
-          65
-        ],
-        "context": [
-          67
-        ],
-        "of": [
-          68,
-          95,
-          101,
-          139,
-          173,
-          228
-        ],
-        "polymer-,": [
-          69
-        ],
-        "surfactant-,": [
-          70
-        ],
-        "foam-based": [
-          72
-        ],
-        "technologies,": [
-          73
-        ],
-        "defines": [
-          76
-        ],
-        "optimization": [
-          77
-        ],
-        "injection": [
-          80
-        ],
-        "retention.": [
-          82
-        ],
-        "Sweep": [
-          83
-        ],
-        "is": [
-          85
-        ],
-        "critical": [
-          86
-        ],
-        "maximizing": [
-          88
-        ],
-        "reservoir": [
-          89,
-          115
-        ],
-        "usage": [
-          90
-        ],
-        "minimizing": [
-          92
-        ],
-        "risk": [
-          94
-        ],
-        "leakage": [
-          96
-        ],
-        "by": [
-          97
-        ],
-        "ensuring": [
-          98
-        ],
-        "even": [
-          99
-        ],
-        "dispersion": [
-          100
-        ],
-        "CO2.": [
-          102
-        ],
-        "Polymers": [
-          103
-        ],
-        "could": [
-          104
-        ],
-        "increase": [
-          105
-        ],
-        "viscosity,": [
-          107
-        ],
-        "thereby": [
-          108
-        ],
-        "yielding": [
-          109
-        ],
-        "wider": [
-          114
-        ],
-        "coverage.": [
-          116
-        ],
-        "Surfactants": [
-          117
-        ],
-        "reduce": [
-          118
-        ],
-        "interfacial": [
-          119
-        ],
-        "tension,": [
-          120
-        ],
-        "enabling": [
-          121
-        ],
-        "invade": [
-          124
-        ],
-        "less": [
-          125
-        ],
-        "permeable": [
-          126
-        ],
-        "areas,": [
-          127
-        ],
-        "while": [
-          128
-        ],
-        "foams": [
-          129,
-          164,
-          204
-        ],
-        "act": [
-          130
-        ],
-        "as": [
-          131
-        ],
-        "conformance": [
-          132
-        ],
-        "agents,": [
-          134
-        ],
-        "changing": [
-          135
-        ],
-        "flow": [
-          137
-        ],
-        "path": [
-          138
-        ],
-        "away": [
-          141
-        ],
-        "from": [
-          142
-        ],
-        "high": [
-          144
-        ],
-        "permeability": [
-          145
-        ],
-        "into": [
-          147,
-          193
-        ],
-        "underused": [
-          149
-        ],
-        "areas.": [
-          150
-        ],
-        "The": [
-          151,
-          190
-        ],
-        "further": [
-          153
-        ],
-        "includes": [
-          154
-        ],
-        "advanced": [
-          155
-        ],
-        "materials": [
-          156
-        ],
-        "like": [
-          157
-        ],
-        "CO2-soluble": [
-          158
-        ],
-        "polymers,": [
-          159,
-          201
-        ],
-        "fluorinated": [
-          160
-        ],
-        "surfactants,": [
-          161
-        ],
-        "nanoparticle-stabilized": [
-          163
-        ],
-        "with": [
-          165,
-          182
-        ],
-        "superior": [
-          166
-        ],
-        "stability": [
-          167
-        ],
-        "under": [
-          168
-        ],
-        "high-pressure,": [
-          169
-        ],
-        "high-temperature": [
-          170
-        ],
-        "conditions": [
-          171
-        ],
-        "typical": [
-          172
-        ],
-        "deep": [
-          174
-        ],
-        "reservoirs.": [
-          175
-        ],
-        "Though": [
-          176
-        ],
-        "effective,": [
-          177
-        ],
-        "these": [
-          178,
-          194
-        ],
-        "approaches": [
-          179,
-          199
-        ],
-        "are": [
-          180,
-          211
-        ],
-        "challenged": [
-          181
-        ],
-        "chemical": [
-          183
-        ],
-        "degradation,": [
-          184
-        ],
-        "economic": [
-          185
-        ],
-        "feasibility": [
-          186
-        ],
-        "environmental": [
-          188
-        ],
-        "consequences.": [
-          189
-        ],
-        "delves": [
-          192
-        ],
-        "limitations": [
-          195
-        ],
-        "suggests": [
-          197
-        ],
-        "integrated": [
-          198
-        ],
-        "involving": [
-          200
-        ],
-        "surfactant": [
-          203,
-          216
-        ],
-        "enhanced": [
-          206
-        ],
-        "efficiency.": [
-          208
-        ],
-        "These": [
-          209
-        ],
-        "findings": [
-          210
-        ],
-        "a": [
-          212
-        ],
-        "step": [
-          213
-        ],
-        "towards": [
-          214
-        ],
-        "realizing": [
-          215
-        ],
-        "efficient": [
-          217
-        ],
-        "sustainable": [
-          219
-        ],
-        "carbon": [
-          220
-        ],
-        "sequestration": [
-          221
-        ],
-        "technologies": [
-          222
-        ],
-        "contribute": [
-          224
-        ],
-        "efforts": [
-          227
-        ],
-        "world": [
-          230
-        ],
-        "mitigate": [
-          232
-        ],
-        "climate": [
-          233
-        ],
-        "change.": [
-          234
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -13571,7 +13533,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-27T16:54:17.756197",
+      "updated_date": "2026-02-28T09:26:25.869077",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14243,8 +14205,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3016327829.pdf",
@@ -15321,8 +15283,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -15878,8 +15840,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -17168,8 +17130,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -18312,8 +18274,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -19411,8 +19373,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -20786,8 +20748,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -21466,11 +21428,11 @@
         "currency": "USD",
         "value_usd": 2000
       },
-      "fwci": 2.3258,
+      "fwci": 2.3235,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.87256848,
+        "value": 0.87250122,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21906,8 +21868,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 157,
@@ -22082,14 +22044,453 @@
         "https://openalex.org/W4388017567",
         "https://openalex.org/W2984055460"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Enhanced": [
+          0
+        ],
+        "Oil": [
+          1
+        ],
+        "Recovery": [
+          2
+        ],
+        "(EOR)": [
+          3
+        ],
+        "combined": [
+          4
+        ],
+        "with": [
+          5,
+          35,
+          132
+        ],
+        "carbon": [
+          6,
+          171
+        ],
+        "dioxide": [
+          7
+        ],
+        "(CO2)": [
+          8
+        ],
+        "sequestration": [
+          9
+        ],
+        "offers": [
+          10
+        ],
+        "a": [
+          11,
+          36
+        ],
+        "promising": [
+          12
+        ],
+        "solution": [
+          13
+        ],
+        "to": [
+          14,
+          90,
+          153
+        ],
+        "address": [
+          15
+        ],
+        "the": [
+          16,
+          40,
+          71,
+          129,
+          137,
+          155,
+          160,
+          166
+        ],
+        "dual": [
+          17
+        ],
+        "challenge": [
+          18
+        ],
+        "of": [
+          19,
+          39,
+          73,
+          140,
+          149,
+          157,
+          163,
+          168
+        ],
+        "meeting": [
+          20
+        ],
+        "global": [
+          21,
+          31
+        ],
+        "energy": [
+          22
+        ],
+        "demands": [
+          23
+        ],
+        "while": [
+          24
+        ],
+        "reducing": [
+          25,
+          113
+        ],
+        "greenhouse": [
+          26
+        ],
+        "gas": [
+          27
+        ],
+        "emissions": [
+          28
+        ],
+        "that": [
+          29
+        ],
+        "drive": [
+          30
+        ],
+        "warming.": [
+          32
+        ],
+        "Carbonate": [
+          33
+        ],
+        "reservoirs": [
+          34,
+          134
+        ],
+        "large": [
+          37
+        ],
+        "portion": [
+          38
+        ],
+        "world’s": [
+          41
+        ],
+        "remaining": [
+          42
+        ],
+        "oil": [
+          43
+        ],
+        "present": [
+          44
+        ],
+        "challenges,": [
+          45
+        ],
+        "including": [
+          46,
+          97
+        ],
+        "complex": [
+          47
+        ],
+        "pore": [
+          48
+        ],
+        "structure,": [
+          49
+        ],
+        "low": [
+          50
+        ],
+        "permeability,": [
+          51
+        ],
+        "and": [
+          52,
+          70,
+          102,
+          116,
+          120,
+          135,
+          165
+        ],
+        "oil-wet": [
+          53
+        ],
+        "characters.": [
+          54
+        ],
+        "Furthermore,": [
+          55
+        ],
+        "operational": [
+          56
+        ],
+        "challenges": [
+          57,
+          130
+        ],
+        "such": [
+          58,
+          91
+        ],
+        "as": [
+          59,
+          87
+        ],
+        "intricate": [
+          60
+        ],
+        "phase": [
+          61
+        ],
+        "behaviour,": [
+          62
+        ],
+        "water–rock–gas": [
+          63
+        ],
+        "interactions,": [
+          64
+        ],
+        "reservoir": [
+          65,
+          124
+        ],
+        "integrity": [
+          66
+        ],
+        "risks,": [
+          67
+        ],
+        "high": [
+          68
+        ],
+        "salinity,": [
+          69
+        ],
+        "presence": [
+          72
+        ],
+        "impurities": [
+          74
+        ],
+        "like": [
+          75
+        ],
+        "H2S,": [
+          76
+        ],
+        "further": [
+          77
+        ],
+        "complicate": [
+          78
+        ],
+        "their": [
+          79
+        ],
+        "exploitation.": [
+          80
+        ],
+        "Recently,": [
+          81
+        ],
+        "ionic": [
+          82
+        ],
+        "liquids": [
+          83
+        ],
+        "(ILs)": [
+          84
+        ],
+        "have": [
+          85,
+          94,
+          107
+        ],
+        "emerged": [
+          86
+        ],
+        "potential": [
+          88,
+          156
+        ],
+        "solutions": [
+          89
+        ],
+        "challenges.": [
+          92
+        ],
+        "ILs": [
+          93,
+          106,
+          141,
+          158
+        ],
+        "unique": [
+          95
+        ],
+        "properties,": [
+          96
+        ],
+        "tunable": [
+          98
+        ],
+        "nature,": [
+          99
+        ],
+        "thermal": [
+          100
+        ],
+        "stability,": [
+          101
+        ],
+        "near-zero": [
+          103
+        ],
+        "vapor": [
+          104
+        ],
+        "pressure.": [
+          105
+        ],
+        "EOR": [
+          108,
+          164
+        ],
+        "capacity": [
+          109
+        ],
+        "by": [
+          110
+        ],
+        "modifying": [
+          111
+        ],
+        "wettability,": [
+          112
+        ],
+        "interfacial": [
+          114
+        ],
+        "tension,": [
+          115
+        ],
+        "improving": [
+          117
+        ],
+        "CO2": [
+          118
+        ],
+        "adsorption": [
+          119
+        ],
+        "dissolution": [
+          121
+        ],
+        "under": [
+          122
+        ],
+        "harsh": [
+          123
+        ],
+        "conditions.": [
+          125
+        ],
+        "This": [
+          126
+        ],
+        "paper": [
+          127
+        ],
+        "identifies": [
+          128
+        ],
+        "associated": [
+          131
+        ],
+        "carbonate": [
+          133
+        ],
+        "suggests": [
+          136
+        ],
+        "possible": [
+          138
+        ],
+        "role": [
+          139
+        ],
+        "in": [
+          142,
+          159
+        ],
+        "addressing": [
+          143
+        ],
+        "these": [
+          144
+        ],
+        "issues.": [
+          145
+        ],
+        "The": [
+          146
+        ],
+        "major": [
+          147
+        ],
+        "objectives": [
+          148
+        ],
+        "this": [
+          150
+        ],
+        "work": [
+          151
+        ],
+        "are": [
+          152
+        ],
+        "demonstrate": [
+          154
+        ],
+        "sustainable": [
+          161
+        ],
+        "implementation": [
+          162
+        ],
+        "development": [
+          167
+        ],
+        "an": [
+          169
+        ],
+        "efficient": [
+          170
+        ],
+        "management": [
+          172
+        ],
+        "approach.": [
+          173
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-02-27T16:54:17.756197",
+      "updated_date": "2026-02-28T09:26:25.869077",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22676,8 +23077,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -23361,8 +23762,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -24324,8 +24725,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -25795,8 +26196,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407870332.pdf"
@@ -26873,8 +27274,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -28055,8 +28456,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3000320854.pdf",
@@ -29100,8 +29501,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -30321,8 +30722,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -30844,8 +31245,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -31949,8 +32350,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,

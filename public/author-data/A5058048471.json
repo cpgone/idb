@@ -837,8 +837,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.4099999964237213,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9"
         }
       ],
@@ -864,8 +864,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -1453,16 +1453,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.5299999713897705,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 109,
@@ -1934,11 +1934,11 @@
         "currency": "USD",
         "value_usd": 1685
       },
-      "fwci": 0.6115,
+      "fwci": 0.61,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.62342991,
+        "value": 0.62306599,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2306,8 +2306,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.4099999964237213,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12"
         }
       ],
@@ -2328,8 +2328,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -3274,7 +3274,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-12-25T23:11:45.687758",
+      "updated_date": "2026-02-28T09:26:25.869077",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3469,11 +3469,11 @@
         "currency": "USD",
         "value_usd": 850
       },
-      "fwci": 5.1106,
+      "fwci": 5.1083,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.95179462,
+        "value": 0.95172609,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3824,8 +3824,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.8199999928474426,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
@@ -3838,8 +3838,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -3910,14 +3910,606 @@
         "https://openalex.org/W2098083901",
         "https://openalex.org/W2108521576"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "This": [
+          0,
+          142
+        ],
+        "study": [
+          1
+        ],
+        "proposes": [
+          2
+        ],
+        "a": [
+          3,
+          20,
+          50,
+          75,
+          81,
+          152,
+          229
+        ],
+        "novel": [
+          4,
+          143
+        ],
+        "discrete-time": [
+          5,
+          149,
+          230
+        ],
+        "integral": [
+          6
+        ],
+        "sliding": [
+          7,
+          176
+        ],
+        "mode": [
+          8
+        ],
+        "control": [
+          9,
+          64,
+          162
+        ],
+        "(ISMC)": [
+          10
+        ],
+        "framework": [
+          11
+        ],
+        "for": [
+          12,
+          232
+        ],
+        "managing": [
+          13
+        ],
+        "pressure": [
+          14,
+          35,
+          89,
+          134,
+          161,
+          218,
+          234
+        ],
+        "in": [
+          15,
+          113,
+          163,
+          178,
+          219,
+          235
+        ],
+        "multi-phase": [
+          16,
+          114,
+          220,
+          236
+        ],
+        "flow": [
+          17,
+          115,
+          208,
+          212,
+          237
+        ],
+        "systems": [
+          18
+        ],
+        "(MPFS),": [
+          19
+        ],
+        "critical": [
+          21
+        ],
+        "component": [
+          22
+        ],
+        "of": [
+          23,
+          68,
+          74,
+          145,
+          160,
+          180,
+          191
+        ],
+        "hydrocarbon": [
+          24
+        ],
+        "production": [
+          25
+        ],
+        "and": [
+          26,
+          37,
+          61,
+          111,
+          126,
+          138,
+          154,
+          182,
+          189,
+          193,
+          201,
+          210,
+          259,
+          263
+        ],
+        "transportation.": [
+          27
+        ],
+        "The": [
+          28,
+          66,
+          117,
+          165,
+          197,
+          240
+        ],
+        "primary": [
+          29
+        ],
+        "goal": [
+          30
+        ],
+        "is": [
+          31,
+          103,
+          120,
+          244
+        ],
+        "to": [
+          32,
+          55,
+          105,
+          132,
+          157,
+          185,
+          252
+        ],
+        "achieve": [
+          33
+        ],
+        "precise": [
+          34,
+          88
+        ],
+        "regulation": [
+          36
+        ],
+        "minimize": [
+          38
+        ],
+        "fluctuations": [
+          39
+        ],
+        "under": [
+          40
+        ],
+        "diverse": [
+          41
+        ],
+        "operational": [
+          42,
+          140
+        ],
+        "conditions.": [
+          43
+        ],
+        "Unlike": [
+          44
+        ],
+        "traditional": [
+          45,
+          175
+        ],
+        "approaches,": [
+          46
+        ],
+        "this": [
+          47,
+          69
+        ],
+        "work": [
+          48
+        ],
+        "employs": [
+          49
+        ],
+        "Hammerstein": [
+          51,
+          85,
+          146,
+          225
+        ],
+        "nonlinear": [
+          52
+        ],
+        "modeling": [
+          53,
+          147
+        ],
+        "technique": [
+          54
+        ],
+        "accurately": [
+          56,
+          222
+        ],
+        "represent": [
+          57
+        ],
+        "the": [
+          58,
+          63,
+          72,
+          97,
+          107,
+          158,
+          186,
+          217,
+          224,
+          247
+        ],
+        "system": [
+          59,
+          77,
+          261
+        ],
+        "dynamics": [
+          60
+        ],
+        "design": [
+          62
+        ],
+        "strategy.": [
+          65
+        ],
+        "contributions": [
+          67
+        ],
+        "research": [
+          70
+        ],
+        "include": [
+          71
+        ],
+        "development": [
+          73
+        ],
+        "data-driven": [
+          76
+        ],
+        "identification": [
+          78
+        ],
+        "methodology": [
+          79
+        ],
+        "using": [
+          80,
+          205,
+          223,
+          246
+        ],
+        "single-input,": [
+          82
+        ],
+        "single-output": [
+          83
+        ],
+        "(SISO)": [
+          84
+        ],
+        "model,": [
+          86
+        ],
+        "enabling": [
+          87
+        ],
+        "prediction": [
+          90
+        ],
+        "based": [
+          91
+        ],
+        "on": [
+          92
+        ],
+        "experimental": [
+          93,
+          127
+        ],
+        "data": [
+          94,
+          202
+        ],
+        "collected": [
+          95,
+          204
+        ],
+        "from": [
+          96
+        ],
+        "lab.": [
+          98
+        ],
+        "A": [
+          99
+        ],
+        "robust": [
+          100
+        ],
+        "ISMC": [
+          101,
+          150,
+          231,
+          256
+        ],
+        "algorithm": [
+          102
+        ],
+        "introduced": [
+          104
+        ],
+        "address": [
+          106
+        ],
+        "inherent": [
+          108
+        ],
+        "nonlinearities,": [
+          109
+        ],
+        "disturbances,": [
+          110
+        ],
+        "uncertainties": [
+          112,
+          258
+        ],
+        "dynamics.": [
+          116
+        ],
+        "proposed": [
+          118
+        ],
+        "controller": [
+          119
+        ],
+        "comprehensively": [
+          121
+        ],
+        "validated": [
+          122
+        ],
+        "through": [
+          123
+        ],
+        "numerical": [
+          124
+        ],
+        "simulations": [
+          125
+        ],
+        "data,": [
+          128
+        ],
+        "demonstrating": [
+          129
+        ],
+        "its": [
+          130
+        ],
+        "capability": [
+          131
+        ],
+        "reduce": [
+          133,
+          253
+        ],
+        "fluctuations,": [
+          135
+        ],
+        "enhance": [
+          136
+        ],
+        "stability,": [
+          137
+        ],
+        "maintain": [
+          139
+        ],
+        "efficiency.": [
+          141
+        ],
+        "integration": [
+          144
+        ],
+        "with": [
+          148
+        ],
+        "offers": [
+          151
+        ],
+        "scalable": [
+          153
+        ],
+        "reliable": [
+          155
+        ],
+        "solution": [
+          156
+        ],
+        "challenges": [
+          159
+        ],
+        "MPFS.": [
+          164
+        ],
+        "results": [
+          166
+        ],
+        "demonstrate": [
+          167
+        ],
+        "significant": [
+          168
+        ],
+        "advantages": [
+          169
+        ],
+        "over": [
+          170
+        ],
+        "conventional": [
+          171
+        ],
+        "controllers,": [
+          172
+        ],
+        "such": [
+          173
+        ],
+        "as": [
+          174
+        ],
+        "mode,": [
+          177
+        ],
+        "terms": [
+          179
+        ],
+        "robustness": [
+          181
+        ],
+        "precision,": [
+          183
+        ],
+        "contributing": [
+          184
+        ],
+        "safety,": [
+          187
+        ],
+        "efficiency,": [
+          188
+        ],
+        "sustainability": [
+          190
+        ],
+        "oil": [
+          192
+        ],
+        "gas": [
+          194,
+          207
+        ],
+        "operations.": [
+          195
+        ],
+        "•": [
+          196,
+          215,
+          227,
+          239,
+          255
+        ],
+        "experiment": [
+          198
+        ],
+        "was": [
+          199
+        ],
+        "investigated,": [
+          200
+        ],
+        "were": [
+          203
+        ],
+        "pressure,": [
+          206
+        ],
+        "rate,": [
+          209
+        ],
+        "liquid": [
+          211
+        ],
+        "rate": [
+          213
+        ],
+        "transducers.": [
+          214
+        ],
+        "Modeling": [
+          216
+        ],
+        "flows": [
+          221
+        ],
+        "model.": [
+          226
+        ],
+        "Implementing": [
+          228
+        ],
+        "regulating": [
+          233
+        ],
+        "systems.": [
+          238
+        ],
+        "switching": [
+          241
+        ],
+        "function": [
+          242,
+          250
+        ],
+        "(sign(s))": [
+          243
+        ],
+        "approximated": [
+          245
+        ],
+        "hyperbolic": [
+          248
+        ],
+        "tangent": [
+          249
+        ],
+        "(tanh(s))": [
+          251
+        ],
+        "chattering.": [
+          254
+        ],
+        "eliminates": [
+          257
+        ],
+        "enhances": [
+          260
+        ],
+        "efficiency": [
+          262
+        ],
+        "safety.": [
+          264
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-02-27T16:54:17.756197",
+      "updated_date": "2026-02-28T09:26:25.869077",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4541,8 +5133,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -5088,8 +5680,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -6377,8 +6969,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -7934,8 +8526,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
           "score": 0.7599999904632568,
+          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2"
         }
       ],
@@ -7956,8 +8548,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -9154,8 +9746,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.8199999928474426,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
@@ -9168,8 +9760,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -9936,8 +10528,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 295,
@@ -10786,16 +11378,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.47999998927116394,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -11987,8 +12579,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -12968,16 +13560,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Reduced inequalities",
           "score": 0.6100000143051147,
+          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -14313,16 +14905,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.5699999928474426,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -15884,8 +16476,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -17278,8 +17870,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -18374,8 +18966,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -19694,8 +20286,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -20778,16 +21370,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.47999998927116394,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -21906,16 +22498,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.5199999809265137,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -23553,8 +24145,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -24147,8 +24739,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -25397,16 +25989,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.8199999928474426,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25918,8 +26510,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3028608349.pdf",
@@ -26685,16 +27277,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.44999998807907104,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27216,16 +27808,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.8199999928474426,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27625,8 +28217,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -28889,8 +29481,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -30053,8 +30645,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,

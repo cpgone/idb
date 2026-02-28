@@ -5631,11 +5631,11 @@
         "currency": "EUR",
         "value_usd": 1930
       },
-      "fwci": 4.279,
+      "fwci": 4.2824,
       "has_fulltext": true,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.93825393,
+        "value": 0.93830467,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6123,7 +6123,643 @@
         "https://openalex.org/W2014394329",
         "https://openalex.org/W4382058408"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "116": [
+          130
+        ],
+        "Improper": [
+          0
+        ],
+        "hole": [
+          1,
+          182,
+          287
+        ],
+        "cleaning": [
+          2,
+          12,
+          288
+        ],
+        "or": [
+          3
+        ],
+        "drilled-cutting": [
+          4
+        ],
+        "transportation": [
+          5
+        ],
+        "impacts": [
+          6
+        ],
+        "drilling": [
+          7,
+          20,
+          25,
+          55,
+          119,
+          178,
+          282
+        ],
+        "operations.": [
+          8
+        ],
+        "To": [
+          9,
+          48
+        ],
+        "illustrate,": [
+          10
+        ],
+        "inefficient": [
+          11
+        ],
+        "of": [
+          13,
+          41,
+          93,
+          101,
+          189,
+          196,
+          201,
+          220,
+          250,
+          265
+        ],
+        "the": [
+          14,
+          35,
+          42,
+          61,
+          91,
+          97,
+          108,
+          115,
+          135,
+          154,
+          158,
+          181,
+          190,
+          194,
+          197,
+          199,
+          218,
+          221,
+          228,
+          232,
+          259,
+          275,
+          281,
+          286
+        ],
+        "wellbore": [
+          15,
+          233
+        ],
+        "can": [
+          16
+        ],
+        "lead": [
+          17
+        ],
+        "to": [
+          18,
+          45,
+          57,
+          89,
+          105,
+          113,
+          152,
+          177,
+          225,
+          284
+        ],
+        "many": [
+          19,
+          63
+        ],
+        "problems": [
+          21
+        ],
+        "such": [
+          22
+        ],
+        "as": [
+          23
+        ],
+        "low": [
+          24,
+          28
+        ],
+        "rate": [
+          26,
+          200,
+          205
+        ],
+        "(i.e.": [
+          27,
+          187
+        ],
+        "ROP),": [
+          29
+        ],
+        "early": [
+          30
+        ],
+        "bit": [
+          31
+        ],
+        "wear": [
+          32
+        ],
+        "and,": [
+          33
+        ],
+        "in": [
+          34,
+          51,
+          54,
+          96,
+          111,
+          157,
+          175,
+          231,
+          289
+        ],
+        "severe": [
+          36
+        ],
+        "cases,": [
+          37,
+          70
+        ],
+        "a": [
+          38,
+          254,
+          290
+        ],
+        "complete": [
+          39
+        ],
+        "loss": [
+          40
+        ],
+        "well": [
+          43
+        ],
+        "due": [
+          44
+        ],
+        "stuck": [
+          46
+        ],
+        "pipe.": [
+          47
+        ],
+        "understand": [
+          49
+        ],
+        "efficiency": [
+          50,
+          110
+        ],
+        "cutting": [
+          52,
+          116,
+          155,
+          229,
+          266
+        ],
+        "transport": [
+          53
+        ],
+        "and": [
+          56,
+          147,
+          166,
+          172,
+          212,
+          242,
+          268
+        ],
+        "provide": [
+          58,
+          72,
+          262
+        ],
+        "solutions": [
+          59
+        ],
+        "for": [
+          60
+        ],
+        "problem,": [
+          62
+        ],
+        "studies": [
+          64
+        ],
+        "have": [
+          65
+        ],
+        "been": [
+          66
+        ],
+        "conducted.": [
+          67
+        ],
+        "In": [
+          68,
+          79
+        ],
+        "all": [
+          69
+        ],
+        "they": [
+          71
+        ],
+        "empirical": [
+          73
+        ],
+        "models": [
+          74
+        ],
+        "based": [
+          75,
+          128
+        ],
+        "on": [
+          76,
+          129
+        ],
+        "experimental": [
+          77,
+          131
+        ],
+        "data.": [
+          78
+        ],
+        "this": [
+          80,
+          102
+        ],
+        "study,": [
+          81
+        ],
+        "different": [
+          82
+        ],
+        "artificial": [
+          83,
+          122,
+          143
+        ],
+        "intelligence": [
+          84,
+          123
+        ],
+        "(AI)": [
+          85
+        ],
+        "techniques": [
+          86,
+          139,
+          224,
+          261
+        ],
+        "are": [
+          87
+        ],
+        "employed": [
+          88,
+          223
+        ],
+        "estimate": [
+          90,
+          153
+        ],
+        "concentration": [
+          92,
+          117,
+          156,
+          230,
+          267
+        ],
+        "cuttings": [
+          94
+        ],
+        "present": [
+          95
+        ],
+        "wellbore.": [
+          98,
+          159
+        ],
+        "The": [
+          99,
+          125,
+          160,
+          214
+        ],
+        "purpose": [
+          100
+        ],
+        "study": [
+          103,
+          126
+        ],
+        "is": [
+          104,
+          127
+        ],
+        "indirectly": [
+          106
+        ],
+        "measure": [
+          107
+        ],
+        "hole-cleaning": [
+          109
+        ],
+        "order": [
+          112
+        ],
+        "predict": [
+          114,
+          227
+        ],
+        "from": [
+          118,
+          134,
+          193
+        ],
+        "parameters": [
+          120,
+          162,
+          179
+        ],
+        "using": [
+          121
+        ],
+        "techniques.": [
+          124
+        ],
+        "data": [
+          132
+        ],
+        "records": [
+          133
+        ],
+        "studies.": [
+          136
+        ],
+        "Two": [
+          137
+        ],
+        "AI": [
+          138,
+          260,
+          277
+        ],
+        "were": [
+          140
+        ],
+        "selected,": [
+          141
+        ],
+        "namely": [
+          142
+        ],
+        "neural": [
+          144
+        ],
+        "network": [
+          145
+        ],
+        "(ANN)": [
+          146
+        ],
+        "support": [
+          148
+        ],
+        "vector": [
+          149
+        ],
+        "machine": [
+          150
+        ],
+        "(SVM),": [
+          151
+        ],
+        "input": [
+          161
+        ],
+        "comprise": [
+          163
+        ],
+        "mud": [
+          164,
+          167
+        ],
+        "density": [
+          165
+        ],
+        "rheological": [
+          168
+        ],
+        "properties": [
+          169
+        ],
+        "(yield": [
+          170
+        ],
+        "point": [
+          171
+        ],
+        "plastic": [
+          173
+        ],
+        "viscosity)": [
+          174
+        ],
+        "addition": [
+          176
+        ],
+        "including": [
+          180
+        ],
+        "inclination": [
+          183
+        ],
+        "angle,": [
+          184
+        ],
+        "pipe": [
+          185,
+          192,
+          208
+        ],
+        "eccentricity": [
+          186
+        ],
+        "location": [
+          188
+        ],
+        "drill": [
+          191,
+          207
+        ],
+        "axis": [
+          195
+        ],
+        "well),": [
+          198
+        ],
+        "penetration": [
+          202
+        ],
+        "(ROP),": [
+          203
+        ],
+        "flow": [
+          204
+        ],
+        "(GPM),": [
+          206
+        ],
+        "rotary": [
+          209
+        ],
+        "speed": [
+          210
+        ],
+        "(RPM)": [
+          211
+        ],
+        "temperature.": [
+          213
+        ],
+        "results": [
+          215,
+          252
+        ],
+        "obtained": [
+          216
+        ],
+        "show": [
+          217
+        ],
+        "ability": [
+          219
+        ],
+        "two": [
+          222
+        ],
+        "accurately": [
+          226
+        ],
+        "with": [
+          234,
+          253
+        ],
+        "average": [
+          235
+        ],
+        "absolute": [
+          236
+        ],
+        "errors": [
+          237
+        ],
+        "(AAE)": [
+          238
+        ],
+        "less": [
+          239
+        ],
+        "than": [
+          240,
+          247,
+          271
+        ],
+        "5%": [
+          241
+        ],
+        "correlation": [
+          243
+        ],
+        "coefficients": [
+          244
+        ],
+        "(R)": [
+          245
+        ],
+        "higher": [
+          246,
+          269
+        ],
+        "0.9.": [
+          248
+        ],
+        "Comparison": [
+          249
+        ],
+        "these": [
+          251
+        ],
+        "literature": [
+          255
+        ],
+        "model": [
+          256
+        ],
+        "showed": [
+          257
+        ],
+        "that": [
+          258,
+          272
+        ],
+        "better": [
+          263
+        ],
+        "predictions": [
+          264
+        ],
+        "accuracy": [
+          270
+        ],
+        "model.": [
+          273
+        ],
+        "Applying": [
+          274
+        ],
+        "developed": [
+          276
+        ],
+        "technique": [
+          278
+        ],
+        "will": [
+          279
+        ],
+        "help": [
+          280
+        ],
+        "engineers": [
+          283
+        ],
+        "assess": [
+          285
+        ],
+        "real": [
+          291
+        ],
+        "time.": [
+          292
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
@@ -6154,7 +6790,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-28T09:26:25.869077",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22190,462 +22826,14 @@
         "https://openalex.org/W4412788432"
       ],
       "related_works": [],
-      "abstract_inverted_index": {
-        "This": [
-          0,
-          110
-        ],
-        "study": [
-          1
-        ],
-        "examines": [
-          2
-        ],
-        "the": [
-          3,
-          43,
-          58,
-          66,
-          84,
-          90,
-          97,
-          104,
-          133,
-          159
-        ],
-        "potential": [
-          4
-        ],
-        "of": [
-          5,
-          57,
-          78,
-          86,
-          106
-        ],
-        "Saudi": [
-          6
-        ],
-        "red": [
-          7,
-          48,
-          87,
-          116,
-          164
-        ],
-        "mud": [
-          8,
-          49,
-          88,
-          117,
-          165
-        ],
-        "for": [
-          9
-        ],
-        "CO₂": [
-          10,
-          46,
-          60,
-          107,
-          121,
-          138,
-          169
-        ],
-        "sequestration": [
-          11,
-          122
-        ],
-        "through": [
-          12
-        ],
-        "mineral": [
-          13,
-          71,
-          184
-        ],
-        "carbonation": [
-          14
-        ],
-        "and": [
-          15,
-          29,
-          38,
-          47,
-          73,
-          119,
-          171
-        ],
-        "its": [
-          16,
-          120,
-          174
-        ],
-        "concurrent": [
-          17
-        ],
-        "hydrogen": [
-          18,
-          146,
-          151,
-          172
-        ],
-        "generation.": [
-          19
-        ],
-        "Two": [
-          20
-        ],
-        "batch": [
-          21
-        ],
-        "experiments": [
-          22
-        ],
-        "were": [
-          23
-        ],
-        "conducted": [
-          24
-        ],
-        "under": [
-          25,
-          155
-        ],
-        "neutral": [
-          26,
-          41
-        ],
-        "(deionized": [
-          27
-        ],
-        "water)": [
-          28
-        ],
-        "acidic": [
-          30,
-          67,
-          156
-        ],
-        "(1": [
-          31
-        ],
-        "wt%": [
-          32
-        ],
-        "HCl)": [
-          33
-        ],
-        "conditions": [
-          34
-        ],
-        "at": [
-          35
-        ],
-        "elevated": [
-          36
-        ],
-        "temperature": [
-          37
-        ],
-        "pressure.": [
-          39
-        ],
-        "Under": [
-          40
-        ],
-        "conditions,": [
-          42
-        ],
-        "interaction": [
-          44
-        ],
-        "between": [
-          45,
-          115
-        ],
-        "led": [
-          50
-        ],
-        "to": [
-          51,
-          92,
-          136
-        ],
-        "measurable": [
-          52
-        ],
-        "mineralization,": [
-          53
-        ],
-        "with": [
-          54,
-          149,
-          180
-        ],
-        "approximately": [
-          55,
-          102
-        ],
-        "8.3%": [
-          56
-        ],
-        "injected": [
-          59
-        ],
-        "converted": [
-          61
-        ],
-        "into": [
-          62,
-          81,
-          139
-        ],
-        "Minerals.": [
-          63
-        ],
-        "In": [
-          64
-        ],
-        "contrast,": [
-          65
-        ],
-        "system": [
-          68
-        ],
-        "induced": [
-          69
-        ],
-        "extensive": [
-          70
-        ],
-        "dissolution": [
-          72
-        ],
-        "precipitation,": [
-          74
-        ],
-        "releasing": [
-          75
-        ],
-        "higher": [
-          76
-        ],
-        "concentrations": [
-          77
-        ],
-        "reactive": [
-          79,
-          128
-        ],
-        "elements": [
-          80
-        ],
-        "solution.": [
-          82
-        ],
-        "Increasing": [
-          83
-        ],
-        "amount": [
-          85,
-          105
-        ],
-        "in": [
-          89,
-          96,
-          101
-        ],
-        "reaction": [
-          91
-        ],
-        "twice": [
-          93,
-          103
-        ],
-        "that": [
-          94,
-          125,
-          162
-        ],
-        "used": [
-          95
-        ],
-        "DIW": [
-          98
-        ],
-        "case": [
-          99
-        ],
-        "resulted": [
-          100
-        ],
-        "being": [
-          108
-        ],
-        "mineralized.": [
-          109
-        ],
-        "indicates": [
-          111
-        ],
-        "a": [
-          112
-        ],
-        "strong": [
-          113
-        ],
-        "relationship": [
-          114
-        ],
-        "mass": [
-          118
-        ],
-        "capacity,": [
-          123
-        ],
-        "highlighting": [
-          124
-        ],
-        "providing": [
-          126
-        ],
-        "more": [
-          127
-        ],
-        "solid": [
-          129
-        ],
-        "material": [
-          130
-        ],
-        "directly": [
-          131
-        ],
-        "enhances": [
-          132
-        ],
-        "system’s": [
-          134
-        ],
-        "ability": [
-          135
-        ],
-        "lock": [
-          137
-        ],
-        "stable": [
-          140,
-          188
-        ],
-        "carbonate": [
-          141,
-          189
-        ],
-        "minerals.": [
-          142
-        ],
-        "Gas": [
-          143
-        ],
-        "analysis": [
-          144
-        ],
-        "verified": [
-          145
-        ],
-        "generation,": [
-          147
-        ],
-        "along": [
-          148
-        ],
-        "notable": [
-          150
-        ],
-        "sulfide": [
-          152
-        ],
-        "formation,": [
-          153
-        ],
-        "particularly": [
-          154
-        ],
-        "conditions.": [
-          157
-        ],
-        "Overall,": [
-          158
-        ],
-        "findings": [
-          160
-        ],
-        "reveal": [
-          161
-        ],
-        "while": [
-          163
-        ],
-        "can": [
-          166
-        ],
-        "facilitate": [
-          167
-        ],
-        "partial": [
-          168
-        ],
-        "mineralization": [
-          170
-        ],
-        "evolution,": [
-          173
-        ],
-        "reactivity": [
-          175
-        ],
-        "strongly": [
-          176
-        ],
-        "depends": [
-          177
-        ],
-        "on": [
-          178
-        ],
-        "pH,": [
-          179
-        ],
-        "acid-assisted": [
-          181
-        ],
-        "reactions": [
-          182
-        ],
-        "enhancing": [
-          183
-        ],
-        "mobility": [
-          185
-        ],
-        "rather": [
-          186
-        ],
-        "than": [
-          187
-        ],
-        "formation.": [
-          190
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2026-02-28T09:26:25.869077",
       "created_date": "2025-12-17T00:00:00"
     },
     {

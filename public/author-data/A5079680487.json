@@ -1084,8 +1084,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 114,
@@ -1953,8 +1953,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3096358888.pdf",
@@ -2528,8 +2528,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.4300000071525574
         }
       ],
@@ -2542,8 +2542,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -3863,8 +3863,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -4759,8 +4759,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.550000011920929
         }
       ],
@@ -4778,8 +4778,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3097676505.pdf",
@@ -5990,8 +5990,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -6858,8 +6858,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -7565,8 +7565,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -8205,8 +8205,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -9614,8 +9614,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -11213,16 +11213,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.41999998688697815
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -12242,8 +12242,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -14090,8 +14090,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3089077626.pdf",
@@ -14805,11 +14805,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4726,
+      "fwci": 1.4744,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.82997825,
+        "value": 0.830184,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15203,8 +15203,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -15237,7 +15237,400 @@
         "https://openalex.org/W2350850615",
         "https://openalex.org/W4236314829"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "In": [
+          0
+        ],
+        "order": [
+          1
+        ],
+        "to": [
+          2,
+          16,
+          47,
+          84,
+          170
+        ],
+        "estimate": [
+          3,
+          17,
+          48
+        ],
+        "reservoir": [
+          4,
+          91
+        ],
+        "parameters": [
+          5
+        ],
+        "more": [
+          6
+        ],
+        "effectively": [
+          7
+        ],
+        "by": [
+          8,
+          36
+        ],
+        "history": [
+          9,
+          174
+        ],
+        "fitting,": [
+          10
+        ],
+        "DE": [
+          11,
+          61,
+          105
+        ],
+        "(Differential": [
+          12
+        ],
+        "Evolution)": [
+          13
+        ],
+        "was": [
+          14,
+          28,
+          34,
+          82
+        ],
+        "proposed": [
+          15
+        ],
+        "the": [
+          18,
+          24,
+          31,
+          49,
+          68,
+          86,
+          108,
+          112,
+          117,
+          121,
+          140,
+          149,
+          154,
+          160,
+          166
+        ],
+        "optimum": [
+          19
+        ],
+        "damping": [
+          20,
+          50
+        ],
+        "factor": [
+          21,
+          51
+        ],
+        "so": [
+          22
+        ],
+        "that": [
+          23
+        ],
+        "standard": [
+          25,
+          41
+        ],
+        "Levenberg-Marquardt": [
+          26,
+          80
+        ],
+        "algorithm": [
+          27,
+          33,
+          43,
+          81,
+          114,
+          122,
+          146,
+          151
+        ],
+        "improved,": [
+          29
+        ],
+        "and": [
+          30,
+          52,
+          66,
+          96,
+          115,
+          128,
+          158
+        ],
+        "improved": [
+          32,
+          79,
+          150
+        ],
+        "validated": [
+          35
+        ],
+        "analysis": [
+          37
+        ],
+        "of": [
+          38,
+          70,
+          88,
+          111,
+          144,
+          156,
+          173
+        ],
+        "examples.": [
+          39
+        ],
+        "The": [
+          40,
+          78,
+          101
+        ],
+        "LM": [
+          42,
+          113,
+          145,
+          167
+        ],
+        "uses": [
+          44
+        ],
+        "trial-and-error": [
+          45
+        ],
+        "method": [
+          46
+        ],
+        "is": [
+          53,
+          147
+        ],
+        "less": [
+          54
+        ],
+        "reliable": [
+          55
+        ],
+        "for": [
+          56,
+          73,
+          124,
+          165
+        ],
+        "large": [
+          57,
+          135
+        ],
+        "scale": [
+          58,
+          130,
+          136
+        ],
+        "inverse": [
+          59,
+          131,
+          137
+        ],
+        "problems.": [
+          60
+        ],
+        "can": [
+          62
+        ],
+        "solve": [
+          63
+        ],
+        "this": [
+          64
+        ],
+        "problem": [
+          65
+        ],
+        "eliminate": [
+          67
+        ],
+        "use": [
+          69
+        ],
+        "line": [
+          71
+        ],
+        "search": [
+          72
+        ],
+        "an": [
+          74
+        ],
+        "appropriate": [
+          75
+        ],
+        "step": [
+          76
+        ],
+        "length.": [
+          77
+        ],
+        "applied": [
+          83
+        ],
+        "match": [
+          85
+        ],
+        "histories": [
+          87
+        ],
+        "two": [
+          89
+        ],
+        "synthetic": [
+          90
+        ],
+        "models": [
+          92
+        ],
+        "with": [
+          93,
+          98
+        ],
+        "different": [
+          94
+        ],
+        "scales,": [
+          95
+        ],
+        "compared": [
+          97
+        ],
+        "other": [
+          99
+        ],
+        "algorithms.": [
+          100
+        ],
+        "results": [
+          102
+        ],
+        "show": [
+          103
+        ],
+        "that:": [
+          104
+        ],
+        "speeds": [
+          106
+        ],
+        "up": [
+          107
+        ],
+        "convergence": [
+          109
+        ],
+        "rate": [
+          110
+        ],
+        "reduces": [
+          116
+        ],
+        "residual": [
+          118
+        ],
+        "errors,": [
+          119
+        ],
+        "making": [
+          120
+        ],
+        "suitable": [
+          123
+        ],
+        "not": [
+          125
+        ],
+        "only": [
+          126
+        ],
+        "small": [
+          127
+        ],
+        "medium": [
+          129
+        ],
+        "problems,": [
+          132
+        ],
+        "but": [
+          133
+        ],
+        "also": [
+          134
+        ],
+        "problems;": [
+          138
+        ],
+        "if": [
+          139
+        ],
+        "iteration": [
+          141
+        ],
+        "termination": [
+          142
+        ],
+        "criteria": [
+          143
+        ],
+        "preset,": [
+          148
+        ],
+        "will": [
+          152
+        ],
+        "save": [
+          153
+        ],
+        "number": [
+          155
+        ],
+        "iterations": [
+          157
+        ],
+        "reduce": [
+          159
+        ],
+        "total": [
+          161
+        ],
+        "time": [
+          162
+        ],
+        "greatly": [
+          163
+        ],
+        "needed": [
+          164
+        ],
+        "algorithm,": [
+          168
+        ],
+        "leading": [
+          169
+        ],
+        "higher": [
+          171
+        ],
+        "efficiency": [
+          172
+        ],
+        "matching.": [
+          175
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -15280,7 +15673,590 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-27T16:54:17.756197",
+      "updated_date": "2026-02-28T09:26:25.869077",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2967256202",
+      "doi": "https://doi.org/10.1016/j.cageo.2019.104311",
+      "title": "Modelling fluid flow in karst reservoirs using Darcy Model with estimated permeability distribution",
+      "display_name": "Modelling fluid flow in karst reservoirs using Darcy Model with estimated permeability distribution",
+      "publication_year": 2019,
+      "publication_date": "2019-08-14",
+      "ids": {
+        "openalex": "https://openalex.org/W2967256202",
+        "doi": "https://doi.org/10.1016/j.cageo.2019.104311",
+        "mag": "2967256202"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.cageo.2019.104311",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.cageo.2019.104311",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S61699894",
+          "display_name": "Computers & Geosciences",
+          "issn_l": "0098-3004",
+          "issn": [
+            "0098-3004",
+            "1873-7803"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Computers &amp; Geosciences",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5077542289",
+            "display_name": "AbdAllah A. Youssef",
+            "orcid": "https://orcid.org/0000-0002-1733-8580"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "AbdAllah A. Youssef",
+          "raw_affiliation_strings": [
+            "King Fahd University of Petroleum & Minerals, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5079680487",
+            "display_name": "Abeeb A. Awotunde",
+            "orcid": "https://orcid.org/0000-0002-2281-1483"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abeeb A. Awotunde",
+          "raw_affiliation_strings": [
+            "King Fahd University of Petroleum & Minerals, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5077542289"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 3630,
+        "currency": "USD",
+        "value_usd": 3630
+      },
+      "apc_paid": null,
+      "fwci": 0.8957,
+      "has_fulltext": false,
+      "cited_by_count": 17,
+      "citation_normalized_percentile": {
+        "value": 0.71525789,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "133",
+        "issue": null,
+        "first_page": "104311",
+        "last_page": "104311"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10894",
+        "display_name": "Groundwater flow and contamination studies",
+        "score": 0.9998000264167786,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10894",
+          "display_name": "Groundwater flow and contamination studies",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12100",
+          "display_name": "Advanced Mathematical Modeling in Engineering",
+          "score": 0.9988999962806702,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1703",
+            "display_name": "Computational Theory and Mathematics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10716",
+          "display_name": "Soil and Unsaturated Flow",
+          "score": 0.9961000084877014,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2205",
+            "display_name": "Civil and Structural Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/stokes-flow",
+          "display_name": "Stokes flow",
+          "score": 0.7622113227844238
+        },
+        {
+          "id": "https://openalex.org/keywords/darcys-law",
+          "display_name": "Darcy's law",
+          "score": 0.7468114495277405
+        },
+        {
+          "id": "https://openalex.org/keywords/permeability",
+          "display_name": "Permeability (electromagnetism)",
+          "score": 0.6889088153839111
+        },
+        {
+          "id": "https://openalex.org/keywords/porous-medium",
+          "display_name": "Porous medium",
+          "score": 0.6835490465164185
+        },
+        {
+          "id": "https://openalex.org/keywords/mechanics",
+          "display_name": "Mechanics",
+          "score": 0.5598825812339783
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5500560402870178
+        },
+        {
+          "id": "https://openalex.org/keywords/flow",
+          "display_name": "Flow (mathematics)",
+          "score": 0.49844813346862793
+        },
+        {
+          "id": "https://openalex.org/keywords/aquifer",
+          "display_name": "Aquifer",
+          "score": 0.4785100519657135
+        },
+        {
+          "id": "https://openalex.org/keywords/stokes-number",
+          "display_name": "Stokes number",
+          "score": 0.4338320195674896
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrogeology",
+          "display_name": "Hydrogeology",
+          "score": 0.41996386647224426
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.3074207901954651
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity",
+          "display_name": "Porosity",
+          "score": 0.28831738233566284
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater",
+          "display_name": "Groundwater",
+          "score": 0.1735071837902069
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.17334327101707458
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.10999166965484619
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C19191322",
+          "wikidata": "https://www.wikidata.org/wiki/Q674202",
+          "display_name": "Stokes flow",
+          "level": 3,
+          "score": 0.7622113227844238
+        },
+        {
+          "id": "https://openalex.org/C183447037",
+          "wikidata": "https://www.wikidata.org/wiki/Q392416",
+          "display_name": "Darcy's law",
+          "level": 4,
+          "score": 0.7468114495277405
+        },
+        {
+          "id": "https://openalex.org/C120882062",
+          "wikidata": "https://www.wikidata.org/wiki/Q28352",
+          "display_name": "Permeability (electromagnetism)",
+          "level": 3,
+          "score": 0.6889088153839111
+        },
+        {
+          "id": "https://openalex.org/C105569014",
+          "wikidata": "https://www.wikidata.org/wiki/Q3271208",
+          "display_name": "Porous medium",
+          "level": 3,
+          "score": 0.6835490465164185
+        },
+        {
+          "id": "https://openalex.org/C57879066",
+          "wikidata": "https://www.wikidata.org/wiki/Q41217",
+          "display_name": "Mechanics",
+          "level": 1,
+          "score": 0.5598825812339783
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5500560402870178
+        },
+        {
+          "id": "https://openalex.org/C38349280",
+          "wikidata": "https://www.wikidata.org/wiki/Q1434290",
+          "display_name": "Flow (mathematics)",
+          "level": 2,
+          "score": 0.49844813346862793
+        },
+        {
+          "id": "https://openalex.org/C75622301",
+          "wikidata": "https://www.wikidata.org/wiki/Q208791",
+          "display_name": "Aquifer",
+          "level": 3,
+          "score": 0.4785100519657135
+        },
+        {
+          "id": "https://openalex.org/C24692054",
+          "wikidata": "https://www.wikidata.org/wiki/Q1545546",
+          "display_name": "Stokes number",
+          "level": 4,
+          "score": 0.4338320195674896
+        },
+        {
+          "id": "https://openalex.org/C33556824",
+          "wikidata": "https://www.wikidata.org/wiki/Q179509",
+          "display_name": "Hydrogeology",
+          "level": 2,
+          "score": 0.41996386647224426
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.3074207901954651
+        },
+        {
+          "id": "https://openalex.org/C6648577",
+          "wikidata": "https://www.wikidata.org/wiki/Q622669",
+          "display_name": "Porosity",
+          "level": 2,
+          "score": 0.28831738233566284
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.1735071837902069
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.17334327101707458
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.10999166965484619
+        },
+        {
+          "id": "https://openalex.org/C196558001",
+          "wikidata": "https://www.wikidata.org/wiki/Q190132",
+          "display_name": "Turbulence",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C182748727",
+          "wikidata": "https://www.wikidata.org/wiki/Q178932",
+          "display_name": "Reynolds number",
+          "level": 3,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C41625074",
+          "wikidata": "https://www.wikidata.org/wiki/Q176088",
+          "display_name": "Membrane",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C55493867",
+          "wikidata": "https://www.wikidata.org/wiki/Q7094",
+          "display_name": "Biochemistry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.cageo.2019.104311",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.cageo.2019.104311",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S61699894",
+            "display_name": "Computers & Geosciences",
+            "issn_l": "0098-3004",
+            "issn": [
+              "0098-3004",
+              "1873-7803"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Computers &amp; Geosciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 38,
+      "referenced_works": [
+        "https://openalex.org/W311364008",
+        "https://openalex.org/W574538030",
+        "https://openalex.org/W598361663",
+        "https://openalex.org/W1505642766",
+        "https://openalex.org/W1530030810",
+        "https://openalex.org/W1602827927",
+        "https://openalex.org/W1975072400",
+        "https://openalex.org/W1979431749",
+        "https://openalex.org/W1979821272",
+        "https://openalex.org/W1981062706",
+        "https://openalex.org/W1986017619",
+        "https://openalex.org/W1993066264",
+        "https://openalex.org/W1994137643",
+        "https://openalex.org/W1995717402",
+        "https://openalex.org/W2003637147",
+        "https://openalex.org/W2017048267",
+        "https://openalex.org/W2022638876",
+        "https://openalex.org/W2028749289",
+        "https://openalex.org/W2029918260",
+        "https://openalex.org/W2055674563",
+        "https://openalex.org/W2069473202",
+        "https://openalex.org/W2071582219",
+        "https://openalex.org/W2073338018",
+        "https://openalex.org/W2076549364",
+        "https://openalex.org/W2078639630",
+        "https://openalex.org/W2088527811",
+        "https://openalex.org/W2099150268",
+        "https://openalex.org/W2112577859",
+        "https://openalex.org/W2116810549",
+        "https://openalex.org/W2131343962",
+        "https://openalex.org/W2139604983",
+        "https://openalex.org/W2153774858",
+        "https://openalex.org/W2323969421",
+        "https://openalex.org/W2544774918",
+        "https://openalex.org/W3104305482",
+        "https://openalex.org/W4212864566",
+        "https://openalex.org/W6648495873",
+        "https://openalex.org/W6682663431"
+      ],
+      "related_works": [
+        "https://openalex.org/W3013662737",
+        "https://openalex.org/W1596251190",
+        "https://openalex.org/W2159333452",
+        "https://openalex.org/W1995051231",
+        "https://openalex.org/W577265500",
+        "https://openalex.org/W2653854605",
+        "https://openalex.org/W1577288168",
+        "https://openalex.org/W3146659478",
+        "https://openalex.org/W1554382957",
+        "https://openalex.org/W2224640351"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-02-28T09:26:25.869077",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15702,8 +16678,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -17204,8 +18180,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -18363,16 +19339,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6399999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -19938,8 +20914,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4399999976158142
         }
       ],
@@ -19998,8 +20974,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -20909,8 +21885,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -21583,8 +22559,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -22436,8 +23412,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.5799999833106995
         }
       ],
@@ -22458,8 +23434,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -22936,8 +23912,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -23466,8 +24442,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -24088,8 +25064,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -24714,8 +25690,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -24813,585 +25789,6 @@
         {
           "year": 2018,
           "cited_by_count": 4
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2967256202",
-      "doi": "https://doi.org/10.1016/j.cageo.2019.104311",
-      "title": "Modelling fluid flow in karst reservoirs using Darcy Model with estimated permeability distribution",
-      "display_name": "Modelling fluid flow in karst reservoirs using Darcy Model with estimated permeability distribution",
-      "publication_year": 2019,
-      "publication_date": "2019-08-14",
-      "ids": {
-        "openalex": "https://openalex.org/W2967256202",
-        "doi": "https://doi.org/10.1016/j.cageo.2019.104311",
-        "mag": "2967256202"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.cageo.2019.104311",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.cageo.2019.104311",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S61699894",
-          "display_name": "Computers & Geosciences",
-          "issn_l": "0098-3004",
-          "issn": [
-            "0098-3004",
-            "1873-7803"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Computers &amp; Geosciences",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5077542289",
-            "display_name": "AbdAllah A. Youssef",
-            "orcid": "https://orcid.org/0000-0002-1733-8580"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "AbdAllah A. Youssef",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleum & Minerals, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5079680487",
-            "display_name": "Abeeb A. Awotunde",
-            "orcid": "https://orcid.org/0000-0002-2281-1483"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abeeb A. Awotunde",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleum & Minerals, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5077542289"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 3630,
-        "currency": "USD",
-        "value_usd": 3630
-      },
-      "apc_paid": null,
-      "fwci": 0.8941,
-      "has_fulltext": false,
-      "cited_by_count": 16,
-      "citation_normalized_percentile": {
-        "value": 0.71473894,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 94,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "133",
-        "issue": null,
-        "first_page": "104311",
-        "last_page": "104311"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10894",
-        "display_name": "Groundwater flow and contamination studies",
-        "score": 0.9998000264167786,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10894",
-          "display_name": "Groundwater flow and contamination studies",
-          "score": 0.9998000264167786,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12100",
-          "display_name": "Advanced Mathematical Modeling in Engineering",
-          "score": 0.9988999962806702,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1703",
-            "display_name": "Computational Theory and Mathematics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10716",
-          "display_name": "Soil and Unsaturated Flow",
-          "score": 0.9961000084877014,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2205",
-            "display_name": "Civil and Structural Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/stokes-flow",
-          "display_name": "Stokes flow",
-          "score": 0.7622113227844238
-        },
-        {
-          "id": "https://openalex.org/keywords/darcys-law",
-          "display_name": "Darcy's law",
-          "score": 0.7468114495277405
-        },
-        {
-          "id": "https://openalex.org/keywords/permeability",
-          "display_name": "Permeability (electromagnetism)",
-          "score": 0.6889088153839111
-        },
-        {
-          "id": "https://openalex.org/keywords/porous-medium",
-          "display_name": "Porous medium",
-          "score": 0.6835490465164185
-        },
-        {
-          "id": "https://openalex.org/keywords/mechanics",
-          "display_name": "Mechanics",
-          "score": 0.5598825812339783
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5500560402870178
-        },
-        {
-          "id": "https://openalex.org/keywords/flow",
-          "display_name": "Flow (mathematics)",
-          "score": 0.49844813346862793
-        },
-        {
-          "id": "https://openalex.org/keywords/aquifer",
-          "display_name": "Aquifer",
-          "score": 0.4785100519657135
-        },
-        {
-          "id": "https://openalex.org/keywords/stokes-number",
-          "display_name": "Stokes number",
-          "score": 0.4338320195674896
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrogeology",
-          "display_name": "Hydrogeology",
-          "score": 0.41996386647224426
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.3074207901954651
-        },
-        {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "Porosity",
-          "score": 0.28831738233566284
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater",
-          "display_name": "Groundwater",
-          "score": 0.1735071837902069
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.17334327101707458
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.10999166965484619
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C19191322",
-          "wikidata": "https://www.wikidata.org/wiki/Q674202",
-          "display_name": "Stokes flow",
-          "level": 3,
-          "score": 0.7622113227844238
-        },
-        {
-          "id": "https://openalex.org/C183447037",
-          "wikidata": "https://www.wikidata.org/wiki/Q392416",
-          "display_name": "Darcy's law",
-          "level": 4,
-          "score": 0.7468114495277405
-        },
-        {
-          "id": "https://openalex.org/C120882062",
-          "wikidata": "https://www.wikidata.org/wiki/Q28352",
-          "display_name": "Permeability (electromagnetism)",
-          "level": 3,
-          "score": 0.6889088153839111
-        },
-        {
-          "id": "https://openalex.org/C105569014",
-          "wikidata": "https://www.wikidata.org/wiki/Q3271208",
-          "display_name": "Porous medium",
-          "level": 3,
-          "score": 0.6835490465164185
-        },
-        {
-          "id": "https://openalex.org/C57879066",
-          "wikidata": "https://www.wikidata.org/wiki/Q41217",
-          "display_name": "Mechanics",
-          "level": 1,
-          "score": 0.5598825812339783
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5500560402870178
-        },
-        {
-          "id": "https://openalex.org/C38349280",
-          "wikidata": "https://www.wikidata.org/wiki/Q1434290",
-          "display_name": "Flow (mathematics)",
-          "level": 2,
-          "score": 0.49844813346862793
-        },
-        {
-          "id": "https://openalex.org/C75622301",
-          "wikidata": "https://www.wikidata.org/wiki/Q208791",
-          "display_name": "Aquifer",
-          "level": 3,
-          "score": 0.4785100519657135
-        },
-        {
-          "id": "https://openalex.org/C24692054",
-          "wikidata": "https://www.wikidata.org/wiki/Q1545546",
-          "display_name": "Stokes number",
-          "level": 4,
-          "score": 0.4338320195674896
-        },
-        {
-          "id": "https://openalex.org/C33556824",
-          "wikidata": "https://www.wikidata.org/wiki/Q179509",
-          "display_name": "Hydrogeology",
-          "level": 2,
-          "score": 0.41996386647224426
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.3074207901954651
-        },
-        {
-          "id": "https://openalex.org/C6648577",
-          "wikidata": "https://www.wikidata.org/wiki/Q622669",
-          "display_name": "Porosity",
-          "level": 2,
-          "score": 0.28831738233566284
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.1735071837902069
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.17334327101707458
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.10999166965484619
-        },
-        {
-          "id": "https://openalex.org/C196558001",
-          "wikidata": "https://www.wikidata.org/wiki/Q190132",
-          "display_name": "Turbulence",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C182748727",
-          "wikidata": "https://www.wikidata.org/wiki/Q178932",
-          "display_name": "Reynolds number",
-          "level": 3,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C41625074",
-          "wikidata": "https://www.wikidata.org/wiki/Q176088",
-          "display_name": "Membrane",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C55493867",
-          "wikidata": "https://www.wikidata.org/wiki/Q7094",
-          "display_name": "Biochemistry",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.cageo.2019.104311",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.cageo.2019.104311",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S61699894",
-            "display_name": "Computers & Geosciences",
-            "issn_l": "0098-3004",
-            "issn": [
-              "0098-3004",
-              "1873-7803"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Computers &amp; Geosciences",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 38,
-      "referenced_works": [
-        "https://openalex.org/W311364008",
-        "https://openalex.org/W574538030",
-        "https://openalex.org/W598361663",
-        "https://openalex.org/W1505642766",
-        "https://openalex.org/W1530030810",
-        "https://openalex.org/W1602827927",
-        "https://openalex.org/W1975072400",
-        "https://openalex.org/W1979431749",
-        "https://openalex.org/W1979821272",
-        "https://openalex.org/W1981062706",
-        "https://openalex.org/W1986017619",
-        "https://openalex.org/W1993066264",
-        "https://openalex.org/W1994137643",
-        "https://openalex.org/W1995717402",
-        "https://openalex.org/W2003637147",
-        "https://openalex.org/W2017048267",
-        "https://openalex.org/W2022638876",
-        "https://openalex.org/W2028749289",
-        "https://openalex.org/W2029918260",
-        "https://openalex.org/W2055674563",
-        "https://openalex.org/W2069473202",
-        "https://openalex.org/W2071582219",
-        "https://openalex.org/W2073338018",
-        "https://openalex.org/W2076549364",
-        "https://openalex.org/W2078639630",
-        "https://openalex.org/W2088527811",
-        "https://openalex.org/W2099150268",
-        "https://openalex.org/W2112577859",
-        "https://openalex.org/W2116810549",
-        "https://openalex.org/W2131343962",
-        "https://openalex.org/W2139604983",
-        "https://openalex.org/W2153774858",
-        "https://openalex.org/W2323969421",
-        "https://openalex.org/W2544774918",
-        "https://openalex.org/W3104305482",
-        "https://openalex.org/W4212864566",
-        "https://openalex.org/W6648495873",
-        "https://openalex.org/W6682663431"
-      ],
-      "related_works": [
-        "https://openalex.org/W3013662737",
-        "https://openalex.org/W1596251190",
-        "https://openalex.org/W2159333452",
-        "https://openalex.org/W1995051231",
-        "https://openalex.org/W577265500",
-        "https://openalex.org/W2653854605",
-        "https://openalex.org/W1577288168",
-        "https://openalex.org/W3146659478",
-        "https://openalex.org/W1554382957",
-        "https://openalex.org/W2224640351"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 3
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
@@ -25993,8 +26390,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6399999856948853
         }
       ],
@@ -26007,8 +26404,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -26571,16 +26968,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.4000000059604645
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -27893,8 +28290,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -28943,8 +29340,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -30234,8 +30631,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1974851621.pdf",
@@ -31069,8 +31466,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -31545,8 +31942,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -32723,16 +33120,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.5299999713897705
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -34144,8 +34541,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -34802,8 +35199,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.47999998927116394
         }
       ],
@@ -34829,8 +35226,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2558659286.pdf",
@@ -35941,8 +36338,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1615340469.pdf",
@@ -36728,8 +37125,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 120,
@@ -37592,16 +37989,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.550000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -38185,8 +38582,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -38812,8 +39209,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3215458773.pdf",
@@ -39844,8 +40241,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.699999988079071
         }
       ],
@@ -39858,8 +40255,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -40504,8 +40901,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -41917,8 +42314,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42893,8 +43290,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -43623,8 +44020,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -44839,8 +45236,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -45458,16 +45855,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.46000000834465027
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -46250,16 +46647,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5699999928474426
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -46722,8 +47119,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6000000238418579
         }
       ],
@@ -46736,8 +47133,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -47841,8 +48238,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2470049537.pdf",
@@ -49141,16 +49538,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.7599999904632568
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -50679,16 +51076,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -51367,8 +51764,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -52898,8 +53295,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -53931,8 +54328,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 118,
@@ -54502,16 +54899,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.5099999904632568
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -55459,8 +55856,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.41999998688697815
         }
       ],
@@ -55478,8 +55875,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -56228,8 +56625,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.49000000953674316
         }
       ],
@@ -56250,8 +56647,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -56704,8 +57101,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -57267,8 +57664,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6200000047683716
         }
       ],
@@ -57281,8 +57678,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -58407,8 +58804,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -59401,8 +59798,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -60049,8 +60446,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -60836,16 +61233,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6899999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 110,
@@ -62179,16 +62576,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.5799999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62955,8 +63352,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63292,8 +63689,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63958,16 +64355,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -65122,8 +65519,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -66195,8 +66592,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -67186,8 +67583,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -68065,8 +68462,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -68910,16 +69307,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.5600000023841858
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -70016,8 +70413,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4383468808.pdf"
@@ -70767,8 +71164,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -71580,8 +71977,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

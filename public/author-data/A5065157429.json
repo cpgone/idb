@@ -894,9 +894,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.7400000095367432,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -1569,9 +1569,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -3393,9 +3393,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -5344,9 +5344,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -5970,9 +5970,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -7865,9 +7865,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -10237,7 +10237,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10602921,
+        "value": 0.1057747,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10533,21 +10533,21 @@
           "descriptor_name": "Environmental Monitoring",
           "qualifier_ui": "Q000379",
           "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D004784",
-          "descriptor_name": "Environmental Monitoring",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D004784",
-          "descriptor_name": "Environmental Monitoring",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
           "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D004784",
+          "descriptor_name": "Environmental Monitoring",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D004784",
+          "descriptor_name": "Environmental Monitoring",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": true
         },
         {
           "descriptor_ui": "D007091",
@@ -10710,9 +10710,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -11182,7 +11182,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-27T16:54:17.756197",
+      "updated_date": "2026-02-28T09:26:25.869077",
       "created_date": "2025-10-10T00:00:00"
     },
     {

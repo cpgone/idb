@@ -795,11 +795,11 @@
         "currency": "USD",
         "value_usd": 2090
       },
-      "fwci": 33.9047,
+      "fwci": 33.9613,
       "has_fulltext": false,
       "cited_by_count": 589,
       "citation_normalized_percentile": {
-        "value": 0.999681,
+        "value": 0.99968154,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1239,8 +1239,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 263,
@@ -1521,7 +1521,693 @@
         "https://openalex.org/W2005269918",
         "https://openalex.org/W3001993979"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Without": [
+          0
+        ],
+        "remorse,": [
+          1
+        ],
+        "fossil": [
+          2,
+          62
+        ],
+        "fuels": [
+          3
+        ],
+        "have": [
+          4,
+          247
+        ],
+        "made": [
+          5
+        ],
+        "a": [
+          6,
+          32,
+          52,
+          96,
+          117,
+          135,
+          160,
+          288,
+          293
+        ],
+        "huge": [
+          7
+        ],
+        "contribution": [
+          8
+        ],
+        "to": [
+          9,
+          37,
+          54,
+          94,
+          100,
+          245,
+          273
+        ],
+        "global": [
+          10,
+          128
+        ],
+        "development": [
+          11,
+          270
+        ],
+        "in": [
+          12,
+          35,
+          84,
+          153,
+          176,
+          203,
+          264,
+          283
+        ],
+        "all": [
+          13
+        ],
+        "of": [
+          14,
+          40,
+          120,
+          124,
+          134,
+          151,
+          185,
+          209,
+          224,
+          252
+        ],
+        "its": [
+          15,
+          265
+        ],
+        "forms.": [
+          16
+        ],
+        "However,": [
+          17,
+          131
+        ],
+        "the": [
+          18,
+          38,
+          55,
+          122,
+          126,
+          170,
+          182,
+          210,
+          214,
+          239,
+          275
+        ],
+        "recent": [
+          19
+        ],
+        "scientific": [
+          20
+        ],
+        "outlooks": [
+          21
+        ],
+        "are": [
+          22,
+          65,
+          234,
+          271
+        ],
+        "currently": [
+          23
+        ],
+        "shifting": [
+          24
+        ],
+        "as": [
+          25,
+          109,
+          116,
+          159
+        ],
+        "more": [
+          26
+        ],
+        "research": [
+          27,
+          268,
+          279
+        ],
+        "is": [
+          28,
+          92,
+          145,
+          262,
+          292
+        ],
+        "targeted": [
+          29
+        ],
+        "towards": [
+          30
+        ],
+        "promoting": [
+          31
+        ],
+        "carbon-free": [
+          33
+        ],
+        "economy": [
+          34,
+          138
+        ],
+        "addition": [
+          36
+        ],
+        "use": [
+          39,
+          184
+        ],
+        "electric": [
+          41
+        ],
+        "power": [
+          42
+        ],
+        "from": [
+          43,
+          61
+        ],
+        "renewable": [
+          44,
+          47,
+          85
+        ],
+        "sources.": [
+          45
+        ],
+        "While": [
+          46
+        ],
+        "energy": [
+          48,
+          81,
+          86,
+          111,
+          129
+        ],
+        "sources": [
+          49
+        ],
+        "may": [
+          50
+        ],
+        "be": [
+          51,
+          166
+        ],
+        "solution": [
+          53,
+          162
+        ],
+        "anthropogenic": [
+          56
+        ],
+        "greenhouse": [
+          57
+        ],
+        "gas": [
+          58
+        ],
+        "(GHG)": [
+          59
+        ],
+        "emissions": [
+          60
+        ],
+        "fuel": [
+          63
+        ],
+        "they": [
+          64
+        ],
+        "yet": [
+          66
+        ],
+        "season-dependent": [
+          67
+        ],
+        "faced": [
+          68
+        ],
+        "with": [
+          69,
+          76
+        ],
+        "major": [
+          70
+        ],
+        "atmospheric": [
+          71
+        ],
+        "drawbacks": [
+          72
+        ],
+        "which": [
+          73
+        ],
+        "when": [
+          74
+        ],
+        "combined": [
+          75
+        ],
+        "annually": [
+          77
+        ],
+        "varying,": [
+          78
+        ],
+        "but": [
+          79
+        ],
+        "steady,": [
+          80
+        ],
+        "demand,": [
+          82
+        ],
+        "results": [
+          83
+        ],
+        "excesses": [
+          87
+        ],
+        "or": [
+          88
+        ],
+        "deficits.": [
+          89
+        ],
+        "Therefore,": [
+          90
+        ],
+        "it": [
+          91,
+          164
+        ],
+        "essential": [
+          93
+        ],
+        "devise": [
+          95
+        ],
+        "long-term": [
+          97
+        ],
+        "storage": [
+          98,
+          142,
+          150,
+          192,
+          260
+        ],
+        "medium": [
+          99
+        ],
+        "balance": [
+          101
+        ],
+        "their": [
+          102
+        ],
+        "intermittent": [
+          103
+        ],
+        "demand": [
+          104
+        ],
+        "and": [
+          105,
+          197,
+          213,
+          231,
+          241,
+          269,
+          278
+        ],
+        "supply.": [
+          106
+        ],
+        "Hydrogen": [
+          107
+        ],
+        "(H2)": [
+          108
+        ],
+        "an": [
+          110
+        ],
+        "vector": [
+          112
+        ],
+        "has": [
+          113,
+          156
+        ],
+        "been": [
+          114,
+          157,
+          248
+        ],
+        "suggested": [
+          115
+        ],
+        "viable": [
+          118
+        ],
+        "method": [
+          119
+        ],
+        "achieving": [
+          121
+        ],
+        "objectives": [
+          123
+        ],
+        "meeting": [
+          125
+        ],
+        "increasing": [
+          127
+        ],
+        "demand.": [
+          130
+        ],
+        "successful": [
+          132
+        ],
+        "implementation": [
+          133
+        ],
+        "full-scale": [
+          136
+        ],
+        "H2": [
+          137,
+          141,
+          144,
+          152
+        ],
+        "requires": [
+          139
+        ],
+        "large-scale": [
+          140,
+          189
+        ],
+        "(as": [
+          143
+        ],
+        "highly": [
+          146
+        ],
+        "compressible).": [
+          147
+        ],
+        "As": [
+          148,
+          287
+        ],
+        "such,": [
+          149
+        ],
+        "geological": [
+          154,
+          186
+        ],
+        "formations": [
+          155,
+          187
+        ],
+        "considered": [
+          158
+        ],
+        "potential": [
+          161,
+          183
+        ],
+        "where": [
+          163,
+          194
+        ],
+        "can": [
+          165
+        ],
+        "withdrawn": [
+          167
+        ],
+        "again": [
+          168
+        ],
+        "at": [
+          169
+        ],
+        "larger": [
+          171
+        ],
+        "stage": [
+          172
+        ],
+        "for": [
+          173,
+          188,
+          218,
+          296
+        ],
+        "utilization.": [
+          174
+        ],
+        "Thus,": [
+          175
+        ],
+        "this": [
+          177,
+          253,
+          290
+        ],
+        "review,": [
+          178
+        ],
+        "we": [
+          179
+        ],
+        "focus": [
+          180
+        ],
+        "on": [
+          181
+        ],
+        "underground": [
+          190
+        ],
+        "hydrogen": [
+          191
+        ],
+        "(UHS)": [
+          193
+        ],
+        "both": [
+          195
+        ],
+        "conventional": [
+          196
+        ],
+        "non-conventional": [
+          198
+        ],
+        "UHS": [
+          199,
+          225,
+          246,
+          297
+        ],
+        "options": [
+          200
+        ],
+        "were": [
+          201,
+          220
+        ],
+        "examined": [
+          202,
+          216
+        ],
+        "depth.": [
+          204
+        ],
+        "Also,": [
+          205
+        ],
+        "insights": [
+          206
+        ],
+        "into": [
+          207
+        ],
+        "some": [
+          208
+        ],
+        "probable": [
+          211
+        ],
+        "sites,": [
+          212
+        ],
+        "related": [
+          215
+        ],
+        "criteria": [
+          217
+        ],
+        "selection": [
+          219
+        ],
+        "highlighted.": [
+          221
+        ],
+        "The": [
+          222,
+          250
+        ],
+        "hydrodynamics": [
+          223
+        ],
+        "influencing": [
+          226,
+          285
+        ],
+        "factors": [
+          227
+        ],
+        "(including": [
+          228
+        ],
+        "solid,": [
+          229
+        ],
+        "fluid,": [
+          230
+        ],
+        "solid–fluid": [
+          232
+        ],
+        "interactions)": [
+          233
+        ],
+        "summarized": [
+          235
+        ],
+        "exclusively.": [
+          236
+        ],
+        "In": [
+          237
+        ],
+        "addition,": [
+          238
+        ],
+        "economics": [
+          240
+        ],
+        "reaction": [
+          242
+        ],
+        "perspectives": [
+          243
+        ],
+        "inherent": [
+          244
+        ],
+        "examined.": [
+          249
+        ],
+        "findings": [
+          251
+        ],
+        "study": [
+          254,
+          291
+        ],
+        "show": [
+          255
+        ],
+        "that": [
+          256
+        ],
+        "UHS,": [
+          257
+        ],
+        "like": [
+          258
+        ],
+        "other": [
+          259
+        ],
+        "systems,": [
+          261
+        ],
+        "still": [
+          263
+        ],
+        "infancy.": [
+          266
+        ],
+        "Further": [
+          267
+        ],
+        "needed": [
+          272
+        ],
+        "address": [
+          274
+        ],
+        "significant": [
+          276
+        ],
+        "hurdles": [
+          277
+        ],
+        "gaps": [
+          280
+        ],
+        "found,": [
+          281
+        ],
+        "particularly": [
+          282
+        ],
+        "replaceable": [
+          284
+        ],
+        "parameters.": [
+          286
+        ],
+        "result,": [
+          289
+        ],
+        "valuable": [
+          294
+        ],
+        "resource": [
+          295
+        ],
+        "researchers.": [
+          298
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -1552,7 +2238,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2026-02-28T09:26:25.869077",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2222,8 +2908,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 164,
@@ -3273,8 +3959,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 488,
@@ -4177,11 +4863,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 2.9444,
+      "fwci": 2.9472,
       "has_fulltext": true,
       "cited_by_count": 114,
       "citation_normalized_percentile": {
-        "value": 0.91818344,
+        "value": 0.91826259,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4838,8 +5524,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3087481538.pdf",
@@ -4933,7 +5619,545 @@
         "https://openalex.org/W2106098739",
         "https://openalex.org/W2281919420"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "study": [
+          1
+        ],
+        "investigates": [
+          2
+        ],
+        "the": [
+          3,
+          40,
+          66,
+          70,
+          102,
+          106,
+          139,
+          143,
+          149,
+          165,
+          182,
+          193,
+          227
+        ],
+        "use": [
+          4
+        ],
+        "of": [
+          5,
+          97,
+          110,
+          113,
+          116,
+          122,
+          148,
+          201,
+          209,
+          218
+        ],
+        "microalgae": [
+          6,
+          20,
+          59
+        ],
+        "as": [
+          7
+        ],
+        "a": [
+          8,
+          131,
+          178,
+          207
+        ],
+        "biosorbent": [
+          9
+        ],
+        "to": [
+          10,
+          24,
+          38,
+          64,
+          138,
+          181,
+          224
+        ],
+        "eliminate": [
+          11
+        ],
+        "heavy": [
+          12,
+          26,
+          211,
+          220
+        ],
+        "metals": [
+          13,
+          27,
+          202,
+          212
+        ],
+        "ions": [
+          14
+        ],
+        "from": [
+          15,
+          28,
+          203
+        ],
+        "wastewater.": [
+          16
+        ],
+        "The": [
+          17,
+          45,
+          126,
+          146,
+          185,
+          215
+        ],
+        "Chlorella": [
+          18
+        ],
+        "kessleri": [
+          19
+        ],
+        "species": [
+          21
+        ],
+        "was": [
+          22,
+          99,
+          136,
+          153,
+          162,
+          173,
+          189,
+          213,
+          222
+        ],
+        "employed": [
+          23
+        ],
+        "biosorb": [
+          25
+        ],
+        "synthetic": [
+          29
+        ],
+        "wastewater": [
+          30,
+          204
+        ],
+        "specimens.": [
+          31
+        ],
+        "FTIR,": [
+          32
+        ],
+        "and": [
+          33,
+          58,
+          85,
+          119
+        ],
+        "SEM/XRD": [
+          34
+        ],
+        "analyses": [
+          35
+        ],
+        "were": [
+          36,
+          47,
+          73
+        ],
+        "utilized": [
+          37
+        ],
+        "characterize": [
+          39
+        ],
+        "microalgal": [
+          41
+        ],
+        "biomass": [
+          42,
+          60,
+          120
+        ],
+        "(the": [
+          43
+        ],
+        "adsorbent).": [
+          44
+        ],
+        "experiments": [
+          46,
+          157
+        ],
+        "conducted": [
+          48
+        ],
+        "with": [
+          49,
+          105
+        ],
+        "several": [
+          50
+        ],
+        "process": [
+          51,
+          188
+        ],
+        "parameters,": [
+          52
+        ],
+        "including": [
+          53
+        ],
+        "initial": [
+          54
+        ],
+        "solution": [
+          55,
+          134
+        ],
+        "pH,": [
+          56
+        ],
+        "temperature,": [
+          57
+        ],
+        "dose.": [
+          61
+        ],
+        "In": [
+          62
+        ],
+        "order": [
+          63,
+          195
+        ],
+        "secure": [
+          65
+        ],
+        "best": [
+          67
+        ],
+        "experimental": [
+          68,
+          166
+        ],
+        "conditions,": [
+          69
+        ],
+        "optimum": [
+          71,
+          151,
+          171
+        ],
+        "parameters": [
+          72
+        ],
+        "estimated": [
+          74
+        ],
+        "using": [
+          75
+        ],
+        "an": [
+          76
+        ],
+        "integrated": [
+          77
+        ],
+        "response": [
+          78
+        ],
+        "surface": [
+          79
+        ],
+        "methodology": [
+          80
+        ],
+        "(RSM),": [
+          81
+        ],
+        "desirability": [
+          82
+        ],
+        "function": [
+          83
+        ],
+        "(DF),": [
+          84
+        ],
+        "crow": [
+          86
+        ],
+        "search": [
+          87
+        ],
+        "algorithm": [
+          88
+        ],
+        "(CSA)": [
+          89
+        ],
+        "modeling": [
+          90
+        ],
+        "approach.": [
+          91,
+          145
+        ],
+        "A": [
+          92
+        ],
+        "maximum": [
+          93
+        ],
+        "lead(II)": [
+          94,
+          186
+        ],
+        "removal": [
+          95,
+          167,
+          200,
+          216
+        ],
+        "efficiency": [
+          96,
+          168,
+          217
+        ],
+        "99.54%": [
+          98
+        ],
+        "identified": [
+          100
+        ],
+        "by": [
+          101,
+          142,
+          155,
+          192
+        ],
+        "RSM-DF": [
+          103,
+          144
+        ],
+        "platform": [
+          104
+        ],
+        "following": [
+          107,
+          228
+        ],
+        "optimal": [
+          108,
+          133
+        ],
+        "set": [
+          109
+        ],
+        "parameters:": [
+          111
+        ],
+        "pH": [
+          112
+        ],
+        "6.34,": [
+          114
+        ],
+        "temperature": [
+          115
+        ],
+        "27.71": [
+          117
+        ],
+        "°C,": [
+          118
+        ],
+        "dosage": [
+          121
+        ],
+        "1.5": [
+          123
+        ],
+        "g": [
+          124
+        ],
+        "L<sup>-1</sup>.": [
+          125
+        ],
+        "hybrid": [
+          127
+        ],
+        "RSM-CSA": [
+          128
+        ],
+        "approach": [
+          129
+        ],
+        "provided": [
+          130
+        ],
+        "globally": [
+          132
+        ],
+        "that": [
+          135,
+          164
+        ],
+        "similar": [
+          137
+        ],
+        "results": [
+          140
+        ],
+        "obtained": [
+          141
+        ],
+        "consistency": [
+          147
+        ],
+        "model-predicted": [
+          150,
+          183
+        ],
+        "conditions": [
+          152,
+          172
+        ],
+        "confirmed": [
+          154
+        ],
+        "conducting": [
+          156
+        ],
+        "under": [
+          158,
+          170
+        ],
+        "those": [
+          159
+        ],
+        "conditions.": [
+          160
+        ],
+        "It": [
+          161
+        ],
+        "found": [
+          163,
+          223
+        ],
+        "(97.1%)": [
+          169
+        ],
+        "very": [
+          174
+        ],
+        "close": [
+          175
+        ],
+        "(less": [
+          176
+        ],
+        "than": [
+          177
+        ],
+        "5%": [
+          179
+        ],
+        "error)": [
+          180
+        ],
+        "value.": [
+          184
+        ],
+        "biosorption": [
+          187
+        ],
+        "better": [
+          190
+        ],
+        "demonstrated": [
+          191
+        ],
+        "pseudo-second": [
+          194
+        ],
+        "kinetic": [
+          196
+        ],
+        "model.": [
+          197
+        ],
+        "Finally,": [
+          198
+        ],
+        "simultaneous": [
+          199
+        ],
+        "samples": [
+          205
+        ],
+        "containing": [
+          206
+        ],
+        "mixture": [
+          208
+        ],
+        "multiple": [
+          210
+        ],
+        "investigated.": [
+          214
+        ],
+        "each": [
+          219
+        ],
+        "metal": [
+          221
+        ],
+        "be": [
+          225
+        ],
+        "in": [
+          226
+        ],
+        "order:": [
+          229
+        ],
+        "Pb(II)": [
+          230
+        ],
+        ">": [
+          231,
+          233,
+          235,
+          237
+        ],
+        "Co(II)": [
+          232
+        ],
+        "Cu(II)": [
+          234
+        ],
+        "Cd(II)": [
+          236
+        ],
+        "Cr(II).": [
+          238
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -4960,7 +6184,7 @@
           "cited_by_count": 15
         }
       ],
-      "updated_date": "2026-02-27T16:54:17.756197",
+      "updated_date": "2026-02-28T09:26:25.869077",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5504,8 +6728,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 107,
@@ -6233,8 +7457,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 207,
@@ -7320,8 +8544,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385439715.pdf"
@@ -8022,8 +9246,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 264,
@@ -9113,8 +10337,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3217239920.pdf",
@@ -10219,8 +11443,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -11147,8 +12371,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3094146352.pdf",
@@ -12351,8 +13575,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -13872,8 +15096,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -14557,8 +15781,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 265,
@@ -15479,8 +16703,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3201943226.pdf",
@@ -16758,8 +17982,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -18326,8 +19550,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4224308192.pdf",
@@ -19610,8 +20834,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3081596397.pdf",
@@ -20473,8 +21697,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -21075,8 +22299,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 223,
@@ -21801,8 +23025,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -22477,8 +23701,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -23531,8 +24755,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4224244981.pdf",
@@ -24967,8 +26191,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2782758652.pdf",
@@ -26080,8 +27304,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -27079,8 +28303,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4396773512.pdf"
@@ -28724,8 +29948,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386597627.pdf"
@@ -29788,8 +31012,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -30529,8 +31753,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -32034,8 +33258,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -32559,8 +33783,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -33959,8 +35183,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -34738,8 +35962,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -35804,8 +37028,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -36559,8 +37783,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -37300,8 +38524,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -38103,8 +39327,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3171149254.pdf",
@@ -39781,8 +41005,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -40870,8 +42094,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -42176,8 +43400,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -43372,8 +44596,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2917345920.pdf",
@@ -44051,8 +45275,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -44907,8 +46131,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -46322,8 +47546,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -47762,8 +48986,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -49361,8 +50585,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -50259,8 +51483,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3199934578.pdf",
@@ -50903,8 +52127,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -51541,8 +52765,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -52662,8 +53886,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 116,
@@ -53384,8 +54608,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -54707,8 +55931,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -55811,8 +57035,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -57038,8 +58262,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -58224,8 +59448,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -59600,8 +60824,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -60715,8 +61939,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -62353,8 +63577,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -63419,8 +64643,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -64440,8 +65664,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -65525,8 +66749,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -66949,8 +68173,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -68254,8 +69478,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -68901,8 +70125,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -69368,8 +70592,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -69861,8 +71085,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -70574,8 +71798,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -70880,8 +72104,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -71314,8 +72538,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -72558,8 +73782,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -73545,8 +74769,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -74559,8 +75783,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -75040,8 +76264,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -75996,8 +77220,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4411732765.pdf",
@@ -77877,8 +79101,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4411732803.pdf",
@@ -79540,8 +80764,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4411733316.pdf",
@@ -80874,8 +82098,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4411733423.pdf",
@@ -82087,8 +83311,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -83855,8 +85079,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -85239,8 +86463,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 189,
