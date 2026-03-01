@@ -7,9 +7,9 @@
       "Talal Al-Shafloot"
     ],
     "works_count": 3,
-    "cited_by_count": 2,
+    "cited_by_count": 3,
     "summary_stats": {
-      "2yr_mean_citedness": 0.6666666666666666,
+      "2yr_mean_citedness": 1,
       "h_index": 1,
       "i10_index": 0
     },
@@ -143,7 +143,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000114,
+        "value": 0.0000113,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -263,7 +263,7 @@
         "year": 2024,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 2
+        "cited_by_count": 3
       },
       {
         "year": 2025,
@@ -282,7 +282,7 @@
     },
     "block_key": "t al-shafloot",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5114504290",
-    "updated_date": "2026-02-11T12:21:17",
+    "updated_date": "2026-02-28T12:20:11",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -735,8 +735,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -3198,13 +3198,13 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Responsible consumption and production"
         },
         {
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],

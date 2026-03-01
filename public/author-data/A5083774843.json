@@ -646,11 +646,11 @@
         "currency": "USD",
         "value_usd": 2000
       },
-      "fwci": 5.8407,
+      "fwci": 5.8421,
       "has_fulltext": false,
       "cited_by_count": 133,
       "citation_normalized_percentile": {
-        "value": 0.97204487,
+        "value": 0.97205191,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1071,450 +1071,7 @@
         "https://openalex.org/W2084189991",
         "https://openalex.org/W2607002724"
       ],
-      "abstract_inverted_index": {
-        "270": [
-          59
-        ],
-        "506": [
-          61
-        ],
-        "The": [
-          0,
-          80,
-          128,
-          152
-        ],
-        "electrospinning": [
-          1,
-          20
-        ],
-        "of": [
-          2,
-          18,
-          42,
-          49,
-          73,
-          82,
-          91,
-          115,
-          124,
-          141,
-          166,
-          178
-        ],
-        "high-performance": [
-          3
-        ],
-        "polyimides": [
-          4,
-          48
-        ],
-        "(PI)": [
-          5
-        ],
-        "has": [
-          6
-        ],
-        "recently": [
-          7
-        ],
-        "sparked": [
-          8
-        ],
-        "great": [
-          9,
-          157
-        ],
-        "interest.": [
-          10
-        ],
-        "In": [
-          11
-        ],
-        "this": [
-          12
-        ],
-        "study,": [
-          13
-        ],
-        "we": [
-          14
-        ],
-        "explore": [
-          15
-        ],
-        "the": [
-          16,
-          19,
-          37,
-          71,
-          89,
-          93,
-          112,
-          122,
-          133,
-          138,
-          142,
-          145,
-          150,
-          164,
-          175,
-          179
-        ],
-        "effect": [
-          17
-        ],
-        "parameters": [
-          21
-        ],
-        "—": [
-          22,
-          32
-        ],
-        "namely": [
-          23
-        ],
-        "polymer": [
-          24
-        ],
-        "concentration,": [
-          25
-        ],
-        "voltage,": [
-          26
-        ],
-        "tip-to-collector": [
-          27
-        ],
-        "distance": [
-          28
-        ],
-        "and": [
-          29,
-          33,
-          40,
-          64,
-          77,
-          99,
-          118,
-          168
-        ],
-        "flow": [
-          30
-        ],
-        "rate": [
-          31
-        ],
-        "salt": [
-          34,
-          86
-        ],
-        "addition": [
-          35,
-          81
-        ],
-        "on": [
-          36
-        ],
-        "diameter,": [
-          38
-        ],
-        "morphology,": [
-          39
-        ],
-        "spinnability": [
-          41,
-          117
-        ],
-        "electrospun": [
-          43
-        ],
-        "PI": [
-          44,
-          94
-        ],
-        "nanofibers.": [
-          45
-        ],
-        "Three": [
-          46
-        ],
-        "different": [
-          47
-        ],
-        "intrinsic": [
-          50
-        ],
-        "microporosity": [
-          51,
-          167
-        ],
-        "(PIM-PIs)": [
-          52
-        ],
-        "with": [
-          53
-        ],
-        "high": [
-          54
-        ],
-        "Brunauer–Emmett–Teller": [
-          55
-        ],
-        "(BET)": [
-          56
-        ],
-        "ranging": [
-          57
-        ],
-        "from": [
-          58,
-          132
-        ],
-        "to": [
-          60,
-          110,
-          163
-        ],
-        "m2": [
-          62
-        ],
-        "g−1,": [
-          63
-        ],
-        "two": [
-          65
-        ],
-        "microporous": [
-          66
-        ],
-        "polyimides,": [
-          67
-        ],
-        "were": [
-          68
-        ],
-        "synthesized": [
-          69
-        ],
-        "through": [
-          70,
-          144
-        ],
-        "polycondensation": [
-          72
-        ],
-        "4,4′-(hexafluoroisopropylidene)diphthalic": [
-          74
-        ],
-        "anhydride": [
-          75
-        ],
-        "(6FDA)": [
-          76
-        ],
-        "aromatic": [
-          78
-        ],
-        "diamines.": [
-          79
-        ],
-        "tetraethylammonium": [
-          83
-        ],
-        "bromide": [
-          84
-        ],
-        "(TEAB)": [
-          85
-        ],
-        "considerably": [
-          87
-        ],
-        "increased": [
-          88
-        ],
-        "conductivity": [
-          90
-        ],
-        "all": [
-          92
-        ],
-        "solutions,": [
-          95
-        ],
-        "significantly": [
-          96
-        ],
-        "improved": [
-          97,
-          116
-        ],
-        "spinability,": [
-          98
-        ],
-        "resulted": [
-          100
-        ],
-        "in": [
-          101,
-          121,
-          159
-        ],
-        "thinner": [
-          102
-        ],
-        "fibers.": [
-          103
-        ],
-        "We": [
-          104
-        ],
-        "also": [
-          105
-        ],
-        "used": [
-          106
-        ],
-        "molecular": [
-          107
-        ],
-        "dynamic": [
-          108
-        ],
-        "simulations": [
-          109
-        ],
-        "investigate": [
-          111
-        ],
-        "macromolecular": [
-          113
-        ],
-        "mechanism": [
-          114
-        ],
-        "fiber": [
-          119
-        ],
-        "morphology": [
-          120
-        ],
-        "presence": [
-          123,
-          165
-        ],
-        "an": [
-          125
-        ],
-        "ammonium": [
-          126
-        ],
-        "salt.": [
-          127
-        ],
-        "small": [
-          129
-        ],
-        "droplets": [
-          130
-        ],
-        "detached": [
-          131
-        ],
-        "parent": [
-          134
-        ],
-        "droplet,": [
-          135
-        ],
-        "followed": [
-          136
-        ],
-        "by": [
-          137
-        ],
-        "rapid": [
-          139
-        ],
-        "evaporation": [
-          140
-        ],
-        "ions": [
-          143
-        ],
-        "hydration": [
-          146
-        ],
-        "effect,": [
-          147
-        ],
-        "which": [
-          148,
-          173
-        ],
-        "facilitated": [
-          149
-        ],
-        "electrospinning.": [
-          151
-        ],
-        "resulting": [
-          153
-        ],
-        "uniform": [
-          154
-        ],
-        "nanofibers": [
-          155
-        ],
-        "have": [
-          156
-        ],
-        "potential": [
-          158
-        ],
-        "environmental": [
-          160
-        ],
-        "applications": [
-          161
-        ],
-        "due": [
-          162
-        ],
-        "hydrophobic": [
-          169,
-          182
-        ],
-        "pendant": [
-          170
-        ],
-        "trifluoromethyl": [
-          171
-        ],
-        "groups,": [
-          172
-        ],
-        "enhance": [
-          174
-        ],
-        "sorption": [
-          176
-        ],
-        "performance": [
-          177
-        ],
-        "fibers": [
-          180
-        ],
-        "for": [
-          181
-        ],
-        "species.": [
-          183
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -1545,7 +1102,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-28T09:26:25.869077",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4857,9 +4414,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -6103,9 +5660,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -8397,9 +7954,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10814,9 +10371,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -13685,9 +13242,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -16941,9 +16498,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.5
+          "score": 0.5,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [
@@ -18997,9 +18554,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -21990,9 +21547,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5
+          "score": 0.5,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -24474,9 +24031,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -25583,9 +25140,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -30575,9 +30132,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
@@ -33758,9 +33315,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -34538,9 +34095,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -35560,9 +35117,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [
@@ -36681,9 +36238,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.5
+          "score": 0.5,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [
@@ -37237,9 +36794,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [
@@ -38928,9 +38485,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -40771,9 +40328,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
@@ -42210,9 +41767,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -46115,9 +45672,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7699999809265137
+          "score": 0.7699999809265137,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -46819,9 +46376,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -51789,11 +51346,11 @@
         "currency": "USD",
         "value_usd": 840
       },
-      "fwci": 0.7428,
+      "fwci": 0.736,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.73711806,
+        "value": 0.73517544,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52173,9 +51730,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -52248,636 +51805,14 @@
         "https://openalex.org/W2012382521",
         "https://openalex.org/W2356353798"
       ],
-      "abstract_inverted_index": {
-        "2": [
-          76
-        ],
-        "3": [
-          159
-        ],
-        "4": [
-          78
-        ],
-        "9": [
-          141
-        ],
-        "13": [
-          161
-        ],
-        "80": [
-          143
-        ],
-        "Oil": [
-          0
-        ],
-        "spills": [
-          1,
-          22
-        ],
-        "and": [
-          2,
-          15,
-          23,
-          38,
-          60,
-          68,
-          82,
-          100,
-          110,
-          126,
-          154,
-          160,
-          228
-        ],
-        "the": [
-          3,
-          13,
-          36,
-          63,
-          83,
-          87,
-          113,
-          117,
-          121,
-          127,
-          134,
-          149,
-          168,
-          171,
-          181,
-          185,
-          192,
-          254,
-          262,
-          266,
-          270,
-          275
-        ],
-        "release": [
-          4
-        ],
-        "of": [
-          5,
-          20,
-          25,
-          65,
-          86,
-          116,
-          129,
-          132,
-          175,
-          184,
-          202,
-          234,
-          244,
-          256,
-          265,
-          272,
-          282,
-          285
-        ],
-        "oily": [
-          6
-        ],
-        "wastewater": [
-          7
-        ],
-        "have": [
-          8
-        ],
-        "caused": [
-          9
-        ],
-        "serious": [
-          10
-        ],
-        "damage": [
-          11
-        ],
-        "to": [
-          12,
-          142,
-          180,
-          188
-        ],
-        "environment": [
-          14,
-          37
-        ],
-        "human": [
-          16
-        ],
-        "health.": [
-          17
-        ],
-        "Effective": [
-          18
-        ],
-        "removal": [
-          19
-        ],
-        "oil": [
-          21,
-          123,
-          136,
-          172,
-          203,
-          225,
-          250,
-          258,
-          276,
-          287
-        ],
-        "separation": [
-          24
-        ],
-        "oil/water": [
-          26
-        ],
-        "mixtures": [
-          27
-        ],
-        "has": [
-          28
-        ],
-        "become": [
-          29
-        ],
-        "a": [
-          30,
-          199,
-          206
-        ],
-        "crucial": [
-          31
-        ],
-        "step": [
-          32
-        ],
-        "before": [
-          33
-        ],
-        "they": [
-          34
-        ],
-        "enter": [
-          35
-        ],
-        "reveal": [
-          39
-        ],
-        "their": [
-          40,
-          69,
-          189
-        ],
-        "potentially": [
-          41
-        ],
-        "harmful": [
-          42
-        ],
-        "effects": [
-          43
-        ],
-        "on": [
-          44,
-          54,
-          120,
-          204
-        ],
-        "aquatic": [
-          45
-        ],
-        "ecology.": [
-          46
-        ],
-        "In": [
-          47
-        ],
-        "this": [
-          48
-        ],
-        "context,": [
-          49
-        ],
-        "herein,": [
-          50
-        ],
-        "fibrous": [
-          51,
-          176,
-          245
-        ],
-        "membranes": [
-          52,
-          177,
-          194,
-          217,
-          233,
-          247
-        ],
-        "based": [
-          53
-        ],
-        "sulfonated": [
-          55,
-          235
-        ],
-        "poly(ether-ether-ketone)": [
-          56
-        ],
-        "(SPEEK)": [
-          57,
-          238
-        ],
-        "were": [
-          58,
-          89,
-          156,
-          239
-        ],
-        "produced": [
-          59
-        ],
-        "used": [
-          61,
-          125
-        ],
-        "for": [
-          62,
-          152,
-          211,
-          224,
-          248
-        ],
-        "adsorption": [
-          64,
-          150,
-          173,
-          277
-        ],
-        "crude": [
-          66,
-          107,
-          122,
-          135,
-          249,
-          257,
-          286
-        ],
-        "oils": [
-          67,
-          101
-        ],
-        "derivatives.": [
-          70
-        ],
-        "PEEK": [
-          71
-        ],
-        "was": [
-          72,
-          291
-        ],
-        "treated": [
-          73
-        ],
-        "with": [
-          74,
-          98
-        ],
-        "H": [
-          75
-        ],
-        "SO": [
-          77
-        ],
-        "at": [
-          79
-        ],
-        "different": [
-          80
-        ],
-        "times,": [
-          81
-        ],
-        "concentrated": [
-          84
-        ],
-        "solutions": [
-          85,
-          223
-        ],
-        "SPEEK": [
-          88,
-          193,
-          216,
-          246
-        ],
-        "electrospun": [
-          90
-        ],
-        "into": [
-          91
-        ],
-        "bead-free": [
-          92
-        ],
-        "nanofibers.": [
-          93
-        ],
-        "The": [
-          94
-        ],
-        "contact": [
-          95
-        ],
-        "angle": [
-          96
-        ],
-        "measurements": [
-          97
-        ],
-        "water": [
-          99
-        ],
-        "(": [
-          102
-        ],
-        "i": [
-          103
-        ],
-        ".": [
-          104
-        ],
-        "e": [
-          105
-        ],
-        ".,": [
-          106
-        ],
-        "oils,": [
-          108
-        ],
-        "diesel,": [
-          109
-        ],
-        "gasoline)": [
-          111
-        ],
-        "demonstrated": [
-          112
-        ],
-        "amphiphilic": [
-          114,
-          190
-        ],
-        "nature": [
-          115
-        ],
-        "membranes.": [
-          118,
-          186,
-          267
-        ],
-        "Depending": [
-          119
-        ],
-        "sample": [
-          124
-        ],
-        "degree": [
-          128,
-          271
-        ],
-        "sulfonation": [
-          130,
-          273
-        ],
-        "(DoS)": [
-          131
-        ],
-        "SPEEK,": [
-          133
-        ],
-        "sorption": [
-          137,
-          263
-        ],
-        "capacities": [
-          138,
-          151
-        ],
-        "ranged": [
-          139
-        ],
-        "from": [
-          140,
-          288
-        ],
-        "g": [
-          144,
-          145,
-          162,
-          163
-        ],
-        "−1": [
-          146,
-          164
-        ],
-        ",": [
-          147,
-          165
-        ],
-        "while": [
-          148
-        ],
-        "gasoline": [
-          153
-        ],
-        "diesel": [
-          155
-        ],
-        "measured": [
-          157
-        ],
-        "as": [
-          158,
-          221
-        ],
-        "respectively.": [
-          166
-        ],
-        "As": [
-          167,
-          253,
-          269
-        ],
-        "DoS": [
-          169
-        ],
-        "increased,": [
-          170,
-          259
-        ],
-        "capacity": [
-          174,
-          264
-        ],
-        "declined": [
-          178
-        ],
-        "due": [
-          179
-        ],
-        "increased": [
-          182
-        ],
-        "hydrophilicity": [
-          183
-        ],
-        "Due": [
-          187
-        ],
-        "nature,": [
-          191
-        ],
-        "could": [
-          195,
-          218
-        ],
-        "effectively": [
-          196
-        ],
-        "remove": [
-          197
-        ],
-        "even": [
-          198
-        ],
-        "thin": [
-          200,
-          283
-        ],
-        "layer": [
-          201,
-          284
-        ],
-        "seawater,": [
-          205
-        ],
-        "task": [
-          207
-        ],
-        "that": [
-          208
-        ],
-        "is": [
-          209
-        ],
-        "challenging": [
-          210
-        ],
-        "most": [
-          212
-        ],
-        "hydrophobic": [
-          213
-        ],
-        "adsorbents.": [
-          214
-        ],
-        "Fibrous": [
-          215
-        ],
-        "be": [
-          219
-        ],
-        "employed": [
-          220
-        ],
-        "low-cost": [
-          222
-        ],
-        "spill": [
-          226
-        ],
-        "remediation": [
-          227
-        ],
-        "oil-in-water": [
-          229
-        ],
-        "separation.": [
-          230
-        ],
-        "•": [
-          231,
-          241,
-          252,
-          268,
-          280
-        ],
-        "Amphiphilic": [
-          232
-        ],
-        "poly": [
-          236
-        ],
-        "(ether-ether-ketone)": [
-          237
-        ],
-        "produced.": [
-          240
-        ],
-        "First": [
-          242
-        ],
-        "use": [
-          243
-        ],
-        "removal.": [
-          251
-        ],
-        "density": [
-          255
-        ],
-        "so": [
-          260
-        ],
-        "did": [
-          261
-        ],
-        "decreased,": [
-          274
-        ],
-        "performance": [
-          278
-        ],
-        "improved.": [
-          279
-        ],
-        "Removal": [
-          281
-        ],
-        "seawater": [
-          289
-        ],
-        "surface": [
-          290
-        ],
-        "achieved.": [
-          292
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -53442,9 +52377,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -55256,9 +54191,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -60773,9 +59708,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -61531,9 +60466,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -65226,9 +64161,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.45176735520362854
+          "score": 0.45176735520362854,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],

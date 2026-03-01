@@ -21803,11 +21803,11 @@
         "currency": "EUR",
         "value_usd": 3590
       },
-      "fwci": 0.4173,
+      "fwci": 0.416,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.63264478,
+        "value": 0.63256954,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22297,14 +22297,473 @@
         "https://openalex.org/W4361249230",
         "https://openalex.org/W2014794968"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "Capillary": [
+          1
+        ],
+        "rise": [
+          2,
+          32,
+          58,
+          123,
+          145
+        ],
+        "experiments": [
+          3
+        ],
+        "are": [
+          4,
+          79,
+          102
+        ],
+        "conducted": [
+          5
+        ],
+        "in": [
+          6,
+          36,
+          120,
+          124,
+          129,
+          132,
+          142,
+          146,
+          154,
+          162,
+          169,
+          174,
+          187
+        ],
+        "a": [
+          7,
+          45,
+          151
+        ],
+        "set": [
+          8
+        ],
+        "of": [
+          9,
+          25,
+          87,
+          105,
+          199
+        ],
+        "calcareous": [
+          10,
+          125
+        ],
+        "and": [
+          11,
+          17,
+          27,
+          49,
+          55,
+          65,
+          76,
+          107,
+          127,
+          150,
+          171,
+          181,
+          191,
+          208
+        ],
+        "siliceous": [
+          12,
+          148
+        ],
+        "rocks": [
+          13,
+          89,
+          126
+        ],
+        "with": [
+          14,
+          40,
+          44,
+          52
+        ],
+        "varying": [
+          15
+        ],
+        "mineralogy": [
+          16
+        ],
+        "petrophysical": [
+          18,
+          67
+        ],
+        "properties": [
+          19,
+          68
+        ],
+        "to": [
+          20
+        ],
+        "understand": [
+          21
+        ],
+        "the": [
+          22,
+          56,
+          88,
+          93,
+          97,
+          103,
+          112,
+          133,
+          147,
+          155,
+          197
+        ],
+        "coupled": [
+          23
+        ],
+        "impact": [
+          24
+        ],
+        "reactivity": [
+          26,
+          183,
+          200
+        ],
+        "spontaneous": [
+          28,
+          202
+        ],
+        "imbibition.": [
+          29
+        ],
+        "A": [
+          30
+        ],
+        "capillary": [
+          31,
+          57,
+          122,
+          144,
+          179,
+          212
+        ],
+        "experiment": [
+          33
+        ],
+        "is": [
+          34,
+          62,
+          159,
+          184
+        ],
+        "performed": [
+          35
+        ],
+        "each": [
+          37,
+          61,
+          82
+        ],
+        "sample:": [
+          38
+        ],
+        "first": [
+          39
+        ],
+        "deionized": [
+          41,
+          53
+        ],
+        "water,": [
+          42,
+          54
+        ],
+        "then": [
+          43
+        ],
+        "dilute": [
+          46
+        ],
+        "acidic": [
+          47,
+          94
+        ],
+        "solution,": [
+          48
+        ],
+        "finally": [
+          50
+        ],
+        "again": [
+          51
+        ],
+        "profile": [
+          59
+        ],
+        "for": [
+          60,
+          81
+        ],
+        "recorded.": [
+          63
+        ],
+        "Pre-": [
+          64
+        ],
+        "post-acid": [
+          66
+        ],
+        "such": [
+          69
+        ],
+        "as": [
+          70
+        ],
+        "porosity,": [
+          71
+        ],
+        "permeability,": [
+          72
+        ],
+        "pore": [
+          73,
+          113,
+          135,
+          157
+        ],
+        "size": [
+          74,
+          158
+        ],
+        "distribution,": [
+          75
+        ],
+        "contact": [
+          77,
+          163
+        ],
+        "angle": [
+          78,
+          164
+        ],
+        "measured": [
+          80
+        ],
+        "sample.": [
+          83
+        ],
+        "The": [
+          84,
+          99,
+          115,
+          137,
+          176
+        ],
+        "mineral": [
+          85
+        ],
+        "makeup": [
+          86
+        ],
+        "significantly": [
+          90
+        ],
+        "influences": [
+          91
+        ],
+        "how": [
+          92
+        ],
+        "fluids": [
+          95
+        ],
+        "penetrate": [
+          96
+        ],
+        "samples.": [
+          98
+        ],
+        "primary": [
+          100
+        ],
+        "reactions": [
+          101
+        ],
+        "dissolution": [
+          104,
+          207
+        ],
+        "Ca-": [
+          106
+        ],
+        "Mg-rich": [
+          108
+        ],
+        "minerals": [
+          109
+        ],
+        "which": [
+          110
+        ],
+        "alter": [
+          111
+        ],
+        "network.": [
+          114
+        ],
+        "higher": [
+          116,
+          121
+        ],
+        "acid": [
+          117,
+          140
+        ],
+        "strength": [
+          118
+        ],
+        "results": [
+          119,
+          128,
+          141
+        ],
+        "an": [
+          130
+        ],
+        "increase": [
+          131
+        ],
+        "average": [
+          134,
+          156
+        ],
+        "size.": [
+          136
+        ],
+        "same": [
+          138
+        ],
+        "pH": [
+          139
+        ],
+        "lower": [
+          143
+        ],
+        "rocks,": [
+          149
+        ],
+        "general": [
+          152
+        ],
+        "decrease": [
+          153
+        ],
+        "observed.": [
+          160
+        ],
+        "Changes": [
+          161
+        ],
+        "indicate": [
+          165
+        ],
+        "increased": [
+          166
+        ],
+        "water": [
+          167
+        ],
+        "affinity": [
+          168,
+          173
+        ],
+        "carbonate": [
+          170
+        ],
+        "reduced": [
+          172
+        ],
+        "sandstone.": [
+          175
+        ],
+        "link": [
+          177
+        ],
+        "between": [
+          178
+        ],
+        "interactions": [
+          180
+        ],
+        "fluid": [
+          182,
+          188
+        ],
+        "often": [
+          185
+        ],
+        "overlooked": [
+          186
+        ],
+        "flow": [
+          189
+        ],
+        "studies,": [
+          190
+        ],
+        "this": [
+          192
+        ],
+        "research": [
+          193
+        ],
+        "sheds": [
+          194
+        ],
+        "light": [
+          195
+        ],
+        "on": [
+          196
+        ],
+        "importance": [
+          198
+        ],
+        "during": [
+          201,
+          211
+        ],
+        "imbibition,": [
+          203
+        ],
+        "offering": [
+          204
+        ],
+        "insights": [
+          205
+        ],
+        "into": [
+          206
+        ],
+        "precipitation": [
+          209
+        ],
+        "processes": [
+          210
+        ],
+        "flow.": [
+          213
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-12-21T01:58:51.020947",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2024-12-07T00:00:00"
     },
     {

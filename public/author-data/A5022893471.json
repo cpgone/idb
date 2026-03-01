@@ -9,7 +9,7 @@
       "Tantardini, Christian"
     ],
     "works_count": 86,
-    "cited_by_count": 900,
+    "cited_by_count": 901,
     "summary_stats": {
       "2yr_mean_citedness": 2.0555555555555554,
       "h_index": 15,
@@ -367,7 +367,7 @@
       {
         "id": "https://openalex.org/T13876",
         "display_name": "Chemical synthesis and pharmacological studies",
-        "value": 0.0000874,
+        "value": 0.000087,
         "subfield": {
           "id": "https://openalex.org/subfields/1605",
           "display_name": "Organic Chemistry"
@@ -384,7 +384,7 @@
       {
         "id": "https://openalex.org/T12285",
         "display_name": "Surface Chemistry and Catalysis",
-        "value": 0.0000573,
+        "value": 0.0000572,
         "subfield": {
           "id": "https://openalex.org/subfields/2204",
           "display_name": "Biomedical Engineering"
@@ -401,7 +401,7 @@
       {
         "id": "https://openalex.org/T11948",
         "display_name": "Machine Learning in Materials Science",
-        "value": 0.0000534,
+        "value": 0.0000532,
         "subfield": {
           "id": "https://openalex.org/subfields/2505",
           "display_name": "Materials Chemistry"
@@ -418,7 +418,7 @@
       {
         "id": "https://openalex.org/T12612",
         "display_name": "Strong Light-Matter Interactions",
-        "value": 0.0000515,
+        "value": 0.0000514,
         "subfield": {
           "id": "https://openalex.org/subfields/3107",
           "display_name": "Atomic and Molecular Physics, and Optics"
@@ -435,7 +435,7 @@
       {
         "id": "https://openalex.org/T11341",
         "display_name": "Boron and Carbon Nanomaterials Research",
-        "value": 0.0000479,
+        "value": 0.0000478,
         "subfield": {
           "id": "https://openalex.org/subfields/2505",
           "display_name": "Materials Chemistry"
@@ -517,7 +517,7 @@
         "year": 2021,
         "works_count": 7,
         "oa_works_count": 7,
-        "cited_by_count": 441
+        "cited_by_count": 442
       },
       {
         "year": 2022,
@@ -560,7 +560,7 @@
     },
     "block_key": "c tantardini",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5022893471",
-    "updated_date": "2026-02-26T12:20:15",
+    "updated_date": "2026-02-28T12:20:11",
     "created_date": "2017-10-06T00:00:00"
   },
   "works": [
@@ -733,11 +733,11 @@
         "currency": "GBP",
         "value_usd": 4808
       },
-      "fwci": 25.9448,
+      "fwci": 25.9652,
       "has_fulltext": true,
       "cited_by_count": 357,
       "citation_normalized_percentile": {
-        "value": 0.99887516,
+        "value": 0.99887606,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1160,7 +1160,336 @@
         "https://openalex.org/W2078814861",
         "https://openalex.org/W2074507056"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "118": [
+          116
+        ],
+        "Electronegativity": [
+          0
+        ],
+        "is": [
+          1,
+          74
+        ],
+        "a": [
+          2
+        ],
+        "key": [
+          3
+        ],
+        "property": [
+          4
+        ],
+        "of": [
+          5,
+          16,
+          24,
+          30,
+          43,
+          66,
+          68,
+          83,
+          92,
+          124
+        ],
+        "the": [
+          6,
+          25,
+          28,
+          75,
+          90,
+          115
+        ],
+        "elements.": [
+          7
+        ],
+        "Being": [
+          8
+        ],
+        "useful": [
+          9
+        ],
+        "in": [
+          10,
+          27,
+          89
+        ],
+        "rationalizing": [
+          11
+        ],
+        "stability,": [
+          12
+        ],
+        "structure": [
+          13
+        ],
+        "and": [
+          14,
+          18,
+          33,
+          37,
+          64,
+          118,
+          130
+        ],
+        "properties": [
+          15
+        ],
+        "molecules": [
+          17
+        ],
+        "solids,": [
+          19
+        ],
+        "it": [
+          20
+        ],
+        "has": [
+          21
+        ],
+        "shaped": [
+          22
+        ],
+        "much": [
+          23
+        ],
+        "thinking": [
+          26
+        ],
+        "fields": [
+          29
+        ],
+        "structural": [
+          31
+        ],
+        "chemistry": [
+          32,
+          36
+        ],
+        "solid": [
+          34
+        ],
+        "state": [
+          35
+        ],
+        "physics.": [
+          38
+        ],
+        "There": [
+          39
+        ],
+        "are": [
+          40,
+          54,
+          105
+        ],
+        "many": [
+          41
+        ],
+        "definitions": [
+          42
+        ],
+        "electronegativity,": [
+          44
+        ],
+        "which": [
+          45
+        ],
+        "can": [
+          46
+        ],
+        "be": [
+          47
+        ],
+        "roughly": [
+          48
+        ],
+        "classified": [
+          49
+        ],
+        "as": [
+          50
+        ],
+        "either": [
+          51
+        ],
+        "spectroscopic": [
+          52
+        ],
+        "(these": [
+          53
+        ],
+        "defined": [
+          55
+        ],
+        "for": [
+          56,
+          114
+        ],
+        "isolated": [
+          57
+        ],
+        "atoms)": [
+          58
+        ],
+        "or": [
+          59
+        ],
+        "thermochemical": [
+          60,
+          76,
+          101
+        ],
+        "(characterizing": [
+          61
+        ],
+        "bond": [
+          62,
+          128
+        ],
+        "energies": [
+          63
+        ],
+        "heats": [
+          65
+        ],
+        "formation": [
+          67
+        ],
+        "compounds).": [
+          69
+        ],
+        "The": [
+          70
+        ],
+        "most": [
+          71
+        ],
+        "widely": [
+          72
+        ],
+        "used": [
+          73
+        ],
+        "Pauling's": [
+          77,
+          93
+        ],
+        "scale,": [
+          78,
+          102
+        ],
+        "where": [
+          79,
+          103
+        ],
+        "electronegativities": [
+          80,
+          104
+        ],
+        "have": [
+          81
+        ],
+        "units": [
+          82
+        ],
+        "eV<sup>-1/2</sup>.": [
+          84
+        ],
+        "Here": [
+          85
+        ],
+        "we": [
+          86
+        ],
+        "identify": [
+          87
+        ],
+        "drawbacks": [
+          88
+        ],
+        "definition": [
+          91
+        ],
+        "electronegativity": [
+          94
+        ],
+        "scale-and,": [
+          95
+        ],
+        "correcting": [
+          96
+        ],
+        "them,": [
+          97
+        ],
+        "arrive": [
+          98
+        ],
+        "at": [
+          99
+        ],
+        "our": [
+          100
+        ],
+        "dimensionless": [
+          106
+        ],
+        "numbers.": [
+          107
+        ],
+        "Our": [
+          108
+        ],
+        "scale": [
+          109
+        ],
+        "displays": [
+          110
+        ],
+        "intuitively": [
+          111
+        ],
+        "correct": [
+          112
+        ],
+        "trends": [
+          113
+        ],
+        "elements": [
+          117
+        ],
+        "leads": [
+          119
+        ],
+        "to": [
+          120
+        ],
+        "an": [
+          121
+        ],
+        "improved": [
+          122
+        ],
+        "description": [
+          123
+        ],
+        "chemical": [
+          125
+        ],
+        "bonding": [
+          126
+        ],
+        "(e.g.,": [
+          127
+        ],
+        "polarity)": [
+          129
+        ],
+        "thermochemistry.": [
+          131
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -1187,7 +1516,7 @@
           "cited_by_count": 23
         }
       ],
-      "updated_date": "2026-02-27T16:54:17.756197",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3414,9 +3743,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/16",
           "display_name": "Peace, Justice and strong institutions",
-          "score": 0.6800000071525574,
-          "id": "https://metadata.un.org/sdg/16"
+          "score": 0.6800000071525574
         }
       ],
       "awards": [
@@ -3942,11 +4271,11 @@
         "currency": "USD",
         "value_usd": 2810
       },
-      "fwci": 1.2262,
+      "fwci": 1.2249,
       "has_fulltext": true,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.82702191,
+        "value": 0.82665146,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4336,9 +4665,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [
@@ -4434,7 +4763,614 @@
         "https://openalex.org/W2044964419",
         "https://openalex.org/W2023587177"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "61": [
+          152
+        ],
+        "635": [
+          228
+        ],
+        "Hardness": [
+          0
+        ],
+        "is": [
+          1,
+          30,
+          57,
+          106,
+          196
+        ],
+        "a": [
+          2,
+          46,
+          73,
+          84,
+          91,
+          135,
+          197,
+          211
+        ],
+        "materials’": [
+          3
+        ],
+        "property": [
+          4,
+          24,
+          163
+        ],
+        "with": [
+          5,
+          66,
+          169,
+          204,
+          243
+        ],
+        "implications": [
+          6
+        ],
+        "in": [
+          7,
+          33,
+          45,
+          72
+        ],
+        "several": [
+          8,
+          37,
+          130
+        ],
+        "industrial": [
+          9
+        ],
+        "fields,": [
+          10
+        ],
+        "including": [
+          11
+        ],
+        "oil": [
+          12
+        ],
+        "and": [
+          13,
+          16,
+          25,
+          32,
+          114,
+          183,
+          191,
+          219,
+          254
+        ],
+        "gas,": [
+          14
+        ],
+        "manufacturing,": [
+          15
+        ],
+        "others.": [
+          17
+        ],
+        "However,": [
+          18
+        ],
+        "the": [
+          19,
+          34,
+          143,
+          161,
+          175,
+          201,
+          205,
+          232,
+          236
+        ],
+        "relationship": [
+          20,
+          56
+        ],
+        "between": [
+          21
+        ],
+        "this": [
+          22,
+          79
+        ],
+        "macroscale": [
+          23
+        ],
+        "atomic": [
+          26
+        ],
+        "(i.e.,": [
+          27,
+          164
+        ],
+        "microscale)": [
+          28
+        ],
+        "properties": [
+          29
+        ],
+        "unknown": [
+          31
+        ],
+        "last": [
+          35
+        ],
+        "decade": [
+          36
+        ],
+        "models": [
+          38
+        ],
+        "have": [
+          39,
+          82,
+          173
+        ],
+        "unsuccessfully": [
+          40
+        ],
+        "tried": [
+          41
+        ],
+        "to": [
+          42,
+          69,
+          124
+        ],
+        "correlate": [
+          43
+        ],
+        "them": [
+          44
+        ],
+        "wide": [
+          47,
+          74
+        ],
+        "range": [
+          48,
+          75
+        ],
+        "of": [
+          49,
+          54,
+          58,
+          63,
+          76,
+          126,
+          137,
+          167,
+          178,
+          200,
+          213,
+          224,
+          227,
+          238
+        ],
+        "chemical": [
+          50
+        ],
+        "space.": [
+          51
+        ],
+        "The": [
+          52,
+          154,
+          193
+        ],
+        "understanding": [
+          53
+        ],
+        "such": [
+          55
+        ],
+        "fundamental": [
+          59
+        ],
+        "importance": [
+          60
+        ],
+        "for": [
+          61,
+          87,
+          111,
+          151,
+          180
+        ],
+        "discovery": [
+          62
+        ],
+        "harder": [
+          64,
+          244
+        ],
+        "materials": [
+          65,
+          230
+        ],
+        "specific": [
+          67
+        ],
+        "characteristics": [
+          68
+        ],
+        "be": [
+          70
+        ],
+        "employed": [
+          71
+        ],
+        "fields.": [
+          77
+        ],
+        "In": [
+          78,
+          140
+        ],
+        "work,": [
+          80
+        ],
+        "we": [
+          81
+        ],
+        "found": [
+          83,
+          194,
+          233
+        ],
+        "physical": [
+          85
+        ],
+        "descriptor": [
+          86,
+          195,
+          234
+        ],
+        "Vickers": [
+          88
+        ],
+        "hardness": [
+          89,
+          179,
+          240
+        ],
+        "using": [
+          90,
+          231
+        ],
+        "symbolic-regression": [
+          92
+        ],
+        "artificial-intelligence": [
+          93,
+          108
+        ],
+        "approach": [
+          94
+        ],
+        "based": [
+          95
+        ],
+        "on": [
+          96
+        ],
+        "compressed": [
+          97
+        ],
+        "sensing.": [
+          98
+        ],
+        "SISSO": [
+          99,
+          157
+        ],
+        "(Sure": [
+          100
+        ],
+        "Independence": [
+          101
+        ],
+        "Screening": [
+          102
+        ],
+        "plus": [
+          103
+        ],
+        "Sparsifying": [
+          104
+        ],
+        "Operator)": [
+          105
+        ],
+        "an": [
+          107
+        ],
+        "algorithm": [
+          109
+        ],
+        "used": [
+          110
+        ],
+        "discovering": [
+          112
+        ],
+        "simple": [
+          113
+        ],
+        "interpretable": [
+          115
+        ],
+        "predictive": [
+          116
+        ],
+        "models.": [
+          117
+        ],
+        "It": [
+          118
+        ],
+        "performs": [
+          119
+        ],
+        "feature": [
+          120
+        ],
+        "selection": [
+          121
+        ],
+        "from": [
+          122,
+          129,
+          148,
+          210
+        ],
+        "up": [
+          123
+        ],
+        "billions": [
+          125
+        ],
+        "candidates": [
+          127
+        ],
+        "obtained": [
+          128,
+          147
+        ],
+        "primary": [
+          131,
+          144
+        ],
+        "features": [
+          132,
+          145
+        ],
+        "by": [
+          133
+        ],
+        "applying": [
+          134
+        ],
+        "set": [
+          136
+        ],
+        "mathematical": [
+          138
+        ],
+        "operators.": [
+          139
+        ],
+        "our": [
+          141
+        ],
+        "work": [
+          142
+        ],
+        "are": [
+          146
+        ],
+        "atomistic": [
+          149
+        ],
+        "simulations": [
+          150
+        ],
+        "materials.": [
+          153
+        ],
+        "resulting": [
+          155
+        ],
+        "sparse": [
+          156
+        ],
+        "model": [
+          158
+        ],
+        "accurately": [
+          159
+        ],
+        "describes": [
+          160
+        ],
+        "target": [
+          162
+        ],
+        "experimental": [
+          165,
+          176
+        ],
+        "values": [
+          166,
+          177
+        ],
+        "hardness)": [
+          168
+        ],
+        "minimal": [
+          170
+        ],
+        "complexity.": [
+          171
+        ],
+        "We": [
+          172
+        ],
+        "considered": [
+          174
+        ],
+        "binary,": [
+          181
+        ],
+        "ternary,": [
+          182
+        ],
+        "quaternary": [
+          184
+        ],
+        "transition-metal": [
+          185
+        ],
+        "borides,": [
+          186
+        ],
+        "carbides,": [
+          187
+        ],
+        "nitrides,": [
+          188
+        ],
+        "carbonitrides,": [
+          189
+        ],
+        "carboborides,": [
+          190
+        ],
+        "boronitrides.": [
+          192
+        ],
+        "non-linear": [
+          198
+        ],
+        "function": [
+          199
+        ],
+        "microscopic": [
+          202
+        ],
+        "properties,": [
+          203
+        ],
+        "most": [
+          206
+        ],
+        "significant": [
+          207
+        ],
+        "contribution": [
+          208
+        ],
+        "being": [
+          209
+        ],
+        "combination": [
+          212
+        ],
+        "Voigt-averaged": [
+          214
+        ],
+        "bulk": [
+          215
+        ],
+        "modulus,": [
+          216
+        ],
+        "Poisson’s": [
+          217
+        ],
+        "ratio,": [
+          218
+        ],
+        "Reuss-averaged": [
+          220
+        ],
+        "shear": [
+          221
+        ],
+        "modulus.": [
+          222
+        ],
+        "Results": [
+          223
+        ],
+        "high-throughput": [
+          225
+        ],
+        "screening": [
+          226
+        ],
+        "candidate": [
+          229
+        ],
+        "suggest": [
+          235
+        ],
+        "enhancement": [
+          237
+        ],
+        "material’s": [
+          239
+        ],
+        "through": [
+          241
+        ],
+        "mixing": [
+          242
+        ],
+        "yet": [
+          245
+        ],
+        "metastable": [
+          246,
+          249
+        ],
+        "structures": [
+          247
+        ],
+        "(e.g.,": [
+          248
+        ],
+        "VN,": [
+          250
+        ],
+        "TaN,": [
+          251
+        ],
+        "ReN2,": [
+          252
+        ],
+        "Cr3N4,": [
+          253
+        ],
+        "ZrB6": [
+          255
+        ],
+        "all": [
+          256
+        ],
+        "exhibit": [
+          257
+        ],
+        "high": [
+          258
+        ],
+        "hardness).": [
+          259
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -4449,7 +5385,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-02-27T16:54:17.756197",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6114,9 +7050,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
@@ -11224,9 +12160,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.4699999988079071
         }
       ],
       "awards": [
@@ -16979,9 +17915,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.6700000166893005,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6700000166893005
         }
       ],
       "awards": [
@@ -17510,11 +18446,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 2.2464,
+      "fwci": 2.2355,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.87790745,
+        "value": 0.8769242,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18029,14 +18965,398 @@
         "https://openalex.org/W2158189069",
         "https://openalex.org/W2023694513"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "30": [
+          137
+        ],
+        "3580": [
+          135
+        ],
+        "The": [
+          0,
+          130,
+          143
+        ],
+        "melting": [
+          1,
+          61,
+          81,
+          124,
+          132,
+          145
+        ],
+        "temperature": [
+          2,
+          62,
+          125,
+          133
+        ],
+        "is": [
+          3
+        ],
+        "a": [
+          4,
+          23,
+          84,
+          156
+        ],
+        "crucial": [
+          5
+        ],
+        "property": [
+          6
+        ],
+        "of": [
+          7,
+          32,
+          70,
+          89,
+          97,
+          103,
+          110,
+          118,
+          122,
+          134,
+          147,
+          153,
+          161,
+          164
+        ],
+        "materials": [
+          8
+        ],
+        "that": [
+          9
+        ],
+        "determines": [
+          10
+        ],
+        "their": [
+          11
+        ],
+        "potential": [
+          12,
+          27
+        ],
+        "applications": [
+          13
+        ],
+        "in": [
+          14,
+          37,
+          75,
+          91,
+          105
+        ],
+        "different": [
+          15
+        ],
+        "industrial": [
+          16
+        ],
+        "fields.": [
+          17
+        ],
+        "In": [
+          18
+        ],
+        "this": [
+          19
+        ],
+        "study,": [
+          20
+        ],
+        "we": [
+          21
+        ],
+        "used": [
+          22
+        ],
+        "deep": [
+          24
+        ],
+        "neural": [
+          25
+        ],
+        "network": [
+          26
+        ],
+        "to": [
+          28,
+          47,
+          58,
+          79,
+          114,
+          140
+        ],
+        "describe": [
+          29
+        ],
+        "the": [
+          30,
+          55,
+          60,
+          92,
+          106,
+          116,
+          119,
+          123,
+          151
+        ],
+        "structure": [
+          31,
+          65
+        ],
+        "high-entropy": [
+          33,
+          148
+        ],
+        "(TiZrTaHfNb)C<sub>x</sub>N<sub>1-x</sub>": [
+          34
+        ],
+        "carbonitrides": [
+          35
+        ],
+        "(HECN)": [
+          36
+        ],
+        "both": [
+          38
+        ],
+        "solid": [
+          39
+        ],
+        "and": [
+          40,
+          50,
+          63,
+          166
+        ],
+        "liquid": [
+          41,
+          108
+        ],
+        "states.": [
+          42
+        ],
+        "This": [
+          43
+        ],
+        "approach": [
+          44
+        ],
+        "allows": [
+          45,
+          112
+        ],
+        "us": [
+          46,
+          113
+        ],
+        "predict": [
+          48
+        ],
+        "heating": [
+          49
+        ],
+        "cooling": [
+          51
+        ],
+        "temperatures": [
+          52
+        ],
+        "depending": [
+          53
+        ],
+        "on": [
+          54
+        ],
+        "nitrogen": [
+          56,
+          76,
+          90,
+          128,
+          154
+        ],
+        "content": [
+          57,
+          77
+        ],
+        "determine": [
+          59
+        ],
+        "analyze": [
+          64
+        ],
+        "changes": [
+          66
+        ],
+        "from": [
+          67
+        ],
+        "atomistic": [
+          68
+        ],
+        "point": [
+          69
+        ],
+        "view.": [
+          71
+        ],
+        "A": [
+          72,
+          94
+        ],
+        "steady": [
+          73
+        ],
+        "increase": [
+          74
+        ],
+        "leads": [
+          78
+        ],
+        "increasing": [
+          80,
+          127
+        ],
+        "temperature,": [
+          82
+        ],
+        "with": [
+          83,
+          101,
+          126
+        ],
+        "maximum": [
+          85,
+          131
+        ],
+        "approaching": [
+          86
+        ],
+        "for": [
+          87
+        ],
+        "25%": [
+          88
+        ],
+        "HECN.": [
+          93
+        ],
+        "careful": [
+          95
+        ],
+        "analysis": [
+          96
+        ],
+        "pair": [
+          98
+        ],
+        "correlations,": [
+          99
+        ],
+        "together": [
+          100
+        ],
+        "calculations": [
+          102
+        ],
+        "entropy": [
+          104
+        ],
+        "considered": [
+          107
+        ],
+        "phases": [
+          109
+        ],
+        "HECNs": [
+          111
+        ],
+        "explain": [
+          115
+        ],
+        "origin": [
+          117
+        ],
+        "nonlinear": [
+          120
+        ],
+        "enhancement": [
+          121
+        ],
+        "content.": [
+          129
+        ],
+        "±": [
+          136
+        ],
+        "K": [
+          138
+        ],
+        "belongs": [
+          139
+        ],
+        "(TiZrTaHfNb)C<sub>0.75</sub>N<sub>0.25</sub>": [
+          141
+        ],
+        "composition.": [
+          142
+        ],
+        "improved": [
+          144
+        ],
+        "behavior": [
+          146
+        ],
+        "compounds": [
+          149
+        ],
+        "by": [
+          150
+        ],
+        "addition": [
+          152
+        ],
+        "provides": [
+          155
+        ],
+        "promising": [
+          157
+        ],
+        "way": [
+          158
+        ],
+        "towards": [
+          159
+        ],
+        "modification": [
+          160
+        ],
+        "thermal": [
+          162
+        ],
+        "properties": [
+          163
+        ],
+        "functional": [
+          165
+        ],
+        "constructional": [
+          167
+        ],
+        "materials.": [
+          168
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18918,9 +20238,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/16",
           "display_name": "Peace, Justice and strong institutions",
-          "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/16"
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
@@ -19388,11 +20708,11 @@
         "currency": "USD",
         "value_usd": 3670
       },
-      "fwci": 0.489,
+      "fwci": 0.4886,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.55194436,
+        "value": 0.55167399,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19871,586 +21191,7 @@
         "https://openalex.org/W1997699652",
         "https://openalex.org/W2018231156"
       ],
-      "abstract_inverted_index": {
-        "In": [
-          0,
-          92,
-          108
-        ],
-        "the": [
-          1,
-          15,
-          34,
-          173,
-          195,
-          202,
-          217,
-          230
-        ],
-        "last": [
-          2
-        ],
-        "decades,": [
-          3
-        ],
-        "material": [
-          4
-        ],
-        "discovery": [
-          5
-        ],
-        "has": [
-          6,
-          26
-        ],
-        "been": [
-          7,
-          66
-        ],
-        "a": [
-          8,
-          113,
-          192
-        ],
-        "very": [
-          9
-        ],
-        "active": [
-          10
-        ],
-        "research": [
-          11
-        ],
-        "field": [
-          12
-        ],
-        "driven": [
-          13
-        ],
-        "by": [
-          14,
-          147,
-          161
-        ],
-        "need": [
-          16
-        ],
-        "to": [
-          17,
-          60,
-          96,
-          185,
-          194
-        ],
-        "find": [
-          18
-        ],
-        "new": [
-          19,
-          53
-        ],
-        "materials": [
-          20,
-          29
-        ],
-        "for": [
-          21,
-          124,
-          130,
-          152,
-          201,
-          228,
-          235
-        ],
-        "many": [
-          22
-        ],
-        "different": [
-          23,
-          132
-        ],
-        "applications.": [
-          24,
-          51
-        ],
-        "This": [
-          25,
-          189
-        ],
-        "also": [
-          27,
-          86,
-          233
-        ],
-        "included": [
-          28
-        ],
-        "with": [
-          30,
-          100,
-          155,
-          158,
-          172
-        ],
-        "heavy": [
-          31,
-          54
-        ],
-        "elements,": [
-          32,
-          129
-        ],
-        "beyond": [
-          33,
-          56
-        ],
-        "stable": [
-          35
-        ],
-        "isotopes": [
-          36
-        ],
-        "of": [
-          37,
-          72,
-          80,
-          88,
-          115,
-          142,
-          150
-        ],
-        "lead,": [
-          38
-        ],
-        "as": [
-          39,
-          61
-        ],
-        "most": [
-          40
-        ],
-        "actinides": [
-          41,
-          126
-        ],
-        "exhibit": [
-          42
-        ],
-        "unique": [
-          43
-        ],
-        "properties": [
-          44
-        ],
-        "that": [
-          45
-        ],
-        "make": [
-          46
-        ],
-        "them": [
-          47
-        ],
-        "useful": [
-          48
-        ],
-        "in": [
-          49,
-          94,
-          198,
-          221
-        ],
-        "various": [
-          50
-        ],
-        "Furthermore,": [
-          52
-        ],
-        "elements": [
-          55,
-          63
-        ],
-        "actinides,": [
-          57
-        ],
-        "collectively": [
-          58
-        ],
-        "referred": [
-          59
-        ],
-        "super-heavy": [
-          62,
-          128
-        ],
-        "(SHEs),": [
-          64
-        ],
-        "have": [
-          65
-        ],
-        "synthesized,": [
-          67
-        ],
-        "filling": [
-          68
-        ],
-        "previously": [
-          69
-        ],
-        "empty": [
-          70
-        ],
-        "space": [
-          71
-        ],
-        "Mendeleev": [
-          73
-        ],
-        "periodic": [
-          74,
-          204
-        ],
-        "table.": [
-          75
-        ],
-        "Their": [
-          76
-        ],
-        "chemical": [
-          77
-        ],
-        "bonding": [
-          78
-        ],
-        "behaviour,": [
-          79
-        ],
-        "academic": [
-          81
-        ],
-        "interest": [
-          82
-        ],
-        "at": [
-          83
-        ],
-        "present,": [
-          84
-        ],
-        "would": [
-          85
-        ],
-        "benefit": [
-          87
-        ],
-        "state-of-the-art": [
-          89
-        ],
-        "modelling": [
-          90
-        ],
-        "approaches.": [
-          91
-        ],
-        "particular,": [
-          93
-        ],
-        "order": [
-          95
-        ],
-        "perform": [
-          97
-        ],
-        "first-principles": [
-          98
-        ],
-        "calculations": [
-          99
-        ],
-        "planewave": [
-          101
-        ],
-        "basis": [
-          102
-        ],
-        "sets,": [
-          103
-        ],
-        "one": [
-          104
-        ],
-        "needs": [
-          105
-        ],
-        "corresponding": [
-          106
-        ],
-        "pseudopotentials.": [
-          107,
-          188
-        ],
-        "this": [
-          109
-        ],
-        "work,": [
-          110
-        ],
-        "we": [
-          111
-        ],
-        "present": [
-          112
-        ],
-        "series": [
-          114
-        ],
-        "scalar-": [
-          116
-        ],
-        "and": [
-          117,
-          127,
-          137,
-          180,
-          208,
-          223
-        ],
-        "fully-relativistic": [
-          118
-        ],
-        "optimised": [
-          119
-        ],
-        "norm-conserving": [
-          120
-        ],
-        "Vanderbilt": [
-          121
-        ],
-        "pseudopotentials": [
-          122,
-          200
-        ],
-        "(ONCVPs)": [
-          123
-        ],
-        "thirty-four": [
-          125
-        ],
-        "three": [
-          131
-        ],
-        "exchange-correlation": [
-          133
-        ],
-        "functionals": [
-          134
-        ],
-        "(PBE,": [
-          135
-        ],
-        "PBEsol": [
-          136
-        ],
-        "LDA).": [
-          138
-        ],
-        "The": [
-          139,
-          211
-        ],
-        "scalar-relativistic": [
-          140
-        ],
-        "version": [
-          141
-        ],
-        "these": [
-          143,
-          187
-        ],
-        "ONCVPs": [
-          144
-        ],
-        "is": [
-          145,
-          191
-        ],
-        "tested": [
-          146
-        ],
-        "comparing": [
-          148
-        ],
-        "equations": [
-          149
-        ],
-        "states": [
-          151
-        ],
-        "crystals,": [
-          153
-        ],
-        "obtained": [
-          154,
-          160
-        ],
-        "abinit": [
-          156
-        ],
-        "9.6,": [
-          157
-        ],
-        "those": [
-          159
-        ],
-        "all-electron": [
-          162
-        ],
-        "zeroth-order": [
-          163
-        ],
-        "regular": [
-          164
-        ],
-        "approximation": [
-          165
-        ],
-        "(ZORA)": [
-          166
-        ],
-        "calculations,": [
-          167
-        ],
-        "without": [
-          168
-        ],
-        "spin-orbit": [
-          169
-        ],
-        "coupling,": [
-          170
-        ],
-        "performed": [
-          171
-        ],
-        "Amsterdam": [
-          174
-        ],
-        "Modelling": [
-          175
-        ],
-        "Suite": [
-          176
-        ],
-        "band": [
-          177
-        ],
-        "code.": [
-          178
-        ],
-        "Δ-Gauge": [
-          179
-        ],
-        "Δ1-Gauge": [
-          181
-        ],
-        "indicators": [
-          182
-        ],
-        "are": [
-          183,
-          206,
-          214
-        ],
-        "used": [
-          184
-        ],
-        "validate": [
-          186
-        ],
-        "work": [
-          190
-        ],
-        "contribution": [
-          193
-        ],
-        "PseudoDojo": [
-          196,
-          218
-        ],
-        "project,": [
-          197
-        ],
-        "which": [
-          199
-        ],
-        "whole": [
-          203
-        ],
-        "table": [
-          205
-        ],
-        "developed": [
-          207
-        ],
-        "systematically": [
-          209
-        ],
-        "tested.": [
-          210
-        ],
-        "pseudopotential": [
-          212
-        ],
-        "files": [
-          213
-        ],
-        "available": [
-          215
-        ],
-        "on": [
-          216
-        ],
-        "web-interface": [
-          219
-        ],
-        "pseudo-dojo.org": [
-          220
-        ],
-        "psp8": [
-          222
-        ],
-        "UPF2": [
-          224
-        ],
-        "formats,": [
-          225
-        ],
-        "both": [
-          226
-        ],
-        "suitable": [
-          227,
-          234
-        ],
-        "abinit,": [
-          229
-        ],
-        "latter": [
-          231
-        ],
-        "being": [
-          232
-        ],
-        "Quantum": [
-          236
-        ],
-        "ESPRESSO.": [
-          237
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -20465,7 +21206,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-28T09:26:25.869077",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22801,9 +23542,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.6000000238418579
         }
       ],
       "awards": [
@@ -23720,9 +24461,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.7599999904632568
         }
       ],
       "awards": [
@@ -24294,9 +25035,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
@@ -25543,9 +26284,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -29611,9 +30352,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.7900000214576721,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.7900000214576721
         }
       ],
       "awards": [
@@ -30886,9 +31627,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -32636,9 +33377,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/2"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -34969,9 +35710,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [
@@ -37647,9 +38388,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.6100000143051147
         }
       ],
       "awards": [],
@@ -38690,9 +39431,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -40033,9 +40774,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/17",
           "display_name": "Partnerships for the goals",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/17"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -44982,9 +45723,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.4399999976158142
         }
       ],
       "awards": [
@@ -47357,9 +48098,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.7099999785423279
         }
       ],
       "awards": [
@@ -56090,9 +56831,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.5400000214576721
         }
       ],
       "awards": [],
@@ -58271,9 +59012,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
@@ -60611,9 +61352,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.7400000095367432,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
@@ -66058,9 +66799,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -73478,9 +74219,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -74131,9 +74872,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
@@ -84506,9 +85247,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.40414997935295105,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.40414997935295105
         }
       ],
       "awards": [],

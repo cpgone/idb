@@ -862,9 +862,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Decent work and economic growth",
           "id": "https://metadata.un.org/sdg/8",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Decent work and economic growth"
         }
       ],
       "awards": [],
@@ -3640,9 +3640,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -5574,9 +5574,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -11396,9 +11396,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -12545,11 +12545,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 1.1195,
+      "fwci": 1.1178,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.72743288,
+        "value": 0.72706924,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13020,580 +13020,14 @@
         "https://openalex.org/W2380211668",
         "https://openalex.org/W2062545270"
       ],
-      "abstract_inverted_index": {
-        "15": [
-          105
-        ],
-        "72": [
-          157
-        ],
-        "75": [
-          163
-        ],
-        "Diammonium": [
-          0
-        ],
-        "phosphate": [
-          1
-        ],
-        "(DAP)": [
-          2
-        ],
-        "has": [
-          3
-        ],
-        "been": [
-          4
-        ],
-        "proven": [
-          5
-        ],
-        "effective": [
-          6
-        ],
-        "in": [
-          7,
-          27,
-          121,
-          146,
-          226
-        ],
-        "improving": [
-          8,
-          230
-        ],
-        "the": [
-          9,
-          40,
-          58,
-          67,
-          75,
-          88,
-          111,
-          135,
-          142,
-          166,
-          173,
-          188,
-          198,
-          201,
-          207,
-          213
-        ],
-        "stiffness": [
-          10,
-          68,
-          91,
-          127,
-          144
-        ],
-        "of": [
-          11,
-          70,
-          80,
-          90,
-          195
-        ],
-        "weak": [
-          12,
-          227
-        ],
-        "or": [
-          13
-        ],
-        "acid-damaged": [
-          14
-        ],
-        "carbonates,": [
-          15
-        ],
-        "thereby": [
-          16
-        ],
-        "preserving": [
-          17
-        ],
-        "hydraulic": [
-          18,
-          223
-        ],
-        "fracture": [
-          19
-        ],
-        "conductivity.": [
-          20
-        ],
-        "The": [
-          21,
-          85,
-          102,
-          124,
-          138,
-          175,
-          217
-        ],
-        "reaction": [
-          22,
-          42,
-          53,
-          60,
-          108
-        ],
-        "between": [
-          23
-        ],
-        "DAP": [
-          24,
-          50
-        ],
-        "and": [
-          25,
-          52,
-          63,
-          78,
-          98,
-          116,
-          132,
-          162,
-          233
-        ],
-        "calcite": [
-          26
-        ],
-        "chalk": [
-          28
-        ],
-        "formations": [
-          29
-        ],
-        "primarily": [
-          30
-        ],
-        "produces": [
-          31
-        ],
-        "hydroxyapatite": [
-          32
-        ],
-        "(HAP),": [
-          33
-        ],
-        "which": [
-          34
-        ],
-        "is": [
-          35
-        ],
-        "stiffer": [
-          36
-        ],
-        "than": [
-          37
-        ],
-        "calcite.": [
-          38
-        ],
-        "However,": [
-          39,
-          165
-        ],
-        "optimal": [
-          41
-        ],
-        "outcomes": [
-          43
-        ],
-        "vary": [
-          44
-        ],
-        "greatly": [
-          45
-        ],
-        "with": [
-          46,
-          150
-        ],
-        "factors": [
-          47
-        ],
-        "such": [
-          48
-        ],
-        "as": [
-          49,
-          210
-        ],
-        "concentration": [
-          51
-        ],
-        "conditions.": [
-          54,
-          186
-        ],
-        "This": [
-          55
-        ],
-        "study": [
-          56,
-          86,
-          103
-        ],
-        "investigated": [
-          57
-        ],
-        "DAP-calcite": [
-          59
-        ],
-        "duration,": [
-          61
-        ],
-        "pressure,": [
-          62,
-          112
-        ],
-        "temperature": [
-          64
-        ],
-        "effects": [
-          65
-        ],
-        "on": [
-          66
-        ],
-        "magnitude": [
-          69
-        ],
-        "soft": [
-          71
-        ],
-        "Austin": [
-          72
-        ],
-        "chalk.": [
-          73
-        ],
-        "Also,": [
-          74
-        ],
-        "catalyst": [
-          76,
-          117
-        ],
-        "effect": [
-          77,
-          168
-        ],
-        "depth": [
-          79
-        ],
-        "HAP": [
-          81,
-          180
-        ],
-        "formation": [
-          82
-        ],
-        "were": [
-          83,
-          119,
-          129
-        ],
-        "examined.": [
-          84
-        ],
-        "involved": [
-          87
-        ],
-        "assessment": [
-          89
-        ],
-        "non-destructively": [
-          92
-        ],
-        "(impulse": [
-          93
-        ],
-        "hammering),": [
-          94
-        ],
-        "mineralogy": [
-          95
-        ],
-        "(XRD,": [
-          96
-        ],
-        "SEM),": [
-          97
-        ],
-        "elemental": [
-          99,
-          215
-        ],
-        "composition": [
-          100
-        ],
-        "(XRF).": [
-          101
-        ],
-        "tested": [
-          104
-        ],
-        "different": [
-          106,
-          179,
-          184
-        ],
-        "DAP-chalk": [
-          107
-        ],
-        "variations,": [
-          109
-        ],
-        "where": [
-          110
-        ],
-        "temperature,": [
-          113
-        ],
-        "aging": [
-          114
-        ],
-        "time": [
-          115
-        ],
-        "addition": [
-          118
-        ],
-        "modified": [
-          120
-        ],
-        "each": [
-          122
-        ],
-        "case.": [
-          123
-        ],
-        "samples'": [
-          125
-        ],
-        "elastic": [
-          126,
-          143
-        ],
-        "distributions": [
-          128
-        ],
-        "then": [
-          130
-        ],
-        "collected": [
-          131
-        ],
-        "compared": [
-          133,
-          171
-        ],
-        "to": [
-          134,
-          172,
-          183
-        ],
-        "pre-reaction": [
-          136
-        ],
-        "ones.": [
-          137
-        ],
-        "results": [
-          139
-        ],
-        "showed": [
-          140,
-          191
-        ],
-        "that": [
-          141
-        ],
-        "increased": [
-          145,
-          193
-        ],
-        "all": [
-          147
-        ],
-        "treated": [
-          148,
-          189
-        ],
-        "samples,": [
-          149
-        ],
-        "an": [
-          151,
-          192
-        ],
-        "181%": [
-          152
-        ],
-        "maximum": [
-          153
-        ],
-        "increase": [
-          154
-        ],
-        "achieved": [
-          155
-        ],
-        "after": [
-          156
-        ],
-        "h": [
-          158
-        ],
-        "at": [
-          159
-        ],
-        "6.9": [
-          160
-        ],
-        "MPa": [
-          161
-        ],
-        "°C.": [
-          164
-        ],
-        "pressure": [
-          167
-        ],
-        "was": [
-          169,
-          206
-        ],
-        "minor": [
-          170
-        ],
-        "temperature.": [
-          174
-        ],
-        "SEM": [
-          176
-        ],
-        "images": [
-          177
-        ],
-        "revealed": [
-          178
-        ],
-        "morphology": [
-          181
-        ],
-        "corresponding": [
-          182
-        ],
-        "treatment": [
-          185
-        ],
-        "Although": [
-          187
-        ],
-        "samples": [
-          190
-        ],
-        "intensity": [
-          194
-        ],
-        "phosphorus": [
-          196
-        ],
-        "throughout": [
-          197
-        ],
-        "entire": [
-          199
-        ],
-        "sample,": [
-          200
-        ],
-        "near-surface": [
-          202
-        ],
-        "zone": [
-          203
-        ],
-        "(4-6": [
-          204
-        ],
-        "mm)": [
-          205
-        ],
-        "most": [
-          208
-        ],
-        "affected,": [
-          209
-        ],
-        "inferred": [
-          211
-        ],
-        "from": [
-          212
-        ],
-        "XRF": [
-          214
-        ],
-        "analysis.": [
-          216
-        ],
-        "study's": [
-          218
-        ],
-        "findings": [
-          219
-        ],
-        "can": [
-          220
-        ],
-        "help": [
-          221
-        ],
-        "optimize": [
-          222
-        ],
-        "fracturing": [
-          224
-        ],
-        "operations": [
-          225
-        ],
-        "carbonate": [
-          228
-        ],
-        "reservoirs,": [
-          229
-        ],
-        "production": [
-          231
-        ],
-        "rates": [
-          232
-        ],
-        "overall": [
-          234
-        ],
-        "well": [
-          235
-        ],
-        "performance.": [
-          236
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-02-28T09:26:25.869077",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16058,9 +15492,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -17415,9 +16849,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Decent work and economic growth",
           "id": "https://metadata.un.org/sdg/8",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "display_name": "Decent work and economic growth"
         }
       ],
       "awards": [],
@@ -18899,9 +18333,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5
+          "score": 0.5,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],

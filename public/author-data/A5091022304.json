@@ -9,7 +9,7 @@
       "Ahmed H. Gowida"
     ],
     "works_count": 42,
-    "cited_by_count": 664,
+    "cited_by_count": 666,
     "summary_stats": {
       "2yr_mean_citedness": 2.6875,
       "h_index": 13,
@@ -177,7 +177,7 @@
       {
         "id": "https://openalex.org/T10892",
         "display_name": "Drilling and Well Engineering",
-        "value": 0.0001279,
+        "value": 0.0001278,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -194,7 +194,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000895,
+        "value": 0.0000894,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -211,7 +211,7 @@
       {
         "id": "https://openalex.org/T12482",
         "display_name": "Tunneling and Rock Mechanics",
-        "value": 0.0000762,
+        "value": 0.000076,
         "subfield": {
           "id": "https://openalex.org/subfields/2205",
           "display_name": "Civil and Structural Engineering"
@@ -228,7 +228,7 @@
       {
         "id": "https://openalex.org/T11630",
         "display_name": "Petroleum Processing and Analysis",
-        "value": 0.00004,
+        "value": 0.0000399,
         "subfield": {
           "id": "https://openalex.org/subfields/1602",
           "display_name": "Analytical Chemistry"
@@ -245,7 +245,7 @@
       {
         "id": "https://openalex.org/T11915",
         "display_name": "Pickering emulsions and particle stabilization",
-        "value": 0.0000355,
+        "value": 0.0000354,
         "subfield": {
           "id": "https://openalex.org/subfields/2505",
           "display_name": "Materials Chemistry"
@@ -315,7 +315,7 @@
         "year": 2021,
         "works_count": 8,
         "oa_works_count": 3,
-        "cited_by_count": 359
+        "cited_by_count": 361
       },
       {
         "year": 2022,
@@ -358,7 +358,7 @@
     },
     "block_key": "a gowida",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5091022304",
-    "updated_date": "2026-02-25T12:19:17",
+    "updated_date": "2026-02-28T12:20:11",
     "created_date": "2019-10-10T00:00:00"
   },
   "works": [
@@ -1696,8 +1696,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7099999785423279,
           "display_name": "Climate action"
         }
       ],
@@ -3725,8 +3725,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.550000011920929,
           "display_name": "Sustainable cities and communities"
         }
       ],
@@ -5063,8 +5063,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.47999998927116394,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
@@ -7178,8 +7178,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/12",
+          "score": 0.41999998688697815,
           "display_name": "Responsible consumption and production"
         }
       ],
@@ -11559,8 +11559,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.5400000214576721,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
@@ -12831,8 +12831,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5,
           "display_name": "Climate action"
         }
       ],
@@ -15899,8 +15899,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.47999998927116394,
           "display_name": "Sustainable cities and communities"
         }
       ],
@@ -16204,11 +16204,11 @@
         "currency": "EUR",
         "value_usd": 2190
       },
-      "fwci": 1.3006,
+      "fwci": 1.3009,
       "has_fulltext": true,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.78043839,
+        "value": 0.78049671,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16720,655 +16720,7 @@
         "https://openalex.org/W2353077041",
         "https://openalex.org/W2354474576"
       ],
-      "abstract_inverted_index": {
-        "Safe": [
-          0
-        ],
-        "mud": [
-          1,
-          10,
-          22,
-          50,
-          63,
-          115
-        ],
-        "window": [
-          2
-        ],
-        "(SMW)": [
-          3
-        ],
-        "defines": [
-          4
-        ],
-        "the": [
-          5,
-          9,
-          21,
-          25,
-          48,
-          61,
-          79,
-          113,
-          143,
-          182,
-          195,
-          211,
-          221,
-          229,
-          233,
-          236,
-          240,
-          261,
-          265,
-          272,
-          286
-        ],
-        "allowable": [
-          6
-        ],
-        "limits": [
-          7,
-          27,
-          74,
-          274
-        ],
-        "of": [
-          8,
-          40,
-          82,
-          239,
-          255
-        ],
-        "weights": [
-          11,
-          199
-        ],
-        "that": [
-          12,
-          146
-        ],
-        "can": [
-          13,
-          44,
-          75,
-          207
-        ],
-        "be": [
-          14,
-          45,
-          76,
-          208
-        ],
-        "used": [
-          15,
-          226
-        ],
-        "while": [
-          16
-        ],
-        "drilling": [
-          17
-        ],
-        "O&G": [
-          18
-        ],
-        "wells.": [
-          19,
-          95,
-          152
-        ],
-        "Controlling": [
-          20
-        ],
-        "weight": [
-          23,
-          51,
-          64,
-          116
-        ],
-        "within": [
-          24
-        ],
-        "SMW": [
-          26,
-          43,
-          273
-        ],
-        "would": [
-          28,
-          269
-        ],
-        "help": [
-          29
-        ],
-        "avoid": [
-          30
-        ],
-        "many": [
-          31
-        ],
-        "serious": [
-          32
-        ],
-        "problems": [
-          33
-        ],
-        "such": [
-          34,
-          86
-        ],
-        "as": [
-          35
-        ],
-        "wellbore": [
-          36
-        ],
-        "instability": [
-          37
-        ],
-        "issues,": [
-          38
-        ],
-        "loss": [
-          39
-        ],
-        "circulation,": [
-          41
-        ],
-        "etc.": [
-          42
-        ],
-        "defined": [
-          46
-        ],
-        "by": [
-          47,
-          169
-        ],
-        "minimum": [
-          49
-        ],
-        "below": [
-          52
-        ],
-        "which": [
-          53,
-          66
-        ],
-        "shear": [
-          54
-        ],
-        "failure": [
-          55,
-          68
-        ],
-        "(breakout)": [
-          56
-        ],
-        "may": [
-          57,
-          70
-        ],
-        "occur": [
-          58,
-          71
-        ],
-        "(MW<sub>BO</sub>)": [
-          59
-        ],
-        "and": [
-          60,
-          121,
-          139,
-          184,
-          200,
-          205,
-          232,
-          246,
-          278
-        ],
-        "maximum": [
-          62
-        ],
-        "above": [
-          65
-        ],
-        "tensile": [
-          67
-        ],
-        "(breakdown)": [
-          69
-        ],
-        "(MW<sub>BD</sub>).": [
-          72
-        ],
-        "These": [
-          73
-        ],
-        "determined": [
-          77
-        ],
-        "from": [
-          78,
-          142,
-          161,
-          220
-        ],
-        "geomechanical": [
-          80
-        ],
-        "analysis": [
-          81,
-          87
-        ],
-        "downhole": [
-          83
-        ],
-        "formations.": [
-          84
-        ],
-        "However,": [
-          85
-        ],
-        "is": [
-          88,
-          103
-        ],
-        "not": [
-          89
-        ],
-        "always": [
-          90
-        ],
-        "accessible": [
-          91
-        ],
-        "for": [
-          92,
-          150,
-          213
-        ],
-        "most": [
-          93,
-          151
-        ],
-        "drilled": [
-          94
-        ],
-        "Therefore,": [
-          96
-        ],
-        "in": [
-          97,
-          118,
-          275
-        ],
-        "this": [
-          98
-        ],
-        "study,": [
-          99
-        ],
-        "a": [
-          100,
-          107,
-          162,
-          249,
-          276
-        ],
-        "new": [
-          101,
-          108,
-          189,
-          230,
-          241
-        ],
-        "approach": [
-          102
-        ],
-        "introduced": [
-          104
-        ],
-        "to": [
-          105,
-          111,
-          135,
-          227,
-          243
-        ],
-        "develop": [
-          106
-        ],
-        "data-driven": [
-          109
-        ],
-        "model": [
-          110
-        ],
-        "estimate": [
-          112,
-          136,
-          244
-        ],
-        "safe": [
-          114
-        ],
-        "range": [
-          117
-        ],
-        "no": [
-          119
-        ],
-        "time": [
-          120
-        ],
-        "without": [
-          122,
-          210
-        ],
-        "additional": [
-          123
-        ],
-        "cost.": [
-          124
-        ],
-        "New": [
-          125
-        ],
-        "models": [
-          126,
-          155,
-          174
-        ],
-        "were": [
-          127,
-          156,
-          191
-        ],
-        "developed": [
-          128,
-          267
-        ],
-        "using": [
-          129,
-          158
-        ],
-        "an": [
-          130,
-          170
-        ],
-        "artificial": [
-          131
-        ],
-        "neural": [
-          132
-        ],
-        "network": [
-          133
-        ],
-        "(ANN)": [
-          134
-        ],
-        "both": [
-          137,
-          203
-        ],
-        "MW<sub>BO</sub>": [
-          138,
-          204,
-          245
-        ],
-        "MW<sub>BD</sub>": [
-          140,
-          206,
-          247
-        ],
-        "directly": [
-          141
-        ],
-        "logging": [
-          144,
-          287
-        ],
-        "data": [
-          145,
-          160,
-          288
-        ],
-        "are": [
-          147,
-          289
-        ],
-        "usually": [
-          148
-        ],
-        "available": [
-          149
-        ],
-        "The": [
-          153,
-          173
-        ],
-        "ANN-based": [
-          154
-        ],
-        "trained": [
-          157
-        ],
-        "actual": [
-          159
-        ],
-        "Middle": [
-          163
-        ],
-        "Eastern": [
-          164
-        ],
-        "field": [
-          165,
-          223
-        ],
-        "before": [
-          166
-        ],
-        "being": [
-          167
-        ],
-        "tested": [
-          168
-        ],
-        "unseen": [
-          171
-        ],
-        "dataset.": [
-          172
-        ],
-        "achieved": [
-          175
-        ],
-        "high": [
-          176,
-          237,
-          283
-        ],
-        "accuracy": [
-          177,
-          284
-        ],
-        "exceeding": [
-          178
-        ],
-        "92%": [
-          179
-        ],
-        "upon": [
-          180
-        ],
-        "comparing": [
-          181
-        ],
-        "predicted": [
-          183
-        ],
-        "observed": [
-          185
-        ],
-        "output": [
-          186
-        ],
-        "values.": [
-          187
-        ],
-        "Additionally,": [
-          188
-        ],
-        "equations": [
-          190,
-          231,
-          242,
-          268
-        ],
-        "established": [
-          192
-        ],
-        "based": [
-          193
-        ],
-        "on": [
-          194
-        ],
-        "optimized": [
-          196
-        ],
-        "ANN": [
-          197
-        ],
-        "models'": [
-          198
-        ],
-        "biases": [
-          201
-        ],
-        "whereby": [
-          202
-        ],
-        "calculated": [
-          209
-        ],
-        "need": [
-          212
-        ],
-        "any": [
-          214
-        ],
-        "complicated": [
-          215
-        ],
-        "codes.": [
-          216
-        ],
-        "Finally,": [
-          217
-        ],
-        "another": [
-          218
-        ],
-        "dataset": [
-          219
-        ],
-        "same": [
-          222
-        ],
-        "was": [
-          224
-        ],
-        "then": [
-          225
-        ],
-        "validate": [
-          228
-        ],
-        "results": [
-          234
-        ],
-        "demonstrated": [
-          235
-        ],
-        "robustness": [
-          238
-        ],
-        "with": [
-          248,
-          282
-        ],
-        "low": [
-          250
-        ],
-        "mean": [
-          251
-        ],
-        "absolute": [
-          252
-        ],
-        "percentage": [
-          253
-        ],
-        "error": [
-          254
-        ],
-        "0.60%": [
-          256
-        ],
-        "at": [
-          257
-        ],
-        "maximum.": [
-          258
-        ],
-        "So,": [
-          259
-        ],
-        "unlike": [
-          260
-        ],
-        "costly": [
-          262
-        ],
-        "conventional": [
-          263
-        ],
-        "approaches,": [
-          264
-        ],
-        "newly": [
-          266
-        ],
-        "facilitate": [
-          270
-        ],
-        "determining": [
-          271
-        ],
-        "timely": [
-          277
-        ],
-        "economically": [
-          279
-        ],
-        "effective": [
-          280
-        ],
-        "way,": [
-          281
-        ],
-        "whenever": [
-          285
-        ],
-        "available.": [
-          290
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -17387,7 +16739,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-02-28T09:26:25.869077",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17612,11 +16964,11 @@
         "currency": "EUR",
         "value_usd": 1930
       },
-      "fwci": 3.5336,
+      "fwci": 3.5304,
       "has_fulltext": true,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.92256625,
+        "value": 0.92253676,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18046,7 +17398,604 @@
         "https://openalex.org/W2377270209",
         "https://openalex.org/W2385288070"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "13": [
+          157,
+          171
+        ],
+        "27": [
+          155
+        ],
+        "56": [
+          173
+        ],
+        "Abstract": [
+          0
+        ],
+        "Underbalanced": [
+          1
+        ],
+        "foam": [
+          2,
+          27,
+          68,
+          71,
+          94,
+          135,
+          147,
+          168,
+          195,
+          205,
+          240
+        ],
+        "drilling": [
+          3,
+          17,
+          55,
+          218,
+          226,
+          255
+        ],
+        "(UBFD)": [
+          4
+        ],
+        "represents": [
+          5
+        ],
+        "a": [
+          6,
+          66,
+          101,
+          112,
+          120,
+          132,
+          143,
+          186,
+          191,
+          200,
+          213
+        ],
+        "pivotal": [
+          7
+        ],
+        "technique": [
+          8
+        ],
+        "aimed": [
+          9
+        ],
+        "at": [
+          10,
+          97
+        ],
+        "enhancing": [
+          11
+        ],
+        "safety": [
+          12
+        ],
+        "and": [
+          13,
+          38,
+          57,
+          82,
+          137,
+          199,
+          227,
+          250,
+          257
+        ],
+        "operational": [
+          14
+        ],
+        "efficiency": [
+          15
+        ],
+        "within": [
+          16
+        ],
+        "operations.": [
+          18
+        ],
+        "Despite": [
+          19
+        ],
+        "its": [
+          20,
+          59,
+          228,
+          236
+        ],
+        "recognized": [
+          21
+        ],
+        "benefits,": [
+          22
+        ],
+        "the": [
+          23,
+          49,
+          88,
+          116,
+          129,
+          161,
+          244
+        ],
+        "challenge": [
+          24
+        ],
+        "of": [
+          25,
+          73,
+          119,
+          163,
+          222,
+          246
+        ],
+        "maintaining": [
+          26
+        ],
+        "stability": [
+          28,
+          95,
+          136,
+          183
+        ],
+        "persists,": [
+          29
+        ],
+        "particularly": [
+          30
+        ],
+        "in": [
+          31,
+          146,
+          194,
+          203
+        ],
+        "conditions": [
+          32,
+          234
+        ],
+        "characterized": [
+          33
+        ],
+        "by": [
+          34,
+          47,
+          160
+        ],
+        "elevated": [
+          35
+        ],
+        "water": [
+          36,
+          138,
+          152
+        ],
+        "salinity": [
+          37
+        ],
+        "alkalinity.": [
+          39
+        ],
+        "This": [
+          40
+        ],
+        "study": [
+          41,
+          130
+        ],
+        "endeavors": [
+          42
+        ],
+        "to": [
+          43,
+          107,
+          150,
+          156,
+          172,
+          185,
+          253
+        ],
+        "bridge": [
+          44
+        ],
+        "this": [
+          45
+        ],
+        "gap": [
+          46
+        ],
+        "introducing": [
+          48
+        ],
+        "eco-friendly": [
+          50
+        ],
+        "Gemini": [
+          51
+        ],
+        "surfactant": [
+          52,
+          90
+        ],
+        "(GS12)": [
+          53
+        ],
+        "for": [
+          54,
+          92,
+          124,
+          216,
+          224,
+          238,
+          243
+        ],
+        "foams": [
+          56,
+          75
+        ],
+        "evaluating": [
+          58
+        ],
+        "performance": [
+          60
+        ],
+        "under": [
+          61,
+          231
+        ],
+        "mildly": [
+          62,
+          232
+        ],
+        "alkaline": [
+          63,
+          233
+        ],
+        "conditions.": [
+          64
+        ],
+        "Employing": [
+          65
+        ],
+        "dynamic": [
+          67
+        ],
+        "analyzer,": [
+          69
+        ],
+        "diverse": [
+          70
+        ],
+        "properties": [
+          72
+        ],
+        "GS12": [
+          74,
+          176,
+          223
+        ],
+        "were": [
+          76
+        ],
+        "systematically": [
+          77
+        ],
+        "assessed,": [
+          78
+        ],
+        "including": [
+          79
+        ],
+        "stability,": [
+          80
+        ],
+        "foamability,": [
+          81
+        ],
+        "bubble": [
+          83
+        ],
+        "structure.": [
+          84
+        ],
+        "Results": [
+          85
+        ],
+        "elucidate": [
+          86
+        ],
+        "that": [
+          87
+        ],
+        "optimal": [
+          89
+        ],
+        "concentration": [
+          91,
+          103,
+          123
+        ],
+        "maximal": [
+          93
+        ],
+        "stands": [
+          96
+        ],
+        "1.5": [
+          98,
+          108
+        ],
+        "wt%;": [
+          99
+        ],
+        "however,": [
+          100
+        ],
+        "threefold": [
+          102
+        ],
+        "increase": [
+          104,
+          193,
+          202
+        ],
+        "(from": [
+          105
+        ],
+        "0.5": [
+          106,
+          121
+        ],
+        "wt%)": [
+          109
+        ],
+        "merely": [
+          110
+        ],
+        "yields": [
+          111
+        ],
+        "30%": [
+          113
+        ],
+        "improvement,": [
+          114
+        ],
+        "emphasizing": [
+          115
+        ],
+        "economic": [
+          117
+        ],
+        "viability": [
+          118
+        ],
+        "wt%": [
+          122
+        ],
+        "practical": [
+          125
+        ],
+        "UB": [
+          126,
+          217,
+          225
+        ],
+        "applications.": [
+          127,
+          219
+        ],
+        "Additionally,": [
+          128
+        ],
+        "demonstrates": [
+          131
+        ],
+        "correlation": [
+          133
+        ],
+        "between": [
+          134
+        ],
+        "salinity,": [
+          139
+        ],
+        "with": [
+          140
+        ],
+        "seawater": [
+          141
+        ],
+        "exhibiting": [
+          142
+        ],
+        "twofold": [
+          144
+        ],
+        "reduction": [
+          145
+        ],
+        "half-life": [
+          148,
+          169,
+          196
+        ],
+        "compared": [
+          149,
+          184
+        ],
+        "deionized": [
+          151
+        ],
+        "(decreasing": [
+          153
+        ],
+        "from": [
+          154,
+          170
+        ],
+        "min),": [
+          158
+        ],
+        "mitigated": [
+          159
+        ],
+        "addition": [
+          162
+        ],
+        "PAC": [
+          164,
+          178
+        ],
+        "polymer,": [
+          165
+        ],
+        "which": [
+          166
+        ],
+        "increases": [
+          167
+        ],
+        "min.": [
+          174
+        ],
+        "Moreover,": [
+          175
+        ],
+        "+": [
+          177
+        ],
+        "foaming": [
+          179
+        ],
+        "systems": [
+          180
+        ],
+        "exhibit": [
+          181
+        ],
+        "surpassing": [
+          182
+        ],
+        "typical": [
+          187
+        ],
+        "commercial": [
+          188
+        ],
+        "blend,": [
+          189
+        ],
+        "boasting": [
+          190
+        ],
+        "78%": [
+          192
+        ],
+        "(245": [
+          197,
+          207
+        ],
+        "min)": [
+          198
+        ],
+        "21%": [
+          201
+        ],
+        "initial": [
+          204
+        ],
+        "volume": [
+          206
+        ],
+        "mL),": [
+          208
+        ],
+        "thereby": [
+          209
+        ],
+        "positioning": [
+          210
+        ],
+        "it": [
+          211
+        ],
+        "as": [
+          212
+        ],
+        "promising": [
+          214
+        ],
+        "candidate": [
+          215
+        ],
+        "The": [
+          220
+        ],
+        "introduction": [
+          221
+        ],
+        "comprehensive": [
+          229
+        ],
+        "evaluation": [
+          230
+        ],
+        "underscore": [
+          235
+        ],
+        "potential": [
+          237
+        ],
+        "sustainable": [
+          239
+        ],
+        "drilling,": [
+          241
+        ],
+        "advocating": [
+          242
+        ],
+        "utilization": [
+          245
+        ],
+        "environmentally": [
+          247
+        ],
+        "friendly": [
+          248
+        ],
+        "surfactants": [
+          249
+        ],
+        "green": [
+          251
+        ],
+        "polymers": [
+          252
+        ],
+        "enhance": [
+          254
+        ],
+        "sustainability": [
+          256
+        ],
+        "address": [
+          258
+        ],
+        "pressing": [
+          259
+        ],
+        "industry": [
+          260
+        ],
+        "challenges.": [
+          261
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -18061,7 +18010,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-02-28T09:26:25.869077",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18671,8 +18620,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5899999737739563,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.5899999737739563,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
@@ -20865,8 +20814,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.46000000834465027,
           "display_name": "Sustainable cities and communities"
         }
       ],
@@ -22793,8 +22742,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.75,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -24031,8 +23980,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.6800000071525574,
           "display_name": "Life in Land"
         }
       ],
@@ -31866,8 +31815,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5099999904632568,
           "display_name": "Affordable and clean energy"
         }
       ],
@@ -36101,8 +36050,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.47999998927116394,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
@@ -37175,8 +37124,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.5400000214576721,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
@@ -40623,8 +40572,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4300000071525574,
           "display_name": "Life in Land"
         }
       ],
@@ -41743,8 +41692,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4099999964237213,
           "display_name": "Climate action"
         }
       ],
@@ -45129,7 +45078,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65962281,
+        "value": 0.63886444,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45473,7 +45422,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.1021/acsomega.5c10241",
@@ -45537,6 +45486,35 @@
           "is_published": false,
           "raw_source_name": "ACS Omega, Vol 11, Iss 7, Pp 11700-11710 (2026)",
           "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:12947212",
+          "is_oa": true,
+          "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12947212/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "ACS Omega",
+          "raw_type": "Text"
         }
       ],
       "best_oa_location": {
@@ -46186,7 +46164,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-27T16:54:17.756197",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2026-02-11T00:00:00"
     }
   ]

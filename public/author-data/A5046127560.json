@@ -12,9 +12,9 @@
       "Khaled Zidan Abdelgawad"
     ],
     "works_count": 46,
-    "cited_by_count": 745,
+    "cited_by_count": 747,
     "summary_stats": {
-      "2yr_mean_citedness": 3.4615384615384617,
+      "2yr_mean_citedness": 3.6153846153846154,
       "h_index": 17,
       "i10_index": 23
     },
@@ -189,7 +189,7 @@
       {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.0001784,
+        "value": 0.0001781,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -206,7 +206,7 @@
       {
         "id": "https://openalex.org/T11630",
         "display_name": "Petroleum Processing and Analysis",
-        "value": 0.000096,
+        "value": 0.0000959,
         "subfield": {
           "id": "https://openalex.org/subfields/1602",
           "display_name": "Analytical Chemistry"
@@ -223,7 +223,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000863,
+        "value": 0.0000862,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -240,7 +240,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000566,
+        "value": 0.0000563,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -369,7 +369,7 @@
         "year": 2024,
         "works_count": 6,
         "oa_works_count": 1,
-        "cited_by_count": 34
+        "cited_by_count": 36
       },
       {
         "year": 2025,
@@ -394,7 +394,7 @@
     },
     "block_key": "k abdelgawad",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5046127560",
-    "updated_date": "2026-02-24T12:19:58",
+    "updated_date": "2026-02-28T12:20:11",
     "created_date": "2017-07-14T00:00:00"
   },
   "works": [
@@ -4478,9 +4478,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7103,9 +7103,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8459,11 +8459,11 @@
         "currency": "EUR",
         "value_usd": 1930
       },
-      "fwci": 4.1244,
+      "fwci": 4.1303,
       "has_fulltext": true,
       "cited_by_count": 52,
       "citation_normalized_percentile": {
-        "value": 0.93555094,
+        "value": 0.93564216,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8898,9 +8898,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -8984,7 +8984,664 @@
         "https://openalex.org/W2348441896",
         "https://openalex.org/W1989992036"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "2376": [
+          132
+        ],
+        "The": [
+          0,
+          99,
+          142,
+          192,
+          223
+        ],
+        "equivalent": [
+          1
+        ],
+        "circulation": [
+          2
+        ],
+        "density": [
+          3
+        ],
+        "(ECD)": [
+          4
+        ],
+        "is": [
+          5,
+          18,
+          38,
+          46,
+          104,
+          282
+        ],
+        "a": [
+          6,
+          19,
+          107,
+          204,
+          239
+        ],
+        "very": [
+          7,
+          283
+        ],
+        "important": [
+          8
+        ],
+        "parameter": [
+          9,
+          21
+        ],
+        "in": [
+          10,
+          58,
+          96,
+          270
+        ],
+        "drilling": [
+          11,
+          23,
+          120,
+          148,
+          252,
+          259
+        ],
+        "high-pressure": [
+          12
+        ],
+        "high-temperature": [
+          13
+        ],
+        "and": [
+          14,
+          33,
+          53,
+          87,
+          127,
+          168,
+          190,
+          195,
+          210,
+          219,
+          279,
+          293
+        ],
+        "deepwater": [
+          15
+        ],
+        "wells.": [
+          16
+        ],
+        "ECD": [
+          17,
+          45,
+          62,
+          112,
+          178,
+          202,
+          263
+        ],
+        "key": [
+          20
+        ],
+        "during": [
+          22,
+          146,
+          234
+        ],
+        "through": [
+          24
+        ],
+        "formations": [
+          25
+        ],
+        "where": [
+          26,
+          273
+        ],
+        "the": [
+          27,
+          30,
+          34,
+          44,
+          50,
+          139,
+          147,
+          162,
+          182,
+          188,
+          228,
+          246,
+          250,
+          258,
+          274,
+          277,
+          297
+        ],
+        "margin": [
+          28,
+          275
+        ],
+        "between": [
+          29,
+          276
+        ],
+        "pore": [
+          31,
+          278
+        ],
+        "pressure": [
+          32,
+          36,
+          52,
+          86,
+          281
+        ],
+        "fracture": [
+          35,
+          280
+        ],
+        "(FP)": [
+          37
+        ],
+        "narrow.": [
+          39,
+          284
+        ],
+        "In": [
+          40,
+          285
+        ],
+        "these": [
+          41,
+          78,
+          94
+        ],
+        "critical": [
+          42,
+          271
+        ],
+        "formations,": [
+          43
+        ],
+        "used": [
+          47,
+          136,
+          159,
+          233
+        ],
+        "to": [
+          48,
+          60,
+          105,
+          137,
+          160,
+          200,
+          237,
+          243,
+          262
+        ],
+        "control": [
+          49
+        ],
+        "formation": [
+          51
+        ],
+        "prevent": [
+          54,
+          92
+        ],
+        "kicks.": [
+          55
+        ],
+        "Recent": [
+          56
+        ],
+        "approaches": [
+          57
+        ],
+        "oilfields": [
+          59
+        ],
+        "determine": [
+          61
+        ],
+        "depend": [
+          63
+        ],
+        "mainly": [
+          64
+        ],
+        "on": [
+          65,
+          249
+        ],
+        "using": [
+          66,
+          93,
+          113,
+          287
+        ],
+        "expensive": [
+          67
+        ],
+        "downhole": [
+          68,
+          97,
+          302
+        ],
+        "sensors": [
+          69
+        ],
+        "for": [
+          70,
+          110,
+          177,
+          217,
+          227,
+          299
+        ],
+        "providing": [
+          71
+        ],
+        "real-time": [
+          72
+        ],
+        "values": [
+          73
+        ],
+        "of": [
+          74,
+          77,
+          101,
+          129,
+          149,
+          208,
+          215
+        ],
+        "ECD.": [
+          75
+        ],
+        "Most": [
+          76
+        ],
+        "tools": [
+          79,
+          95
+        ],
+        "have": [
+          80
+        ],
+        "operational": [
+          81
+        ],
+        "limitations": [
+          82
+        ],
+        "such": [
+          83,
+          264
+        ],
+        "as": [
+          84,
+          265
+        ],
+        "high": [
+          85,
+          88
+        ],
+        "temperature": [
+          89
+        ],
+        "which": [
+          90
+        ],
+        "may": [
+          91
+        ],
+        "conditions.": [
+          98
+        ],
+        "objective": [
+          100
+        ],
+        "this": [
+          102,
+          288
+        ],
+        "paper": [
+          103
+        ],
+        "develop": [
+          106,
+          138
+        ],
+        "new": [
+          108
+        ],
+        "approach": [
+          109
+        ],
+        "predicting": [
+          111
+        ],
+        "artificial": [
+          114,
+          164
+        ],
+        "intelligence": [
+          115
+        ],
+        "(AI)": [
+          116
+        ],
+        "techniques": [
+          117
+        ],
+        "from": [
+          118,
+          181
+        ],
+        "surface": [
+          119
+        ],
+        "parameters": [
+          121
+        ],
+        "[mud": [
+          122
+        ],
+        "weight,": [
+          123
+        ],
+        "drill": [
+          124,
+          245
+        ],
+        "pipe": [
+          125
+        ],
+        "pressure,": [
+          126
+        ],
+        "rate": [
+          128
+        ],
+        "penetration": [
+          130
+        ],
+        "(ROP)].": [
+          131
+        ],
+        "data": [
+          133,
+          143
+        ],
+        "points": [
+          134
+        ],
+        "were": [
+          135,
+          144,
+          158,
+          198
+        ],
+        "AI": [
+          140,
+          156
+        ],
+        "models.": [
+          141
+        ],
+        "collected": [
+          145
+        ],
+        "an": [
+          150
+        ],
+        "8.5″": [
+          151
+        ],
+        "vertical": [
+          152
+        ],
+        "hole": [
+          153
+        ],
+        "section.": [
+          154
+        ],
+        "Two": [
+          155
+        ],
+        "models": [
+          157,
+          197
+        ],
+        "estimate": [
+          161
+        ],
+        "ECD:": [
+          163
+        ],
+        "neural": [
+          165
+        ],
+        "network": [
+          166
+        ],
+        "(ANN)": [
+          167
+        ],
+        "adaptive": [
+          169
+        ],
+        "neuro-fuzzy": [
+          170
+        ],
+        "inference": [
+          171
+        ],
+        "system": [
+          172
+        ],
+        "(ANFIS).": [
+          173
+        ],
+        "An": [
+          174
+        ],
+        "empirical": [
+          175,
+          225
+        ],
+        "correlation": [
+          176,
+          205,
+          226
+        ],
+        "was": [
+          179
+        ],
+        "derived": [
+          180
+        ],
+        "optimized": [
+          183
+        ],
+        "ANN": [
+          184,
+          194,
+          218,
+          229
+        ],
+        "model": [
+          185,
+          230
+        ],
+        "by": [
+          186,
+          295
+        ],
+        "extracting": [
+          187
+        ],
+        "weights": [
+          189
+        ],
+        "biases.": [
+          191
+        ],
+        "developed": [
+          193,
+          224
+        ],
+        "ANFIS": [
+          196,
+          220
+        ],
+        "able": [
+          199
+        ],
+        "calculate": [
+          201
+        ],
+        "with": [
+          203
+        ],
+        "coefficient": [
+          206
+        ],
+        "(R)": [
+          207
+        ],
+        "0.99": [
+          209
+        ],
+        "average": [
+          211
+        ],
+        "absolute": [
+          212
+        ],
+        "percentage": [
+          213
+        ],
+        "error": [
+          214
+        ],
+        "0.22%": [
+          216
+        ],
+        "models,": [
+          221
+        ],
+        "respectively.": [
+          222
+        ],
+        "can": [
+          231
+        ],
+        "be": [
+          232
+        ],
+        "well": [
+          235,
+          247
+        ],
+        "design": [
+          236
+        ],
+        "choose": [
+          238
+        ],
+        "correct": [
+          240
+        ],
+        "mud": [
+          241
+        ],
+        "weight": [
+          242
+        ],
+        "safely": [
+          244
+        ],
+        "based": [
+          248
+        ],
+        "expected": [
+          251
+        ],
+        "parameters.": [
+          253
+        ],
+        "It": [
+          254
+        ],
+        "will": [
+          255,
+          290
+        ],
+        "also": [
+          256
+        ],
+        "minimize": [
+          257
+        ],
+        "problems": [
+          260
+        ],
+        "related": [
+          261
+        ],
+        "losses": [
+          266
+        ],
+        "or": [
+          267
+        ],
+        "gains": [
+          268
+        ],
+        "especially": [
+          269
+        ],
+        "situations": [
+          272
+        ],
+        "addition,": [
+          286
+        ],
+        "technique": [
+          289
+        ],
+        "save": [
+          291
+        ],
+        "cost": [
+          292
+        ],
+        "time": [
+          294
+        ],
+        "reducing": [
+          296
+        ],
+        "need": [
+          298
+        ],
+        "expensive,": [
+          300
+        ],
+        "complicated": [
+          301
+        ],
+        "tools.": [
+          303
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
@@ -9015,7 +9672,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-02-27T16:54:17.756197",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9539,9 +10196,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6800000071525574,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -10849,9 +11506,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -12220,9 +12877,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -14639,9 +15296,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -15282,9 +15939,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -16381,9 +17038,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -20290,9 +20947,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.635683536529541,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -22132,9 +22789,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -23499,9 +24156,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -27018,9 +27675,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -29713,9 +30370,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -31202,9 +31859,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -31830,9 +32487,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -33058,9 +33715,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -34218,9 +34875,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -35552,9 +36209,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -36698,9 +37355,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -37826,9 +38483,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -40172,9 +40829,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -41463,9 +42120,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -42412,9 +43069,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -44247,9 +44904,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -45479,9 +46136,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7900000214576721,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -46324,9 +46981,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -47681,9 +48338,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],

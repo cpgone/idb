@@ -333,6 +333,1106 @@
   },
   "works": [
     {
+      "id": "https://openalex.org/W1995753484",
+      "doi": "https://doi.org/10.1016/j.egypro.2011.02.431",
+      "title": "Geophysical characterization of the Devonian Nisku Formation for the Wabamun area CO2 sequestration project (WASP), Alberta, Canada",
+      "display_name": "Geophysical characterization of the Devonian Nisku Formation for the Wabamun area CO2 sequestration project (WASP), Alberta, Canada",
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1995753484",
+        "doi": "https://doi.org/10.1016/j.egypro.2011.02.431",
+        "mag": "1995753484"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.egypro.2011.02.431",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.431",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S75069817",
+          "display_name": "Energy Procedia",
+          "issn_l": "1876-6102",
+          "issn": [
+            "1876-6102"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Energy Procedia",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.1016/j.egypro.2011.02.431",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5111604304",
+            "display_name": "Abdullah A. Alshuhail",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I168635309",
+              "display_name": "University of Calgary",
+              "ror": "https://ror.org/03yjb2x39",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I168635309"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Abdullah A. Alshuhail",
+          "raw_affiliation_strings": [
+            "University of Calgary, Department of Geoscience, 2500 University Drive N.W., Calgary Alberta T2N 4Y7, Canada"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Calgary, Department of Geoscience, 2500 University Drive N.W., Calgary Alberta T2N 4Y7, Canada",
+              "institution_ids": [
+                "https://openalex.org/I168635309"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035589683",
+            "display_name": "Don C. Lawton",
+            "orcid": "https://orcid.org/0000-0002-7361-6442"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I168635309",
+              "display_name": "University of Calgary",
+              "ror": "https://ror.org/03yjb2x39",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I168635309"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Don C. Lawton",
+          "raw_affiliation_strings": [
+            "University of Calgary, Department of Geoscience, 2500 University Drive N.W., Calgary Alberta T2N 4Y7, Canada"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Calgary, Department of Geoscience, 2500 University Drive N.W., Calgary Alberta T2N 4Y7, Canada",
+              "institution_ids": [
+                "https://openalex.org/I168635309"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5052428089",
+            "display_name": "Helen Isaac",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I168635309",
+              "display_name": "University of Calgary",
+              "ror": "https://ror.org/03yjb2x39",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I168635309"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Helen J. Isaac",
+          "raw_affiliation_strings": [
+            "University of Calgary, Department of Geoscience, 2500 University Drive N.W., Calgary Alberta T2N 4Y7, Canada"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Calgary, Department of Geoscience, 2500 University Drive N.W., Calgary Alberta T2N 4Y7, Canada",
+              "institution_ids": [
+                "https://openalex.org/I168635309"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5111604304"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I168635309"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.5166,
+      "has_fulltext": false,
+      "cited_by_count": 6,
+      "citation_normalized_percentile": {
+        "value": 0.67149777,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "4",
+        "issue": null,
+        "first_page": "4696",
+        "last_page": "4703"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10271",
+        "display_name": "Seismic Imaging and Inversion Techniques",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9995999932289124,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/petrophysics",
+          "display_name": "Petrophysics",
+          "score": 0.8417702913284302
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8253307342529297
+        },
+        {
+          "id": "https://openalex.org/keywords/devonian",
+          "display_name": "Devonian",
+          "score": 0.7360047698020935
+        },
+        {
+          "id": "https://openalex.org/keywords/caprock",
+          "display_name": "Caprock",
+          "score": 0.6237003207206726
+        },
+        {
+          "id": "https://openalex.org/keywords/classification-of-discontinuities",
+          "display_name": "Classification of discontinuities",
+          "score": 0.6089372634887695
+        },
+        {
+          "id": "https://openalex.org/keywords/lithology",
+          "display_name": "Lithology",
+          "score": 0.5866773128509521
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-modeling",
+          "display_name": "Reservoir modeling",
+          "score": 0.5387898683547974
+        },
+        {
+          "id": "https://openalex.org/keywords/plume",
+          "display_name": "Plume",
+          "score": 0.5170941352844238
+        },
+        {
+          "id": "https://openalex.org/keywords/petrology",
+          "display_name": "Petrology",
+          "score": 0.5076841115951538
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop",
+          "display_name": "Outcrop",
+          "score": 0.44724929332733154
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.37991631031036377
+        },
+        {
+          "id": "https://openalex.org/keywords/geophysics",
+          "display_name": "Geophysics",
+          "score": 0.33059000968933105
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity",
+          "display_name": "Porosity",
+          "score": 0.19080734252929688
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.15580597519874573
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C46293882",
+          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
+          "display_name": "Petrophysics",
+          "level": 3,
+          "score": 0.8417702913284302
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8253307342529297
+        },
+        {
+          "id": "https://openalex.org/C107832698",
+          "wikidata": "https://www.wikidata.org/wiki/Q65955",
+          "display_name": "Devonian",
+          "level": 2,
+          "score": 0.7360047698020935
+        },
+        {
+          "id": "https://openalex.org/C2778887201",
+          "wikidata": "https://www.wikidata.org/wiki/Q3440812",
+          "display_name": "Caprock",
+          "level": 2,
+          "score": 0.6237003207206726
+        },
+        {
+          "id": "https://openalex.org/C15627037",
+          "wikidata": "https://www.wikidata.org/wiki/Q541961",
+          "display_name": "Classification of discontinuities",
+          "level": 2,
+          "score": 0.6089372634887695
+        },
+        {
+          "id": "https://openalex.org/C122792734",
+          "wikidata": "https://www.wikidata.org/wiki/Q6538759",
+          "display_name": "Lithology",
+          "level": 2,
+          "score": 0.5866773128509521
+        },
+        {
+          "id": "https://openalex.org/C14641988",
+          "wikidata": "https://www.wikidata.org/wiki/Q7315329",
+          "display_name": "Reservoir modeling",
+          "level": 2,
+          "score": 0.5387898683547974
+        },
+        {
+          "id": "https://openalex.org/C2775840915",
+          "wikidata": "https://www.wikidata.org/wiki/Q3817528",
+          "display_name": "Plume",
+          "level": 2,
+          "score": 0.5170941352844238
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.5076841115951538
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.44724929332733154
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.37991631031036377
+        },
+        {
+          "id": "https://openalex.org/C8058405",
+          "wikidata": "https://www.wikidata.org/wiki/Q46255",
+          "display_name": "Geophysics",
+          "level": 1,
+          "score": 0.33059000968933105
+        },
+        {
+          "id": "https://openalex.org/C6648577",
+          "wikidata": "https://www.wikidata.org/wiki/Q622669",
+          "display_name": "Porosity",
+          "level": 2,
+          "score": 0.19080734252929688
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.15580597519874573
+        },
+        {
+          "id": "https://openalex.org/C134306372",
+          "wikidata": "https://www.wikidata.org/wiki/Q7754",
+          "display_name": "Mathematical analysis",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C97355855",
+          "wikidata": "https://www.wikidata.org/wiki/Q11473",
+          "display_name": "Thermodynamics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.egypro.2011.02.431",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.431",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S75069817",
+            "display_name": "Energy Procedia",
+            "issn_l": "1876-6102",
+            "issn": [
+              "1876-6102"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Energy Procedia",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.egypro.2011.02.431",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.431",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S75069817",
+          "display_name": "Energy Procedia",
+          "issn_l": "1876-6102",
+          "issn": [
+            "1876-6102"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Energy Procedia",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320325651",
+          "display_name": "Alberta Innovates",
+          "ror": null
+        },
+        {
+          "id": "https://openalex.org/F4320334593",
+          "display_name": "Natural Sciences and Engineering Research Council of Canada",
+          "ror": "https://ror.org/01h531d29"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 9,
+      "referenced_works": [
+        "https://openalex.org/W1989881476",
+        "https://openalex.org/W2087452412",
+        "https://openalex.org/W2127406134",
+        "https://openalex.org/W2129288307",
+        "https://openalex.org/W2156193302",
+        "https://openalex.org/W2166759050",
+        "https://openalex.org/W2338921032",
+        "https://openalex.org/W6672204053",
+        "https://openalex.org/W6703480304"
+      ],
+      "related_works": [
+        "https://openalex.org/W2074330371",
+        "https://openalex.org/W2986318339",
+        "https://openalex.org/W2075082450",
+        "https://openalex.org/W2748919014",
+        "https://openalex.org/W2184250192",
+        "https://openalex.org/W3034640112",
+        "https://openalex.org/W4313904674",
+        "https://openalex.org/W2981228098",
+        "https://openalex.org/W1850913539",
+        "https://openalex.org/W2803518343"
+      ],
+      "abstract_inverted_index": {
+        "Geophysical": [
+          0
+        ],
+        "characterization": [
+          1
+        ],
+        "of": [
+          2,
+          26,
+          40,
+          67,
+          96,
+          154,
+          180,
+          214
+        ],
+        "the": [
+          3,
+          8,
+          41,
+          83,
+          94,
+          97,
+          101,
+          123,
+          155,
+          178,
+          205,
+          211
+        ],
+        "Devonian": [
+          4
+        ],
+        "Nisku": [
+          5,
+          42,
+          98,
+          124,
+          156
+        ],
+        "Formation": [
+          6,
+          99,
+          157
+        ],
+        "in": [
+          7,
+          21,
+          38,
+          77,
+          82,
+          195
+        ],
+        "Wabamun": [
+          9
+        ],
+        "area,": [
+          10
+        ],
+        "Alberta,": [
+          11
+        ],
+        "Canada": [
+          12
+        ],
+        "for": [
+          13,
+          138,
+          184
+        ],
+        "large-scale": [
+          14
+        ],
+        "CO2": [
+          15,
+          117,
+          140,
+          188
+        ],
+        "sequestration": [
+          16
+        ],
+        "project": [
+          17
+        ],
+        "has": [
+          18,
+          104,
+          128
+        ],
+        "been": [
+          19,
+          105
+        ],
+        "successful": [
+          20
+        ],
+        "revealing": [
+          22
+        ],
+        "two": [
+          23
+        ],
+        "primary": [
+          24
+        ],
+        "groups": [
+          25
+        ],
+        "anomalies.": [
+          27
+        ],
+        "The": [
+          28,
+          59,
+          126,
+          190
+        ],
+        "first": [
+          29
+        ],
+        "group": [
+          30,
+          61
+        ],
+        "is": [
+          31,
+          46,
+          62,
+          88
+        ],
+        "interpreted": [
+          32,
+          63
+        ],
+        "to": [
+          33,
+          36,
+          64,
+          91,
+          119,
+          176
+        ],
+        "be": [
+          34,
+          65,
+          111,
+          120,
+          136,
+          201,
+          209
+        ],
+        "due": [
+          35
+        ],
+        "contrasts": [
+          37
+        ],
+        "lithology": [
+          39
+        ],
+        "Formation.": [
+          43,
+          125
+        ],
+        "This": [
+          44
+        ],
+        "interpretation": [
+          45
+        ],
+        "supported": [
+          47
+        ],
+        "by": [
+          48,
+          51,
+          73
+        ],
+        "constraints": [
+          49
+        ],
+        "provided": [
+          50
+        ],
+        "well": [
+          52
+        ],
+        "control,": [
+          53
+        ],
+        "seismic": [
+          54,
+          182,
+          196,
+          215
+        ],
+        "modeling": [
+          55
+        ],
+        "and": [
+          56,
+          75,
+          164,
+          203
+        ],
+        "petrophysical": [
+          57,
+          168
+        ],
+        "data.": [
+          58
+        ],
+        "second": [
+          60
+        ],
+        "footprints": [
+          66
+        ],
+        "geological": [
+          68
+        ],
+        "discontinuities": [
+          69,
+          109
+        ],
+        "which": [
+          70
+        ],
+        "are": [
+          71
+        ],
+        "induced": [
+          72
+        ],
+        "dissolution": [
+          74
+        ],
+        "karsting": [
+          76
+        ],
+        "a": [
+          78,
+          139,
+          146
+        ],
+        "geologic": [
+          79,
+          108
+        ],
+        "formation": [
+          80
+        ],
+        "shallower": [
+          81
+        ],
+        "stratigraphy.": [
+          84
+        ],
+        "Even": [
+          85
+        ],
+        "though": [
+          86
+        ],
+        "there": [
+          87
+        ],
+        "no": [
+          89
+        ],
+        "evidence": [
+          90
+        ],
+        "indicate": [
+          92
+        ],
+        "that": [
+          93,
+          134,
+          193,
+          204
+        ],
+        "integrity": [
+          95
+        ],
+        "or": [
+          100
+        ],
+        "overlying": [
+          102
+        ],
+        "caprock": [
+          103
+        ],
+        "compromised,": [
+          106
+        ],
+        "such": [
+          107
+        ],
+        "should": [
+          110
+        ],
+        "taken": [
+          112
+        ],
+        "into": [
+          113,
+          122
+        ],
+        "consideration": [
+          114
+        ],
+        "if": [
+          115
+        ],
+        "supercritical": [
+          116
+        ],
+        "were": [
+          118
+        ],
+        "injected": [
+          121,
+          187
+        ],
+        "analysis": [
+          127,
+          166
+        ],
+        "identified": [
+          129
+        ],
+        "favorable": [
+          130
+        ],
+        "low-impedance": [
+          131
+        ],
+        "high-porosity": [
+          132
+        ],
+        "locations": [
+          133,
+          144
+        ],
+        "could": [
+          135
+        ],
+        "developed": [
+          137
+        ],
+        "injection": [
+          141
+        ],
+        "site.": [
+          142
+        ],
+        "Those": [
+          143
+        ],
+        "exhibit": [
+          145
+        ],
+        "good": [
+          147
+        ],
+        "correlation": [
+          148
+        ],
+        "with": [
+          149
+        ],
+        "relatively": [
+          150
+        ],
+        "high": [
+          151
+        ],
+        "porosity-permeability": [
+          152
+        ],
+        "zones": [
+          153
+        ],
+        "on": [
+          158
+        ],
+        "maps": [
+          159
+        ],
+        "derived": [
+          160
+        ],
+        "from": [
+          161
+        ],
+        "wireline": [
+          162
+        ],
+        "data": [
+          163
+        ],
+        "core": [
+          165
+        ],
+        "using": [
+          167
+        ],
+        "analysis.": [
+          169
+        ],
+        "Finally,": [
+          170
+        ],
+        "fluid": [
+          171
+        ],
+        "replacement": [
+          172
+        ],
+        "modelling": [
+          173
+        ],
+        "was": [
+          174
+        ],
+        "undertaken": [
+          175
+        ],
+        "predict": [
+          177
+        ],
+        "feasibility": [
+          179
+        ],
+        "time-lapse": [
+          181
+        ],
+        "monitoring": [
+          183
+        ],
+        "detecting": [
+          185
+        ],
+        "an": [
+          186
+        ],
+        "plume.": [
+          189
+        ],
+        "results": [
+          191
+        ],
+        "suggest": [
+          192
+        ],
+        "changes": [
+          194
+        ],
+        "response": [
+          197
+        ],
+        "will": [
+          198,
+          207
+        ],
+        "most": [
+          199
+        ],
+        "likely": [
+          200
+        ],
+        "subtle": [
+          202
+        ],
+        "plume": [
+          206
+        ],
+        "probably": [
+          208
+        ],
+        "at": [
+          210
+        ],
+        "lower": [
+          212
+        ],
+        "threshold": [
+          213
+        ],
+        "detectability.": [
+          216
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-03-01T08:55:55.761014",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4403284436",
       "doi": "https://doi.org/10.1016/j.ijhydene.2024.09.256",
       "title": "Unlocking the H2 potential in Saudi Arabia: Exploring serpentinites as a source of H2 production",
@@ -2696,1106 +3796,6 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1995753484",
-      "doi": "https://doi.org/10.1016/j.egypro.2011.02.431",
-      "title": "Geophysical characterization of the Devonian Nisku Formation for the Wabamun area CO2 sequestration project (WASP), Alberta, Canada",
-      "display_name": "Geophysical characterization of the Devonian Nisku Formation for the Wabamun area CO2 sequestration project (WASP), Alberta, Canada",
-      "publication_year": 2011,
-      "publication_date": "2011-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W1995753484",
-        "doi": "https://doi.org/10.1016/j.egypro.2011.02.431",
-        "mag": "1995753484"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.egypro.2011.02.431",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.431",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S75069817",
-          "display_name": "Energy Procedia",
-          "issn_l": "1876-6102",
-          "issn": [
-            "1876-6102"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Energy Procedia",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://doi.org/10.1016/j.egypro.2011.02.431",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5111604304",
-            "display_name": "Abdullah A. Alshuhail",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I168635309",
-              "display_name": "University of Calgary",
-              "ror": "https://ror.org/03yjb2x39",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I168635309"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdullah A. Alshuhail",
-          "raw_affiliation_strings": [
-            "University of Calgary, Department of Geoscience, 2500 University Drive N.W., Calgary Alberta T2N 4Y7, Canada"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Calgary, Department of Geoscience, 2500 University Drive N.W., Calgary Alberta T2N 4Y7, Canada",
-              "institution_ids": [
-                "https://openalex.org/I168635309"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5035589683",
-            "display_name": "Don C. Lawton",
-            "orcid": "https://orcid.org/0000-0002-7361-6442"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I168635309",
-              "display_name": "University of Calgary",
-              "ror": "https://ror.org/03yjb2x39",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I168635309"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Don C. Lawton",
-          "raw_affiliation_strings": [
-            "University of Calgary, Department of Geoscience, 2500 University Drive N.W., Calgary Alberta T2N 4Y7, Canada"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Calgary, Department of Geoscience, 2500 University Drive N.W., Calgary Alberta T2N 4Y7, Canada",
-              "institution_ids": [
-                "https://openalex.org/I168635309"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5052428089",
-            "display_name": "Helen Isaac",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I168635309",
-              "display_name": "University of Calgary",
-              "ror": "https://ror.org/03yjb2x39",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I168635309"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Helen J. Isaac",
-          "raw_affiliation_strings": [
-            "University of Calgary, Department of Geoscience, 2500 University Drive N.W., Calgary Alberta T2N 4Y7, Canada"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Calgary, Department of Geoscience, 2500 University Drive N.W., Calgary Alberta T2N 4Y7, Canada",
-              "institution_ids": [
-                "https://openalex.org/I168635309"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5111604304"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I168635309"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.5141,
-      "has_fulltext": false,
-      "cited_by_count": 5,
-      "citation_normalized_percentile": {
-        "value": 0.66988643,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "4",
-        "issue": null,
-        "first_page": "4696",
-        "last_page": "4703"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10271",
-        "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.9998000264167786,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9995999932289124,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/petrophysics",
-          "display_name": "Petrophysics",
-          "score": 0.8417702913284302
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8253307342529297
-        },
-        {
-          "id": "https://openalex.org/keywords/devonian",
-          "display_name": "Devonian",
-          "score": 0.7360047698020935
-        },
-        {
-          "id": "https://openalex.org/keywords/caprock",
-          "display_name": "Caprock",
-          "score": 0.6237003207206726
-        },
-        {
-          "id": "https://openalex.org/keywords/classification-of-discontinuities",
-          "display_name": "Classification of discontinuities",
-          "score": 0.6089372634887695
-        },
-        {
-          "id": "https://openalex.org/keywords/lithology",
-          "display_name": "Lithology",
-          "score": 0.5866773128509521
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-modeling",
-          "display_name": "Reservoir modeling",
-          "score": 0.5387898683547974
-        },
-        {
-          "id": "https://openalex.org/keywords/plume",
-          "display_name": "Plume",
-          "score": 0.5170941352844238
-        },
-        {
-          "id": "https://openalex.org/keywords/petrology",
-          "display_name": "Petrology",
-          "score": 0.5076841115951538
-        },
-        {
-          "id": "https://openalex.org/keywords/outcrop",
-          "display_name": "Outcrop",
-          "score": 0.44724929332733154
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.37991631031036377
-        },
-        {
-          "id": "https://openalex.org/keywords/geophysics",
-          "display_name": "Geophysics",
-          "score": 0.33059000968933105
-        },
-        {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "Porosity",
-          "score": 0.19080734252929688
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.15580597519874573
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C46293882",
-          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
-          "display_name": "Petrophysics",
-          "level": 3,
-          "score": 0.8417702913284302
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8253307342529297
-        },
-        {
-          "id": "https://openalex.org/C107832698",
-          "wikidata": "https://www.wikidata.org/wiki/Q65955",
-          "display_name": "Devonian",
-          "level": 2,
-          "score": 0.7360047698020935
-        },
-        {
-          "id": "https://openalex.org/C2778887201",
-          "wikidata": "https://www.wikidata.org/wiki/Q3440812",
-          "display_name": "Caprock",
-          "level": 2,
-          "score": 0.6237003207206726
-        },
-        {
-          "id": "https://openalex.org/C15627037",
-          "wikidata": "https://www.wikidata.org/wiki/Q541961",
-          "display_name": "Classification of discontinuities",
-          "level": 2,
-          "score": 0.6089372634887695
-        },
-        {
-          "id": "https://openalex.org/C122792734",
-          "wikidata": "https://www.wikidata.org/wiki/Q6538759",
-          "display_name": "Lithology",
-          "level": 2,
-          "score": 0.5866773128509521
-        },
-        {
-          "id": "https://openalex.org/C14641988",
-          "wikidata": "https://www.wikidata.org/wiki/Q7315329",
-          "display_name": "Reservoir modeling",
-          "level": 2,
-          "score": 0.5387898683547974
-        },
-        {
-          "id": "https://openalex.org/C2775840915",
-          "wikidata": "https://www.wikidata.org/wiki/Q3817528",
-          "display_name": "Plume",
-          "level": 2,
-          "score": 0.5170941352844238
-        },
-        {
-          "id": "https://openalex.org/C5900021",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Petrology",
-          "level": 1,
-          "score": 0.5076841115951538
-        },
-        {
-          "id": "https://openalex.org/C169212394",
-          "wikidata": "https://www.wikidata.org/wiki/Q531953",
-          "display_name": "Outcrop",
-          "level": 2,
-          "score": 0.44724929332733154
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.37991631031036377
-        },
-        {
-          "id": "https://openalex.org/C8058405",
-          "wikidata": "https://www.wikidata.org/wiki/Q46255",
-          "display_name": "Geophysics",
-          "level": 1,
-          "score": 0.33059000968933105
-        },
-        {
-          "id": "https://openalex.org/C6648577",
-          "wikidata": "https://www.wikidata.org/wiki/Q622669",
-          "display_name": "Porosity",
-          "level": 2,
-          "score": 0.19080734252929688
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.15580597519874573
-        },
-        {
-          "id": "https://openalex.org/C134306372",
-          "wikidata": "https://www.wikidata.org/wiki/Q7754",
-          "display_name": "Mathematical analysis",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C97355855",
-          "wikidata": "https://www.wikidata.org/wiki/Q11473",
-          "display_name": "Thermodynamics",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.egypro.2011.02.431",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.431",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S75069817",
-            "display_name": "Energy Procedia",
-            "issn_l": "1876-6102",
-            "issn": [
-              "1876-6102"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Energy Procedia",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.egypro.2011.02.431",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.431",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S75069817",
-          "display_name": "Energy Procedia",
-          "issn_l": "1876-6102",
-          "issn": [
-            "1876-6102"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Energy Procedia",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322323",
-          "display_name": "King Fahd University of Petroleum and Minerals",
-          "ror": "https://ror.org/03yez3163"
-        },
-        {
-          "id": "https://openalex.org/F4320325651",
-          "display_name": "Alberta Innovates",
-          "ror": null
-        },
-        {
-          "id": "https://openalex.org/F4320334593",
-          "display_name": "Natural Sciences and Engineering Research Council of Canada",
-          "ror": "https://ror.org/01h531d29"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 9,
-      "referenced_works": [
-        "https://openalex.org/W1989881476",
-        "https://openalex.org/W2087452412",
-        "https://openalex.org/W2127406134",
-        "https://openalex.org/W2129288307",
-        "https://openalex.org/W2156193302",
-        "https://openalex.org/W2166759050",
-        "https://openalex.org/W2338921032",
-        "https://openalex.org/W6672204053",
-        "https://openalex.org/W6703480304"
-      ],
-      "related_works": [
-        "https://openalex.org/W2074330371",
-        "https://openalex.org/W2986318339",
-        "https://openalex.org/W2075082450",
-        "https://openalex.org/W2748919014",
-        "https://openalex.org/W2184250192",
-        "https://openalex.org/W3034640112",
-        "https://openalex.org/W4313904674",
-        "https://openalex.org/W2981228098",
-        "https://openalex.org/W1850913539",
-        "https://openalex.org/W2803518343"
-      ],
-      "abstract_inverted_index": {
-        "Geophysical": [
-          0
-        ],
-        "characterization": [
-          1
-        ],
-        "of": [
-          2,
-          26,
-          40,
-          67,
-          96,
-          154,
-          180,
-          214
-        ],
-        "the": [
-          3,
-          8,
-          41,
-          83,
-          94,
-          97,
-          101,
-          123,
-          155,
-          178,
-          205,
-          211
-        ],
-        "Devonian": [
-          4
-        ],
-        "Nisku": [
-          5,
-          42,
-          98,
-          124,
-          156
-        ],
-        "Formation": [
-          6,
-          99,
-          157
-        ],
-        "in": [
-          7,
-          21,
-          38,
-          77,
-          82,
-          195
-        ],
-        "Wabamun": [
-          9
-        ],
-        "area,": [
-          10
-        ],
-        "Alberta,": [
-          11
-        ],
-        "Canada": [
-          12
-        ],
-        "for": [
-          13,
-          138,
-          184
-        ],
-        "large-scale": [
-          14
-        ],
-        "CO2": [
-          15,
-          117,
-          140,
-          188
-        ],
-        "sequestration": [
-          16
-        ],
-        "project": [
-          17
-        ],
-        "has": [
-          18,
-          104,
-          128
-        ],
-        "been": [
-          19,
-          105
-        ],
-        "successful": [
-          20
-        ],
-        "revealing": [
-          22
-        ],
-        "two": [
-          23
-        ],
-        "primary": [
-          24
-        ],
-        "groups": [
-          25
-        ],
-        "anomalies.": [
-          27
-        ],
-        "The": [
-          28,
-          59,
-          126,
-          190
-        ],
-        "first": [
-          29
-        ],
-        "group": [
-          30,
-          61
-        ],
-        "is": [
-          31,
-          46,
-          62,
-          88
-        ],
-        "interpreted": [
-          32,
-          63
-        ],
-        "to": [
-          33,
-          36,
-          64,
-          91,
-          119,
-          176
-        ],
-        "be": [
-          34,
-          65,
-          111,
-          120,
-          136,
-          201,
-          209
-        ],
-        "due": [
-          35
-        ],
-        "contrasts": [
-          37
-        ],
-        "lithology": [
-          39
-        ],
-        "Formation.": [
-          43,
-          125
-        ],
-        "This": [
-          44
-        ],
-        "interpretation": [
-          45
-        ],
-        "supported": [
-          47
-        ],
-        "by": [
-          48,
-          51,
-          73
-        ],
-        "constraints": [
-          49
-        ],
-        "provided": [
-          50
-        ],
-        "well": [
-          52
-        ],
-        "control,": [
-          53
-        ],
-        "seismic": [
-          54,
-          182,
-          196,
-          215
-        ],
-        "modeling": [
-          55
-        ],
-        "and": [
-          56,
-          75,
-          164,
-          203
-        ],
-        "petrophysical": [
-          57,
-          168
-        ],
-        "data.": [
-          58
-        ],
-        "second": [
-          60
-        ],
-        "footprints": [
-          66
-        ],
-        "geological": [
-          68
-        ],
-        "discontinuities": [
-          69,
-          109
-        ],
-        "which": [
-          70
-        ],
-        "are": [
-          71
-        ],
-        "induced": [
-          72
-        ],
-        "dissolution": [
-          74
-        ],
-        "karsting": [
-          76
-        ],
-        "a": [
-          78,
-          139,
-          146
-        ],
-        "geologic": [
-          79,
-          108
-        ],
-        "formation": [
-          80
-        ],
-        "shallower": [
-          81
-        ],
-        "stratigraphy.": [
-          84
-        ],
-        "Even": [
-          85
-        ],
-        "though": [
-          86
-        ],
-        "there": [
-          87
-        ],
-        "no": [
-          89
-        ],
-        "evidence": [
-          90
-        ],
-        "indicate": [
-          92
-        ],
-        "that": [
-          93,
-          134,
-          193,
-          204
-        ],
-        "integrity": [
-          95
-        ],
-        "or": [
-          100
-        ],
-        "overlying": [
-          102
-        ],
-        "caprock": [
-          103
-        ],
-        "compromised,": [
-          106
-        ],
-        "such": [
-          107
-        ],
-        "should": [
-          110
-        ],
-        "taken": [
-          112
-        ],
-        "into": [
-          113,
-          122
-        ],
-        "consideration": [
-          114
-        ],
-        "if": [
-          115
-        ],
-        "supercritical": [
-          116
-        ],
-        "were": [
-          118
-        ],
-        "injected": [
-          121,
-          187
-        ],
-        "analysis": [
-          127,
-          166
-        ],
-        "identified": [
-          129
-        ],
-        "favorable": [
-          130
-        ],
-        "low-impedance": [
-          131
-        ],
-        "high-porosity": [
-          132
-        ],
-        "locations": [
-          133,
-          144
-        ],
-        "could": [
-          135
-        ],
-        "developed": [
-          137
-        ],
-        "injection": [
-          141
-        ],
-        "site.": [
-          142
-        ],
-        "Those": [
-          143
-        ],
-        "exhibit": [
-          145
-        ],
-        "good": [
-          147
-        ],
-        "correlation": [
-          148
-        ],
-        "with": [
-          149
-        ],
-        "relatively": [
-          150
-        ],
-        "high": [
-          151
-        ],
-        "porosity-permeability": [
-          152
-        ],
-        "zones": [
-          153
-        ],
-        "on": [
-          158
-        ],
-        "maps": [
-          159
-        ],
-        "derived": [
-          160
-        ],
-        "from": [
-          161
-        ],
-        "wireline": [
-          162
-        ],
-        "data": [
-          163
-        ],
-        "core": [
-          165
-        ],
-        "using": [
-          167
-        ],
-        "analysis.": [
-          169
-        ],
-        "Finally,": [
-          170
-        ],
-        "fluid": [
-          171
-        ],
-        "replacement": [
-          172
-        ],
-        "modelling": [
-          173
-        ],
-        "was": [
-          174
-        ],
-        "undertaken": [
-          175
-        ],
-        "predict": [
-          177
-        ],
-        "feasibility": [
-          179
-        ],
-        "time-lapse": [
-          181
-        ],
-        "monitoring": [
-          183
-        ],
-        "detecting": [
-          185
-        ],
-        "an": [
-          186
-        ],
-        "plume.": [
-          189
-        ],
-        "results": [
-          191
-        ],
-        "suggest": [
-          192
-        ],
-        "changes": [
-          194
-        ],
-        "response": [
-          197
-        ],
-        "will": [
-          198,
-          207
-        ],
-        "most": [
-          199
-        ],
-        "likely": [
-          200
-        ],
-        "subtle": [
-          202
-        ],
-        "plume": [
-          206
-        ],
-        "probably": [
-          208
-        ],
-        "at": [
-          210
-        ],
-        "lower": [
-          212
-        ],
-        "threshold": [
-          213
-        ],
-        "detectability.": [
-          216
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
           "cited_by_count": 1
         }
       ],

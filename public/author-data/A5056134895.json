@@ -9,10 +9,10 @@
       "Safwat Abdel-Azeim",
       "Safwat Abdel‐Azeim"
     ],
-    "works_count": 101,
-    "cited_by_count": 1953,
+    "works_count": 102,
+    "cited_by_count": 1963,
     "summary_stats": {
-      "2yr_mean_citedness": 4.28125,
+      "2yr_mean_citedness": 4.2727272727272725,
       "h_index": 26,
       "i10_index": 57
     },
@@ -317,7 +317,7 @@
       {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "count": 18,
+        "count": 19,
         "score": 0.9998999834060669,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
@@ -369,6 +369,24 @@
         }
       },
       {
+        "id": "https://openalex.org/T11630",
+        "display_name": "Petroleum Processing and Analysis",
+        "count": 9,
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1602",
+          "display_name": "Analytical Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/16",
+          "display_name": "Chemistry"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T10078",
         "display_name": "Advanced Photocatalysis Techniques",
         "count": 8,
@@ -385,31 +403,13 @@
           "id": "https://openalex.org/domains/3",
           "display_name": "Physical Sciences"
         }
-      },
-      {
-        "id": "https://openalex.org/T11278",
-        "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "count": 8,
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2502",
-          "display_name": "Biomaterials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/25",
-          "display_name": "Materials Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
       }
     ],
     "topic_share": [
       {
         "id": "https://openalex.org/T12247",
         "display_name": "Microbial Applications in Construction Materials",
-        "value": 0.0001366,
+        "value": 0.0001357,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -426,7 +426,7 @@
       {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.0001189,
+        "value": 0.0001254,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -443,7 +443,7 @@
       {
         "id": "https://openalex.org/T11278",
         "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.000113,
+        "value": 0.0001122,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -460,7 +460,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000904,
+        "value": 0.0000901,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -477,7 +477,7 @@
       {
         "id": "https://openalex.org/T11630",
         "display_name": "Petroleum Processing and Analysis",
-        "value": 0.000064,
+        "value": 0.0000719,
         "subfield": {
           "id": "https://openalex.org/subfields/1602",
           "display_name": "Analytical Chemistry"
@@ -583,7 +583,7 @@
         "year": 2018,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 135
+        "cited_by_count": 136
       },
       {
         "year": 2019,
@@ -595,41 +595,41 @@
         "year": 2020,
         "works_count": 10,
         "oa_works_count": 3,
-        "cited_by_count": 277
+        "cited_by_count": 278
       },
       {
         "year": 2021,
         "works_count": 9,
         "oa_works_count": 2,
-        "cited_by_count": 337
+        "cited_by_count": 338
       },
       {
         "year": 2022,
         "works_count": 8,
         "oa_works_count": 3,
-        "cited_by_count": 167
+        "cited_by_count": 168
       },
       {
         "year": 2023,
         "works_count": 14,
         "oa_works_count": 6,
-        "cited_by_count": 197
+        "cited_by_count": 199
       },
       {
         "year": 2024,
         "works_count": 8,
         "oa_works_count": 1,
-        "cited_by_count": 85
+        "cited_by_count": 86
       },
       {
         "year": 2025,
         "works_count": 19,
         "oa_works_count": 2,
-        "cited_by_count": 52
+        "cited_by_count": 55
       },
       {
         "year": 2026,
-        "works_count": 5,
+        "works_count": 6,
         "oa_works_count": 0,
         "cited_by_count": 0
       }
@@ -644,7 +644,7 @@
     },
     "block_key": "s abdel-azeim",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5056134895",
-    "updated_date": "2026-02-25T12:19:17",
+    "updated_date": "2026-02-28T12:20:11",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1470,8 +1470,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -2827,9 +2827,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [
@@ -2900,8 +2900,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -3917,8 +3917,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -5353,9 +5353,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7200000286102295,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.7200000286102295
         }
       ],
       "awards": [
@@ -5375,8 +5375,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -6425,8 +6425,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -7698,8 +7698,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -8972,9 +8972,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [
@@ -9004,8 +9004,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -9578,8 +9578,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -10228,16 +10228,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -11562,16 +11562,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -12894,8 +12894,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -13693,16 +13693,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -14990,16 +14990,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5600000023841858,
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -15719,8 +15719,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -16490,8 +16490,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -18044,9 +18044,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -18058,8 +18058,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -19416,9 +19416,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7300000190734863
         }
       ],
       "awards": [
@@ -19438,8 +19438,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -20531,8 +20531,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -21505,6 +21505,499 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4411166816",
+      "doi": "https://doi.org/10.1016/j.seppur.2025.133952",
+      "title": "Efficient continuous adsorption of anionic dyes by polyethyleneimine resin: Optimization and mechanistic study",
+      "display_name": "Efficient continuous adsorption of anionic dyes by polyethyleneimine resin: Optimization and mechanistic study",
+      "publication_year": 2025,
+      "publication_date": "2025-06-10",
+      "ids": {
+        "openalex": "https://openalex.org/W4411166816",
+        "doi": "https://doi.org/10.1016/j.seppur.2025.133952"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.seppur.2025.133952",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.seppur.2025.133952",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S69753523",
+          "display_name": "Separation and Purification Technology",
+          "issn_l": "1383-5866",
+          "issn": [
+            "1383-5866",
+            "1873-3794"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Separation and Purification Technology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5037608299",
+            "display_name": "Mochamad Lutfi Firmansyah",
+            "orcid": "https://orcid.org/0000-0003-1844-0947"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mochamad Lutfi Firmansyah",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5056134895",
+            "display_name": "Safwat Abdel‐Azeim",
+            "orcid": "https://orcid.org/0000-0001-8611-1251"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Safwat Abdel-Azeim",
+          "raw_affiliation_strings": [
+            "Center of Integrative Petroleum Research, College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center of Integrative Petroleum Research, College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5047693600",
+            "display_name": "Nisar Ullah",
+            "orcid": "https://orcid.org/0000-0002-8172-2771"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Nisar Ullah",
+          "raw_affiliation_strings": [
+            "Chemistry Department, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+            "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Chemistry Department, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5047693600"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 3680,
+        "currency": "USD",
+        "value_usd": 3680
+      },
+      "apc_paid": null,
+      "fwci": 7.5844,
+      "has_fulltext": false,
+      "cited_by_count": 9,
+      "citation_normalized_percentile": {
+        "value": 0.97260154,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 98,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "376",
+        "issue": null,
+        "first_page": "133952",
+        "last_page": "133952"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10016",
+        "display_name": "Adsorption and biosorption for pollutant removal",
+        "score": 0.9937999844551086,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2312",
+          "display_name": "Water Science and Technology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10016",
+          "display_name": "Adsorption and biosorption for pollutant removal",
+          "score": 0.9937999844551086,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2312",
+            "display_name": "Water Science and Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12240",
+          "display_name": "Nanomaterials for catalytic reactions",
+          "score": 0.9786999821662903,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1605",
+            "display_name": "Organic Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/16",
+            "display_name": "Chemistry"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13265",
+          "display_name": "Synthesis of Tetrazole Derivatives",
+          "score": 0.9648000001907349,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1605",
+            "display_name": "Organic Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/16",
+            "display_name": "Chemistry"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/adsorption",
+          "display_name": "Adsorption",
+          "score": 0.8215996026992798
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.5530340671539307
+        },
+        {
+          "id": "https://openalex.org/keywords/chemical-engineering",
+          "display_name": "Chemical engineering",
+          "score": 0.44762134552001953
+        },
+        {
+          "id": "https://openalex.org/keywords/polymer-science",
+          "display_name": "Polymer science",
+          "score": 0.33574336767196655
+        },
+        {
+          "id": "https://openalex.org/keywords/pulp-and-paper-industry",
+          "display_name": "Pulp and paper industry",
+          "score": 0.32390493154525757
+        },
+        {
+          "id": "https://openalex.org/keywords/organic-chemistry",
+          "display_name": "Organic chemistry",
+          "score": 0.2701250910758972
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.10810533165931702
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C150394285",
+          "wikidata": "https://www.wikidata.org/wiki/Q180254",
+          "display_name": "Adsorption",
+          "level": 2,
+          "score": 0.8215996026992798
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.5530340671539307
+        },
+        {
+          "id": "https://openalex.org/C42360764",
+          "wikidata": "https://www.wikidata.org/wiki/Q83588",
+          "display_name": "Chemical engineering",
+          "level": 1,
+          "score": 0.44762134552001953
+        },
+        {
+          "id": "https://openalex.org/C126348684",
+          "wikidata": "https://www.wikidata.org/wiki/Q3456979",
+          "display_name": "Polymer science",
+          "level": 1,
+          "score": 0.33574336767196655
+        },
+        {
+          "id": "https://openalex.org/C528095902",
+          "wikidata": "https://www.wikidata.org/wiki/Q2283886",
+          "display_name": "Pulp and paper industry",
+          "level": 1,
+          "score": 0.32390493154525757
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0.2701250910758972
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.10810533165931702
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.seppur.2025.133952",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.seppur.2025.133952",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S69753523",
+            "display_name": "Separation and Purification Technology",
+            "issn_l": "1383-5866",
+            "issn": [
+              "1383-5866",
+              "1873-3794"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Separation and Purification Technology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 50,
+      "referenced_works": [
+        "https://openalex.org/W1968608507",
+        "https://openalex.org/W1985587030",
+        "https://openalex.org/W1996185517",
+        "https://openalex.org/W1997390716",
+        "https://openalex.org/W2049060014",
+        "https://openalex.org/W2068084115",
+        "https://openalex.org/W2124981291",
+        "https://openalex.org/W2532196318",
+        "https://openalex.org/W2617572358",
+        "https://openalex.org/W2770301831",
+        "https://openalex.org/W2771928196",
+        "https://openalex.org/W2790780843",
+        "https://openalex.org/W2895952774",
+        "https://openalex.org/W2911806556",
+        "https://openalex.org/W2953624048",
+        "https://openalex.org/W2974435863",
+        "https://openalex.org/W3000670557",
+        "https://openalex.org/W3002188728",
+        "https://openalex.org/W3004247939",
+        "https://openalex.org/W3008122154",
+        "https://openalex.org/W3009483040",
+        "https://openalex.org/W3035526073",
+        "https://openalex.org/W3038329516",
+        "https://openalex.org/W3096131980",
+        "https://openalex.org/W3103072005",
+        "https://openalex.org/W3112726656",
+        "https://openalex.org/W3117352753",
+        "https://openalex.org/W3119112300",
+        "https://openalex.org/W3137613092",
+        "https://openalex.org/W3143634752",
+        "https://openalex.org/W3173510987",
+        "https://openalex.org/W3178999081",
+        "https://openalex.org/W3182829075",
+        "https://openalex.org/W3199147899",
+        "https://openalex.org/W3199444177",
+        "https://openalex.org/W3207071189",
+        "https://openalex.org/W4221010087",
+        "https://openalex.org/W4224902954",
+        "https://openalex.org/W4281656730",
+        "https://openalex.org/W4289637644",
+        "https://openalex.org/W4328142714",
+        "https://openalex.org/W4375954590",
+        "https://openalex.org/W4387958394",
+        "https://openalex.org/W4390102475",
+        "https://openalex.org/W4395009876",
+        "https://openalex.org/W4396216076",
+        "https://openalex.org/W4401598852",
+        "https://openalex.org/W4404406340",
+        "https://openalex.org/W6786696908",
+        "https://openalex.org/W6865861147"
+      ],
+      "related_works": [
+        "https://openalex.org/W4387497383",
+        "https://openalex.org/W2948807893",
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2778153218",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W1531601525",
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2078814861",
+        "https://openalex.org/W2527526854",
+        "https://openalex.org/W1976181487"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 6
+        }
+      ],
+      "updated_date": "2026-03-01T08:55:55.761014",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4402512241",
       "doi": "https://doi.org/10.1016/j.inoche.2024.113151",
       "title": "Dinitrophenyl and NBD platforms based fluorescent sensors for nanomolar detection of zinc ions: Synthesis, zinc ions sensing and DFT studies",
@@ -21963,8 +22456,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -22530,8 +23023,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -23524,499 +24017,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4411166816",
-      "doi": "https://doi.org/10.1016/j.seppur.2025.133952",
-      "title": "Efficient continuous adsorption of anionic dyes by polyethyleneimine resin: Optimization and mechanistic study",
-      "display_name": "Efficient continuous adsorption of anionic dyes by polyethyleneimine resin: Optimization and mechanistic study",
-      "publication_year": 2025,
-      "publication_date": "2025-06-10",
-      "ids": {
-        "openalex": "https://openalex.org/W4411166816",
-        "doi": "https://doi.org/10.1016/j.seppur.2025.133952"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.seppur.2025.133952",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.seppur.2025.133952",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S69753523",
-          "display_name": "Separation and Purification Technology",
-          "issn_l": "1383-5866",
-          "issn": [
-            "1383-5866",
-            "1873-3794"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Separation and Purification Technology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5037608299",
-            "display_name": "Mochamad Lutfi Firmansyah",
-            "orcid": "https://orcid.org/0000-0003-1844-0947"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mochamad Lutfi Firmansyah",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5056134895",
-            "display_name": "Safwat Abdel‐Azeim",
-            "orcid": "https://orcid.org/0000-0001-8611-1251"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Safwat Abdel-Azeim",
-          "raw_affiliation_strings": [
-            "Center of Integrative Petroleum Research, College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center of Integrative Petroleum Research, College of Petroleum Engineering and Geosciences (CPG), King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5047693600",
-            "display_name": "Nisar Ullah",
-            "orcid": "https://orcid.org/0000-0002-8172-2771"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Nisar Ullah",
-          "raw_affiliation_strings": [
-            "Chemistry Department, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-            "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Chemistry Department, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5047693600"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 3680,
-        "currency": "USD",
-        "value_usd": 3680
-      },
-      "apc_paid": null,
-      "fwci": 6.8898,
-      "has_fulltext": false,
-      "cited_by_count": 8,
-      "citation_normalized_percentile": {
-        "value": 0.9684329,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 98,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "376",
-        "issue": null,
-        "first_page": "133952",
-        "last_page": "133952"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10016",
-        "display_name": "Adsorption and biosorption for pollutant removal",
-        "score": 0.9937999844551086,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2312",
-          "display_name": "Water Science and Technology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10016",
-          "display_name": "Adsorption and biosorption for pollutant removal",
-          "score": 0.9937999844551086,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2312",
-            "display_name": "Water Science and Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12240",
-          "display_name": "Nanomaterials for catalytic reactions",
-          "score": 0.9786999821662903,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1605",
-            "display_name": "Organic Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/16",
-            "display_name": "Chemistry"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13265",
-          "display_name": "Synthesis of Tetrazole Derivatives",
-          "score": 0.9648000001907349,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1605",
-            "display_name": "Organic Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/16",
-            "display_name": "Chemistry"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/adsorption",
-          "display_name": "Adsorption",
-          "score": 0.8215996026992798
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.5530340671539307
-        },
-        {
-          "id": "https://openalex.org/keywords/chemical-engineering",
-          "display_name": "Chemical engineering",
-          "score": 0.44762134552001953
-        },
-        {
-          "id": "https://openalex.org/keywords/polymer-science",
-          "display_name": "Polymer science",
-          "score": 0.33574336767196655
-        },
-        {
-          "id": "https://openalex.org/keywords/pulp-and-paper-industry",
-          "display_name": "Pulp and paper industry",
-          "score": 0.32390493154525757
-        },
-        {
-          "id": "https://openalex.org/keywords/organic-chemistry",
-          "display_name": "Organic chemistry",
-          "score": 0.2701250910758972
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.10810533165931702
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C150394285",
-          "wikidata": "https://www.wikidata.org/wiki/Q180254",
-          "display_name": "Adsorption",
-          "level": 2,
-          "score": 0.8215996026992798
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.5530340671539307
-        },
-        {
-          "id": "https://openalex.org/C42360764",
-          "wikidata": "https://www.wikidata.org/wiki/Q83588",
-          "display_name": "Chemical engineering",
-          "level": 1,
-          "score": 0.44762134552001953
-        },
-        {
-          "id": "https://openalex.org/C126348684",
-          "wikidata": "https://www.wikidata.org/wiki/Q3456979",
-          "display_name": "Polymer science",
-          "level": 1,
-          "score": 0.33574336767196655
-        },
-        {
-          "id": "https://openalex.org/C528095902",
-          "wikidata": "https://www.wikidata.org/wiki/Q2283886",
-          "display_name": "Pulp and paper industry",
-          "level": 1,
-          "score": 0.32390493154525757
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0.2701250910758972
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.10810533165931702
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.seppur.2025.133952",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.seppur.2025.133952",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S69753523",
-            "display_name": "Separation and Purification Technology",
-            "issn_l": "1383-5866",
-            "issn": [
-              "1383-5866",
-              "1873-3794"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Separation and Purification Technology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 50,
-      "referenced_works": [
-        "https://openalex.org/W1968608507",
-        "https://openalex.org/W1985587030",
-        "https://openalex.org/W1996185517",
-        "https://openalex.org/W1997390716",
-        "https://openalex.org/W2049060014",
-        "https://openalex.org/W2068084115",
-        "https://openalex.org/W2124981291",
-        "https://openalex.org/W2532196318",
-        "https://openalex.org/W2617572358",
-        "https://openalex.org/W2770301831",
-        "https://openalex.org/W2771928196",
-        "https://openalex.org/W2790780843",
-        "https://openalex.org/W2895952774",
-        "https://openalex.org/W2911806556",
-        "https://openalex.org/W2953624048",
-        "https://openalex.org/W2974435863",
-        "https://openalex.org/W3000670557",
-        "https://openalex.org/W3002188728",
-        "https://openalex.org/W3004247939",
-        "https://openalex.org/W3008122154",
-        "https://openalex.org/W3009483040",
-        "https://openalex.org/W3035526073",
-        "https://openalex.org/W3038329516",
-        "https://openalex.org/W3096131980",
-        "https://openalex.org/W3103072005",
-        "https://openalex.org/W3112726656",
-        "https://openalex.org/W3117352753",
-        "https://openalex.org/W3119112300",
-        "https://openalex.org/W3137613092",
-        "https://openalex.org/W3143634752",
-        "https://openalex.org/W3173510987",
-        "https://openalex.org/W3178999081",
-        "https://openalex.org/W3182829075",
-        "https://openalex.org/W3199147899",
-        "https://openalex.org/W3199444177",
-        "https://openalex.org/W3207071189",
-        "https://openalex.org/W4221010087",
-        "https://openalex.org/W4224902954",
-        "https://openalex.org/W4281656730",
-        "https://openalex.org/W4289637644",
-        "https://openalex.org/W4328142714",
-        "https://openalex.org/W4375954590",
-        "https://openalex.org/W4387958394",
-        "https://openalex.org/W4390102475",
-        "https://openalex.org/W4395009876",
-        "https://openalex.org/W4396216076",
-        "https://openalex.org/W4401598852",
-        "https://openalex.org/W4404406340",
-        "https://openalex.org/W6786696908",
-        "https://openalex.org/W6865861147"
-      ],
-      "related_works": [
-        "https://openalex.org/W4387497383",
-        "https://openalex.org/W2948807893",
-        "https://openalex.org/W2899084033",
-        "https://openalex.org/W2778153218",
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W1531601525",
-        "https://openalex.org/W4391375266",
-        "https://openalex.org/W2078814861",
-        "https://openalex.org/W2527526854",
-        "https://openalex.org/W1976181487"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 6
-        }
-      ],
-      "updated_date": "2026-01-20T17:24:06.736184",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4411682534",
       "doi": "https://doi.org/10.1016/j.molliq.2025.128029",
       "title": "Functionalized imidazolium-based ionic liquids: Impact on micellar formation and interfacial activity",
@@ -24477,8 +24477,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -25318,8 +25318,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -27292,9 +27292,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "display_name": "Good health and well-being",
-          "id": "https://metadata.un.org/sdg/3"
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -27306,8 +27306,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2020278218.pdf",
@@ -28878,16 +28878,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4000000059604645,
           "display_name": "Good health and well-being",
-          "id": "https://metadata.un.org/sdg/3"
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -29629,8 +29629,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 101,
@@ -30817,9 +30817,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.75
         }
       ],
       "awards": [],
@@ -30831,8 +30831,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2005772096.pdf",
@@ -31637,11 +31637,11 @@
         "currency": "USD",
         "value_usd": 3000
       },
-      "fwci": 2.5605,
+      "fwci": 2.5634,
       "has_fulltext": false,
       "cited_by_count": 48,
       "citation_normalized_percentile": {
-        "value": 0.90317141,
+        "value": 0.90328118,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32088,9 +32088,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5899999737739563,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
@@ -32107,8 +32107,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2946329612.pdf",
@@ -32172,7 +32172,378 @@
         "https://openalex.org/W3019565321",
         "https://openalex.org/W1523506657"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "13": [
+          131
+        ],
+        "400": [
+          66
+        ],
+        "Pseudocapacitors": [
+          0
+        ],
+        "hold": [
+          1
+        ],
+        "great": [
+          2
+        ],
+        "promise": [
+          3
+        ],
+        "to": [
+          4,
+          32,
+          63,
+          86
+        ],
+        "provide": [
+          5
+        ],
+        "high": [
+          6
+        ],
+        "energy-storing": [
+          7
+        ],
+        "capacity;": [
+          8
+        ],
+        "however,": [
+          9
+        ],
+        "their": [
+          10,
+          16
+        ],
+        "capacitances": [
+          11
+        ],
+        "are": [
+          12,
+          84
+        ],
+        "still": [
+          13
+        ],
+        "far": [
+          14
+        ],
+        "below": [
+          15
+        ],
+        "theoretical": [
+          17
+        ],
+        "values": [
+          18
+        ],
+        "and": [
+          19,
+          53,
+          110,
+          115
+        ],
+        "they": [
+          20
+        ],
+        "deliver": [
+          21
+        ],
+        "much": [
+          22
+        ],
+        "lower": [
+          23,
+          134
+        ],
+        "power": [
+          24
+        ],
+        "than": [
+          25,
+          70,
+          135
+        ],
+        "the": [
+          26,
+          88,
+          91
+        ],
+        "traditional": [
+          27
+        ],
+        "electric": [
+          28
+        ],
+        "double-layer": [
+          29
+        ],
+        "capacitors": [
+          30
+        ],
+        "due": [
+          31
+        ],
+        "poor": [
+          33
+        ],
+        "ionic": [
+          34,
+          51
+        ],
+        "accessibility.": [
+          35
+        ],
+        "Here,": [
+          36
+        ],
+        "we": [
+          37
+        ],
+        "have": [
+          38
+        ],
+        "engineered": [
+          39
+        ],
+        "MoN": [
+          40
+        ],
+        "nanoparticles": [
+          41
+        ],
+        "as": [
+          42,
+          113
+        ],
+        "pseudocapacitive": [
+          43
+        ],
+        "material": [
+          44
+        ],
+        "on": [
+          45
+        ],
+        "phosphorus-incorporated": [
+          46
+        ],
+        "carbon": [
+          47
+        ],
+        "fabric": [
+          48
+        ],
+        "with": [
+          49,
+          76,
+          124
+        ],
+        "enhanced": [
+          50
+        ],
+        "affinity": [
+          52
+        ],
+        "thermodynamic": [
+          54
+        ],
+        "stability.": [
+          55
+        ],
+        "This": [
+          56
+        ],
+        "nanocomposite": [
+          57
+        ],
+        "boosts": [
+          58
+        ],
+        "surface": [
+          59
+        ],
+        "redox": [
+          60
+        ],
+        "kinetics,": [
+          61
+        ],
+        "leading": [
+          62
+        ],
+        "pseudocapacitance": [
+          64
+        ],
+        "of": [
+          65,
+          72,
+          90,
+          94,
+          130,
+          137
+        ],
+        "mF/cm<sup>2</sup>": [
+          67
+        ],
+        "(2-fold": [
+          68
+        ],
+        "higher": [
+          69
+        ],
+        "that": [
+          71,
+          136
+        ],
+        "molybdenum": [
+          73
+        ],
+        "nitride-based": [
+          74
+        ],
+        "electrodes)": [
+          75
+        ],
+        "rapid": [
+          77
+        ],
+        "charge-discharge": [
+          78
+        ],
+        "rates.": [
+          79
+        ],
+        "Density": [
+          80
+        ],
+        "functional": [
+          81
+        ],
+        "theory": [
+          82
+        ],
+        "simulations": [
+          83
+        ],
+        "used": [
+          85
+        ],
+        "explain": [
+          87
+        ],
+        "origin": [
+          89
+        ],
+        "good": [
+          92,
+          121
+        ],
+        "performance": [
+          93
+        ],
+        "MoN@P-CF": [
+          95,
+          109
+        ],
+        "in": [
+          96
+        ],
+        "proton-based": [
+          97
+        ],
+        "aqueous": [
+          98
+        ],
+        "electrolytes.": [
+          99
+        ],
+        "Finally,": [
+          100
+        ],
+        "an": [
+          101
+        ],
+        "all-pseudocapacitive": [
+          102
+        ],
+        "solid-state": [
+          103
+        ],
+        "asymmetric": [
+          104
+        ],
+        "cell": [
+          105
+        ],
+        "was": [
+          106
+        ],
+        "assembled": [
+          107
+        ],
+        "using": [
+          108
+        ],
+        "RuO<sub>2</sub>": [
+          111
+        ],
+        "(RuO<sub>2</sub>@CF)": [
+          112
+        ],
+        "negative": [
+          114
+        ],
+        "positive": [
+          116
+        ],
+        "electrodes,": [
+          117
+        ],
+        "respectively,": [
+          118
+        ],
+        "which": [
+          119
+        ],
+        "delivered": [
+          120
+        ],
+        "energy": [
+          122
+        ],
+        "density": [
+          123
+        ],
+        "low": [
+          125
+        ],
+        "relaxation": [
+          126
+        ],
+        "time": [
+          127
+        ],
+        "constant": [
+          128
+        ],
+        "(τ<sub>0</sub>)": [
+          129
+        ],
+        "ms": [
+          132
+        ],
+        "(significantly": [
+          133
+        ],
+        "carbon-based": [
+          138
+        ],
+        "supercapacitors).": [
+          139
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -32207,7 +32578,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-02-25T08:12:03.925757",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33216,8 +33587,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 98,
@@ -34290,9 +34661,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6600000262260437,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
@@ -34304,8 +34675,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2126081368.pdf",
@@ -35128,8 +35499,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -36231,16 +36602,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -36999,16 +37370,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -37973,16 +38344,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7599999904632568,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7599999904632568
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -39549,8 +39920,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -40185,16 +40556,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4000000059604645,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3193965586.pdf",
@@ -40967,16 +41338,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -42521,8 +42892,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -43203,16 +43574,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -44048,8 +44419,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4382776211.pdf"
@@ -44826,16 +45197,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -45975,9 +46346,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -45994,8 +46365,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -47657,9 +48028,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [
@@ -47679,8 +48050,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -49140,9 +49511,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [
@@ -49162,8 +49533,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4220928269.pdf",
@@ -50619,9 +50990,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8199999928474426
         }
       ],
       "awards": [
@@ -50641,8 +51012,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -51722,16 +52093,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -52437,16 +52808,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -53853,8 +54224,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 83,
@@ -54656,9 +55027,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [
@@ -54678,8 +55049,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -55797,8 +56168,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -56473,16 +56844,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -57671,16 +58042,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -58415,9 +58786,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -58429,8 +58800,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -58949,8 +59320,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -60245,8 +60616,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -61431,8 +61802,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -62570,9 +62941,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6700000166893005
         }
       ],
       "awards": [
@@ -62597,8 +62968,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -64360,8 +64731,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -65045,16 +65416,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -66145,9 +66516,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -66159,8 +66530,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -67527,8 +67898,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -68905,16 +69276,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5799999833106995,
           "display_name": "Good health and well-being",
-          "id": "https://metadata.un.org/sdg/3"
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -69682,9 +70053,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9100000262260437,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.9100000262260437
         }
       ],
       "awards": [
@@ -69709,8 +70080,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -70779,9 +71150,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6399999856948853,
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.6399999856948853
         }
       ],
       "awards": [
@@ -70801,8 +71172,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -72877,16 +73248,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "display_name": "Good health and well-being",
-          "id": "https://metadata.un.org/sdg/3"
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -74550,8 +74921,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -75761,9 +76132,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7900000214576721
         }
       ],
       "awards": [
@@ -75783,8 +76154,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -76232,11 +76603,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.776,
+      "fwci": 0.7784,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.66553158,
+        "value": 0.66656877,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -76503,7 +76874,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.1139/cjc-2016-0513",
@@ -76538,6 +76909,35 @@
           "is_published": true,
           "raw_source_name": "Canadian Journal of Chemistry",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:utoronto.scholaris.ca:1807/76346",
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/1807/76346",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407053928",
+            "display_name": "International Journal of Data Science and Artificial Intelligence",
+            "issn_l": "2584-1041",
+            "issn": [
+              "2584-1041"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Article Post-Print"
         },
         {
           "id": "pmh:oai:localhost:1807/76346",
@@ -76601,8 +77001,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2587791340.pdf"
@@ -77092,7 +77492,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2017-02-24T00:00:00"
     },
     {
@@ -77855,9 +78255,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7699999809265137
         }
       ],
       "awards": [
@@ -77877,8 +78277,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -79629,9 +80029,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4000000059604645,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
@@ -79653,8 +80053,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2027045099.pdf",
@@ -81250,16 +81650,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6600000262260437,
           "display_name": "Good health and well-being",
-          "id": "https://metadata.un.org/sdg/3"
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2015280971.pdf",
@@ -82744,9 +83144,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
@@ -82758,8 +83158,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1957779136.pdf",
@@ -83905,9 +84305,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -83919,8 +84319,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2032354898.pdf",
@@ -85036,8 +85436,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -86121,9 +86521,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7200000286102295,
           "display_name": "Good health and well-being",
-          "id": "https://metadata.un.org/sdg/3"
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -86140,8 +86540,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2077346565.pdf",
@@ -87464,8 +87864,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -88627,8 +89027,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -89554,8 +89954,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -90548,8 +90948,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -91651,9 +92051,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "display_name": "Good health and well-being",
-          "id": "https://metadata.un.org/sdg/3"
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -91675,8 +92075,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2265497608.pdf",
@@ -93241,9 +93641,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -93260,8 +93660,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4381890214.pdf"
@@ -93749,8 +94149,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -94365,8 +94765,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4318214464.pdf"
@@ -95766,16 +96166,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4380550452.pdf"
@@ -96602,8 +97002,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -97136,16 +97536,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4392353177.pdf",
@@ -97981,8 +98381,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -98452,8 +98852,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -99736,16 +100136,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -101036,8 +101436,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -102269,8 +102669,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -103141,8 +103541,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -103742,8 +104142,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -104034,8 +104434,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -104537,8 +104937,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -105491,8 +105891,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -106527,16 +106927,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.45176735520362854,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.45176735520362854
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -107055,16 +107455,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4112228751182556,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4112228751182556
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -107672,16 +108072,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.42088067531585693,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.42088067531585693
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -108244,16 +108644,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5518762469291687,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5518762469291687
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -108837,16 +109237,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44928109645843506,
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2"
+          "id": "https://metadata.un.org/sdg/2",
+          "score": 0.44928109645843506
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -109086,7 +109486,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.96297122,
+        "value": 0.94960387,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -109352,8 +109752,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -109424,7 +109824,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-02-28T09:26:25.869077",
+      "updated_date": "2026-02-28T06:14:18.631764",
       "created_date": "2026-02-27T00:00:00"
     }
   ]

@@ -8,9 +8,9 @@
       "Athaa Alotaibi"
     ],
     "works_count": 3,
-    "cited_by_count": 21,
+    "cited_by_count": 22,
     "summary_stats": {
-      "2yr_mean_citedness": 7,
+      "2yr_mean_citedness": 8,
       "h_index": 2,
       "i10_index": 1
     },
@@ -291,7 +291,7 @@
         "year": 2025,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 7
+        "cited_by_count": 8
       }
     ],
     "longest_name": "Athaa Al-Otaibi",
@@ -304,7 +304,7 @@
     },
     "block_key": "a al-otaibi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5080859432",
-    "updated_date": "2026-02-21T12:20:09",
+    "updated_date": "2026-02-28T12:20:11",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -3522,9 +3522,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.6399999856948853,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],

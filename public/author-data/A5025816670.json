@@ -802,8 +802,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -1513,11 +1513,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1231,
+      "fwci": 2.1284,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.8910565,
+        "value": 0.89133182,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1745,7 +1745,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.7186/bgsm70202004",
@@ -1809,6 +1809,35 @@
           "is_published": false,
           "raw_source_name": "",
           "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:iris.unil.ch:iris/227368",
+          "is_oa": false,
+          "landing_page_url": "https://iris.unil.ch/handle/iris/227368",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407053914",
+            "display_name": "MACCA Science-Edu Journal",
+            "issn_l": "3048-0507",
+            "issn": [
+              "3048-0507"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "journal article"
         },
         {
           "id": "pmh:oai:serval.unil.ch:BIB_9AFAE294A1EC",
@@ -1884,8 +1913,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3106853622.pdf",
@@ -2538,7 +2567,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2020-12-07T00:00:00"
     },
     {
@@ -3207,8 +3236,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -3873,11 +3902,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.265,
+      "fwci": 1.2682,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.81729852,
+        "value": 0.81777278,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4079,7 +4108,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.1127/palb/2021/0071",
@@ -4142,6 +4171,35 @@
           "raw_type": "info:eu-repo/semantics/article"
         },
         {
+          "id": "pmh:oai:iris.unil.ch:iris/232731",
+          "is_oa": false,
+          "landing_page_url": "https://iris.unil.ch/handle/iris/232731",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407053914",
+            "display_name": "MACCA Science-Edu Journal",
+            "issn_l": "3048-0507",
+            "issn": [
+              "3048-0507"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "journal article"
+        },
+        {
           "id": "pmh:oai:serval.unil.ch:BIB_E602FF74317E",
           "is_oa": false,
           "landing_page_url": "https://serval.unil.ch/notice/serval:BIB_E602FF74317E",
@@ -4182,8 +4240,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4714,7 +4772,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2021-01-18T00:00:00"
     },
     {
@@ -4856,11 +4914,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7077,
+      "fwci": 0.7095,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.77738367,
+        "value": 0.77794626,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5050,7 +5108,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.7186/bgsm70202012",
@@ -5114,6 +5172,35 @@
           "is_published": false,
           "raw_source_name": "",
           "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:iris.unil.ch:iris/178082",
+          "is_oa": false,
+          "landing_page_url": "https://iris.unil.ch/handle/iris/178082",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407053914",
+            "display_name": "MACCA Science-Edu Journal",
+            "issn_l": "3048-0507",
+            "issn": [
+              "3048-0507"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "journal article"
         },
         {
           "id": "pmh:oai:serval.unil.ch:BIB_850378C88BB8",
@@ -5189,8 +5276,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3107029478.pdf",
@@ -5739,7 +5826,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5904,11 +5991,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9488,
+      "fwci": 0.9512,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.78979787,
+        "value": 0.79034351,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6096,7 +6183,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.1127/pala/2021/0103",
@@ -6158,6 +6245,35 @@
           "raw_type": "info:eu-repo/semantics/article"
         },
         {
+          "id": "pmh:oai:iris.unil.ch:iris/60979",
+          "is_oa": false,
+          "landing_page_url": "https://iris.unil.ch/handle/iris/60979",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407053914",
+            "display_name": "MACCA Science-Edu Journal",
+            "issn_l": "3048-0507",
+            "issn": [
+              "3048-0507"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "journal article"
+        },
+        {
           "id": "pmh:oai:serval.unil.ch:BIB_025C894D1DD4",
           "is_oa": false,
           "landing_page_url": "https://serval.unil.ch/notice/serval:BIB_025C894D1DD4",
@@ -6198,8 +6314,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6793,7 +6909,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7053,11 +7169,11 @@
         "currency": "EUR",
         "value_usd": 1969
       },
-      "fwci": 0.7656,
+      "fwci": 0.7652,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.73780084,
+        "value": 0.73779292,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7317,7 +7433,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 5,
+      "locations_count": 6,
       "locations": [
         {
           "id": "doi:10.3390/d15080937",
@@ -7381,6 +7497,35 @@
           "is_published": false,
           "raw_source_name": "Diversity, Vol 15, Iss 8, p 937 (2023)",
           "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:iris.unil.ch:iris/181556",
+          "is_oa": false,
+          "landing_page_url": "https://iris.unil.ch/handle/iris/181556",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407053914",
+            "display_name": "MACCA Science-Edu Journal",
+            "issn_l": "3048-0507",
+            "issn": [
+              "3048-0507"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "journal article"
         },
         {
           "id": "pmh:oai:mdpi.com:/1424-2818/15/8/937/",
@@ -7532,8 +7677,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385979025.pdf"
@@ -8241,7 +8386,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-28T09:26:25.869077",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2023-08-19T00:00:00"
     },
     {
@@ -8680,8 +8825,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9822,8 +9967,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10426,8 +10571,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10830,8 +10975,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11189,8 +11334,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11530,8 +11675,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11750,7 +11895,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08371649,
+        "value": 0.08349918,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11913,7 +12058,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.5194/egusphere-egu21-7479",
@@ -11957,6 +12102,35 @@
           "is_published": false,
           "raw_source_name": "",
           "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:iris.unil.ch:iris/157059",
+          "is_oa": false,
+          "landing_page_url": "https://iris.unil.ch/handle/iris/157059",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407053914",
+            "display_name": "MACCA Science-Edu Journal",
+            "issn_l": "3048-0507",
+            "issn": [
+              "3048-0507"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "conference output"
         },
         {
           "id": "pmh:oai:serval.unil.ch:BIB_80981CEE41F2",
@@ -12012,8 +12186,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12460,7 +12634,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12663,7 +12837,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10861456,
+        "value": 0.10833261,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12920,7 +13094,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.5194/egusphere-egu21-6888",
@@ -12935,6 +13109,35 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "posted-content"
+        },
+        {
+          "id": "pmh:oai:iris.unil.ch:iris/53978",
+          "is_oa": false,
+          "landing_page_url": "https://iris.unil.ch/handle/iris/53978",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407053914",
+            "display_name": "MACCA Science-Edu Journal",
+            "issn_l": "3048-0507",
+            "issn": [
+              "3048-0507"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "conference output"
         },
         {
           "id": "pmh:oai:serval.unil.ch:BIB_33E0117A6299",
@@ -12990,8 +13193,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14000,7 +14203,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

@@ -3330,9 +3330,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities",
-          "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/10"
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
@@ -4098,11 +4098,11 @@
         "currency": "GBP",
         "value_usd": 4808
       },
-      "fwci": 7.5336,
+      "fwci": 7.5548,
       "has_fulltext": true,
       "cited_by_count": 46,
       "citation_normalized_percentile": {
-        "value": 0.98687874,
+        "value": 0.98689229,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4723,9 +4723,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.4099999964237213
         }
       ],
       "awards": [
@@ -4929,7 +4929,404 @@
         "https://openalex.org/W2030789237",
         "https://openalex.org/W2125369662"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Surface": [
+          0
+        ],
+        "faulting": [
+          1
+        ],
+        "earthquakes": [
+          2
+        ],
+        "are": [
+          3,
+          29,
+          53,
+          114,
+          142
+        ],
+        "known": [
+          4
+        ],
+        "to": [
+          5,
+          96,
+          118
+        ],
+        "cluster": [
+          6
+        ],
+        "in": [
+          7,
+          46,
+          121
+        ],
+        "time": [
+          8
+        ],
+        "from": [
+          9
+        ],
+        "historical": [
+          10
+        ],
+        "and": [
+          11,
+          25,
+          32,
+          77,
+          90,
+          110
+        ],
+        "palaeoseismic": [
+          12
+        ],
+        "studies,": [
+          13
+        ],
+        "but": [
+          14
+        ],
+        "the": [
+          15,
+          149
+        ],
+        "mechanism(s)": [
+          16
+        ],
+        "responsible": [
+          17
+        ],
+        "for": [
+          18,
+          146
+        ],
+        "clustering,": [
+          19,
+          147
+        ],
+        "such": [
+          20
+        ],
+        "as": [
+          21,
+          74
+        ],
+        "fault": [
+          22
+        ],
+        "interaction,": [
+          23
+        ],
+        "strain-storage,": [
+          24
+        ],
+        "evolving": [
+          26
+        ],
+        "dynamic": [
+          27
+        ],
+        "topography,": [
+          28
+        ],
+        "poorly": [
+          30
+        ],
+        "quantified,": [
+          31
+        ],
+        "hence": [
+          33
+        ],
+        "not": [
+          34
+        ],
+        "well": [
+          35
+        ],
+        "understood.": [
+          36
+        ],
+        "We": [
+          37,
+          100
+        ],
+        "present": [
+          38
+        ],
+        "a": [
+          39,
+          143
+        ],
+        "quantified": [
+          40
+        ],
+        "replication": [
+          41
+        ],
+        "of": [
+          42,
+          62,
+          115
+        ],
+        "observed": [
+          43
+        ],
+        "earthquake": [
+          44,
+          75
+        ],
+        "clustering": [
+          45
+        ],
+        "central": [
+          47
+        ],
+        "Italy.": [
+          48
+        ],
+        "Six": [
+          49
+        ],
+        "active": [
+          50
+        ],
+        "normal": [
+          51
+        ],
+        "faults": [
+          52
+        ],
+        "studied": [
+          54
+        ],
+        "using": [
+          55
+        ],
+        "<sup>36</sup>Cl": [
+          56
+        ],
+        "cosmogenic": [
+          57
+        ],
+        "dating,": [
+          58
+        ],
+        "revealing": [
+          59
+        ],
+        "out-of-phase": [
+          60
+        ],
+        "periods": [
+          61
+        ],
+        "high": [
+          63
+        ],
+        "or": [
+          64
+        ],
+        "low": [
+          65
+        ],
+        "surface": [
+          66
+        ],
+        "slip-rate": [
+          67,
+          129
+        ],
+        "on": [
+          68,
+          92,
+          123,
+          131
+        ],
+        "neighboring": [
+          69
+        ],
+        "structures": [
+          70,
+          95
+        ],
+        "that": [
+          71,
+          102,
+          127,
+          139
+        ],
+        "we": [
+          72
+        ],
+        "interpret": [
+          73
+        ],
+        "clusters": [
+          76,
+          89
+        ],
+        "anticlusters.": [
+          78
+        ],
+        "Our": [
+          79
+        ],
+        "calculations": [
+          80
+        ],
+        "link": [
+          81
+        ],
+        "stress": [
+          82,
+          105
+        ],
+        "transfer": [
+          83
+        ],
+        "caused": [
+          84
+        ],
+        "by": [
+          85
+        ],
+        "slip": [
+          86
+        ],
+        "averaged": [
+          87
+        ],
+        "over": [
+          88
+        ],
+        "anti-clusters": [
+          91
+        ],
+        "coupled": [
+          93
+        ],
+        "fault/shear-zone": [
+          94,
+          108,
+          140
+        ],
+        "viscous": [
+          97,
+          124
+        ],
+        "flow": [
+          98
+        ],
+        "laws.": [
+          99
+        ],
+        "show": [
+          101
+        ],
+        "(1)": [
+          103
+        ],
+        "differential": [
+          104
+        ],
+        "fluctuates": [
+          106
+        ],
+        "during": [
+          107
+        ],
+        "interactions,": [
+          109
+        ],
+        "(2)": [
+          111
+        ],
+        "these": [
+          112
+        ],
+        "fluctuations": [
+          113
+        ],
+        "sufficient": [
+          116
+        ],
+        "magnitude": [
+          117
+        ],
+        "produce": [
+          119
+        ],
+        "changes": [
+          120,
+          130
+        ],
+        "strain-rate": [
+          122
+        ],
+        "shear": [
+          125
+        ],
+        "zones": [
+          126
+        ],
+        "explain": [
+          128
+        ],
+        "their": [
+          132
+        ],
+        "overlying": [
+          133
+        ],
+        "brittle": [
+          134
+        ],
+        "faults.": [
+          135
+        ],
+        "These": [
+          136
+        ],
+        "results": [
+          137
+        ],
+        "suggest": [
+          138
+        ],
+        "interactions": [
+          141
+        ],
+        "plausible": [
+          144
+        ],
+        "explanation": [
+          145
+        ],
+        "opening": [
+          148
+        ],
+        "path": [
+          150
+        ],
+        "towards": [
+          151
+        ],
+        "process-led": [
+          152
+        ],
+        "seismic": [
+          153
+        ],
+        "hazard": [
+          154
+        ],
+        "assessments.": [
+          155
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -4948,7 +5345,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5519,9 +5916,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [
@@ -6882,11 +7279,11 @@
         "currency": "USD",
         "value_usd": 2870
       },
-      "fwci": 5.1982,
+      "fwci": 5.1743,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.95655511,
+        "value": 0.95612236,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7614,7 +8011,725 @@
         "https://openalex.org/W3146992755",
         "https://openalex.org/W1983195706"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "10": [
+          98
+        ],
+        "Uncertainty": [
+          0
+        ],
+        "concerning": [
+          1
+        ],
+        "the": [
+          2,
+          30,
+          34,
+          38,
+          45,
+          111,
+          114,
+          157,
+          174,
+          197,
+          201,
+          208,
+          235,
+          248,
+          272,
+          278,
+          287,
+          297,
+          327
+        ],
+        "processes": [
+          3
+        ],
+        "responsible": [
+          4
+        ],
+        "for": [
+          5,
+          307,
+          315
+        ],
+        "slip-rate": [
+          6,
+          50,
+          149
+        ],
+        "fluctuations": [
+          7,
+          51,
+          306
+        ],
+        "associated": [
+          8
+        ],
+        "with": [
+          9,
+          100,
+          127
+        ],
+        "temporal": [
+          10
+        ],
+        "clustering": [
+          11,
+          275
+        ],
+        "of": [
+          12,
+          37,
+          49,
+          66,
+          75,
+          82,
+          95,
+          204,
+          210,
+          244,
+          266,
+          292,
+          309,
+          326
+        ],
+        "surface": [
+          13,
+          189,
+          212
+        ],
+        "faulting": [
+          14,
+          190,
+          213
+        ],
+        "earthquakes": [
+          15,
+          191,
+          214
+        ],
+        "is": [
+          16
+        ],
+        "a": [
+          17,
+          63,
+          89,
+          128,
+          228,
+          242
+        ],
+        "fundamental,": [
+          18
+        ],
+        "unresolved": [
+          19
+        ],
+        "issue": [
+          20
+        ],
+        "in": [
+          21,
+          59,
+          70,
+          116,
+          135,
+          141,
+          167,
+          290
+        ],
+        "tectonics,": [
+          22
+        ],
+        "because": [
+          23
+        ],
+        "strain-rates": [
+          24,
+          257
+        ],
+        "accommodated": [
+          25
+        ],
+        "by": [
+          26,
+          277
+        ],
+        "fault/shear-zone": [
+          27
+        ],
+        "structures": [
+          28
+        ],
+        "are": [
+          29,
+          284,
+          319
+        ],
+        "key": [
+          31
+        ],
+        "to": [
+          32,
+          97,
+          121,
+          223,
+          239,
+          286,
+          320
+        ],
+        "understanding": [
+          33
+        ],
+        "viscosity": [
+          35,
+          305
+        ],
+        "structure": [
+          36
+        ],
+        "crust": [
+          39
+        ],
+        "and": [
+          40,
+          47,
+          160,
+          231,
+          254,
+          294,
+          304,
+          312
+        ],
+        "seismic": [
+          41,
+          316
+        ],
+        "hazard.": [
+          42
+        ],
+        "We": [
+          43,
+          78,
+          123,
+          261
+        ],
+        "constrain": [
+          44
+        ],
+        "timing": [
+          46
+        ],
+        "amplitude": [
+          48
+        ],
+        "that": [
+          52,
+          138,
+          147,
+          263,
+          301
+        ],
+        "occurred": [
+          53
+        ],
+        "on": [
+          54,
+          85,
+          143,
+          151,
+          162,
+          200,
+          218
+        ],
+        "three": [
+          55
+        ],
+        "active": [
+          56
+        ],
+        "normal": [
+          57
+        ],
+        "faults": [
+          58,
+          87,
+          115,
+          219
+        ],
+        "central": [
+          60
+        ],
+        "Italy": [
+          61
+        ],
+        "over": [
+          62
+        ],
+        "time": [
+          64,
+          93
+        ],
+        "period": [
+          65,
+          243
+        ],
+        "20–30": [
+          67
+        ],
+        "kyrs,": [
+          68
+        ],
+        "using": [
+          69
+        ],
+        "situ": [
+          71
+        ],
+        "36Cl": [
+          72,
+          279
+        ],
+        "cosmogenic": [
+          73
+        ],
+        "dating": [
+          74
+        ],
+        "fault": [
+          76,
+          238,
+          288,
+          328
+        ],
+        "planes.": [
+          77
+        ],
+        "identify": [
+          79
+        ],
+        "five": [
+          80
+        ],
+        "periods": [
+          81,
+          94
+        ],
+        "rapid": [
+          83,
+          106,
+          131,
+          245
+        ],
+        "slip": [
+          84,
+          107,
+          132,
+          246
+        ],
+        "individual": [
+          86
+        ],
+        "lasting": [
+          88
+        ],
+        "few": [
+          90
+        ],
+        "millennia,": [
+          91
+        ],
+        "separated": [
+          92
+        ],
+        "up": [
+          96
+        ],
+        "millennia": [
+          99
+        ],
+        "low": [
+          101
+        ],
+        "or": [
+          102
+        ],
+        "zero": [
+          103
+        ],
+        "slip-rate.": [
+          104
+        ],
+        "The": [
+          105,
+          281
+        ],
+        "pulses": [
+          108
+        ],
+        "migrated": [
+          109
+        ],
+        "across": [
+          110
+        ],
+        "strike": [
+          112
+        ],
+        "between": [
+          113
+        ],
+        "two": [
+          117
+        ],
+        "waves": [
+          118
+        ],
+        "from": [
+          119,
+          296
+        ],
+        "SW": [
+          120
+        ],
+        "NE.": [
+          122
+        ],
+        "replicate": [
+          124,
+          271
+        ],
+        "this": [
+          125,
+          233
+        ],
+        "migration": [
+          126
+        ],
+        "model": [
+          129
+        ],
+        "where": [
+          130
+        ],
+        "induces": [
+          133
+        ],
+        "changes": [
+          134,
+          140,
+          283
+        ],
+        "differential": [
+          136,
+          158,
+          198,
+          267
+        ],
+        "stress": [
+          137,
+          159,
+          172,
+          199,
+          268,
+          282
+        ],
+        "drive": [
+          139,
+          148
+        ],
+        "strain-rate": [
+          142,
+          161,
+          183,
+          303
+        ],
+        "viscous": [
+          144,
+          202,
+          225
+        ],
+        "shear": [
+          145,
+          164
+        ],
+        "zones": [
+          146
+        ],
+        "variability": [
+          150
+        ],
+        "overlying": [
+          152,
+          175,
+          236
+        ],
+        "brittle": [
+          153,
+          176,
+          237
+        ],
+        "faults.": [
+          154
+        ],
+        "Earthquakes": [
+          155
+        ],
+        "increase": [
+          156
+        ],
+        "underlying": [
+          163
+        ],
+        "zones,": [
+          165
+        ],
+        "which": [
+          166
+        ],
+        "turn": [
+          168
+        ],
+        "accumulate": [
+          169,
+          224
+        ],
+        "strain,": [
+          170
+        ],
+        "re-loading": [
+          171
+        ],
+        "onto": [
+          173,
+          258
+        ],
+        "fault.": [
+          177
+        ],
+        "This": [
+          178
+        ],
+        "positive": [
+          179,
+          249
+        ],
+        "feedback": [
+          180,
+          250
+        ],
+        "produces": [
+          181
+        ],
+        "high": [
+          182
+        ],
+        "episodes": [
+          184
+        ],
+        "containing": [
+          185
+        ],
+        "several": [
+          186
+        ],
+        "large": [
+          187
+        ],
+        "magnitude": [
+          188
+        ],
+        "(earthquake": [
+          192,
+          215
+        ],
+        "clusters),": [
+          193
+        ],
+        "but": [
+          194
+        ],
+        "also": [
+          195
+        ],
+        "reduce": [
+          196
+        ],
+        "portions": [
+          203
+        ],
+        "neighbouring": [
+          205,
+          259
+        ],
+        "fault/shear-zones": [
+          206
+        ],
+        "slowing": [
+          207
+        ],
+        "occurrence": [
+          209
+        ],
+        "large-magnitude": [
+          211
+        ],
+        "anticlusters).": [
+          216
+        ],
+        "Shear-zones": [
+          217
+        ],
+        "experiencing": [
+          220
+        ],
+        "anticlusters": [
+          221
+        ],
+        "continue": [
+          222
+        ],
+        "strain": [
+          226
+        ],
+        "at": [
+          227
+        ],
+        "lowered": [
+          229,
+          256
+        ],
+        "rate,": [
+          230
+        ],
+        "eventually": [
+          232
+        ],
+        "loads": [
+          234
+        ],
+        "failure,": [
+          240
+        ],
+        "initiating": [
+          241
+        ],
+        "through": [
+          247
+        ],
+        "process": [
+          251
+        ],
+        "described": [
+          252
+        ],
+        "above,": [
+          253
+        ],
+        "inducing": [
+          255
+        ],
+        "fault/shear-zones.": [
+          260
+        ],
+        "show": [
+          262
+        ],
+        "these": [
+          264
+        ],
+        "patterns": [
+          265
+        ],
+        "change": [
+          269
+        ],
+        "can": [
+          270
+        ],
+        "measured": [
+          273
+        ],
+        "earthquake": [
+          274
+        ],
+        "implied": [
+          276
+        ],
+        "data.": [
+          280
+        ],
+        "related": [
+          285
+        ],
+        "geometry": [
+          289
+        ],
+        "terms": [
+          291
+        ],
+        "distance": [
+          293
+        ],
+        "azimuth": [
+          295
+        ],
+        "slipping": [
+          298
+        ],
+        "structure,": [
+          299
+        ],
+        "implying": [
+          300
+        ],
+        "(a)": [
+          302
+        ],
+        "studies": [
+          308
+        ],
+        "continental": [
+          310
+        ],
+        "rheology,": [
+          311
+        ],
+        "(b)": [
+          313
+        ],
+        "slip-rates": [
+          314
+        ],
+        "hazard": [
+          317
+        ],
+        "purposes": [
+          318
+        ],
+        "an": [
+          321
+        ],
+        "extent": [
+          322
+        ],
+        "predictable": [
+          323
+        ],
+        "given": [
+          324
+        ],
+        "knowledge": [
+          325
+        ],
+        "system": [
+          329
+        ],
+        "geometry.": [
+          330
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -7625,7 +8740,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-02-26T08:16:20.718346",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11271,9 +12386,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [
@@ -14367,9 +15482,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5099999904632568
         }
       ],
       "awards": [
@@ -17242,9 +18357,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -20447,9 +21562,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/8",
           "display_name": "Decent work and economic growth",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/8"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -21815,9 +22930,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.5099999904632568
         }
       ],
       "awards": [
@@ -24304,9 +25419,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5
         }
       ],
       "awards": [
@@ -29944,9 +31059,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6499999761581421
         }
       ],
       "awards": [
@@ -30770,9 +31885,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6299999952316284
         }
       ],
       "awards": [
@@ -31474,9 +32589,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
@@ -34339,9 +35454,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
@@ -36898,9 +38013,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.6700000166893005,
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
@@ -37578,9 +38693,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -38358,9 +39473,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.75,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.75
         }
       ],
       "awards": [],
@@ -38779,9 +39894,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -41178,9 +42293,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -42099,9 +43214,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -47664,9 +48779,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6100000143051147
         }
       ],
       "awards": [],

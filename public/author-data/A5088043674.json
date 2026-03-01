@@ -14,7 +14,7 @@
       "Madhar Sahib Azad"
     ],
     "works_count": 44,
-    "cited_by_count": 794,
+    "cited_by_count": 796,
     "summary_stats": {
       "2yr_mean_citedness": 4.714285714285714,
       "h_index": 17,
@@ -205,7 +205,7 @@
       {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.000258,
+        "value": 0.0002573,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -222,7 +222,7 @@
       {
         "id": "https://openalex.org/T11630",
         "display_name": "Petroleum Processing and Analysis",
-        "value": 0.000128,
+        "value": 0.0001278,
         "subfield": {
           "id": "https://openalex.org/subfields/1602",
           "display_name": "Analytical Chemistry"
@@ -239,7 +239,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000831,
+        "value": 0.000083,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -256,7 +256,7 @@
       {
         "id": "https://openalex.org/T11379",
         "display_name": "Rheology and Fluid Dynamics Studies",
-        "value": 0.0000763,
+        "value": 0.0000761,
         "subfield": {
           "id": "https://openalex.org/subfields/1507",
           "display_name": "Fluid Flow and Transfer Processes"
@@ -367,13 +367,13 @@
         "year": 2020,
         "works_count": 4,
         "oa_works_count": 1,
-        "cited_by_count": 100
+        "cited_by_count": 101
       },
       {
         "year": 2021,
         "works_count": 8,
         "oa_works_count": 1,
-        "cited_by_count": 135
+        "cited_by_count": 136
       },
       {
         "year": 2022,
@@ -410,7 +410,7 @@
     },
     "block_key": "m azad",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5088043674",
-    "updated_date": "2026-02-22T12:19:08",
+    "updated_date": "2026-02-28T12:20:11",
     "created_date": "2022-07-14T00:00:00"
   },
   "works": [
@@ -861,8 +861,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -2372,8 +2372,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -3227,8 +3227,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -5117,8 +5117,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.8100000023841858
+          "score": 0.8100000023841858,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -6875,8 +6875,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -8046,8 +8046,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -9485,8 +9485,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -12936,8 +12936,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -14347,8 +14347,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6100000143051147
+          "score": 0.6100000143051147,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -15349,8 +15349,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -16749,8 +16749,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -17944,8 +17944,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -19178,8 +19178,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.7099999785423279
+          "score": 0.7099999785423279,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -22326,8 +22326,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -23603,8 +23603,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -25959,8 +25959,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -27032,8 +27032,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -28247,8 +28247,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -30127,8 +30127,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/16",
-          "display_name": "Peace, Justice and strong institutions",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Peace, Justice and strong institutions"
         }
       ],
       "awards": [],
@@ -30179,7 +30179,264 @@
         "https://openalex.org/W2184822289",
         "https://openalex.org/W2003354285"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "In": [
+          0
+        ],
+        "this": [
+          1
+        ],
+        "article,": [
+          2
+        ],
+        "extensional": [
+          3,
+          44,
+          62
+        ],
+        "rheological": [
+          4,
+          57
+        ],
+        "data": [
+          5
+        ],
+        "of": [
+          6,
+          24
+        ],
+        "various": [
+          7
+        ],
+        "polymer": [
+          8,
+          26,
+          39
+        ],
+        "solutions,": [
+          9
+        ],
+        "to": [
+          10,
+          47,
+          54
+        ],
+        "be": [
+          11
+        ],
+        "used": [
+          12
+        ],
+        "in": [
+          13,
+          27
+        ],
+        "Azad": [
+          14
+        ],
+        "Trivedi": [
+          15
+        ],
+        "viscoelastic": [
+          16,
+          22
+        ],
+        "model": [
+          17
+        ],
+        "(AT-VEM)": [
+          18
+        ],
+        "for": [
+          19,
+          37
+        ],
+        "predicting": [
+          20
+        ],
+        "the": [
+          21,
+          49,
+          61,
+          69,
+          86,
+          91,
+          98
+        ],
+        "behavior": [
+          23
+        ],
+        "synthetic": [
+          25
+        ],
+        "porous": [
+          28
+        ],
+        "media": [
+          29
+        ],
+        "are": [
+          30,
+          35,
+          77
+        ],
+        "provided.": [
+          31
+        ],
+        "Extensional": [
+          32,
+          56
+        ],
+        "rheology": [
+          33
+        ],
+        "measurements": [
+          34
+        ],
+        "performed": [
+          36
+        ],
+        "different": [
+          38
+        ],
+        "solutions": [
+          40
+        ],
+        "using": [
+          41
+        ],
+        "Capillary": [
+          42
+        ],
+        "breakup": [
+          43
+        ],
+        "Rheometer": [
+          45
+        ],
+        "(CaBER)": [
+          46
+        ],
+        "obtain": [
+          48
+        ],
+        "filament": [
+          50,
+          81
+        ],
+        "diameter": [
+          51,
+          82
+        ],
+        "with": [
+          52,
+          83
+        ],
+        "respect": [
+          53
+        ],
+        "time.": [
+          55
+        ],
+        "parameters,": [
+          58
+        ],
+        "such": [
+          59
+        ],
+        "as": [
+          60
+        ],
+        "relaxation": [
+          63
+        ],
+        "time,": [
+          64
+        ],
+        "maximum": [
+          65
+        ],
+        "elongational": [
+          66
+        ],
+        "viscosity": [
+          67
+        ],
+        "at": [
+          68
+        ],
+        "critical": [
+          70
+        ],
+        "Deborah": [
+          71
+        ],
+        "number": [
+          72
+        ],
+        "and": [
+          73,
+          97
+        ],
+        "strain": [
+          74
+        ],
+        "hardening": [
+          75
+        ],
+        "index": [
+          76
+        ],
+        "determined": [
+          78
+        ],
+        "from": [
+          79
+        ],
+        "observed": [
+          80
+        ],
+        "time-based": [
+          84
+        ],
+        "on": [
+          85
+        ],
+        "Upper": [
+          87
+        ],
+        "Convected": [
+          88
+        ],
+        "Maxwell": [
+          89
+        ],
+        "model,": [
+          90,
+          96
+        ],
+        "finite": [
+          92
+        ],
+        "extensible": [
+          93
+        ],
+        "non-linear": [
+          94
+        ],
+        "elastic": [
+          95
+        ],
+        "power": [
+          99
+        ],
+        "law": [
+          100
+        ],
+        "model.": [
+          101
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
@@ -30202,7 +30459,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-28T09:26:25.869077",
+      "updated_date": "2026-03-01T08:55:55.761014",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30633,8 +30890,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -32752,8 +33009,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -35407,8 +35664,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.7099999785423279
+          "score": 0.7099999785423279,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -36757,8 +37014,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -37903,8 +38160,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -39421,8 +39678,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
@@ -39966,8 +40223,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -40969,8 +41226,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -42423,8 +42680,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -43410,8 +43667,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -46185,8 +46442,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
